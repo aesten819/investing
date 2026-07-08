@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:25:40.817137+00:00",
+  "generated_at": "2026-07-08T15:27:54.335079+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -12,9 +12,8 @@
       "id": "sk_hynix",
       "name": "SK hynix Newsroom",
       "url": "https://news.skhynix.com/feed/",
-      "status": "error",
-      "error": "HTTP Error 403: Forbidden",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 6
     },
     {
       "id": "micron",

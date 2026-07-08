@@ -260,6 +260,37 @@ def dedupe_articles(articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
     )
 
 
+def load_existing_articles(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    articles = payload.get("articles", [])
+    return articles if isinstance(articles, list) else []
+
+
+def merge_existing_articles(
+    fresh_articles: list[dict[str, Any]],
+    existing_articles: list[dict[str, Any]],
+    limit: int,
+) -> list[dict[str, Any]]:
+    existing_by_url = {
+        canonical_url(str(article.get("url", ""))): article
+        for article in existing_articles
+    }
+    merged_fresh: list[dict[str, Any]] = []
+    for article in fresh_articles:
+        merged_article = dict(article)
+        previous = existing_by_url.get(canonical_url(str(article.get("url", ""))))
+        if previous:
+            for field in ("headline_ko", "summary_ko", "tags_ko"):
+                if field in previous and field not in merged_article:
+                    merged_article[field] = previous[field]
+        merged_fresh.append(merged_article)
+
+    return dedupe_articles([*merged_fresh, *existing_articles])[:limit]
+
+
 def write_json(path: Path, payload: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=True, indent=2) + "\n", encoding="utf-8")
@@ -269,15 +300,22 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output-dir", default=str(DEFAULT_OUTPUT_DIR))
     parser.add_argument("--limit", type=int, default=80)
+    parser.add_argument(
+        "--no-merge-existing",
+        action="store_true",
+        help="Do not preserve articles from the previous articles.json.",
+    )
     args = parser.parse_args(argv)
 
     output_dir = Path(args.output_dir)
+    articles_path = output_dir / "articles.json"
     articles, source_status = fetch_articles(DEFAULT_SOURCES)
-    limited_articles = articles[: args.limit]
+    existing_articles = [] if args.no_merge_existing else load_existing_articles(articles_path)
+    limited_articles = merge_existing_articles(articles, existing_articles, args.limit)
     generated_at = datetime.now(timezone.utc).isoformat()
 
     write_json(
-        output_dir / "articles.json",
+        articles_path,
         {
             "generated_at": generated_at,
             "article_count": len(limited_articles),

@@ -3,6 +3,7 @@ import unittest
 from scripts.fetch_memory_news import (
     dedupe_articles,
     is_memory_related,
+    merge_existing_articles,
     parse_rss_feed,
     summarize_text,
 )
@@ -65,6 +66,65 @@ class MemoryNewsTests(unittest.TestCase):
 
         self.assertEqual(len(deduped), 1)
         self.assertEqual(deduped[0]["id"], "new")
+
+    def test_merge_existing_articles_preserves_old_source_when_fetch_fails(self):
+        existing = [
+            {
+                "id": "sk-old",
+                "headline": "SK hynix HBM update",
+                "summary": "HBM demand remains strong.",
+                "url": "https://example.test/sk",
+                "source_id": "sk_hynix",
+                "published_at": "2026-07-08T00:00:00+00:00",
+            }
+        ]
+        fresh = [
+            {
+                "id": "samsung-new",
+                "headline": "Samsung SSD update",
+                "summary": "SSD demand improves.",
+                "url": "https://example.test/samsung",
+                "source_id": "samsung_semiconductor",
+                "published_at": "2026-07-09T00:00:00+00:00",
+            }
+        ]
+
+        merged = merge_existing_articles(fresh, existing, 80)
+
+        self.assertEqual([article["id"] for article in merged], ["samsung-new", "sk-old"])
+
+    def test_merge_existing_articles_carries_existing_translation_for_refetched_article(self):
+        existing = [
+            {
+                "id": "same",
+                "headline": "Samsung SSD update",
+                "headline_ko": "삼성 SSD 업데이트",
+                "summary": "SSD demand improves.",
+                "summary_ko": "SSD 수요가 개선됐다.",
+                "tags": ["SSD"],
+                "tags_ko": ["SSD"],
+                "url": "https://example.test/samsung?utm_source=old",
+                "source_id": "samsung_semiconductor",
+                "published_at": "2026-07-09T00:00:00+00:00",
+            }
+        ]
+        fresh = [
+            {
+                "id": "same",
+                "headline": "Samsung SSD update",
+                "summary": "SSD demand improves.",
+                "tags": ["SSD"],
+                "url": "https://example.test/samsung",
+                "source_id": "samsung_semiconductor",
+                "published_at": "2026-07-09T00:00:00+00:00",
+            }
+        ]
+
+        merged = merge_existing_articles(fresh, existing, 80)
+
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]["headline_ko"], "삼성 SSD 업데이트")
+        self.assertEqual(merged[0]["summary_ko"], "SSD 수요가 개선됐다.")
 
 
 if __name__ == "__main__":
