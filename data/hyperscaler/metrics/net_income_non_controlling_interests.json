@@ -1,0 +1,106 @@
+[
+  {
+    "quarter": "2023Q1",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": ""
+  },
+  {
+    "quarter": "2023Q2",
+    "MSFT": 0.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.0
+  },
+  {
+    "quarter": "2023Q3",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2023Q4",
+    "MSFT": null,
+    "AMZN": 0.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": null
+  },
+  {
+    "quarter": "2024Q1",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2024Q2",
+    "MSFT": 0.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.0
+  },
+  {
+    "quarter": "2024Q3",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2024Q4",
+    "MSFT": null,
+    "AMZN": 0.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": null
+  },
+  {
+    "quarter": "2025Q1",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2025Q2",
+    "MSFT": 0.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.0
+  },
+  {
+    "quarter": "2025Q3",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2025Q4",
+    "MSFT": null,
+    "AMZN": 0.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": null
+  },
+  {
+    "quarter": "2026Q1",
+    "MSFT": null,
+    "AMZN": null,
+    "GOOGL": 0.0,
+    "META": null,
+    "ORCL": null
+  }
+]

@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-07-04T20:20:32.015828Z",
+  "ticker": "MSFT",
+  "rows": 741,
+  "status_counts": {
+    "match": 663,
+    "not_comparable": 78
+  },
+  "by_statement": {
+    "balance_sheet": {
+      "match": 260,
+      "not_comparable": 65
+    },
+    "cash_flow_statement": {
+      "match": 195,
+      "not_comparable": 13
+    },
+    "income_statement": {
+      "match": 208
+    }
+  },
+  "by_metric": {
+    "accumulated_other_comprehensive_income": {
+      "match": 13
+    },
+    "business_acquisitions_and_disposals": {
+      "match": 13
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "change_in_cash_and_equivalents": {
+      "match": 13
+    },
+    "consolidated_income": {
+      "match": 13
+    },
+    "cost_of_revenue": {
+      "match": 13
+    },
+    "current_assets": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "current_investments": {
+      "match": 13
+    },
+    "current_liabilities": {
+      "match": 13
+    },
+    "deferred_revenue": {
+      "match": 13
+    },
+    "deposit_liabilities": {
+      "match": 13
+    },
+    "depreciation_and_amortization": {
+      "not_comparable": 13
+    },
+    "dividends_and_other_cash_distributions": {
+      "match": 13
+    },
+    "earnings_per_share": {
+      "match": 13
+    },
+    "earnings_per_share_diluted": {
+      "match": 13
+    },
+    "effect_of_exchange_rate_changes": {
+      "match": 13
+    },
+    "ending_cash_balance": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "goodwill_and_intangible_assets": {
+      "match": 13
+    },
+    "gross_profit": {
+      "match": 13
+    },
+    "income_tax_expense": {
+      "match": 13
+    },
+    "inventory": {
+      "match": 13
+    },
+    "investment_acquisitions_and_disposals": {
+      "match": 13
+    },
+    "investments": {
+      "not_comparable": 13
+    },
+    "issuance_or_purchase_of_equity_shares": {
+      "match": 13
+    },
+    "issuance_or_repayment_of_debt_securities": {
+      "match": 13
+    },
+    "net_cash_flow_from_financing": {
+      "match": 13
+    },
+    "net_cash_flow_from_investing": {
+      "match": 13
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 26
+    },
+    "net_income_common_stock": {
+      "match": 13
+    },
+    "non_current_assets": {
+      "match": 13
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "non_current_investments": {
+      "not_comparable": 13
+    },
+    "non_current_liabilities": {
+      "match": 13
+    },
+    "operating_expense": {
+      "match": 13
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "outstanding_shares": {
+      "not_comparable": 13
+    },
+    "preferred_dividends_impact": {
+      "match": 13
+    },
+    "property_plant_and_equipment": {
+      "not_comparable": 13
+    },
+    "research_and_development": {
+      "match": 13
+    },
+    "retained_earnings": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "selling_general_and_administrative_expenses": {
+      "match": 13
+    },
+    "share_based_compensation": {
+      "match": 13
+    },
+    "shareholders_equity": {
+      "match": 13
+    },
+    "tax_liabilities": {
+      "not_comparable": 13
+    },
+    "total_assets": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "total_liabilities": {
+      "match": 13
+    },
+    "trade_and_non_trade_payables": {
+      "match": 13
+    },
+    "trade_and_non_trade_receivables": {
+      "match": 13
+    },
+    "weighted_average_shares": {
+      "match": 13
+    },
+    "weighted_average_shares_diluted": {
+      "match": 13
+    }
+  },
+  "core_metric_status": {
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "current_investments": {
+      "match": 13
+    },
+    "investments": {
+      "not_comparable": 13
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 26
+    }
+  },
+  "largest_mismatches": []
+}

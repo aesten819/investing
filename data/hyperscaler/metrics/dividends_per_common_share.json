@@ -1,0 +1,106 @@
+[
+  {
+    "quarter": "2023Q1",
+    "MSFT": 0.68,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": ""
+  },
+  {
+    "quarter": "2023Q2",
+    "MSFT": 0.68,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2023Q3",
+    "MSFT": 0.75,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2023Q4",
+    "MSFT": 0.75,
+    "AMZN": 0.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2024Q1",
+    "MSFT": 0.75,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": 0.5,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2024Q2",
+    "MSFT": 0.75,
+    "AMZN": null,
+    "GOOGL": 0.2,
+    "META": 0.5,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2024Q3",
+    "MSFT": 0.83,
+    "AMZN": null,
+    "GOOGL": 0.2,
+    "META": 0.5,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2024Q4",
+    "MSFT": 0.83,
+    "AMZN": 0.0,
+    "GOOGL": 0.2,
+    "META": 0.5,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2025Q1",
+    "MSFT": 0.83,
+    "AMZN": null,
+    "GOOGL": 0.2,
+    "META": 0.525,
+    "ORCL": 0.4
+  },
+  {
+    "quarter": "2025Q2",
+    "MSFT": 0.83,
+    "AMZN": null,
+    "GOOGL": 0.21,
+    "META": 0.525,
+    "ORCL": 0.5
+  },
+  {
+    "quarter": "2025Q3",
+    "MSFT": 0.91,
+    "AMZN": null,
+    "GOOGL": 0.21,
+    "META": 0.525,
+    "ORCL": 0.5
+  },
+  {
+    "quarter": "2025Q4",
+    "MSFT": 0.91,
+    "AMZN": 0.0,
+    "GOOGL": 0.21,
+    "META": 0.525,
+    "ORCL": 0.5
+  },
+  {
+    "quarter": "2026Q1",
+    "MSFT": 0.91,
+    "AMZN": null,
+    "GOOGL": 0.21,
+    "META": 0.525,
+    "ORCL": 0.5
+  }
+]

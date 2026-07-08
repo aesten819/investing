@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026-07-04T19:26:06.151588Z",
+  "ticker": "AMZN",
+  "rows": 507,
+  "status_counts": {
+    "match": 448,
+    "missing_source": 20,
+    "mismatch": 27,
+    "skipped": 12
+  },
+  "by_statement": {
+    "balance_sheet": {
+      "match": 204,
+      "missing_source": 20,
+      "mismatch": 23
+    },
+    "cash_flow_statement": {
+      "match": 117
+    },
+    "income_statement": {
+      "match": 127,
+      "mismatch": 4,
+      "skipped": 12
+    }
+  },
+  "by_metric": {
+    "accumulated_other_comprehensive_income": {
+      "match": 13
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "change_in_cash_and_equivalents": {
+      "match": 13
+    },
+    "cost_of_revenue": {
+      "match": 13
+    },
+    "current_assets": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "current_investments": {
+      "match": 13
+    },
+    "current_liabilities": {
+      "match": 13
+    },
+    "deferred_revenue": {
+      "match": 13
+    },
+    "depreciation_and_amortization": {
+      "match": 13
+    },
+    "earnings_per_share": {
+      "match": 10,
+      "skipped": 3
+    },
+    "earnings_per_share_diluted": {
+      "match": 10,
+      "skipped": 3
+    },
+    "effect_of_exchange_rate_changes": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "goodwill_and_intangible_assets": {
+      "match": 13
+    },
+    "gross_profit": {
+      "match": 13
+    },
+    "income_tax_expense": {
+      "match": 13
+    },
+    "interest_expense": {
+      "mismatch": 4,
+      "match": 9
+    },
+    "inventory": {
+      "match": 13
+    },
+    "net_cash_flow_from_financing": {
+      "match": 13
+    },
+    "net_cash_flow_from_investing": {
+      "match": 13
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 13
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "outstanding_shares": {
+      "mismatch": 13
+    },
+    "property_plant_and_equipment": {
+      "missing_source": 10,
+      "match": 3
+    },
+    "retained_earnings": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "share_based_compensation": {
+      "match": 13
+    },
+    "shareholders_equity": {
+      "match": 13
+    },
+    "total_assets": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "total_liabilities": {
+      "mismatch": 10,
+      "match": 3
+    },
+    "trade_and_non_trade_payables": {
+      "match": 13
+    },
+    "trade_and_non_trade_receivables": {
+      "missing_source": 10,
+      "match": 3
+    },
+    "weighted_average_shares": {
+      "match": 10,
+      "skipped": 3
+    },
+    "weighted_average_shares_diluted": {
+      "match": 10,
+      "skipped": 3
+    }
+  },
+  "largest_mismatches": [
+    {
+      "quarter": "2024Q3",
+      "metric": "total_liabilities",
+      "source_value": 332475000000.0,
+      "sec_value": 325475000000.0,
+      "difference": 7000000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q2",
+      "metric": "total_liabilities",
+      "source_value": 325071000000.0,
+      "sec_value": 318371000000.0,
+      "difference": 6700000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q1",
+      "metric": "total_liabilities",
+      "source_value": 320708000000.0,
+      "sec_value": 314308000000.0,
+      "difference": 6400000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q1",
+      "metric": "total_liabilities",
+      "source_value": 342289000000.0,
+      "sec_value": 337389000000.0,
+      "difference": 4900000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2026Q1",
+      "metric": "total_liabilities",
+      "source_value": 479116000000.0,
+      "sec_value": 474716000000.0,
+      "difference": 4400000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "total_liabilities",
+      "source_value": 352695000000.0,
+      "sec_value": 348395000000.0,
+      "difference": 4300000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "total_liabilities",
+      "source_value": 362390000000.0,
+      "sec_value": 358290000000.0,
+      "difference": 4100000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q1",
+      "metric": "total_liabilities",
+      "source_value": 312652000000.0,
+      "sec_value": 309852000000.0,
+      "difference": 2800000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q2",
+      "metric": "total_liabilities",
+      "source_value": 311705000000.0,
+      "sec_value": 309005000000.0,
+      "difference": 2700000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q3",
+      "metric": "total_liabilities",
+      "source_value": 306610000000.0,
+      "sec_value": 303910000000.0,
+      "difference": 2700000000.0,
+      "sec_expression": "us-gaap:Assets - us-gaap:StockholdersEquity",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q2",
+      "metric": "interest_expense",
+      "source_value": 76000000.0,
+      "sec_value": 840000000.0,
+      "difference": -764000000.0,
+      "sec_expression": "us-gaap:InterestExpenseNonoperating or us-gaap:InterestExpense",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q1",
+      "metric": "interest_expense",
+      "source_value": 80000000.0,
+      "sec_value": 823000000.0,
+      "difference": -743000000.0,
+      "sec_expression": "us-gaap:InterestExpenseNonoperating or us-gaap:InterestExpense",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q3",
+      "metric": "interest_expense",
+      "source_value": 74000000.0,
+      "sec_value": 806000000.0,
+      "difference": -732000000.0,
+      "sec_expression": "us-gaap:InterestExpenseNonoperating or us-gaap:InterestExpense",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q1",
+      "metric": "interest_expense",
+      "source_value": 73000000.0,
+      "sec_value": 644000000.0,
+      "difference": -571000000.0,
+      "sec_expression": "us-gaap:InterestExpenseNonoperating or us-gaap:InterestExpense",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q4",
+      "metric": "outstanding_shares",
+      "source_value": 10515011008.0,
+      "sec_value": 10593000000.0,
+      "difference": -77988992.0,
+      "sec_expression": "us-gaap:CommonStockSharesOutstanding",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q4",
+      "metric": "outstanding_shares",
+      "source_value": 10334030586.0,
+      "sec_value": 10383000000.0,
+      "difference": -48969414.0,
+      "sec_expression": "us-gaap:CommonStockSharesOutstanding",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q4",
+      "metric": "outstanding_shares",
+      "source_value": 10690216011.0,
+      "sec_value": 10731000000.0,
+      "difference": -40783989.0,
+      "sec_expression": "us-gaap:CommonStockSharesOutstanding",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q2",
+      "metric": "outstanding_shares",
+      "source_value": 10495566881.0,
+      "sec_value": 10490000000.0,
+      "difference": 5566881.0,
+      "sec_expression": "us-gaap:CommonStockSharesOutstanding",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "outstanding_shares",
+      "source_value": 10664912097.0,
+      "sec_value": 10660000000.0,
+      "difference": 4912097.0,
+      "sec_expression": "us-gaap:CommonStockSharesOutstanding",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q2",
+      "metric": "outstanding_shares",
+      "source_value": 10317750796.0,
+      "sec_value": 10313000000.0,
+      "difference": 4750796.0,
+      "sec_expression": "us-gaap:CommonStockSharesOutstanding",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+data/hyperscaler/ir_presentations/originals/
+data/hyperscaler/ir_documents/originals/

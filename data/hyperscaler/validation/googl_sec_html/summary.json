@@ -1,0 +1,501 @@
+{
+  "generated_at": "2026-07-04T19:42:42.253836Z",
+  "ticker": "GOOGL",
+  "source_folder_ticker": "GOOG",
+  "rows": 507,
+  "status_counts": {
+    "match": 413,
+    "mismatch": 60,
+    "missing_source": 10,
+    "skipped": 20,
+    "not_comparable": 4
+  },
+  "by_statement": {
+    "balance_sheet": {
+      "match": 160,
+      "mismatch": 52,
+      "missing_source": 5,
+      "not_comparable": 4
+    },
+    "cash_flow_statement": {
+      "match": 104
+    },
+    "income_statement": {
+      "match": 149,
+      "mismatch": 8,
+      "missing_source": 5,
+      "skipped": 20
+    }
+  },
+  "by_metric": {
+    "accumulated_other_comprehensive_income": {
+      "match": 13
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "change_in_cash_and_equivalents": {
+      "match": 13
+    },
+    "cost_of_revenue": {
+      "match": 13
+    },
+    "current_assets": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "current_investments": {
+      "mismatch": 9,
+      "match": 4
+    },
+    "current_liabilities": {
+      "match": 13
+    },
+    "earnings_per_share": {
+      "match": 10,
+      "skipped": 3
+    },
+    "earnings_per_share_diluted": {
+      "match": 10,
+      "skipped": 3
+    },
+    "effect_of_exchange_rate_changes": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "goodwill_and_intangible_assets": {
+      "mismatch": 4,
+      "match": 9
+    },
+    "gross_profit": {
+      "match": 13
+    },
+    "income_tax_expense": {
+      "match": 13
+    },
+    "interest_expense": {
+      "missing_source": 4,
+      "match": 8,
+      "mismatch": 1
+    },
+    "investments": {
+      "mismatch": 13
+    },
+    "net_cash_flow_from_financing": {
+      "match": 13
+    },
+    "net_cash_flow_from_investing": {
+      "match": 13
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 13
+    },
+    "non_current_assets": {
+      "mismatch": 13
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "non_current_investments": {
+      "mismatch": 9,
+      "not_comparable": 4
+    },
+    "operating_expense": {
+      "mismatch": 6,
+      "match": 7
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "property_plant_and_equipment": {
+      "missing_source": 5,
+      "mismatch": 4,
+      "match": 4
+    },
+    "research_and_development": {
+      "match": 13
+    },
+    "retained_earnings": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "selling_general_and_administrative_expenses": {
+      "match": 13
+    },
+    "share_based_compensation": {
+      "match": 13
+    },
+    "shareholders_equity": {
+      "match": 13
+    },
+    "total_assets": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "total_liabilities": {
+      "match": 13
+    },
+    "weighted_average_shares": {
+      "skipped": 7,
+      "match": 5,
+      "mismatch": 1
+    },
+    "weighted_average_shares_diluted": {
+      "skipped": 7,
+      "match": 5,
+      "missing_source": 1
+    }
+  },
+  "core_metric_status": {
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "current_investments": {
+      "mismatch": 9,
+      "match": 4
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 13
+    }
+  },
+  "largest_mismatches": [
+    {
+      "quarter": "2026Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 490166000000.0,
+      "sec_value": 296529000000.0,
+      "difference": 193637000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q4",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 389243000000.0,
+      "sec_value": 261818000000.0,
+      "difference": 127425000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 318792000000.0,
+      "sec_value": 198784000000.0,
+      "difference": 120008000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2026Q1",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 195723000000.0,
+      "sec_value": 88777000000.0,
+      "difference": 106946000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q4",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 286545000000.0,
+      "sec_value": 184624000000.0,
+      "difference": 101921000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q3",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 274978000000.0,
+      "sec_value": 174831000000.0,
+      "difference": 100147000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 144878000000.0,
+      "sec_value": 238311000000.0,
+      "difference": -93433000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q2",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 255151000000.0,
+      "sec_value": 164761000000.0,
+      "difference": 90390000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 245279000000.0,
+      "sec_value": 156950000000.0,
+      "difference": 88329000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q4",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 230862000000.0,
+      "sec_value": 148436000000.0,
+      "difference": 82426000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 138373000000.0,
+      "sec_value": 217486000000.0,
+      "difference": -79113000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 148865000000.0,
+      "sec_value": 75406000000.0,
+      "difference": 73459000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2025Q4",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 164822000000.0,
+      "sec_value": 96135000000.0,
+      "difference": 68687000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 135227000000.0,
+      "sec_value": 74112000000.0,
+      "difference": 61115000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2025Q1",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 130643000000.0,
+      "sec_value": 72440000000.0,
+      "difference": 58203000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2025Q1",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 53405000000.0,
+      "sec_value": 376000000.0,
+      "difference": 53029000000.0,
+      "sec_expression": "us-gaap:MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q3",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 117178000000.0,
+      "sec_value": 73524000000.0,
+      "difference": 43654000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2023Q3",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 97154000000.0,
+      "sec_value": 139904000000.0,
+      "difference": -42750000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q1",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 126644000000.0,
+      "sec_value": 84997000000.0,
+      "difference": 41647000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q2",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 115283000000.0,
+      "sec_value": 73776000000.0,
+      "difference": 41507000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2023Q2",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 95440000000.0,
+      "sec_value": 135677000000.0,
+      "difference": -40237000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 92466000000.0,
+      "sec_value": 132007000000.0,
+      "difference": -39541000000.0,
+      "sec_expression": "us-gaap:NoncurrentAssets",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q3",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 38430000000.0,
+      "sec_value": 253000000.0,
+      "difference": 38177000000.0,
+      "sec_expression": "us-gaap:MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2023Q2",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 131314000000.0,
+      "sec_value": 93295000000.0,
+      "difference": 38019000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2023Q1",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 128053000000.0,
+      "sec_value": 90098000000.0,
+      "difference": 37955000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q4",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 37982000000.0,
+      "sec_value": 266000000.0,
+      "difference": 37716000000.0,
+      "sec_expression": "us-gaap:MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q4",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 110173000000.0,
+      "sec_value": 72457000000.0,
+      "difference": 37716000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2023Q3",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 127571000000.0,
+      "sec_value": 90191000000.0,
+      "difference": 37380000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q2",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 36548000000.0,
+      "sec_value": 276000000.0,
+      "difference": 36272000000.0,
+      "sec_expression": "us-gaap:MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    },
+    {
+      "quarter": "2024Q1",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 37394000000.0,
+      "sec_value": 1400000000.0,
+      "difference": 35994000000.0,
+      "sec_expression": "us-gaap:MarketableSecuritiesNoncurrent",
+      "note": "SEC check uses marketable securities tags only; source provider may include broader investment categories."
+    }
+  ]
+}

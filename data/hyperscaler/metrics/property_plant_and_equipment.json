@@ -1,0 +1,106 @@
+[
+  {
+    "quarter": "2023Q1",
+    "MSFT": 88132000000.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": ""
+  },
+  {
+    "quarter": "2023Q2",
+    "MSFT": 109987000000.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 17069000000.0
+  },
+  {
+    "quarter": "2023Q3",
+    "MSFT": 102502000000.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 17644000000.0
+  },
+  {
+    "quarter": "2023Q4",
+    "MSFT": 112308000000.0,
+    "AMZN": 276690000000.0,
+    "GOOGL": 148436000000.0,
+    "META": 109881000000.0,
+    "ORCL": 18009000000.0
+  },
+  {
+    "quarter": "2024Q1",
+    "MSFT": 121375000000.0,
+    "AMZN": null,
+    "GOOGL": 143182000000.0,
+    "META": null,
+    "ORCL": 19117000000.0
+  },
+  {
+    "quarter": "2024Q2",
+    "MSFT": 154552000000.0,
+    "AMZN": null,
+    "GOOGL": 151155000000.0,
+    "META": null,
+    "ORCL": 21536000000.0
+  },
+  {
+    "quarter": "2024Q3",
+    "MSFT": 152863000000.0,
+    "AMZN": null,
+    "GOOGL": 161270000000.0,
+    "META": null,
+    "ORCL": 23094000000.0
+  },
+  {
+    "quarter": "2024Q4",
+    "MSFT": 166902000000.0,
+    "AMZN": 328806000000.0,
+    "GOOGL": 184624000000.0,
+    "META": 136268000000.0,
+    "ORCL": 26432000000.0
+  },
+  {
+    "quarter": "2025Q1",
+    "MSFT": 183939000000.0,
+    "AMZN": null,
+    "GOOGL": 185062000000.0,
+    "META": null,
+    "ORCL": 31970000000.0
+  },
+  {
+    "quarter": "2025Q2",
+    "MSFT": 229789000000.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 43522000000.0
+  },
+  {
+    "quarter": "2025Q3",
+    "MSFT": 230861000000.0,
+    "AMZN": null,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 53194000000.0
+  },
+  {
+    "quarter": "2025Q4",
+    "MSFT": 261126000000.0,
+    "AMZN": 443079000000.0,
+    "GOOGL": 261818000000.0,
+    "META": 196804000000.0,
+    "ORCL": 67875000000.0
+  },
+  {
+    "quarter": "2026Q1",
+    "MSFT": 283228000000.0,
+    "AMZN": null,
+    "GOOGL": 296529000000.0,
+    "META": null,
+    "ORCL": 83617000000.0
+  }
+]

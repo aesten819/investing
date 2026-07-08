@@ -1,0 +1,518 @@
+{
+  "generated_at": "2026-07-08T14:46:31.974603+00:00",
+  "article_count": 26,
+  "articles": [
+    {
+      "id": "f2e594208785",
+      "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "summary": "When Solid State Drives (SSDs) first gained widespread adoption in the 2000s, they quickly replaced Hard Disk Drives (HDDs) as the standard storage solution...",
+      "url": "https://news.samsungsemiconductor.com/global/infographic-samsung-pm1763-ssd-a-core-storage-solution-for-next-generation-ai-platforms/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-07-08T08:00:00+00:00",
+      "tags": [
+        "SSD"
+      ],
+      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] Samsung PM1763 SSD: \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158",
+      "summary_ko": "\uc0bc\uc131 PM1763 SSD\ub294 \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD"
+      ]
+    },
+    {
+      "id": "8164f34cc5d7",
+      "headline": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
+      "summary": "PCIe 6.0-based enterprise SSD delivers outstanding performance and enhanced power efficiencyfor AI and HPC servers 9th-generation V-NAND, 4nm controller and...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-07-08T08:00:00+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ucd5c\uc801\ud654 SSD PM1763 \uc591\uc0b0 \uc2dc\uc791",
+      "summary_ko": "PCIe 6.0 \uae30\ubc18 \uc5d4\ud130\ud504\ub77c\uc774\uc988 SSD\ub85c AI \ubc0f HPC \uc11c\ubc84\uc5d0 \ub6f0\uc5b4\ub09c \uc131\ub2a5\uacfc \ud5a5\uc0c1\ub41c \uc804\ub825 \ud6a8\uc728\uc744 \uc81c\uacf5\ud558\uba70, 9\uc138\ub300 V-NAND, 4nm \ucee8\ud2b8\ub864\ub7ec \ub4f1\uc744 \uc801\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "75ca723f1c22",
+      "headline": "From HBM to eSSD: How SK hynix is charting the future of full-stack memory",
+      "summary": "The focus of AI infrastructure competition is shifting.",
+      "url": "https://news.skhynix.com/hbm-to-essd/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-08T00:00:07+00:00",
+      "tags": [
+        "HBM",
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "HBM\uc5d0\uc11c eSSD\uae4c\uc9c0: SK\ud558\uc774\ub2c9\uc2a4, \ud480\uc2a4\ud0dd \uba54\ubaa8\ub9ac\uc758 \ubbf8\ub798\ub97c \uadf8\ub9ac\ub2e4",
+      "summary_ko": "AI \uc778\ud504\ub77c \uacbd\uc7c1\uc758 \ucd08\uc810\uc774 \uc774\ub3d9\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "HBM",
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "0a41f147462a",
+      "headline": "Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience",
+      "summary": "Supply continuity supports Ford with high-performance memory and storage solutions for consumers around the world BOISE, Idaho, July 06, 2026 (GLOBE NEWSWIRE) -- Micron Technology...",
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-and-ford-sign-strategic-agreement-strengthen-long-term",
+      "source": "Micron",
+      "source_id": "micron",
+      "published_at": "2026-07-06T12:30:32+00:00",
+      "tags": [
+        "SSD",
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "\ub9c8\uc774\ud06c\ub860\uacfc \ud3ec\ub4dc, \uc7a5\uae30 \uba54\ubaa8\ub9ac \uacf5\uae09 \ubc0f \uc0b0\uc5c5 \ud68c\ubcf5\ub825 \uac15\ud654\ub97c \uc704\ud55c \uc804\ub7b5\uc801 \uacc4\uc57d \uccb4\uacb0",
+      "summary_ko": "\uacf5\uae09 \uc5f0\uc18d\uc131\uc740 \uc804 \uc138\uacc4 \uc18c\ube44\uc790\ub4e4\uc744 \uc704\ud55c \uace0\uc131\ub2a5 \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc73c\ub85c \ud3ec\ub4dc\ub97c \uc9c0\uc6d0\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "Memory",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "d3ea7dbbf91e",
+      "headline": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce",
+      "summary": "TrendForce\u2019s latest memory pricing survey reveals that the DRAM market will remain extremely tight in the third quarter of 2026.",
+      "url": "https://www.trendforce.com/presscenter/news/20260703-13134.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-07-03T05:49:34+00:00",
+      "tags": [
+        "DRAM",
+        "Memory",
+        "Pricing",
+        "AI Server"
+      ],
+      "headline_ko": "TrendForce, AI \uc11c\ubc84 \uc218\uc694\uac00 3Q26 \uba54\ubaa8\ub9ac \uac00\uaca9\uc744 \uacc4\uc18d \uc9c0\uc9c0\ud558\uc9c0\ub9cc, \uc18c\ube44\uc790 \uc218\uc694 \uc57d\ud654\uc640 \ub192\uc740 \uae30\uc800\ud6a8\uacfc\ub85c \uc0c1\uc2b9\uc138\ub294 \ub454\ud654\ub420 \uac83\uc774\ub77c\uace0 \ubc1d\ud600",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uac00\uaca9 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74 DRAM \uc2dc\uc7a5\uc740 2026\ub144 3\ubd84\uae30\uc5d0\ub3c4 \ub9e4\uc6b0 \ud0c0\uc774\ud2b8\ud55c \uc0c1\ud0dc\ub97c \uc720\uc9c0\ud560 \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9",
+        "AI Server"
+      ]
+    },
+    {
+      "id": "c0181a126bac",
+      "headline": "Why advanced memory matters in the AI infrastructure era",
+      "summary": "The landscape of AI competition is expanding.",
+      "url": "https://news.skhynix.com/ai-competition-next-challenge/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-03T00:00:12+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "AI \uc778\ud504\ub77c \uc2dc\ub300\uc5d0 \uace0\uae09 \uba54\ubaa8\ub9ac\uac00 \uc911\uc694\ud55c \uc774\uc720",
+      "summary_ko": "AI \uacbd\uc7c1\uc758 \uc9c0\ud615\uc774 \ud655\uc7a5\ub418\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "82badd4fb856",
+      "headline": "SK hynix Announces Investment Plan for the Chungcheong Region",
+      "summary": "\u25aa Announces a total investment of KRW 100 trillion in Cheongju.\u25aa Plans to build M17, a NAND production fab, and P&T7, an advanced packaging facility, in Chungcheong Region, an est...",
+      "url": "https://news.skhynix.com/fact-07/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-02T02:13:31+00:00",
+      "tags": [
+        "NAND",
+        "Capacity"
+      ],
+      "headline_ko": "SK hynix \ucda9\uccad\uad8c \ud22c\uc790 \uacc4\ud68d \ubc1c\ud45c",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\ub294 \uccad\uc8fc\uc5d0 \ucd1d 100\uc870 \uc6d0\uc744 \ud22c\uc790\ud558\uace0, \ucda9\uccad\uad8c\uc5d0 NAND \uc0dd\uc0b0\uacf5\uc7a5 M17\uacfc \uace0\uae09 \ud328\ud0a4\uc9d5 \uc2dc\uc124 P&T7\uc744 \uac74\uc124\ud560 \uacc4\ud68d\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "\uc0dd\uc0b0\ub2a5\ub825"
+      ]
+    },
+    {
+      "id": "ef68589a277f",
+      "headline": "Micron and General Motors Sign Strategic Agreement to Secure Supply and Accelerate Innovation",
+      "summary": "Supply commitment supports next-generation GM vehicle platforms with reliable, high-performance memory and storage solutions BOISE, Idaho, July 01, 2026 (GLOBE NEWSWIRE) -- Micron...",
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-and-general-motors-sign-strategic-agreement-secure-supply",
+      "source": "Micron",
+      "source_id": "micron",
+      "published_at": "2026-07-01T12:30:34+00:00",
+      "tags": [
+        "SSD",
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "\ub9c8\uc774\ud06c\ub860\uacfc \uc81c\ub108\ub7f4\ubaa8\ud130\uc2a4, \uacf5\uae09 \uc548\uc815\uacfc \ud601\uc2e0 \uac00\uc18d\ud654\ub97c \uc704\ud55c \uc804\ub7b5\uc801 \uacc4\uc57d \uccb4\uacb0",
+      "summary_ko": "\ub9c8\uc774\ud06c\ub860\uc774 \uc81c\ub108\ub7f4\ubaa8\ud130\uc2a4\uc640 \ucc28\uc138\ub300 \ucc28\ub7c9 \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \uace0\uc131\ub2a5 \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158 \uacf5\uae09 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "Memory",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "18a71dcaf82c",
+      "headline": "Explainer: SK hynix\u2019s Mid-to-Long-Term Investment Strategy",
+      "summary": "[Summary] To proactively address the rapidly growing global demand for AI memory, SK hynix has established a mid-to-long-term investment strategy totaling KRW 1,100 trillion, enco...",
+      "url": "https://news.skhynix.com/fact-05/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-06-29T07:35:16+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uc124\uba85: SK hynix\uc758 \uc911\uc7a5\uae30 \ud22c\uc790 \uc804\ub7b5",
+      "summary_ko": "\uae09\uc99d\ud558\ub294 \uae00\ub85c\ubc8c AI \uba54\ubaa8\ub9ac \uc218\uc694\uc5d0 \uc120\uc81c\uc801\uc73c\ub85c \ub300\uc751\ud558\uae30 \uc704\ud574 SK hynix\ub294 \ucd1d 1,100\uc870 \uc6d0 \uaddc\ubaa8\uc758 \uc911\uc7a5\uae30 \ud22c\uc790 \uc804\ub7b5\uc744 \uc218\ub9bd\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "f11c0f00c55e",
+      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
+      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-06-23T08:00:00+00:00",
+      "tags": [
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
+      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "ce728598d9c2",
+      "headline": "[Infographic] UFS 5.0 Memory: The Optimal Solution for On-Device AI",
+      "summary": "Samsung Electronics has announced the development of its next-generation Universal Flash Storage (UFS) 5.0 mobile memory solution, setting a new benchmark...",
+      "url": "https://news.samsungsemiconductor.com/global/infographic-ufs-5-0-memory-the-optimal-solution-for-on-device-ai/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-06-23T08:00:00+00:00",
+      "tags": [
+        "NAND",
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] UFS 5.0 \uba54\ubaa8\ub9ac: \uc628\ub514\ubc14\uc774\uc2a4 AI\ub97c \uc704\ud55c \ucd5c\uc801\uc758 \uc194\ub8e8\uc158",
+      "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 \ucc28\uc138\ub300 Universal Flash Storage (UFS) 5.0 \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \ubc1c\ud45c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uae30\uc900\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "4c6115ab4e68",
+      "headline": "Five things you need to know about SK hynix and the future of AI memory",
+      "summary": "The AI boom has reshaped the priorities of the semiconductor industry.",
+      "url": "https://news.skhynix.com/five-things-you-need-to-know-about-sk-hynix-and-the-future-of-ai-memory/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-06-23T00:00:09+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc640 AI \uba54\ubaa8\ub9ac\uc758 \ubbf8\ub798\uc5d0 \ub300\ud574 \uc54c\uc544\uc57c \ud560 5\uac00\uc9c0",
+      "summary_ko": "AI \ubd90\uc774 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \uc6b0\uc120\uc21c\uc704\ub97c \uc7ac\ud3b8\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Memory"
+      ]
+    },
+    {
+      "id": "b67b67720fe6",
+      "headline": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure",
+      "summary": "Collaboration spans memory and storage AI architecture design, supply agreement, enterprise AI adoption and a strategic investment BOISE, Idaho, June 22, 2026 (GLOBE NEWSWIRE) --...",
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next",
+      "source": "Micron",
+      "source_id": "micron",
+      "published_at": "2026-06-22T13:00:15+00:00",
+      "tags": [
+        "SSD",
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "Micron\uacfc Anthropic, \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ud655\uc7a5\uc744 \uc704\ud55c \uc804\ub7b5\uc801 \uacc4\uc57d \ubc1c\ud45c",
+      "summary_ko": "Micron\uacfc Anthropic\uc774 \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ud655\uc7a5\uc744 \uc704\ud574 \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 AI \uc544\ud0a4\ud14d\ucc98 \uc124\uacc4, \uacf5\uae09 \uacc4\uc57d, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ub3c4\uc785 \ubc0f \uc804\ub7b5\uc801 \ud22c\uc790\uc5d0 \ud611\ub825\ud55c\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "Memory",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "be521c0dd50c",
+      "headline": "Consumer DRAM Shortages Extend to DDR2 Products with Contract Prices Expected to Continue Rising in 3Q26",
+      "summary": "TrendForce\u2019s latest research reveals that structural tightening in mature-node DRAM supply is forcing consumer DRAM buyers to adopt legacy memory products to secure larger supply...",
+      "url": "https://www.trendforce.com/presscenter/news/20260622-13112.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-06-22T04:52:36+00:00",
+      "tags": [
+        "DRAM",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "\uc18c\ube44\uc790 DRAM \ubd80\uc871\uc774 DDR2 \uc81c\ud488\uae4c\uc9c0 \ud655\ub300, 3\ubd84\uae30 26\ub144\uc5d0\ub3c4 \uacc4\uc57d \uac00\uaca9 \uc0c1\uc2b9 \uc9c0\uc18d \uc804\ub9dd",
+      "summary_ko": "TrendForce\uc758 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uc131\uc219 \uacf5\uc815 DRAM \uacf5\uae09\uc758 \uad6c\uc870\uc801 \uae34\ucd95\uc73c\ub85c \uc18c\ube44\uc790 DRAM \ubd80\uc871\uc774 DDR2 \uc81c\ud488\uae4c\uc9c0 \ud655\ub300\ub418\uba70, 3\ubd84\uae30 26\ub144\uc5d0\ub3c4 \uacc4\uc57d \uac00\uaca9 \uc0c1\uc2b9\uc774 \uc9c0\uc18d\ub420 \uc804\ub9dd\uc774\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9",
+        "\uc0dd\uc0b0\ub2a5\ub825"
+      ]
+    },
+    {
+      "id": "2d4d560262bf",
+      "headline": "SK hynix Showcases Tech Leadership as \u2018Full Stack AI Memory Creator\u2019 at HPED 2026, Reaffirming Strong Partnership with HPE",
+      "summary": "As competition and collaboration around AI infrastructure continue to intensify, HPED 2026 brought together industry leaders to explore the future of AI-driven IT infrastructure.",
+      "url": "https://news.skhynix.com/hpe-discover-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-06-19T00:02:41+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, HPED 2026\uc5d0\uc11c \u2018Full Stack AI Memory Creator\u2019\ub85c \uae30\uc220 \ub9ac\ub354\uc2ed \uacfc\uc2dc, HPE\uc640\uc758 \uac15\ub825\ud55c \ud30c\ud2b8\ub108\uc2ed \uc7ac\ud655\uc778",
+      "summary_ko": "AI \uc778\ud504\ub77c \uacbd\uc7c1 \ubc0f \ud611\ub825\uc774 \uc2ec\ud654\ub418\ub294 \uac00\uc6b4\ub370, HPED 2026\uc740 \uc5c5\uacc4 \ub9ac\ub354\ub4e4\uc774 \ubaa8\uc5ec AI \uae30\ubc18 IT \uc778\ud504\ub77c\uc758 \ubbf8\ub798\ub97c \ud0d0\uad6c\ud558\ub294 \uc790\ub9ac\ub97c \ub9c8\ub828\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "5545e7d3f75a",
+      "headline": "Contract Prices Surged More Than 100% in 1H26; Structural Shortages to Keep NOR Flash and SLC NAND Prices Rising in 2H26, Says TrendForce",
+      "summary": "Major memory suppliers continue to prioritize capacity allocation toward higher-value products such as HBM and advanced-layer 3D NAND, according to TrendForce\u2019s latest research on...",
+      "url": "https://www.trendforce.com/presscenter/news/20260616-13102.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-06-16T06:30:52+00:00",
+      "tags": [
+        "HBM",
+        "NAND",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "\uacc4\uc57d \uac00\uaca9, 1H26\uc5d0 100% \uc774\uc0c1 \uae09\ub4f1; \uad6c\uc870\uc801 \ubd80\uc871\uc73c\ub85c NOR Flash \ubc0f SLC NAND \uac00\uaca9 2H26\uc5d0\ub3c4 \uc0c1\uc2b9 \uc9c0\uc18d, TrendForce \ubc1c\ud45c",
+      "summary_ko": "\uc8fc\uc694 \uba54\ubaa8\ub9ac \uacf5\uae09\uc5c5\uccb4\ub4e4\uc740 HBM\uacfc \uace0\uce35 3D NAND \uac19\uc740 \uace0\ubd80\uac00\uac00\uce58 \uc81c\ud488\uc5d0 \uc6a9\ub7c9 \ubc30\ubd84\uc744 \uacc4\uc18d \uc6b0\uc120\uc2dc\ud558\uace0 \uc788\ub2e4\uace0 TrendForce\uc758 \ucd5c\uc2e0 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74...",
+      "tags_ko": [
+        "NOR Flash",
+        "SLC NAND",
+        "Contract Price",
+        "Structural Shortage",
+        "TrendForce"
+      ]
+    },
+    {
+      "id": "28565b9cb034",
+      "headline": "Micron Powers AI Everywhere at COMPUTEX 2026",
+      "summary": "End-to-end AI memory and storage portfolio spans data center to intelligent edge, with key products now in high-volume production TAIPEI, Taiwan, June 01, 2026 (GLOBE NEWSWIRE) --...",
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-powers-ai-everywhere-computex-2026",
+      "source": "Micron",
+      "source_id": "micron",
+      "published_at": "2026-06-01T22:00:08+00:00",
+      "tags": [
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "\ub9c8\uc774\ud06c\ub860, COMPUTEX 2026\uc5d0\uc11c AI Everywhere \uad6c\ud604",
+      "summary_ko": "\uc5d4\ub4dc\ud22c\uc5d4\ub4dc AI \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uac00 \ub370\uc774\ud130\uc13c\ud130\ubd80\ud130 \uc778\ud154\ub9ac\uc804\ud2b8 \uc5e3\uc9c0\uae4c\uc9c0 \uc544\uc6b0\ub974\uba70, \uc8fc\uc694 \uc81c\ud488\ub4e4\uc774 \ud604\uc7ac \uc591\uc0b0 \uc911\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "Memory"
+      ]
+    },
+    {
+      "id": "0ee1eba859c0",
+      "headline": "Quinas advances ULTRARAM development with atomic-scale processing at KAUST Core Labs",
+      "summary": "Quinas Technology Ltd of London, UK (which was spun off from Lancaster University in early 2023, and is developing ULTRARAM non-volatile memory technology) has announced a milesto...",
+      "url": "https://www.semiconductor-today.com/news_items/2026/apr/quinas-kaust-oipt-210426.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2026-04-21T19:55:30+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "Quinas, KAUST Core Labs\uc758 \uc6d0\uc790 \uaddc\ubaa8 \uacf5\uc815\uc73c\ub85c ULTRARAM \uac1c\ubc1c \uc9c4\uc804",
+      "summary_ko": "\uc601\uad6d \ub7f0\ub358\uc758 Quinas Technology Ltd\uac00 KAUST Core Labs\uc5d0\uc11c \uc6d0\uc790 \uaddc\ubaa8 \uacf5\uc815\uc744 \ud1b5\ud574 ULTRARAM \ube44\ud718\ubc1c\uc131 \uba54\ubaa8\ub9ac \uae30\uc220 \uac1c\ubc1c\uc5d0 \uc9c4\uc804\uc744 \uc774\ub8e8\uc5c8\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "9333e74feaf3",
+      "headline": "QuInAs links device physics to AI system performance using ULTRARAM",
+      "summary": "ULTRARAM compound semiconductor memory technology developer QuInAs Technology Ltd of London, UK (which was spun off from Lancaster University in early 2023) has reported work that...",
+      "url": "https://www.semiconductor-today.com/news_items/2026/apr/quinas-100426.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2026-04-10T08:31:02+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "QuInAs, ULTRARAM\uc744 \uc0ac\uc6a9\ud574 \uc18c\uc790 \ubb3c\ub9ac\uc640 AI \uc2dc\uc2a4\ud15c \uc131\ub2a5 \uc5f0\uacb0",
+      "summary_ko": "\uc601\uad6d \ub7f0\ub358\uc5d0 \ubcf8\uc0ac\ub97c \ub454 \ud034\ub098\uc2a4 \ud14c\ud06c\ub180\ub85c\uc9c0(QuInAs Technology Ltd)\uac00 ULTRARAM \ud654\ud569\ubb3c \ubc18\ub3c4\uccb4 \uba54\ubaa8\ub9ac \uae30\uc220\uc744 \ud1b5\ud574 \ub514\ubc14\uc774\uc2a4 \ubb3c\ub9ac\uc640 AI \uc2dc\uc2a4\ud15c \uc131\ub2a5 \uac04\uc758 \uc5f0\uacc4\ub97c \ubcf4\uace0\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Memory"
+      ]
+    },
+    {
+      "id": "8550d3991cdd",
+      "headline": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions",
+      "summary": "The companies will collaborate on industry-leading HBM4 supply for AMD Instinct\u2122 MI455X GPUs and next-generation DDR5 solutions for AMD EPYC\u2122 processors and...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-03-18T17:00:00+00:00",
+      "tags": [
+        "DRAM",
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "\uc0bc\uc131\uacfc AMD, \ucc28\uc138\ub300 AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158\uc5d0 \ub300\ud55c \uc804\ub7b5\uc801 \ud611\ub825 \ud655\ub300",
+      "summary_ko": "\ub450 \ud68c\uc0ac\ub294 AMD Instinct\u2122 MI455X GPU\uc6a9 \uc5c5\uacc4 \uc120\ub3c4\uc801\uc778 HBM4 \uacf5\uae09\uacfc AMD EPYC\u2122 \ud504\ub85c\uc138\uc11c\uc6a9 \ucc28\uc138\ub300 DDR5 \uc194\ub8e8\uc158\uc5d0 \ub300\ud574 \ud611\ub825\ud560 \uac83\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac",
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "e1af388dbb53",
+      "headline": "[Video] The HBM4 Infographic: Key Specs and Performance Leap",
+      "summary": "Samsung Electronics has commenced mass production of HBM4 (6th-generation High Bandwidth Memory) and initiated commercial shipments to customers, marking...",
+      "url": "https://news.samsungsemiconductor.com/global/video-the-hbm4-infographic-key-specs-and-performance-leap/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-03-13T09:00:00+00:00",
+      "tags": [
+        "HBM",
+        "Memory"
+      ],
+      "headline_ko": "[\ube44\ub514\uc624] HBM4 \uc778\ud3ec\uadf8\ub798\ud53d: \uc8fc\uc694 \uc0ac\uc591 \ubc0f \uc131\ub2a5 \ub3c4\uc57d",
+      "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 HBM4(6\uc138\ub300 \uace0\ub300\uc5ed\ud3ed \uba54\ubaa8\ub9ac) \uc591\uc0b0\uc5d0 \ub3cc\uc785\ud558\uace0 \uace0\uac1d\uc0ac\uc5d0 \uc0c1\uc5c5 \ucd9c\ud558\ub97c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "HBM",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "7ffcf0d01c91",
+      "headline": "Smartphone shipments to fall 7% in 2026 amid memory constraints and geopolitical pressures",
+      "summary": "Based on assumptions on first-quarter memory prices (which indicate that pricing pressure and constrained supply will begin to ease in second-half 2026), Omdia\u2019s latest outlook fo...",
+      "url": "https://www.semiconductor-today.com/news_items/2026/mar/omdia-050326.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2026-03-05T13:54:44+00:00",
+      "tags": [
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "2026\ub144 \uc2a4\ub9c8\ud2b8\ud3f0 \ucd9c\ud558\ub7c9, \uba54\ubaa8\ub9ac \uc81c\uc57d\uacfc \uc9c0\uc815\ud559\uc801 \uc555\ub825\uc73c\ub85c 7% \uac10\uc18c \uc804\ub9dd",
+      "summary_ko": "Omdia\uc758 \ucd5c\uc2e0 \uc804\ub9dd\uc740 1\ubd84\uae30 \uba54\ubaa8\ub9ac \uac00\uaca9\uc774 2026\ub144 \ud558\ubc18\uae30\uc5d0\ub294 \uac00\uaca9 \uc555\ub825\uacfc \uacf5\uae09 \uc81c\uc57d\uc774 \uc644\ud654\ub420 \uac83\uc784\uc744 \uc2dc\uc0ac\ud55c\ub2e4\ub294 \uac00\uc815\uc5d0 \uae30\ubc18\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "dca4bdf3e204",
+      "headline": "Samsung Ships Industry-First Commercial HBM4 With Ultimate Performance for AI Computing",
+      "summary": "Mass production commences for HBM4 with consistent transfer speed of 11.7Gbps, capable of up to 13Gbps Leading-edge DRAM with 4nm logic base die maximizes...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-ships-industry-first-commercial-hbm4-with-ultimate-performance-for-ai-computing/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-02-12T15:14:56+00:00",
+      "tags": [
+        "DRAM"
+      ],
+      "headline_ko": "\uc0bc\uc131, AI \ucef4\ud4e8\ud305 \uc704\ud55c \uc5c5\uacc4 \ucd5c\ucd08 \uc0c1\uc6a9 HBM4 \ucd9c\ud558",
+      "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 11.7Gbps \uc77c\uad00 \uc804\uc1a1 \uc18d\ub3c4, \ucd5c\ub300 13Gbps \uc9c0\uc6d0\ud558\ub294 \uc5c5\uacc4 \ucd5c\ucd08\uc758 HBM4 \uc591\uc0b0\uc744 \uc2dc\uc791\ud588\ub2e4.",
+      "tags_ko": [
+        "DRAM"
+      ]
+    },
+    {
+      "id": "c6eaefd5207e",
+      "headline": "GigaDevice and Navitas unveil Digital Power Joint Lab to accelerate high-efficiency power management deployment",
+      "summary": "GigaDevice Semiconductor Inc \u2014 a fabless supplier of Flash memory, 32-bit microcontrollers (MCUs), sensors and analog products that relocated its headquarters this year from Beiji...",
+      "url": "https://www.semiconductor-today.com/news_items/2025/oct/navitas-gigadevice-271025.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2025-10-27T12:02:28+00:00",
+      "tags": [
+        "NAND",
+        "Memory"
+      ],
+      "headline_ko": "GigaDevice\uc640 Navitas, \uace0\ud6a8\uc728 \uc804\ub825 \uad00\ub9ac \ubc30\ud3ec \uac00\uc18d\ud654\ub97c \uc704\ud55c Digital Power Joint Lab \uacf5\uac1c",
+      "summary_ko": "GigaDevice\uc640 Navitas\uac00 \uace0\ud6a8\uc728 \uc804\ub825 \uad00\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 Digital Power Joint Lab\uc744 \uc124\ub9bd\ud588\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "Memory"
+      ]
+    },
+    {
+      "id": "cf7514408f84",
+      "headline": "ST launches SiPho and next-gen BiCMOS technologies for higher-performing cloud optical interconnect in data centers and AI clusters",
+      "summary": "With the exponential growth of AI computing needs, challenges arise in performance and energy efficiency across computing, memory, power supply and the interconnections linking th...",
+      "url": "https://www.semiconductor-today.com/news_items/2025/feb/st-200225.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2025-02-20T15:37:40+00:00",
+      "tags": [
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "ST, \ub370\uc774\ud130\uc13c\ud130 \ubc0f AI \ud074\ub7ec\uc2a4\ud130\uc6a9 \uace0\uc131\ub2a5 \ud074\ub77c\uc6b0\ub4dc \uad11\ud559 \uc778\ud130\ucee4\ub125\ud2b8\ub97c \uc704\ud55c SiPho \ubc0f \ucc28\uc138\ub300 BiCMOS \uae30\uc220 \ucd9c\uc2dc",
+      "summary_ko": "AI \ucef4\ud4e8\ud305 \uc218\uc694\uc758 \uae30\ud558\uae09\uc218\uc801 \uc99d\uac00\ub85c \uc778\ud574 \ucef4\ud4e8\ud305, \uba54\ubaa8\ub9ac, \uc804\uc6d0 \uacf5\uae09 \ubc0f \uc774\ub4e4\uc744 \uc5f0\uacb0\ud558\ub294 \uc778\ud130\ucee4\ub125\ud2b8\uc5d0\uc11c \uc131\ub2a5 \ubc0f \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc131 \ubb38\uc81c\uac00 \ub300\ub450\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "576a74ef806c",
+      "headline": "Plasma-Therm\u2019s Grenoble site made EMEA HQ focused on power, wireless, memory, sensor and MEMS device development",
+      "summary": "Plasma-Therm LLC of St Petersburg, FL, USA (which makes plasma-process equipment for the semiconductor and compound semiconductor markets) says that its site in Grenoble, France w...",
+      "url": "https://www.semiconductor-today.com/news_items/2022/nov/plasmatherm-161122.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2022-11-16T13:00:02+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "Plasma-Therm\uc758 Grenoble \uc0ac\uc774\ud2b8\uac00 EMEA \ubcf8\ubd80\ub85c \uc9c0\uc815\ub418\uc5b4 \uc804\ub825, \ubb34\uc120, \uba54\ubaa8\ub9ac, \uc13c\uc11c \ubc0f MEMS \uc18c\uc790 \uac1c\ubc1c\uc5d0 \ucd08\uc810",
+      "summary_ko": "Plasma-Therm LLC\ub294 \ud504\ub791\uc2a4 \uadf8\ub974\ub178\ube14 \uc0ac\uc774\ud2b8\ub97c EMEA \ubcf8\ubd80\ub85c \uc9c0\uc815\ud558\uace0 \uc804\ub825, \ubb34\uc120, \uba54\ubaa8\ub9ac, \uc13c\uc11c \ubc0f MEMS \uc18c\uc790 \uac1c\ubc1c\uc5d0 \uc9d1\uc911\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    }
+  ],
+  "translation": {
+    "provider": "deepseek",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-07-08T15:17:17.778230+00:00",
+    "cached": 1,
+    "translated": 25,
+    "skipped": 0
+  }
+}

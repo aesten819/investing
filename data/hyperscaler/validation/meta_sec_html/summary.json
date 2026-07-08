@@ -1,0 +1,529 @@
+{
+  "generated_at": "2026-07-04T20:04:16.243679Z",
+  "ticker": "META",
+  "rows": 611,
+  "status_counts": {
+    "match": 464,
+    "mismatch": 86,
+    "missing_source": 23,
+    "skipped": 25,
+    "not_comparable": 13
+  },
+  "by_statement": {
+    "balance_sheet": {
+      "match": 171,
+      "mismatch": 53,
+      "missing_source": 10,
+      "skipped": 13
+    },
+    "cash_flow_statement": {
+      "match": 149,
+      "missing_source": 13,
+      "mismatch": 20
+    },
+    "income_statement": {
+      "match": 144,
+      "mismatch": 13,
+      "not_comparable": 13,
+      "skipped": 12
+    }
+  },
+  "by_metric": {
+    "accumulated_other_comprehensive_income": {
+      "match": 13
+    },
+    "business_acquisitions_and_disposals": {
+      "missing_source": 10,
+      "match": 2,
+      "mismatch": 1
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "change_in_cash_and_equivalents": {
+      "match": 13
+    },
+    "cost_of_revenue": {
+      "match": 13
+    },
+    "current_assets": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "current_investments": {
+      "mismatch": 7,
+      "match": 6
+    },
+    "current_liabilities": {
+      "match": 13
+    },
+    "depreciation_and_amortization": {
+      "match": 13
+    },
+    "dividends_and_other_cash_distributions": {
+      "missing_source": 3,
+      "match": 3,
+      "mismatch": 7
+    },
+    "earnings_per_share": {
+      "match": 10,
+      "skipped": 3
+    },
+    "earnings_per_share_diluted": {
+      "match": 10,
+      "skipped": 3
+    },
+    "effect_of_exchange_rate_changes": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "goodwill_and_intangible_assets": {
+      "mismatch": 10,
+      "match": 3
+    },
+    "gross_profit": {
+      "match": 13
+    },
+    "income_tax_expense": {
+      "match": 13
+    },
+    "interest_expense": {
+      "not_comparable": 13
+    },
+    "investment_acquisitions_and_disposals": {
+      "mismatch": 12,
+      "match": 1
+    },
+    "investments": {
+      "mismatch": 10,
+      "match": 3
+    },
+    "issuance_or_purchase_of_equity_shares": {
+      "match": 13
+    },
+    "net_cash_flow_from_financing": {
+      "match": 13
+    },
+    "net_cash_flow_from_investing": {
+      "match": 13
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 26
+    },
+    "non_current_assets": {
+      "mismatch": 10,
+      "match": 3
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "non_current_investments": {
+      "mismatch": 10,
+      "match": 3
+    },
+    "non_current_liabilities": {
+      "mismatch": 3,
+      "match": 10
+    },
+    "operating_expense": {
+      "mismatch": 13
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "outstanding_shares": {
+      "skipped": 13
+    },
+    "property_plant_and_equipment": {
+      "missing_source": 10,
+      "mismatch": 3
+    },
+    "research_and_development": {
+      "match": 13
+    },
+    "retained_earnings": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "selling_general_and_administrative_expenses": {
+      "match": 13
+    },
+    "share_based_compensation": {
+      "match": 13
+    },
+    "shareholders_equity": {
+      "match": 13
+    },
+    "total_assets": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "total_liabilities": {
+      "match": 13
+    },
+    "weighted_average_shares": {
+      "match": 10,
+      "skipped": 3
+    },
+    "weighted_average_shares_diluted": {
+      "match": 10,
+      "skipped": 3
+    }
+  },
+  "core_metric_status": {
+    "cash_and_equivalents": {
+      "match": 13
+    },
+    "current_investments": {
+      "mismatch": 7,
+      "match": 6
+    },
+    "investments": {
+      "mismatch": 10,
+      "match": 3
+    },
+    "net_cash_flow_from_operations": {
+      "match": 13
+    },
+    "capital_expenditure": {
+      "match": 13
+    },
+    "free_cash_flow": {
+      "match": 13
+    },
+    "current_debt": {
+      "match": 13
+    },
+    "non_current_debt": {
+      "match": 13
+    },
+    "total_debt": {
+      "match": 13
+    },
+    "revenue": {
+      "match": 13
+    },
+    "operating_income": {
+      "match": 13
+    },
+    "net_income": {
+      "match": 26
+    }
+  },
+  "largest_mismatches": [
+    {
+      "quarter": "2026Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 77870000000.0,
+      "sec_value": 285485000000.0,
+      "difference": -207615000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 55230000000.0,
+      "sec_value": 230726000000.0,
+      "difference": -175496000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 55788000000.0,
+      "sec_value": 221131000000.0,
+      "difference": -165343000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 51550000000.0,
+      "sec_value": 189986000000.0,
+      "difference": -138436000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q3",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 49319000000.0,
+      "sec_value": 165341000000.0,
+      "difference": -116022000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q2",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 45681000000.0,
+      "sec_value": 153807000000.0,
+      "difference": -108126000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 43274000000.0,
+      "sec_value": 147514000000.0,
+      "difference": -104240000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q3",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 40041000000.0,
+      "sec_value": 137896000000.0,
+      "difference": -97855000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q2",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 43030000000.0,
+      "sec_value": 137128000000.0,
+      "difference": -94098000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q1",
+      "metric": "non_current_assets",
+      "status": "mismatch",
+      "source_value": 41703000000.0,
+      "sec_value": 132008000000.0,
+      "difference": -90305000000.0,
+      "sec_expression": "Assets - AssetsCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2026Q1",
+      "metric": "investment_acquisitions_and_disposals",
+      "status": "mismatch",
+      "source_value": 13802000000.0,
+      "sec_value": -13802000000.0,
+      "difference": 27604000000.0,
+      "sec_expression": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities - PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q4",
+      "metric": "property_plant_and_equipment",
+      "status": "mismatch",
+      "source_value": 196804000000.0,
+      "sec_value": 176400000000.0,
+      "difference": 20404000000.0,
+      "sec_expression": "PP&E and finance lease ROU asset",
+      "note": "SEC check uses PP&E and finance lease ROU asset after accumulated depreciation/amortization."
+    },
+    {
+      "quarter": "2026Q1",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 8235000000.0,
+      "sec_value": 28410000000.0,
+      "difference": -20175000000.0,
+      "sec_expression": "nonmarketable/equity-method investments",
+      "note": "SEC check uses marketable securities plus nonmarketable/equity-method investment tags; source provider definitions may be broader."
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 5057000000.0,
+      "sec_value": 25074000000.0,
+      "difference": -20017000000.0,
+      "sec_expression": "nonmarketable/equity-method investments",
+      "note": "SEC check uses marketable securities plus nonmarketable/equity-method investment tags; source provider definitions may be broader."
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "non_current_investments",
+      "status": "mismatch",
+      "source_value": 2022000000.0,
+      "sec_value": 21988000000.0,
+      "difference": -19966000000.0,
+      "sec_expression": "nonmarketable/equity-method investments",
+      "note": "SEC check uses marketable securities plus nonmarketable/equity-method investment tags; source provider definitions may be broader."
+    },
+    {
+      "quarter": "2026Q1",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 70312000000.0,
+      "sec_value": 86164000000.0,
+      "difference": -15852000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + nonmarketable/equity-method investments",
+      "note": "SEC check uses marketable securities plus nonmarketable/equity-method investment tags; source provider definitions may be broader."
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 41949000000.0,
+      "sec_value": 57054000000.0,
+      "difference": -15105000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + nonmarketable/equity-method investments",
+      "note": "SEC check uses marketable securities plus nonmarketable/equity-method investment tags; source provider definitions may be broader."
+    },
+    {
+      "quarter": "2024Q4",
+      "metric": "property_plant_and_equipment",
+      "status": "mismatch",
+      "source_value": 136268000000.0,
+      "sec_value": 121346000000.0,
+      "difference": 14922000000.0,
+      "sec_expression": "PP&E and finance lease ROU asset",
+      "note": "SEC check uses PP&E and finance lease ROU asset after accumulated depreciation/amortization."
+    },
+    {
+      "quarter": "2025Q1",
+      "metric": "investment_acquisitions_and_disposals",
+      "status": "mismatch",
+      "source_value": 6979000000.0,
+      "sec_value": -6979000000.0,
+      "difference": 13958000000.0,
+      "sec_expression": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities - PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "investments",
+      "status": "mismatch",
+      "source_value": 45446000000.0,
+      "sec_value": 59335000000.0,
+      "difference": -13889000000.0,
+      "sec_expression": "MarketableSecuritiesCurrent + nonmarketable/equity-method investments",
+      "note": "SEC check uses marketable securities plus nonmarketable/equity-method investment tags; source provider definitions may be broader."
+    },
+    {
+      "quarter": "2023Q4",
+      "metric": "property_plant_and_equipment",
+      "status": "mismatch",
+      "source_value": 109881000000.0,
+      "sec_value": 96587000000.0,
+      "difference": 13294000000.0,
+      "sec_expression": "PP&E and finance lease ROU asset",
+      "note": "SEC check uses PP&E and finance lease ROU asset after accumulated depreciation/amortization."
+    },
+    {
+      "quarter": "2025Q2",
+      "metric": "investment_acquisitions_and_disposals",
+      "status": "mismatch",
+      "source_value": -6527000000.0,
+      "sec_value": 6527000000.0,
+      "difference": -13054000000.0,
+      "sec_expression": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities - PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q4",
+      "metric": "investment_acquisitions_and_disposals",
+      "status": "mismatch",
+      "source_value": -11537000000.0,
+      "sec_value": 0.0,
+      "difference": -11537000000.0,
+      "sec_expression": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities - PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q4",
+      "metric": "operating_expense",
+      "status": "mismatch",
+      "source_value": 24242000000.0,
+      "sec_value": 35148000000.0,
+      "difference": -10906000000.0,
+      "sec_expression": "CostOfRevenue + R&D + Selling/Marketing + G&A",
+      "note": ""
+    },
+    {
+      "quarter": "2024Q4",
+      "metric": "operating_expense",
+      "status": "mismatch",
+      "source_value": 16182000000.0,
+      "sec_value": 25021000000.0,
+      "difference": -8839000000.0,
+      "sec_expression": "CostOfRevenue + R&D + Selling/Marketing + G&A",
+      "note": ""
+    },
+    {
+      "quarter": "2026Q1",
+      "metric": "operating_expense",
+      "status": "mismatch",
+      "source_value": 42036000000.0,
+      "sec_value": 33439000000.0,
+      "difference": 8597000000.0,
+      "sec_expression": "CostOfRevenue + R&D + Selling/Marketing + G&A",
+      "note": ""
+    },
+    {
+      "quarter": "2025Q3",
+      "metric": "operating_expense",
+      "status": "mismatch",
+      "source_value": 39176000000.0,
+      "sec_value": 30707000000.0,
+      "difference": 8469000000.0,
+      "sec_expression": "CostOfRevenue + R&D + Selling/Marketing + G&A",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q4",
+      "metric": "operating_expense",
+      "status": "mismatch",
+      "source_value": 16032000000.0,
+      "sec_value": 23727000000.0,
+      "difference": -7695000000.0,
+      "sec_expression": "CostOfRevenue + R&D + Selling/Marketing + G&A",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q1",
+      "metric": "non_current_liabilities",
+      "status": "mismatch",
+      "source_value": 41834000000.0,
+      "sec_value": 34315000000.0,
+      "difference": 7519000000.0,
+      "sec_expression": "Liabilities - LiabilitiesCurrent",
+      "note": ""
+    },
+    {
+      "quarter": "2023Q3",
+      "metric": "non_current_liabilities",
+      "status": "mismatch",
+      "source_value": 50276000000.0,
+      "sec_value": 42870000000.0,
+      "difference": 7406000000.0,
+      "sec_expression": "Liabilities - LiabilitiesCurrent",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-08T14:46:31.974603+00:00",
+  "sources": [
+    {
+      "id": "samsung_semiconductor",
+      "name": "Samsung Semiconductor",
+      "url": "https://news.samsungsemiconductor.com/global/feed/",
+      "status": "ok",
+      "article_count": 7
+    },
+    {
+      "id": "sk_hynix",
+      "name": "SK hynix Newsroom",
+      "url": "https://news.skhynix.com/feed/",
+      "status": "ok",
+      "article_count": 6
+    },
+    {
+      "id": "micron",
+      "name": "Micron",
+      "url": "https://investors.micron.com/rss/news-releases.xml",
+      "status": "ok",
+      "article_count": 4
+    },
+    {
+      "id": "trendforce",
+      "name": "TrendForce",
+      "url": "https://www.trendforce.com/feed/Semiconductors.html",
+      "status": "ok",
+      "article_count": 3
+    },
+    {
+      "id": "semiconductor_today",
+      "name": "Semiconductor Today",
+      "url": "https://www.semiconductor-today.com/rss/news.xml",
+      "status": "ok",
+      "article_count": 6
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "generated_at": "2026-07-05T12:43:13.680121Z",
+  "ticker": "ORCL",
+  "rows": 720,
+  "status_counts": {
+    "match": 574,
+    "not_comparable": 132,
+    "missing_xlsx": 14
+  },
+  "by_statement": {
+    "balance_sheet": {
+      "match": 228,
+      "not_comparable": 84
+    },
+    "cash_flow_statement": {
+      "match": 178,
+      "missing_xlsx": 14
+    },
+    "income_statement": {
+      "match": 168,
+      "not_comparable": 48
+    }
+  },
+  "by_metric": {
+    "accumulated_other_comprehensive_income": {
+      "not_comparable": 12
+    },
+    "business_acquisitions_and_disposals": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "capital_expenditure": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "cash_and_equivalents": {
+      "match": 12
+    },
+    "change_in_cash_and_equivalents": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "consolidated_income": {
+      "match": 12
+    },
+    "cost_of_revenue": {
+      "match": 12
+    },
+    "current_assets": {
+      "match": 12
+    },
+    "current_debt": {
+      "match": 12
+    },
+    "current_investments": {
+      "match": 12
+    },
+    "current_liabilities": {
+      "match": 12
+    },
+    "deferred_revenue": {
+      "match": 12
+    },
+    "deposit_liabilities": {
+      "not_comparable": 12
+    },
+    "depreciation_and_amortization": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "dividends_and_other_cash_distributions": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "earnings_per_share": {
+      "match": 12
+    },
+    "earnings_per_share_diluted": {
+      "match": 12
+    },
+    "ebit": {
+      "not_comparable": 12
+    },
+    "effect_of_exchange_rate_changes": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "ending_cash_balance": {
+      "match": 12
+    },
+    "free_cash_flow": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "goodwill_and_intangible_assets": {
+      "match": 12
+    },
+    "gross_profit": {
+      "not_comparable": 12
+    },
+    "income_tax_expense": {
+      "match": 12
+    },
+    "interest_expense": {
+      "not_comparable": 12
+    },
+    "inventory": {
+      "not_comparable": 12
+    },
+    "investment_acquisitions_and_disposals": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "investments": {
+      "match": 12
+    },
+    "issuance_or_purchase_of_equity_shares": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "issuance_or_repayment_of_debt_securities": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "net_cash_flow_from_financing": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "net_cash_flow_from_investing": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "net_cash_flow_from_operations": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "net_income": {
+      "match": 24
+    },
+    "net_income_common_stock": {
+      "match": 12
+    },
+    "non_current_assets": {
+      "match": 12
+    },
+    "non_current_debt": {
+      "match": 12
+    },
+    "non_current_investments": {
+      "not_comparable": 12
+    },
+    "non_current_liabilities": {
+      "match": 12
+    },
+    "operating_expense": {
+      "not_comparable": 12
+    },
+    "operating_income": {
+      "match": 12
+    },
+    "outstanding_shares": {
+      "not_comparable": 12
+    },
+    "preferred_dividends_impact": {
+      "match": 12
+    },
+    "property_plant_and_equipment": {
+      "match": 12
+    },
+    "research_and_development": {
+      "match": 12
+    },
+    "retained_earnings": {
+      "not_comparable": 12
+    },
+    "revenue": {
+      "match": 12
+    },
+    "selling_general_and_administrative_expenses": {
+      "match": 12
+    },
+    "share_based_compensation": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "shareholders_equity": {
+      "match": 12
+    },
+    "tax_assets": {
+      "match": 12
+    },
+    "tax_liabilities": {
+      "not_comparable": 12
+    },
+    "total_assets": {
+      "match": 12
+    },
+    "total_debt": {
+      "match": 12
+    },
+    "total_liabilities": {
+      "match": 12
+    },
+    "trade_and_non_trade_payables": {
+      "match": 12
+    },
+    "trade_and_non_trade_receivables": {
+      "match": 12
+    },
+    "weighted_average_shares": {
+      "match": 12
+    },
+    "weighted_average_shares_diluted": {
+      "match": 12
+    }
+  },
+  "core_metric_status": {
+    "cash_and_equivalents": {
+      "match": 12
+    },
+    "current_investments": {
+      "match": 12
+    },
+    "net_cash_flow_from_operations": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "capital_expenditure": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "free_cash_flow": {
+      "missing_xlsx": 1,
+      "match": 11
+    },
+    "current_debt": {
+      "match": 12
+    },
+    "non_current_debt": {
+      "match": 12
+    },
+    "total_debt": {
+      "match": 12
+    },
+    "revenue": {
+      "match": 12
+    },
+    "operating_income": {
+      "match": 12
+    },
+    "net_income": {
+      "match": 24
+    }
+  },
+  "largest_mismatches": []
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "quarter": "2023Q1",
+    "MSFT": 2877000000.0,
+    "AMZN": 34170000000.0,
+    "GOOGL": 2315000000.0,
+    "META": null,
+    "ORCL": ""
+  },
+  {
+    "quarter": "2023Q2",
+    "MSFT": 2500000000.0,
+    "AMZN": 36587000000.0,
+    "GOOGL": 2231000000.0,
+    "META": null,
+    "ORCL": 0.0
+  },
+  {
+    "quarter": "2023Q3",
+    "MSFT": 3000000000.0,
+    "AMZN": 35406000000.0,
+    "GOOGL": 2957000000.0,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2023Q4",
+    "MSFT": 1615000000.0,
+    "AMZN": 33318000000.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": null
+  },
+  {
+    "quarter": "2024Q1",
+    "MSFT": 1304000000.0,
+    "AMZN": 31147000000.0,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2024Q2",
+    "MSFT": 1246000000.0,
+    "AMZN": 34109000000.0,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.0
+  },
+  {
+    "quarter": "2024Q3",
+    "MSFT": 1626000000.0,
+    "AMZN": 36103000000.0,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2024Q4",
+    "MSFT": 909000000.0,
+    "AMZN": 34214000000.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": null
+  },
+  {
+    "quarter": "2025Q1",
+    "MSFT": 848000000.0,
+    "AMZN": 35864000000.0,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2025Q2",
+    "MSFT": 938000000.0,
+    "AMZN": 40825000000.0,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": 0.0
+  },
+  {
+    "quarter": "2025Q3",
+    "MSFT": 1130000000.0,
+    "AMZN": 41494000000.0,
+    "GOOGL": null,
+    "META": null,
+    "ORCL": null
+  },
+  {
+    "quarter": "2025Q4",
+    "MSFT": 1059000000.0,
+    "AMZN": 38325000000.0,
+    "GOOGL": 0.0,
+    "META": 0.0,
+    "ORCL": null
+  },
+  {
+    "quarter": "2026Q1",
+    "MSFT": 1219000000.0,
+    "AMZN": 36534000000.0,
+    "GOOGL": 0.0,
+    "META": null,
+    "ORCL": null
+  }
+]
