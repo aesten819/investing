@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T14:46:31.974603+00:00",
-  "article_count": 26,
+  "generated_at": "2026-07-08T15:25:40.817137+00:00",
+  "article_count": 20,
   "articles": [
     {
       "id": "f2e594208785",
@@ -36,27 +36,6 @@
       "tags_ko": [
         "NAND",
         "SSD"
-      ]
-    },
-    {
-      "id": "75ca723f1c22",
-      "headline": "From HBM to eSSD: How SK hynix is charting the future of full-stack memory",
-      "summary": "The focus of AI infrastructure competition is shifting.",
-      "url": "https://news.skhynix.com/hbm-to-essd/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-08T00:00:07+00:00",
-      "tags": [
-        "HBM",
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "HBM\uc5d0\uc11c eSSD\uae4c\uc9c0: SK\ud558\uc774\ub2c9\uc2a4, \ud480\uc2a4\ud0dd \uba54\ubaa8\ub9ac\uc758 \ubbf8\ub798\ub97c \uadf8\ub9ac\ub2e4",
-      "summary_ko": "AI \uc778\ud504\ub77c \uacbd\uc7c1\uc758 \ucd08\uc810\uc774 \uc774\ub3d9\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "HBM",
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
       ]
     },
     {
@@ -104,42 +83,6 @@
       ]
     },
     {
-      "id": "c0181a126bac",
-      "headline": "Why advanced memory matters in the AI infrastructure era",
-      "summary": "The landscape of AI competition is expanding.",
-      "url": "https://news.skhynix.com/ai-competition-next-challenge/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-03T00:00:12+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "AI \uc778\ud504\ub77c \uc2dc\ub300\uc5d0 \uace0\uae09 \uba54\ubaa8\ub9ac\uac00 \uc911\uc694\ud55c \uc774\uc720",
-      "summary_ko": "AI \uacbd\uc7c1\uc758 \uc9c0\ud615\uc774 \ud655\uc7a5\ub418\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "82badd4fb856",
-      "headline": "SK hynix Announces Investment Plan for the Chungcheong Region",
-      "summary": "\u25aa Announces a total investment of KRW 100 trillion in Cheongju.\u25aa Plans to build M17, a NAND production fab, and P&T7, an advanced packaging facility, in Chungcheong Region, an est...",
-      "url": "https://news.skhynix.com/fact-07/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-02T02:13:31+00:00",
-      "tags": [
-        "NAND",
-        "Capacity"
-      ],
-      "headline_ko": "SK hynix \ucda9\uccad\uad8c \ud22c\uc790 \uacc4\ud68d \ubc1c\ud45c",
-      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\ub294 \uccad\uc8fc\uc5d0 \ucd1d 100\uc870 \uc6d0\uc744 \ud22c\uc790\ud558\uace0, \ucda9\uccad\uad8c\uc5d0 NAND \uc0dd\uc0b0\uacf5\uc7a5 M17\uacfc \uace0\uae09 \ud328\ud0a4\uc9d5 \uc2dc\uc124 P&T7\uc744 \uac74\uc124\ud560 \uacc4\ud68d\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "\uc0dd\uc0b0\ub2a5\ub825"
-      ]
-    },
-    {
       "id": "ef68589a277f",
       "headline": "Micron and General Motors Sign Strategic Agreement to Secure Supply and Accelerate Innovation",
       "summary": "Supply commitment supports next-generation GM vehicle platforms with reliable, high-performance memory and storage solutions BOISE, Idaho, July 01, 2026 (GLOBE NEWSWIRE) -- Micron...",
@@ -158,23 +101,6 @@
         "SSD",
         "Memory",
         "Capacity"
-      ]
-    },
-    {
-      "id": "18a71dcaf82c",
-      "headline": "Explainer: SK hynix\u2019s Mid-to-Long-Term Investment Strategy",
-      "summary": "[Summary] To proactively address the rapidly growing global demand for AI memory, SK hynix has established a mid-to-long-term investment strategy totaling KRW 1,100 trillion, enco...",
-      "url": "https://news.skhynix.com/fact-05/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-06-29T07:35:16+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "\uc124\uba85: SK hynix\uc758 \uc911\uc7a5\uae30 \ud22c\uc790 \uc804\ub7b5",
-      "summary_ko": "\uae09\uc99d\ud558\ub294 \uae00\ub85c\ubc8c AI \uba54\ubaa8\ub9ac \uc218\uc694\uc5d0 \uc120\uc81c\uc801\uc73c\ub85c \ub300\uc751\ud558\uae30 \uc704\ud574 SK hynix\ub294 \ucd1d 1,100\uc870 \uc6d0 \uaddc\ubaa8\uc758 \uc911\uc7a5\uae30 \ud22c\uc790 \uc804\ub7b5\uc744 \uc218\ub9bd\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
       ]
     },
     {
@@ -215,23 +141,6 @@
         "NAND",
         "SSD",
         "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "4c6115ab4e68",
-      "headline": "Five things you need to know about SK hynix and the future of AI memory",
-      "summary": "The AI boom has reshaped the priorities of the semiconductor industry.",
-      "url": "https://news.skhynix.com/five-things-you-need-to-know-about-sk-hynix-and-the-future-of-ai-memory/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-06-23T00:00:09+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc640 AI \uba54\ubaa8\ub9ac\uc758 \ubbf8\ub798\uc5d0 \ub300\ud574 \uc54c\uc544\uc57c \ud560 5\uac00\uc9c0",
-      "summary_ko": "AI \ubd90\uc774 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \uc6b0\uc120\uc21c\uc704\ub97c \uc7ac\ud3b8\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Memory"
       ]
     },
     {
@@ -276,23 +185,6 @@
         "\uba54\ubaa8\ub9ac",
         "\uac00\uaca9",
         "\uc0dd\uc0b0\ub2a5\ub825"
-      ]
-    },
-    {
-      "id": "2d4d560262bf",
-      "headline": "SK hynix Showcases Tech Leadership as \u2018Full Stack AI Memory Creator\u2019 at HPED 2026, Reaffirming Strong Partnership with HPE",
-      "summary": "As competition and collaboration around AI infrastructure continue to intensify, HPED 2026 brought together industry leaders to explore the future of AI-driven IT infrastructure.",
-      "url": "https://news.skhynix.com/hpe-discover-2026/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-06-19T00:02:41+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, HPED 2026\uc5d0\uc11c \u2018Full Stack AI Memory Creator\u2019\ub85c \uae30\uc220 \ub9ac\ub354\uc2ed \uacfc\uc2dc, HPE\uc640\uc758 \uac15\ub825\ud55c \ud30c\ud2b8\ub108\uc2ed \uc7ac\ud655\uc778",
-      "summary_ko": "AI \uc778\ud504\ub77c \uacbd\uc7c1 \ubc0f \ud611\ub825\uc774 \uc2ec\ud654\ub418\ub294 \uac00\uc6b4\ub370, HPED 2026\uc740 \uc5c5\uacc4 \ub9ac\ub354\ub4e4\uc774 \ubaa8\uc5ec AI \uae30\ubc18 IT \uc778\ud504\ub77c\uc758 \ubbf8\ub798\ub97c \ud0d0\uad6c\ud558\ub294 \uc790\ub9ac\ub97c \ub9c8\ub828\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
       ]
     },
     {
@@ -510,9 +402,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-08T15:17:17.778230+00:00",
-    "cached": 1,
-    "translated": 25,
+    "generated_at": "2026-07-08T15:25:40.898678+00:00",
+    "cached": 20,
+    "translated": 0,
     "skipped": 0
   }
 }
