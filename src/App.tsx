@@ -10,6 +10,7 @@ import {
   Newspaper,
   Rss,
   Scale,
+  ServerCog,
 } from "lucide-react";
 import EChart, { type ChartOption } from "./EChart";
 import {
@@ -38,6 +39,14 @@ import {
   memoryNewsTags,
   type MemoryNewsArticle,
 } from "./memoryNews";
+import {
+  hyperscalerNewsArticles,
+  hyperscalerNewsGeneratedAt,
+  hyperscalerNewsSourceFilters,
+  hyperscalerNewsSources,
+  hyperscalerNewsTags,
+  type HyperscalerNewsArticle,
+} from "./hyperscalerNews";
 
 const tickerColors: Record<Ticker, string> = {
   MSFT: "#37a2ff",
@@ -54,7 +63,7 @@ const metricIcons: Record<MetricKey, typeof Activity> = {
   totalDebt: Scale,
 };
 
-type PageKey = "hyperscaler" | "memoryNews";
+type PageKey = "hyperscaler" | "memoryNews" | "infraNews";
 
 const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeof Activity }> = [
   {
@@ -68,6 +77,12 @@ const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeo
     label: "메모리 뉴스",
     kicker: "semis",
     icon: Newspaper,
+  },
+  {
+    key: "infraNews",
+    label: "데이터센터 뉴스",
+    kicker: "infra",
+    icon: ServerCog,
   },
 ];
 
@@ -391,7 +406,9 @@ function HyperscalerPage() {
   );
 }
 
-function MemoryNewsCard({ article }: { article: MemoryNewsArticle }) {
+type NewsCardArticle = MemoryNewsArticle | HyperscalerNewsArticle;
+
+function NewsCard({ article }: { article: NewsCardArticle }) {
   const headline = articleHeadline(article);
   const summary = articleSummary(article);
   const tags = articleTags(article);
@@ -467,7 +484,62 @@ function MemoryNewsPage() {
 
       <section className="news-grid">
         {visibleArticles.map((article) => (
-          <MemoryNewsCard article={article} key={article.id} />
+          <NewsCard article={article} key={article.id} />
+        ))}
+      </section>
+    </section>
+  );
+}
+
+function InfraNewsPage() {
+  const [selectedSource, setSelectedSource] = useState("all");
+  const visibleArticles = useMemo(() => {
+    if (selectedSource === "all") {
+      return hyperscalerNewsArticles;
+    }
+
+    return hyperscalerNewsArticles.filter((article) => article.source_id === selectedSource);
+  }, [selectedSource]);
+
+  const healthySourceCount = hyperscalerNewsSources.filter((source) => source.status === "ok").length;
+
+  return (
+    <section className="app-shell">
+      <header className="top-bar">
+        <div>
+          <div className="eyebrow">AI INFRA</div>
+          <h1>하이퍼스케일러·데이터센터 뉴스</h1>
+        </div>
+        <div className="header-meta">
+          <span>{formatNewsDate(hyperscalerNewsGeneratedAt)}</span>
+          <span>{hyperscalerNewsArticles.length}개 기사</span>
+          <span>{healthySourceCount}개 소스</span>
+        </div>
+      </header>
+
+      <section className="news-control-band">
+        <div className="source-filter-row">
+          {hyperscalerNewsSourceFilters.map((source) => (
+            <button
+              className={`source-filter ${source.id === selectedSource ? "active" : ""}`}
+              key={source.id}
+              onClick={() => setSelectedSource(source.id)}
+              type="button"
+            >
+              {source.name}
+            </button>
+          ))}
+        </div>
+        <div className="tag-strip">
+          {hyperscalerNewsTags.map((tag) => (
+            <span key={tag}>{tag}</span>
+          ))}
+        </div>
+      </section>
+
+      <section className="news-grid">
+        {visibleArticles.map((article) => (
+          <NewsCard article={article} key={article.id} />
         ))}
       </section>
     </section>
@@ -506,12 +578,14 @@ export default function App() {
         </nav>
         <div className="side-status">
           <Rss aria-hidden="true" size={15} />
-          <span>{memoryNewsArticles.length}개 뉴스 카드</span>
+          <span>{memoryNewsArticles.length + hyperscalerNewsArticles.length}개 뉴스 카드</span>
         </div>
       </aside>
 
       <div className="page-frame">
-        {activePage === "hyperscaler" ? <HyperscalerPage /> : <MemoryNewsPage />}
+        {activePage === "hyperscaler" && <HyperscalerPage />}
+        {activePage === "memoryNews" && <MemoryNewsPage />}
+        {activePage === "infraNews" && <InfraNewsPage />}
       </div>
     </main>
   );

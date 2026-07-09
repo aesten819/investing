@@ -21,6 +21,24 @@ class GitHubWorkflowTests(unittest.TestCase):
         self.assertIn("actions/deploy-pages", text)
         self.assertIn("git commit", text)
 
+    def test_daily_hyperscaler_news_refresh_workflow_uses_secret_and_deploys_pages(self):
+        workflow = Path(".github/workflows/refresh-hyperscaler-news.yml")
+
+        self.assertTrue(workflow.exists(), "daily hyperscaler news refresh workflow should exist")
+        text = workflow.read_text(encoding="utf-8")
+
+        self.assertIn("schedule:", text)
+        self.assertIn("cron:", text)
+        self.assertIn("DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}", text)
+        self.assertIn("python3 scripts/fetch_hyperscaler_news.py", text)
+        self.assertIn("python3 scripts/translate_hyperscaler_news.py", text)
+        self.assertIn("data/hyperscaler-news/articles.json", text)
+        self.assertIn("npm test", text)
+        self.assertIn("npm run build", text)
+        self.assertIn("actions/upload-pages-artifact", text)
+        self.assertIn("actions/deploy-pages", text)
+        self.assertIn("git commit", text)
+
     def test_workflows_do_not_commit_literal_deepseek_key(self):
         workflow_dir = Path(".github/workflows")
         for workflow in workflow_dir.glob("*.yml"):

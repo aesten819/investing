@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T08:53:40.089986+00:00",
+  "sources": [
+    {
+      "id": "aws_news_blog",
+      "name": "AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 0
+    },
+    {
+      "id": "amazon_company_news",
+      "name": "About Amazon",
+      "url": "https://www.aboutamazon.com/news/company-news/rss",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 0
+    },
+    {
+      "id": "google_infrastructure_cloud",
+      "name": "Google Infrastructure & Cloud",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/rss/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 6
+    },
+    {
+      "id": "google_cloud",
+      "name": "Google Cloud",
+      "url": "https://blog.google/products/google-cloud/rss/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 1
+    },
+    {
+      "id": "microsoft_on_issues",
+      "name": "Microsoft On the Issues",
+      "url": "https://blogs.microsoft.com/on-the-issues/feed/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 0
+    },
+    {
+      "id": "microsoft_blog",
+      "name": "Microsoft Blog",
+      "url": "https://blogs.microsoft.com/feed/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 2
+    },
+    {
+      "id": "meta_data_centers",
+      "name": "Meta Data Centers",
+      "url": "https://about.fb.com/news/tag/data-centers/feed/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 8
+    },
+    {
+      "id": "datacenter_dynamics",
+      "name": "Data Center Dynamics",
+      "url": "https://www.datacenterdynamics.com/rss/",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 12
+    },
+    {
+      "id": "data_center_knowledge",
+      "name": "Data Center Knowledge",
+      "url": "https://www.datacenterknowledge.com/rss.xml",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 47
+    },
+    {
+      "id": "synergy_research",
+      "name": "Synergy Research",
+      "url": "https://www.srgresearch.com/articles",
+      "type": "html_links",
+      "max_items": 10,
+      "status": "ok",
+      "article_count": 10
+    },
+    {
+      "id": "oracle_ai_data_centers",
+      "name": "Oracle AI Data Centers",
+      "url": "https://www.oracle.com/data-centers/",
+      "type": "html_links",
+      "max_items": 8,
+      "status": "ok",
+      "article_count": 8
+    },
+    {
+      "id": "data_center_frontier",
+      "name": "Data Center Frontier",
+      "url": "https://www.datacenterfrontier.com/",
+      "type": "html_links",
+      "max_items": 12,
+      "status": "ok",
+      "article_count": 12
+    }
+  ]
+}
