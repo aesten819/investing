@@ -32,6 +32,7 @@ class GitHubWorkflowTests(unittest.TestCase):
         self.assertIn("DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}", text)
         self.assertIn("python3 scripts/fetch_hyperscaler_news.py", text)
         self.assertIn("python3 scripts/translate_hyperscaler_news.py", text)
+        self.assertIn("python3 scripts/translate_hyperscaler_news.py --limit 40", text)
         self.assertIn("data/hyperscaler-news/articles.json", text)
         self.assertIn("npm test", text)
         self.assertIn("npm run build", text)

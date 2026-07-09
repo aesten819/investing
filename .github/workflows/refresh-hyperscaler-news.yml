@@ -45,7 +45,7 @@ jobs:
           DEEPSEEK_MODEL: deepseek-v4-flash
         run: |
           python3 scripts/fetch_hyperscaler_news.py --limit 160
-          python3 scripts/translate_hyperscaler_news.py
+          python3 scripts/translate_hyperscaler_news.py --limit 40
 
       - name: Test
         run: npm test
