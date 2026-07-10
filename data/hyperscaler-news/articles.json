@@ -1,7 +1,310 @@
 {
-  "generated_at": "2026-07-09T09:17:49.244984+00:00",
-  "article_count": 117,
+  "generated_at": "2026-07-10T01:02:30.120423+00:00",
+  "article_count": 134,
   "articles": [
+    {
+      "id": "5a4ec0206e03",
+      "headline": "Meta\u2019s First Canadian AI Campus Was Planned Around the Grid",
+      "summary": "Meta\u2019s 1 GW Alberta campus reveals how hyperscalers now secure power and transmission years before announcing AI campuses.",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/meta-s-first-canadian-ai-campus-was-planned-around-the-grid",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-07-09T16:29:00+00:00",
+      "tags": [
+        "Meta",
+        "Data Center",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "\uba54\ud0c0\uc758 \uccab \uce90\ub098\ub2e4 AI \ucea0\ud37c\uc2a4, \uc804\ub825\ub9dd \uc911\uc2ec\uc73c\ub85c \uc124\uacc4\ub418\ub2e4",
+      "summary_ko": "\uba54\ud0c0\uc758 1 GW \uc568\ubc84\ud0c0 \ucea0\ud37c\uc2a4\ub294 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc774 AI \ucea0\ud37c\uc2a4\ub97c \ubc1c\ud45c\ud558\uae30 \uba87 \ub144 \uc804\uc5d0 \uc804\ub825\uacfc \uc1a1\uc804\uc744 \ud655\ubcf4\ud558\ub294 \ubc29\uc2dd\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "Data Center",
+        "Capacity",
+        "Power"
+      ]
+    },
+    {
+      "id": "07b3913a785e",
+      "headline": "Leadership Updates: Key Data Center & Cloud Appointments (Q3 2026)",
+      "summary": "New executive moves at Colt, Stream, and Vantage are among the latest leadership changes shaping the data center and cloud industries.",
+      "url": "https://www.datacenterknowledge.com/operations-and-management/leadership-updates-key-data-center-cloud-appointments-q3-2026-",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-07-09T16:00:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub9ac\ub354\uc2ed \uc5c5\ub370\uc774\ud2b8: \uc8fc\uc694 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc784\uc6d0 \uc778\uc0ac (2026\ub144 3\ubd84\uae30)",
+      "summary_ko": "Colt, Stream, Vantage\uc758 \uc0c8\ub85c\uc6b4 \uc784\uc6d0 \uc774\ub3d9\uc774 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc5c5\uacc4\uc758 \ucd5c\uadfc \ub9ac\ub354\uc2ed \ubcc0\ud654\ub97c \uc774\ub04c\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "1dc57fb6d2b1",
+      "headline": "Can Growing Community Backlash Quiet the AI Data Center Boom?",
+      "summary": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastruct...",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/can-growing-community-backlash-quiet-the-ai-data-center-boom-",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-07-09T15:23:54+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center"
+      ],
+      "headline_ko": "\uc9c0\uc5ed \uc0ac\ud68c \ubc18\ubc1c \uc99d\uac00\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \ud638\ud669\uc744 \uc7a0\uc7ac\uc6b8 \uc218 \uc788\uc744\uae4c?",
+      "summary_ko": "2025\ub144 \uc774\ud6c4 \uc9c0\uc5ed \ubc18\ub300 \ub2e8\uccb4\uac00 76\uac1c\uc5d0\uc11c 430\uac1c\ub85c \uae09\uc99d\ud588\uc73c\uba70, \ucd5c\uadfc \ubc84\uc9c0\ub2c8\uc544 \ud504\ub85c\uc81d\ud2b8 \uc2e4\ud328\ub294 \uc9c0\uc5ed \uc0ac\ud68c \uc218\uc6a9\uc131\uc774 AI \uc778\ud504\ub77c\uc758 \uc0c8\ub85c\uc6b4 \ubd80\uc9c0 \uc120\uc815 \ubcc0\uc218\ub85c \ub4f1\uc7a5\ud558\uace0 \uc788\uc74c\uc744 \uc2dc\uc0ac\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "AI \uc778\ud504\ub77c",
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "72159cb8f8d7",
+      "headline": "Prologis files to build 99MW data center in San Jose, California",
+      "summary": "Site previously earmarked for industrial warehouse",
+      "url": "https://www.datacenterdynamics.com/en/news/prologis-files-to-build-99mw-data-center-in-san-jose-california/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T15:00:38+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Prologis, \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc0b0\ud638\uc138\uc5d0 99MW \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uc2e0\uccad",
+      "summary_ko": "\ud574\ub2f9 \ubd80\uc9c0\ub294 \uc6d0\ub798 \uc0b0\uc5c5\uc6a9 \ucc3d\uace0\ub85c \uc9c0\uc815\ub418\uc5b4 \uc788\uc5c8\uc74c",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "6d02460a1bd4",
+      "headline": "Application for 250MW data center in Ontario interconnect queue, local authority says no application received",
+      "summary": "Details murky",
+      "url": "https://www.datacenterdynamics.com/en/news/application-for-250mw-data-center-in-ontario-interconnect-queue-local-authority-says-no-application-received/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T15:00:36+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc628\ud0c0\ub9ac\uc624 \uc778\ud130\ucee4\ub125\ud2b8 \ud050\uc5d0 250MW \ub370\uc774\ud130\uc13c\ud130 \uc2e0\uccad \uc811\uc218, \uc9c0\uc5ed \ub2f9\uad6d\uc740 \uc2e0\uccad\uc11c \ubc1b\uc740 \uc801 \uc5c6\ub2e4\uace0 \ubc1d\ud600",
+      "summary_ko": "\uc138\ubd80 \uc0ac\ud56d\uc774 \ubd88\ud22c\uba85\ud558\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "35d67a138ce1",
+      "headline": "DeepInfra deploys AI inference cloud in Toronto, Canada, data center",
+      "summary": "Marks the company's first data center outside the US",
+      "url": "https://www.datacenterdynamics.com/en/news/deepinfra-deploys-ai-inference-cloud-in-toronto-canada-data-center/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T14:30:27+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "DeepInfra, \uce90\ub098\ub2e4 \ud1a0\ub860\ud1a0 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 AI \ucd94\ub860 \ud074\ub77c\uc6b0\ub4dc \ubc30\uce58",
+      "summary_ko": "\ud68c\uc0ac\uc758 \ubbf8\uad6d \uc678 \uccab \ub370\uc774\ud130 \uc13c\ud130 \uc9c4\ucd9c\uc774\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "52b9bf498179",
+      "headline": "Plans for Milwaukee, Wisconsin, data center in former Walmart building shelved amid strong local opposition",
+      "summary": "The \u201ccomputing research facility\u201d would have been attached to a larger self-storage facility",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-milwaukee-wisconsin-data-center-in-former-walmart-building-shelved-amid-strong-local-opposition/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T14:00:36+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc704\uc2a4\ucf58\uc2e0\uc8fc \ubc00\uc6cc\ud0a4\uc5d0 \uc788\ub294 \uc804 \uc6d4\ub9c8\ud2b8 \uac74\ubb3c\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d, \uac15\ub825\ud55c \uc9c0\uc5ed \ubc18\ub300\ub85c \ubb34\uc0b0",
+      "summary_ko": "\u2018\ucef4\ud4e8\ud305 \uc5f0\uad6c \uc2dc\uc124\u2019\uc740 \ub354 \ud070 \uc140\ud504 \uc2a4\ud1a0\ub9ac\uc9c0 \uc2dc\uc124\uc5d0 \ubd80\uc18d\ub420 \uc608\uc815\uc774\uc5c8\ub2e4",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "a46dba61365b",
+      "headline": "Officials in Elk River, Minnesota, deny data center application, consider moratorium",
+      "summary": "City council denies Swervo/Irongate DC application to repurpose warehouse",
+      "url": "https://www.datacenterdynamics.com/en/news/officials-in-elk-river-minnesota-deny-data-center-application-consider-moratorium/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T14:00:35+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ubbf8\ub124\uc18c\ud0c0\uc8fc \uc5d8\ud06c\ub9ac\ubc84 \uc2dc, \ub370\uc774\ud130 \uc13c\ud130 \uc2e0\uccad \uac70\ubd80 \ubc0f \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \uac80\ud1a0",
+      "summary_ko": "\uc2dc\uc758\ud68c, Swervo/Irongate \ub370\uc774\ud130 \uc13c\ud130\uc758 \ucc3d\uace0 \uc7ac\ud65c\uc6a9 \uc2e0\uccad \uac70\ubd80",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "75e98f47d1ac",
+      "headline": "Europe's Aether consortium targets two AI gigafactories in Strasbourg, France",
+      "summary": "If built, will offer an initial 42MW of capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/europes-aether-consortium-targets-two-ai-gigafactories-in-strasbourg-france/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T14:00:33+00:00",
+      "tags": [
+        "Capacity"
+      ],
+      "headline_ko": "\uc720\ub7fd\uc758 Aether \ucee8\uc18c\uc2dc\uc5c4, \ud504\ub791\uc2a4 \uc2a4\ud2b8\ub77c\uc2a4\ubd80\ub974\uc5d0 \ub450 \uac1c\uc758 AI \uae30\uac00\ud329\ud1a0\ub9ac \ucd94\uc9c4",
+      "summary_ko": "\uac74\uc124\ub41c\ub2e4\uba74 \ucd08\uae30 42MW\uc758 \uc6a9\ub7c9\uc744 \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "a0249792877c",
+      "headline": "Aussie IoT firm X2M partners with real estate firm for data center development in Victoria",
+      "summary": "Companies targeting data center and BESS project outside Ballarat",
+      "url": "https://www.datacenterdynamics.com/en/news/aussie-iot-firm-x2m-partners-with-real-estate-firm-for-data-center-development-in-victoria/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T13:40:25+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ud638\uc8fc IoT \uae30\uc5c5 X2M, \ubd80\ub3d9\uc0b0 \ud68c\uc0ac\uc640 \ud611\ub825\ud558\uc5ec \ube45\ud1a0\ub9ac\uc544\uc8fc \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c",
+      "summary_ko": "\ud68c\uc0ac\ub4e4\uc740 \ubc38\ub7ec\ub7ab \uc678\uacfd\uc758 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f BESS \ud504\ub85c\uc81d\ud2b8\ub97c \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "39688bfcd1cc",
+      "headline": "County officials deny data center zoning request in Georgia",
+      "summary": "Douglas County commissioners deny EdgeConneX-linked affiliate",
+      "url": "https://www.datacenterdynamics.com/en/news/county-officials-deny-data-center-zoning-request-in-georgia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T13:00:38+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc870\uc9c0\uc544\uc8fc \uce74\uc6b4\ud2f0 \uad00\uacc4\uc790, \ub370\uc774\ud130 \uc13c\ud130 \uad6c\uc5ed \uc124\uc815 \uc694\uccad \uac70\ubd80",
+      "summary_ko": "Douglas \uce74\uc6b4\ud2f0 \uc704\uc6d0, EdgeConneX \uacc4\uc5f4\uc0ac \uc694\uccad \uac70\ubd80",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "13a15a351771",
+      "headline": "FuriosaAI deploys its RNGD servers at Equinix data center in Lisbon, Portugal",
+      "summary": "Scale of deployment not stated",
+      "url": "https://www.datacenterdynamics.com/en/news/furiosaai-deploys-its-rngd-servers-at-equinix-data-center-in-lisbon-portugal/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T12:30:26+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "FuriosaAI\uac00 \ud3ec\ub974\ud22c\uac08 \ub9ac\uc2a4\ubcf8\uc758 Equinix \ub370\uc774\ud130 \uc13c\ud130\uc5d0 RNGD \uc11c\ubc84\ub97c \ubc30\uce58\ud558\ub2e4",
+      "summary_ko": "\ubc30\uce58 \uaddc\ubaa8\ub294 \uacf5\uac1c\ub418\uc9c0 \uc54a\uc74c.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "a2069f7e2e33",
+      "headline": "$520 million in asset-backed securities issued, secured by Virginia data center",
+      "summary": "Site managed by data center operator and investment management firm, Cloud Capital",
+      "url": "https://www.datacenterdynamics.com/en/news/520-million-in-asset-backed-securities-issued-secured-by-virginia-data-center/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T11:00:29+00:00",
+      "tags": [
+        "Data Center",
+        "Capex"
+      ],
+      "headline_ko": "520\ubc31\ub9cc \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc790\uc0b0\uc720\ub3d9\ud654\uc99d\uad8c \ubc1c\ud589, \ubc84\uc9c0\ub2c8\uc544 \ub370\uc774\ud130\uc13c\ud130 \ub2f4\ubcf4",
+      "summary_ko": "\ub370\uc774\ud130\uc13c\ud130 \uc6b4\uc601\uc0ac\uc774\uc790 \ud22c\uc790\uad00\ub9ac\ud68c\uc0ac\uc778 Cloud Capital\uc774 \uad00\ub9ac\ud558\ub294 \uc0ac\uc774\ud2b8",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130",
+        "Capex"
+      ]
+    },
+    {
+      "id": "844968eea629",
+      "headline": "Pittsburgh Supercomputing Center awarded $10m by NSF for Bridges-3 supercomputer",
+      "summary": "New flagship system expected to be operational by summer 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/pittsburgh-supercomputing-center-awarded-10m-by-nsf-for-bridges-3-supercomputer/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T11:00:27+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "\ud53c\uce20\ubc84\uadf8 \uc288\ud37c\ucef4\ud4e8\ud305 \uc13c\ud130, NSF\ub85c\ubd80\ud130 Bridges-3 \uc288\ud37c\ucef4\ud4e8\ud130 \uad6c\ucd95 \uc704\ud574 1000\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0\ubc1b\uc544",
+      "summary_ko": "\uc0c8\ub85c\uc6b4 \ud50c\ub798\uadf8\uc2ed \uc2dc\uc2a4\ud15c\uc774 2027\ub144 \uc5ec\ub984\uae4c\uc9c0 \uac00\ub3d9\ub420 \uc608\uc815",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "7d6bf6554942",
+      "headline": "Cerebras to deploy 200MW of compute in Europe by end of 2027",
+      "summary": "Buildout will be focused on France and the Nordics",
+      "url": "https://www.datacenterdynamics.com/en/news/cerebras-to-deploy-200mw-of-compute-in-europe-by-end-of-2027/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T10:48:39+00:00",
+      "tags": [],
+      "headline_ko": "Cerebras, 2027\ub144 \ub9d0\uae4c\uc9c0 \uc720\ub7fd\uc5d0 200MW \ucef4\ud4e8\ud305 \uc804\ub825 \ubc30\uce58",
+      "summary_ko": "\uad6c\ucd95\uc740 \ud504\ub791\uc2a4\uc640 \ubd81\uc720\ub7fd\uc5d0 \uc9d1\uc911\ub420 \uc608\uc815",
+      "tags_ko": []
+    },
+    {
+      "id": "9ce681514209",
+      "headline": "Meta plans $9.17bn gigawatt-scale data center in Alberta, Canada",
+      "summary": "Marks social media giant's first data center in the country",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-plans-917bn-gigawatt-scale-data-center-in-alberta-canada/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T10:42:13+00:00",
+      "tags": [
+        "Meta",
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "Meta, \uce90\ub098\ub2e4 \uc568\ubc84\ud0c0\uc5d0 91\uc5b57\ucc9c\ub9cc \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uae30\uac00\uc640\ud2b8\uae09 \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d",
+      "summary_ko": "\uc18c\uc15c \ubbf8\ub514\uc5b4 \uac70\ub300 \uae30\uc5c5\uc758 \uce90\ub098\ub2e4 \uccab \ub370\uc774\ud130 \uc13c\ud130",
+      "tags_ko": [
+        "Meta",
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "bec9281dc753",
+      "headline": "Universal liquid cooling: the next data center standard",
+      "summary": "How two-phase liquid cooling supports next-generation AI infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/universal-liquid-cooling-the-next-data-center-standard/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-09T10:10:39+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\ubc94\uc6a9 \uc561\uccb4 \ub0c9\uac01: \ucc28\uc138\ub300 \ub370\uc774\ud130\uc13c\ud130 \ud45c\uc900",
+      "summary_ko": "2\uc0c1 \uc561\uccb4 \ub0c9\uac01\uc774 \ucc28\uc138\ub300 AI \uc778\ud504\ub77c\ub97c \uc9c0\uc6d0\ud55c\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
     {
       "id": "2d10654c1e97",
       "headline": "20MW data center eyed in Parsons, Kansas",
@@ -1497,6 +1800,14 @@
         "Data Center",
         "Power",
         "Colocation"
+      ],
+      "headline_ko": "AI \ub370\uc774\ud130 \uc13c\ud130 \ubd80\ud558, \uc804\ub825 \uc720\ud2f8\ub9ac\ud2f0\uc758 \ud50c\ub808\uc774\ubd81\uc744 \ub2e4\uc2dc \uc4f0\ub2e4",
+      "summary_ko": "\uc720\ud2f8\ub9ac\ud2f0, \uacc4\ud1b5 \uc6b4\uc601\uc790, \uac1c\ubc1c\uc790\ub4e4\uc740 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uc218\uc694\uac00 \uae30\uc874\uc744 \uc55e\uc9c0\ub974\uba74\uc11c \ub354 \ube60\ub974\uace0 \ub300\uaddc\ubaa8\uc758 \uc1a1\uc804, \uc0c1\ud638 \uc5f0\uacb0, \uc2e0\ub8b0\uc131 \uacc4\ud68d\uc744 \uac15\uc81c\ud558\uace0 \uc788\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "AI \uc778\ud504\ub77c",
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825",
+        "\ucf54\ub85c\ucf00\uc774\uc158"
       ]
     },
     {
@@ -1510,6 +1821,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "\uce90\ub864\ub77c\uc774\ub098 \uc8fc, AI \ub370\uc774\ud130\uc13c\ud130\uc5d0 \uc911\uc694\ud55c \uc790\uc6d0 \ubcf4\uc720 \uac00\ub2a5\uc131",
+      "summary_ko": "USGS \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 \uce90\ub864\ub77c\uc774\ub098 \uc9c0\uc5ed\uc5d0 \ud68c\uc218 \uac00\ub2a5\ud55c \uc0b0\ud654\ub9ac\ud2ac 140\ub9cc \uba54\ud2b8\ub9ad\ud1a4\uc774 \uc874\uc7ac\ud558\ub294 \uac83\uc73c\ub85c \ucd94\uc815\ub418\uba70, \uc774\ub294 \uadf8\ub9ac\ub4dc \uaddc\ubaa8 \ubc30\ud130\ub9ac \uc5d0\ub108\uc9c0 \uc800\uc7a5\uc5d0 \uc7a0\uc7ac\uc801 \ub3c4\uc6c0\uc774 \ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1521,6 +1838,14 @@
       "source_id": "data_center_knowledge",
       "published_at": "2026-06-25T18:07:19+00:00",
       "tags": [
+        "Oracle",
+        "AI Infrastructure",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uc624\ub77c\ud074\uc758 \uc704\uc2a4\ucf58\uc2e0 \uc18c\uc1a1, \uc8fc\uc815\ubd80\uac00 AI \ub370\uc774\ud130\uc13c\ud130 \ub9ac\uc2a4\ud06c\ub97c \ud5e4\uc9c0\ud558\ub294 \ubc29\uc2dd \uc2dc\ud5d8\ub300",
+      "summary_ko": "\uc624\ub77c\ud074\uc774 \uc704\uc2a4\ucf58\uc2e0\uc758 AI \ub370\uc774\ud130\uc13c\ud130 \uad00\uc138\uc5d0 \ub3c4\uc804\ud568\uc73c\ub85c\uc368 \uc804\uad6d \uaddc\uc81c\ub2f9\uad6d\uc774 \ub300\uaddc\ubaa8 \uc804\ub825 \ud504\ub85c\uc81d\ud2b8\uc5d0 \uc7ac\uc815\uc801 \ubcf4\uc99d\uc744 \uc694\uad6c\ud558\ub294 \ubc29\uc2dd\uc5d0 \uc601\ud5a5\uc744 \uc904 \uc218 \uc788\ub2e4.",
+      "tags_ko": [
         "Oracle",
         "AI Infrastructure",
         "Data Center",
@@ -1537,6 +1862,11 @@
       "published_at": "2026-06-25T18:00:00+00:00",
       "tags": [
         "Power"
+      ],
+      "headline_ko": "ICF, AI \uc2dc\ub300 \uc804\ub825 \uc131\uc7a5\uc744 \uc81c\ud55c\ud560 \uc218 \uc788\ub294 \uadf8\ub9ac\ub4dc \uc804\uc1a1 \uac00\ub2a5\uc131 \uacbd\uace0",
+      "summary_ko": "\ubbf8\uad6d \uc804\ub825 \uc218\uc694\ub294 2035\ub144\uae4c\uc9c0 39% \uc99d\uac00\ud560 \uc218 \uc788\uc9c0\ub9cc, \uc0c8\ub85c\uc6b4 ICF \ubcf4\uace0\uc11c\ub294 \ub354 \ud070 \ubb38\uc81c\uac00 \ube60\ub974\uac8c \uc131\uc7a5\ud558\ub294 \ubd80\ud558 \uc13c\ud130\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud558\ub294 \uac83\uc77c \uc218 \uc788\ub2e4\uace0 \uc81c\uc2dc\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
       ]
     },
     {
@@ -1548,6 +1878,14 @@
       "source_id": "data_center_knowledge",
       "published_at": "2026-06-25T17:53:59+00:00",
       "tags": [
+        "AI Infrastructure",
+        "Data Center",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "\ud14d\uc0ac\uc2a4 AI \ub370\uc774\ud130 \uc13c\ud130: \uc804\ub825, \uc815\ucc45, \uadf8\ub9ac\uace0 \uc9c4\uc804",
+      "summary_ko": "AI \uc778\ud504\ub77c\uc758 \ubbf8\ub798\uac00 \ud14d\uc0ac\uc2a4\uc5d0\uc11c \uad6c\uccb4\ud654\ub418\uace0 \uc788\uc73c\uba70, \uc815\ucc45 \uac1c\ud601, \uc804\ub825 \uc6b0\uc120 \uc804\ub7b5, \uadf8\ub9ac\uace0 \uc1a1\uc804 \uc81c\uc57d\uc774 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc758 \ucea0\ud37c\uc2a4 \uc911 \uc5b4\ub5a4 \uac83\uc774 ...\uc5d0\uc11c \uc774\ub3d9\ud560\uc9c0\ub97c \uacb0\uc815\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
         "AI Infrastructure",
         "Data Center",
         "Capacity",
@@ -1567,6 +1905,14 @@
         "AI Infrastructure",
         "Data Center",
         "Colocation"
+      ],
+      "headline_ko": "\ud004\ucef4, \uba54\ud0c0 CPU \uc218\uc8fc \ubc0f AI \ub370\uc774\ud130\uc13c\ud130 \ud50c\ub7ab\ud3fc \uacf5\uac1c",
+      "summary_ko": "\ud004\ucef4\uc774 \uc804\uccb4 AI \uc778\ud504\ub77c \uc804\ub7b5\uc744 \uc81c\uc2dc\ud558\uace0, \ub450 \uac1c\uc758 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uace0\uac1d\uc744 \ud655\ubcf4\ud588\uc73c\uba70, 2029\ub144\uae4c\uc9c0 150\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub370\uc774\ud130\uc13c\ud130 \uc0ac\uc5c5\uc744 \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "AI Infrastructure",
+        "Data Center",
+        "Colocation"
       ]
     },
     {
@@ -1581,6 +1927,13 @@
         "Meta",
         "AI Infrastructure",
         "Capacity"
+      ],
+      "headline_ko": "Corning\uc774 AI \uc778\ud504\ub77c\uc5d0\uc11c \uac00\uc7a5 \ud070 \uc2b9\uc790 \uc911 \ud558\ub098\uac00 \ub41c \ubc29\ubc95",
+      "summary_ko": "Corning\uc758 Meta, Amazon, Nvidia\uc640\uc758 AI \uac70\ub798\ub294 hyperscaler\ub4e4\uc774 AI \ud074\ub7ec\uc2a4\ud130\ub97c \uad6c\ucd95\ud558\uba70 \uad11\ud559 \uc778\ud504\ub77c\uac00 \uc804\ub7b5\uc801 capacity\uac00 \ub418\uc5c8\uc74c\uc744 \ubcf4\uc5ec\uc90d\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "AI \uc778\ud504\ub77c",
+        "\uc6a9\ub7c9"
       ]
     },
     {
@@ -1593,6 +1946,11 @@
       "published_at": "2026-06-25T13:00:00+00:00",
       "tags": [
         "Power"
+      ],
+      "headline_ko": "IBM, \uc11c\ube0c 1nm NanoStack\uc73c\ub85c AI \uce69 \uc124\uacc4 \ucd94\uc9c4",
+      "summary_ko": "IBM\uc758 NanoStack \ud2b8\ub79c\uc9c0\uc2a4\ud130 \ud50c\ub7ab\ud3fc\uc740 \ub098\ub178\uc2dc\ud2b8\ub97c \ucd08\uc6d4\ud558\ub294 \uce69 \uc2a4\ucf00\uc77c\ub9c1\uc73c\ub85c AI \uc131\ub2a5, \uba54\ubaa8\ub9ac \ubc00\ub3c4, \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc131\uc744 \ud5a5\uc0c1\uc2dc\ud0b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
       ]
     },
     {
@@ -1604,6 +1962,14 @@
       "source_id": "data_center_knowledge",
       "published_at": "2026-06-24T17:18:15+00:00",
       "tags": [
+        "Azure",
+        "AI Infrastructure",
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc704\uc2a4\ucf58\uc2e0 AI \ub370\uc774\ud130\uc13c\ud130 \ucea0\ud37c\uc2a4 \uc644\uc804 \uac00\ub3d9",
+      "summary_ko": "Mount Pleasant \ucea0\ud37c\uc2a4\ub294 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\uac00 \uc218\uc2ed\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 AI \uc778\ud504\ub77c \uacc4\ud68d\uc744 \uc6b4\uc601 \uac00\ub2a5\ud55c \uc6a9\ub7c9\uc73c\ub85c \uc804\ud658\ud558\ub294 \ubc29\ubc95\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+      "tags_ko": [
         "Azure",
         "AI Infrastructure",
         "Data Center",
@@ -1621,6 +1987,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "Behind-The-Meter \uc804\ub825 \uacf5\uae09: LNG\uc640 \ud504\ub85c\uc138\uc2a4 \uc548\uc804\uc774 \ub514\uc9c0\ud138 \ud0c4\ub825\uc131\uacfc \ub9cc\ub098\ub294 \uacf3",
+      "summary_ko": "LNG\uac00 \ub370\uc774\ud130 \uc13c\ud130 \ud0c4\ub825\uc131\uc744 \uc704\ud55c \uc911\uc694\ud55c \uc778\ud504\ub77c\uac00 \ub428\uc5d0 \ub530\ub77c \uc6b4\uc601\uc790\ub294 \uc131\ub2a5 \uae30\ubc18 \ud654\uc7ac \ubaa8\ub378\ub9c1\uc744 \uc0ac\uc6a9\ud558\uace0 \uc5f0\ub8cc \uc2dc\uc2a4\ud15c\uc744 \uc804\uccb4 \uc548\uc804 \uc804\ub7b5\uc5d0 \uc801\uadf9\uc801\uc73c\ub85c \ud1b5\ud569\ud574\uc57c \ud569\ub2c8\ub2e4...",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1634,6 +2006,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "\ud14d\uc0ac\uc2a4, \ub370\uc774\ud130 \uc13c\ud130 \uc218\uc694 \uae09\uc99d\uc5d0 'Batch Zero' \uc5f0\uad6c \uc2b9\uc778",
+      "summary_ko": "ERCOT\uc758 Batch Zero \ud504\ub808\uc784\uc6cc\ud06c\ub294 \uc804\ub825\ub9dd \uac80\ud1a0\ub97c \uc911\uc559\ud654\ud558\uc5ec \uae09\uc99d\ud558\ub294 AI \ubc0f \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \uc218\uc694\ub97c \ucda9\uc871\ud558\uae30 \uc704\ud574 \ub300\uaddc\ubaa8 \ubd80\ud558 \uc2b9\uc778\uc744 \uac04\uc18c\ud654\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1646,6 +2024,11 @@
       "published_at": "2026-06-24T13:41:51+00:00",
       "tags": [
         "Data Center"
+      ],
+      "headline_ko": "Nvidia, \ub370\uc774\ud130\uc13c\ud130 \uc774\ub354\ub137 \uc2a4\uc704\uce6d \uc2dc\uc7a5\uc5d0\uc11c \uacbd\uc7c1\uc0ac \ucd94\uc6d4, IDC \ubc1c\ud45c",
+      "summary_ko": "Nvidia\ub294 GPU \uc911\uc2ec\uc758 \ud1b5\ud569 AI \ud50c\ub7ab\ud3fc\uc758 \uc77c\ubd80\ub85c \ub124\ud2b8\uc6cc\ud0b9\uc744 \ud310\ub9e4\ud558\uc5ec \ub370\uc774\ud130\uc13c\ud130 \uc774\ub354\ub137 \uc2a4\uc704\uce6d \uc2dc\uc7a5\uc5d0\uc11c \uc120\ub450\ub85c \uc62c\ub77c\uc130\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130"
       ]
     },
     {
@@ -1657,6 +2040,13 @@
       "source_id": "microsoft_blog",
       "published_at": "2026-06-24T12:01:13+00:00",
       "tags": [
+        "Azure",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc758 20\ub144 \ubb3c \uc0ac\uc6a9 \ud6a8\uc728 \uac1c\uc120 \ub178\ub825: \uc131\uc7a5\uc744 \uc704\ud55c \ud655\uc7a5\uacfc \ud568\uaed8",
+      "summary_ko": "\ud074\ub77c\uc6b0\ub4dc \ubc0f AI \uc11c\ube44\uc2a4 \uc218\uc694 \uc99d\uac00\ub85c \ub370\uc774\ud130\uc13c\ud130\uc758 \uc911\uc694\uc131\uc774 \ucee4\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
         "Azure",
         "Data Center",
         "Power"
@@ -1673,6 +2063,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "\ubc84\uc9c0\ub2c8\uc544\uc8fc, \ucd5c\ucd08 \ub370\uc774\ud130\uc13c\ud130 \uc804\ub825\uc138 \uc2b9\uc778",
+      "summary_ko": "\ubc84\uc9c0\ub2c8\uc544\uc8fc\uc758 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130\uc13c\ud130 \uc804\ub825\uc138(\uc790\uac00 \ubc1c\uc804 \ud3ec\ud568)\ub294 \uc5f0\uac04 6\uc5b5 \ub2ec\ub7ec\uc758 \uc218\uc775\uc744 \ub0bc \uac83\uc73c\ub85c \uc608\uc0c1\ub429\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1684,6 +2080,13 @@
       "source_id": "data_center_knowledge",
       "published_at": "2026-06-23T11:17:27+00:00",
       "tags": [
+        "Azure",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "\ubbf8\ud130 \ud6c4\ub2e8 AI: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8-\uc170\ube0c\ub7f0\uc758 \uc11c\ubd80 \ud14d\uc0ac\uc2a4 \ubca0\ud305",
+      "summary_ko": "\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc758 \uc170\ube0c\ub7f0\uacfc\uc758 \uc11c\ubd80 \ud14d\uc0ac\uc2a4 \uc804\ub825 \uacc4\uc57d\uc740 AI \uac1c\ubc1c\uc790\ub4e4\uc774 \ucef4\ud4e8\ud305\uacfc \ud568\uaed8 \ubc1c\uc804 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud558\ub294 \ubc29\uc2dd\uc744 \ubcf4\uc5ec\uc90d\ub2c8\ub2e4.",
+      "tags_ko": [
         "Azure",
         "Capacity",
         "Power"
@@ -1699,6 +2102,11 @@
       "published_at": "2026-06-23T09:00:00+00:00",
       "tags": [
         "Data Center"
+      ],
+      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130, \uc778\ub825 \ubd80\uc871 \uc18d \uc790\uccb4 \uad50\uc721\uc5d0 \ub098\uc11c",
+      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc0ac\ub4e4\uc774 AI \uc2dc\ub300\uc758 \uc778\ub825 \ubd80\uc871\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 \uad50\uc721 \ud504\ub85c\uadf8\ub7a8, \uacac\uc2b5 \ubc0f \ub300\ud559 \ud30c\ud2b8\ub108\uc2ed\uc744 \uc2dc\uc791\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
       ]
     },
     {
@@ -1712,6 +2120,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "\ube0c\ub808\uc774\ud0b9 \ud3ec\uc778\ud2b8 2035: Data Center\uc758 \uc6b0\uc8fc \uc624\ub514\uc138\uc774",
+      "summary_ko": "\uada4\ub3c4 Data Center\ub294 \uc9c0\uc0c1 \uc804\ub825 \ubb38\uc81c\ub97c \ud574\uacb0\ud560 \uc218 \uc788\uc9c0\ub9cc, \uadf8 \ubbf8\ub798\ub294 \uc778\ud504\ub77c \uc218\ub9ac\uc640 \ud568\ub300 \uad50\uccb4 \uc911 \ub354 \uc5b4\ub824\uc6b4 \uc120\ud0dd\uc5d0 \ub2ec\ub824 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1723,6 +2137,13 @@
       "source_id": "microsoft_blog",
       "published_at": "2026-06-22T12:06:39+00:00",
       "tags": [
+        "Azure",
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "AI\uc758 \ub2e4\uc74c \ubb3c\uacb0\uc744 \uc9c0\uc6d0: Pecos\uc758 \uc0c8\ub85c\uc6b4 data center\ub85c capacity \ud655\uc7a5",
+      "summary_ko": "\uc624\ub298 Microsoft\ub294 \uc5ed\uc0ac\uc0c1 \uac00\uc7a5 \ud070 \ub2e8\uc77c capacity \ucd94\uac00 \uc911 \ud558\ub098\ub97c \ubc1c\ud45c\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
         "Azure",
         "Data Center",
         "Capacity"
@@ -1738,6 +2159,11 @@
       "published_at": "2026-06-22T09:00:00+00:00",
       "tags": [
         "Data Center"
+      ],
+      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub97c \ub354 \ube60\ub974\uac8c \uad6c\ucd95\ud558\uae30: \uc9c0\uc5f0 \uc704\ud5d8\uc744 \uc904\uc774\ub294 \ubc29\ubc95",
+      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uad6c\ucd95 \uc77c\uc815\uc740 \uac74\ubb3c \uc790\uccb4\ubcf4\ub2e4\ub294 \ud5c8\uac00, \uc804\ub825\ub9dd \uc5f0\uacb0, \uacf5\uae09\ub9dd \ubcd1\ubaa9 \ud604\uc0c1\uc5d0 \uc758\ud574 \ub354 \ud06c\uac8c \uacb0\uc815\ub41c\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
       ]
     },
     {
@@ -1751,6 +2177,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130\uc758 \uc99d\ubc1c\uc2dd \ub0c9\uac01: \uc5c5\uacc4\uac00 \uc8fc\uc800\ud558\ub294 \uc774\uc720",
+      "summary_ko": "\uc99d\ubc1c\uc2dd \ub0c9\uac01\uc740 \uc5ec\uc804\ud788 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc9c0\ubc30\ud558\uace0 \uc788\uc9c0\ub9cc, \uc561\uccb4 \ub0c9\uac01 \ucc44\ud0dd\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc5c5\uacc4\uac00 \ub354 \uc9c0\uc18d \uac00\ub2a5\ud55c \uc194\ub8e8\uc158\uc744 \uc218\uc6a9\ud560 \uc900\ube44\uac00 \ub418\uc5c8\uc744\uae4c?",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1764,6 +2196,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "FERC, \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \ub300\uaddc\ubaa8 \ubd80\ud558\uc5d0 \ub300\ud55c \uc804\ub825\ub9dd \uaddc\uc815 \ubaa9\ud45c",
+      "summary_ko": "6\uac1c \uc804\ub825\ub9dd \uc6b4\uc601\uc0ac\ub294 \ub300\uaddc\ubaa8 \ubd80\ud558 \uc694\uae08\uc744 \uc815\ub2f9\ud654\ud558\uac70\ub098 \uc218\uc815\ud560 60\uc77c\uc758 \uae30\ud55c\uc774 \uc8fc\uc5b4\uc84c\uc73c\uba70, \uc99d\uac00\ud558\ub294 AI \uc218\uc694\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud560 \ubc29\ubc95\uc744 \uc124\uba85\ud560 30\uc77c\uc758 \uae30\ud55c\uc774 \uc8fc\uc5b4\uc84c\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1777,6 +2215,12 @@
       "tags": [
         "Data Center",
         "Power"
+      ],
+      "headline_ko": "\ubc30\ud130\ub9ac \uc800\uc7a5 \uc7a5\uce58, \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub354 \uac00\uae4c\uc6cc\uc9c0\uc9c0\ub9cc \uacfc\uc81c\ub294 \uc5ec\uc804",
+      "summary_ko": "\uc6b4\uc601\uc790\ub4e4\uc740 \uc2e0\ub8b0\uc131\uacfc \uadf8\ub9ac\ub4dc \uc720\uc5f0\uc131\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ubc30\ud130\ub9ac \uc2dc\uc2a4\ud15c\uc744 \ubc30\uce58\ud558\uace0 \uc788\uc9c0\ub9cc, \ube44\uc6a9, \uc131\ub2a5 \ubc0f \ubcf5\uc7a1\uc131\uc740 \uc5ec\uc804\ud788 \ucc44\ud0dd\uc744 \ubc29\ud574\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1788,6 +2232,14 @@
       "source_id": "data_center_knowledge",
       "published_at": "2026-06-17T20:33:00+00:00",
       "tags": [
+        "Google Cloud",
+        "Data Center",
+        "Power",
+        "Colocation"
+      ],
+      "headline_ko": "\ubbf8\uc8fc\ub9ac, \uc99d\uac00\ud558\ub294 \uc804\ub825 \uc218\uc694 \uc18d\uc5d0\uc11c \ucc28\uc138\ub300 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ud504\ub860\ud2f0\uc5b4\ub85c \ubd80\uc0c1\ud558\ub2e4",
+      "summary_ko": "Amazon\uacfc Google\uc758 \ubabd\uace0\uba54\ub9ac \uce74\uc6b4\ud2f0\uc5d0 \ub300\ud55c \uc218\uc2ed\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub370\uc774\ud130 \uc13c\ud130 \ud22c\uc790\ub85c \uc778\ud574 \ubbf8\uc8fc\ub9ac\ub294 \uc804\ub825\uacfc \ud655\uc7a5\uc131\uc744 \uc6d0\ud558\ub294 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\uc5d0\uac8c \uc8fc\uc694 \ubaa9\uc801\uc9c0\ub85c \ubd80\uc0c1\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
         "Google Cloud",
         "Data Center",
         "Power",
@@ -1977,9 +2429,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-09T09:21:20.634008+00:00",
-    "cached": 40,
+    "generated_at": "2026-07-10T01:06:08.759887+00:00",
+    "cached": 80,
     "translated": 40,
-    "skipped": 37
+    "skipped": 14
   }
 }
