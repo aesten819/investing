@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-07-09T00:19:58.281455+00:00",
-  "article_count": 26,
+  "generated_at": "2026-07-10T00:18:31.415713+00:00",
+  "article_count": 28,
   "articles": [
+    {
+      "id": "2ca07ac75378",
+      "headline": "Nasdaq ADR Listing Ceremony (Fri, July 10. 09:15 AM)",
+      "summary": "SK hynix\u2019s Next Chapter Begins in NY ADR Listing Ceremony at the Global Financial Hub Join us on the historic journey markinga new memory milestone!",
+      "url": "https://news.skhynix.com/nasdaq-adr-listing-ceremony/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-09T23:00:02+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "Nasdaq ADR \uc0c1\uc7a5\uc2dd (\uae08, 7\uc6d4 10\uc77c \uc624\uc804 9\uc2dc 15\ubd84)",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 \uae00\ub85c\ubc8c \uae08\uc735 \ud5c8\ube0c \ub274\uc695\uc5d0\uc11c ADR \uc0c1\uc7a5\uc2dd\uc744 \uac1c\ucd5c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uba54\ubaa8\ub9ac \uc774\uc815\ud45c\ub97c \uc138\uc6b0\ub294 \uc5ed\uc0ac\uc801\uc778 \uc5ec\uc815\uc744 \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "5783d4369b62",
+      "headline": "Long-Term Agreements Cap Price Increases; Server DRAM Contract Prices Expected to Rise 13-18% QoQ in 3Q26, Says TrendForce",
+      "summary": "TrendForce\u2019s latest memory pricing survey indicates that multiple memory suppliers have already factored in expected price hikes into their prices for the second quarter of 2026.",
+      "url": "https://www.trendforce.com/presscenter/news/20260709-13140.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-07-09T05:52:53+00:00",
+      "tags": [
+        "DRAM",
+        "Memory",
+        "Pricing"
+      ],
+      "headline_ko": "\uc7a5\uae30 \uacc4\uc57d\uc774 \uac00\uaca9 \uc778\uc0c1 \uc81c\ud55c; TrendForce, \uc11c\ubc84 DRAM contract prices 3Q26 \ubd84\uae30 \ub300\ube44 13~18% \uc0c1\uc2b9 \uc608\uc0c1",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uac00\uaca9 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uc5ec\ub7ec \uba54\ubaa8\ub9ac \uacf5\uae09\uc5c5\uccb4\uac00 2026\ub144 2\ubd84\uae30 \uc608\uc0c1 \uac00\uaca9 \uc778\uc0c1\uc744 \uc774\ubbf8 \uac00\uaca9\uc5d0 \ubc18\uc601\ud55c \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9"
+      ]
+    },
     {
       "id": "f2e594208785",
       "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
@@ -510,9 +548,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-09T00:19:58.352239+00:00",
+    "generated_at": "2026-07-10T00:18:47.292418+00:00",
     "cached": 26,
-    "translated": 0,
+    "translated": 2,
     "skipped": 0
   }
 }

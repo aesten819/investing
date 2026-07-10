@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T00:19:58.281455+00:00",
+  "generated_at": "2026-07-10T00:18:31.415713+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -13,28 +13,29 @@
       "name": "SK hynix Newsroom",
       "url": "https://news.skhynix.com/feed/",
       "status": "ok",
-      "article_count": 6
+      "article_count": 5
     },
     {
       "id": "micron",
       "name": "Micron",
       "url": "https://investors.micron.com/rss/news-releases.xml",
       "status": "ok",
-      "article_count": 4
+      "article_count": 3
     },
     {
       "id": "trendforce",
       "name": "TrendForce",
       "url": "https://www.trendforce.com/feed/Semiconductors.html",
       "status": "ok",
-      "article_count": 3
+      "article_count": 4
     },
     {
       "id": "semiconductor_today",
       "name": "Semiconductor Today",
       "url": "https://www.semiconductor-today.com/rss/news.xml",
-      "status": "ok",
-      "article_count": 6
+      "status": "error",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>",
+      "article_count": 0
     }
   ]
 }
