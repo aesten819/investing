@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-07-10T00:18:31.415713+00:00",
-  "article_count": 28,
+  "generated_at": "2026-07-11T00:08:31.346186+00:00",
+  "article_count": 29,
   "articles": [
+    {
+      "id": "ecadcff03262",
+      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "summary": "\u25aa Times Square roadblock campaign amplifies SK hynix\u2019s Nasdaq ADR trading debut\u25aa Brand film connects the dual meaning of \u201cmemory\u201d with meaningful moments in everyday life\u25aa Anamorp...",
+      "url": "https://news.skhynix.com/celebrating-adr-trading/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-10T16:36:22+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ube0c\ub79c\ub4dc\ub85c \ubc1d\ud788\uba70 \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220 \uac15\uc870",
+      "summary_ko": "\u25aa \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub85c\ub4dc\ube14\ub85d \ucea0\ud398\uc778\uc774 SK hynix\uc758 \ub098\uc2a4\ub2e5 ADR \uac70\ub798 \ub370\ubdd4\ub97c \uc54c\ub9ac\uace0, \ube0c\ub79c\ub4dc \ud544\ub984\uc740 '\uba54\ubaa8\ub9ac'\uc758 \uc774\uc911\uc801 \uc758\ubbf8\ub97c \uc77c\uc0c1\uc758 \uc758\ubbf8 \uc788\ub294 \uc21c\uac04\ub4e4\uacfc \uc5f0\uacb0\ud569\ub2c8\ub2e4. \u25aa \uc544\ub098\ubaa8\ub974...",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "2ca07ac75378",
       "headline": "Nasdaq ADR Listing Ceremony (Fri, July 10. 09:15 AM)",
@@ -9,7 +26,7 @@
       "url": "https://news.skhynix.com/nasdaq-adr-listing-ceremony/",
       "source": "SK hynix Newsroom",
       "source_id": "sk_hynix",
-      "published_at": "2026-07-09T23:00:02+00:00",
+      "published_at": "2026-07-10T01:00:00+00:00",
       "tags": [
         "Memory"
       ],
@@ -548,9 +565,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-10T00:18:47.292418+00:00",
-    "cached": 26,
-    "translated": 2,
+    "generated_at": "2026-07-11T00:08:34.650615+00:00",
+    "cached": 28,
+    "translated": 1,
     "skipped": 0
   }
 }
