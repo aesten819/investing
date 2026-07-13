@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-07-12T00:14:19.893417+00:00",
-  "article_count": 153,
+  "generated_at": "2026-07-13T00:14:31.962344+00:00",
+  "article_count": 154,
   "articles": [
+    {
+      "id": "0a5e4747ecc8",
+      "headline": "The electrical infrastructure gap: What AI data center density demands from every project team",
+      "summary": "Getting the basics right",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-infrastructure-gap-what-ai-data-center-density-demands-from-every-project-team/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-12T14:30:26+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center"
+      ],
+      "headline_ko": "\uc804\ub825 \uc778\ud504\ub77c \uaca9\ucc28: AI \ub370\uc774\ud130\uc13c\ud130 \ubc00\ub3c4\uac00 \ubaa8\ub4e0 \ud504\ub85c\uc81d\ud2b8 \ud300\uc5d0 \uc694\uad6c\ud558\ub294 \uac83",
+      "summary_ko": "\uae30\ubcf8\uc5d0 \ucda9\uc2e4\ud558\uae30",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center"
+      ]
+    },
     {
       "id": "d3a2757c6727",
       "headline": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
@@ -2857,8 +2876,8 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-12T00:14:24.738140+00:00",
-    "cached": 152,
+    "generated_at": "2026-07-13T00:14:34.751873+00:00",
+    "cached": 153,
     "translated": 1,
     "skipped": 0
   }
