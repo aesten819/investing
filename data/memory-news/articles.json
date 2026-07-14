@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-07-13T00:09:18.620371+00:00",
-  "article_count": 29,
+  "generated_at": "2026-07-14T00:05:32.997552+00:00",
+  "article_count": 30,
   "articles": [
+    {
+      "id": "82e344b20312",
+      "headline": "Niche Demand and MLC Migration to Drive SLC NAND Prices up 120\u2013170% in 2H26, Says TrendForce",
+      "summary": "TrendForce's recent memory pricing survey shows that more mature NAND process capacity is being shifted toward higher-value products like high-layer-count 3D NAND, leading to a si...",
+      "url": "https://www.trendforce.com/presscenter/news/20260713-13142.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-07-13T06:55:24+00:00",
+      "tags": [
+        "NAND",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "TrendForce, \ud2c8\uc0c8 \uc218\uc694\uc640 MLC \uc804\ud658\uc73c\ub85c 2026\ub144 \ud558\ubc18\uae30 SLC NAND \uac00\uaca9 120~170% \uc0c1\uc2b9 \uc804\ub9dd",
+      "summary_ko": "TrendForce\ub294 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uac00\uaca9 \uc870\uc0ac\uc5d0\uc11c \uc131\uc219\ub41c NAND \uacf5\uc815 \uc6a9\ub7c9\uc774 \uace0\uce35\uc218 3D NAND \ub4f1 \uace0\ubd80\uac00\uac00\uce58 \uc81c\ud488\uc73c\ub85c \uc804\ud658\ub418\uba74\uc11c SLC NAND \uac00\uaca9\uc774 2026\ub144 \ud558\ubc18\uae30\uc5d0 120~170% \uc0c1\uc2b9\ud560 \uac83\uc73c\ub85c \uc608\uce21\ud588\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ]
+    },
     {
       "id": "ecadcff03262",
       "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
@@ -565,9 +588,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-13T00:09:18.694210+00:00",
+    "generated_at": "2026-07-14T00:05:36.625379+00:00",
     "cached": 29,
-    "translated": 0,
+    "translated": 1,
     "skipped": 0
   }
 }

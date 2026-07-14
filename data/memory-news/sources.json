@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T00:09:18.620371+00:00",
+  "generated_at": "2026-07-14T00:05:32.997552+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -28,7 +28,7 @@
       "name": "TrendForce",
       "url": "https://www.trendforce.com/feed/Semiconductors.html",
       "status": "ok",
-      "article_count": 4
+      "article_count": 5
     },
     {
       "id": "semiconductor_today",
