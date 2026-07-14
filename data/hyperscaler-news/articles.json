@@ -1,7 +1,352 @@
 {
-  "generated_at": "2026-07-13T00:14:31.962344+00:00",
-  "article_count": 154,
+  "generated_at": "2026-07-14T00:11:13.589761+00:00",
+  "article_count": 160,
   "articles": [
+    {
+      "id": "56942898082e",
+      "headline": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
+      "summary": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
+      "url": "https://www.datacenterfrontier.com/webinar/webinar/55387231/the-data-center-market-decoded-trends-growth-project-opportunities",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-07-14T00:11:08.573584+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Data Center \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+      "summary_ko": "Data Center \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "4b0d562757f0",
+      "headline": "Canada\u2019s AI Data Center Power Test",
+      "summary": "Canada\u2019s AI Data Center Power Test",
+      "url": "https://www.datacenterfrontier.com/energy/article/55387866/powering-canadas-ai-future-electricity-policy-and-the-race-for-data-center-leadership",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-07-14T00:11:08.573584+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uce90\ub098\ub2e4\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \ud14c\uc2a4\ud2b8",
+      "summary_ko": "\uce90\ub098\ub2e4\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \ud14c\uc2a4\ud2b8",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "128a654dcd3e",
+      "headline": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
+      "summary": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
+      "url": "https://www.datacenterfrontier.com/home/webinar/55389061/the-data-center-market-decoded-trends-growth-project-opportunities",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-07-14T00:11:08.573584+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "4210d53ff8de",
+      "headline": "Meta\u2019s 5 GW Hyperion Turns AI into a Grid Anchor",
+      "summary": "Meta\u2019s Louisiana AI campus grows to 5 GW, a scale analysts say could influence generation, transmission, and utility planning across the region.",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/meta-s-5-gw-hyperion-campus-signals-ai-s-shift-into-utility-territory",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-07-13T19:04:14+00:00",
+      "tags": [
+        "Meta",
+        "Data Center",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Meta\uc758 5 GW Hyperion, AI\ub97c \uc804\ub825\ub9dd\uc758 \uc575\ucee4\ub85c \uc804\ud658",
+      "summary_ko": "\uba54\ud0c0\uc758 \ub8e8\uc774\uc9c0\uc560\ub098 AI \ucea0\ud37c\uc2a4\uac00 5 GW\ub85c \ud655\uc7a5\ub418\uba70, \ubd84\uc11d\uac00\ub4e4\uc740 \uc774 \uaddc\ubaa8\uac00 \uc9c0\uc5ed \uc804\ubc18\uc758 \ubc1c\uc804, \uc1a1\uc804 \ubc0f \uc720\ud2f8\ub9ac\ud2f0 \uacc4\ud68d\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce60 \uc218 \uc788\ub2e4\uace0 \ud3c9\uac00\ud55c\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "Data Center",
+        "Capacity",
+        "Power"
+      ]
+    },
+    {
+      "id": "9e26ad8d12f4",
+      "headline": "Next-Gen CEMS: Simplifying Data Center Emissions Tracking",
+      "summary": "Innovations like laser spectroscopy are simplifying data center emissions monitoring, cutting maintenance burdens for IT-focused engineering teams.",
+      "url": "https://www.datacenterknowledge.com/data-observability/next-gen-cems-simplifying-data-center-emissions-tracking",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-07-13T18:10:51+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ucc28\uc138\ub300 CEMS: \ub370\uc774\ud130 \uc13c\ud130 \ubc30\ucd9c \ucd94\uc801 \uac04\uc18c\ud654",
+      "summary_ko": "\ub808\uc774\uc800 \ubd84\uad11\ubc95\uacfc \uac19\uc740 \ud601\uc2e0\uc774 \ub370\uc774\ud130 \uc13c\ud130 \ubc30\ucd9c \ubaa8\ub2c8\ud130\ub9c1\uc744 \uac04\uc18c\ud654\ud558\uc5ec IT \uc911\uc2ec \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ud300\uc758 \uc720\uc9c0\ubcf4\uc218 \ubd80\ub2f4\uc744 \uc904\uc774\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "f6dc0d107ed7",
+      "headline": "575-acre data center could be built near Calgary, Canada",
+      "summary": "But more approvals still needed",
+      "url": "https://www.datacenterdynamics.com/en/news/575-acre-data-center-could-be-built-near-calgary-canada/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T17:00:31+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uce90\ub098\ub2e4 \uce98\uac70\ub9ac \uc778\uadfc 575\uc5d0\uc774\ucee4 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uac00\ub2a5\uc131",
+      "summary_ko": "\ucd94\uac00 \uc2b9\uc778\uc774 \uc5ec\uc804\ud788 \ud544\uc694\ud558\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "3db776b6373b",
+      "headline": "NTT breaks ground on campus in Chonburi, Thailand",
+      "summary": "Bangkok 4 set to be energized in Q2 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-breaks-ground-on-campus-in-chonburi-thailand/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T16:30:31+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "NTT, \ud0dc\uad6d \ucd0c\ubd80\ub9ac\uc5d0\uc11c \ucea0\ud37c\uc2a4 \ucc29\uacf5",
+      "summary_ko": "Bangkok 4, 2027\ub144 2\ubd84\uae30 \uac00\ub3d9 \uc608\uc815",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "f35c988161c9",
+      "headline": "County officials deny application for 2,000-acre data center campus in Virginia",
+      "summary": "Dulles South gets cold shoulder weeks after QTS drops PW Gateway application",
+      "url": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T16:10:27+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ubc84\uc9c0\ub2c8\uc544 \uc8fc \uce74\uc6b4\ud2f0 \ub2f9\uad6d, 2,000\uc5d0\uc774\ucee4 \ub370\uc774\ud130\uc13c\ud130 \ucea0\ud37c\uc2a4 \uc2e0\uccad \uac70\ubd80",
+      "summary_ko": "QTS\uac00 PW Gateway \uc2e0\uccad\uc744 \ucca0\ud68c\ud55c \uc9c0 \uba87 \uc8fc \ub9cc\uc5d0 Dulles South\uac00 \uac70\uc808\ub2f9\ud558\ub2e4",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130"
+      ]
+    },
+    {
+      "id": "3fa9161e2405",
+      "headline": "TA Realty buys data center-zoned land in Sterling, Virginia",
+      "summary": "Real estate firm buys 10-acre site for $6.1 million per acre",
+      "url": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T16:00:15+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "TA Realty, \ubc84\uc9c0\ub2c8\uc544\uc8fc \uc2a4\ud138\ub9c1\uc5d0 \ub370\uc774\ud130\uc13c\ud130 \uc6a9\uc9c0 \ub9e4\uc785",
+      "summary_ko": "\ubd80\ub3d9\uc0b0 \ud68c\uc0ac\uac00 \uc5d0\uc774\ucee4\ub2f9 610\ub9cc \ub2ec\ub7ec\uc5d0 10\uc5d0\uc774\ucee4 \ubd80\uc9c0 \ub9e4\uc785",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "e4f527b2a24c",
+      "headline": "White House plans new pledge to shield ratepayers from data center related bill hikes - report",
+      "summary": "Follows the Ratepayer Protection Pledge, signed earlier this year",
+      "url": "https://www.datacenterdynamics.com/en/news/white-house-plans-new-pledge-to-shield-ratepayers-from-data-center-related-bill-hikes-report/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T15:40:23+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ubc31\uc545\uad00, \ub370\uc774\ud130 \uc13c\ud130 \uad00\ub828 \uc694\uae08 \uc778\uc0c1\uc73c\ub85c\ubd80\ud130 \uc18c\ube44\uc790\ub97c \ubcf4\ud638\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc11c\uc57d \uacc4\ud68d - \ubcf4\uace0\uc11c",
+      "summary_ko": "\uc774\ub294 \uc62c\ud574 \ucd08 \uc11c\uba85\ub41c '\uc18c\ube44\uc790 \ubcf4\ud638 \uc11c\uc57d'\uc5d0 \ub530\ub978 \uac83\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "3635f760c52c",
+      "headline": "Nebraska carbon black plant set to host data center",
+      "summary": "Monolith to officially file plans later this month",
+      "url": "https://www.datacenterdynamics.com/en/news/nebraska-carbon-black-plant-set-to-host-data-center/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T15:19:13+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub124\ube0c\ub798\uc2a4\uce74 \uce74\ubcf8\ube14\ub799 \uacf5\uc7a5, \ub370\uc774\ud130 \uc13c\ud130 \uc720\uce58 \uc608\uc815",
+      "summary_ko": "Monolith, \uc774\ub2ec \ub9d0 \uacf5\uc2dd \uacc4\ud68d \uc81c\ucd9c \uc608\uc815",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "2b13dddd8b88",
+      "headline": "Meta expands data center campus in Richland Parish, Louisiana, to 5GW & $50bn",
+      "summary": "Company will also invest $1bn in local infrastructure improvements",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-expands-data-center-campus-in-richland-parish-louisiana-to-5gw-will-invest-50bn/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T14:07:00+00:00",
+      "tags": [
+        "Meta",
+        "Data Center"
+      ],
+      "headline_ko": "Meta, \ub8e8\uc774\uc9c0\uc560\ub098\uc8fc Richland Parish \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\ub97c 5GW \ubc0f 500\uc5b5 \ub2ec\ub7ec\ub85c \ud655\uc7a5",
+      "summary_ko": "\ud68c\uc0ac\ub294 \ub610\ud55c \ud604\uc9c0 \uc778\ud504\ub77c \uac1c\uc120\uc5d0 10\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "ada723ce10e8",
+      "headline": "Tract looks to develop 900MW data center park outside Richmond, Virginia",
+      "summary": "Company aims to develop in Goochland County",
+      "url": "https://www.datacenterdynamics.com/en/news/tract-looks-to-develop-900mw-data-center-park-outside-richmond-virginia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T13:44:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Tract, \ubc84\uc9c0\ub2c8\uc544\uc8fc \ub9ac\uce58\uba3c\ub4dc \uc678\uacfd\uc5d0 900MW \uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \ud30c\ud06c \uac1c\ubc1c \ucd94\uc9c4",
+      "summary_ko": "\ud68c\uc0ac\ub294 Goochland County\uc5d0 \uac1c\ubc1c\uc744 \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "d7259b80d0b5",
+      "headline": "Mindstream Energy proposes 400MW gas-powered data center in Jordanian gas field",
+      "summary": "Says it will serve demand in Jordan and MENA",
+      "url": "https://www.datacenterdynamics.com/en/news/mindstream-energy-proposes-400mw-gas-powered-data-center-in-jordanian-gas-field/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T13:20:52+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Mindstream Energy, \uc694\ub974\ub2e8 \uac00\uc2a4\uc804\uc5d0 400MW \uac00\uc2a4 \ubc1c\uc804 \ub370\uc774\ud130 \uc13c\ud130 \uc81c\uc548",
+      "summary_ko": "\uc694\ub974\ub2e8 \ubc0f MENA \uc9c0\uc5ed\uc758 \uc218\uc694\ub97c \ucda9\uc871\ud560 \uac83\uc774\ub77c\uace0 \ubc1d\ud600",
+      "tags_ko": [
+        "Data Center",
+        "Power"
+      ]
+    },
+    {
+      "id": "85ec494dbf7e",
+      "headline": "Global Stack pitches Edge data center at rodeo-focused indoor arena in California",
+      "summary": "Company presses on with idea after set back in Calistoga",
+      "url": "https://www.datacenterdynamics.com/en/news/global-stack-pitches-edge-data-center-at-rodeo-focused-indoor-arena-in-california/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T12:48:16+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Global Stack, \uce98\ub9ac\ud3ec\ub2c8\uc544 \ub85c\ub370\uc624 \uc911\uc2ec \uc2e4\ub0b4 \uacbd\uae30\uc7a5\uc5d0 Edge \ub370\uc774\ud130 \uc13c\ud130 \uc81c\uc548",
+      "summary_ko": "\ud68c\uc0ac\ub294 Calistoga\uc5d0\uc11c\uc758 \uc88c\uc808 \uc774\ud6c4\uc5d0\ub3c4 \uc544\uc774\ub514\uc5b4\ub97c \ucd94\uc9c4\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
+      ]
+    },
+    {
+      "id": "a04a0ed8c88c",
+      "headline": "Infineon, LS Electric partner on DC power infrastructure for AI data centers",
+      "summary": "Ink non-binding MoU to develop next-gen power systems",
+      "url": "https://www.datacenterdynamics.com/en/news/infineon-ls-electric-partner-on-dc-power-infrastructure-for-ai-data-centers/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T12:30:31+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uc778\ud53c\ub2c8\uc5b8, LS\uc77c\ub809\ud2b8\ub9ad, AI \ub370\uc774\ud130\uc13c\ud130\uc6a9 DC \uc804\ub825 \uc778\ud504\ub77c \ud611\ub825",
+      "summary_ko": "\ucc28\uc138\ub300 \uc804\ub825 \uc2dc\uc2a4\ud15c \uac1c\ubc1c\uc744 \uc704\ud55c \ube44\uad6c\uc18d\uc801 \uc591\ud574\uac01\uc11c \uccb4\uacb0",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "2c5143b39297",
+      "headline": "Rising chip temperatures and the transformation of data center cooling",
+      "summary": "Navigate the future of AI cooling by matching heat rejection technologies to chip temperatures, climate, and long-term efficiency goals",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/rising-chip-temperatures-and-the-transformation-of-data-center-cooling/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-13T12:28:59+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uce69 \uc628\ub3c4 \uc0c1\uc2b9\uacfc \ub370\uc774\ud130 \uc13c\ud130 \ub0c9\uac01\uc758 \ubcc0\ud654",
+      "summary_ko": "\uce69 \uc628\ub3c4, \uae30\ud6c4, \uc7a5\uae30 \ud6a8\uc728 \ubaa9\ud45c\uc5d0 \ub9de\ucdb0 \ubc29\uc5f4 \uae30\uc220\uc744 \uc801\uc6a9\ud558\ub294 AI \ub0c9\uac01\uc758 \ubbf8\ub798\ub97c \ud0d0\uc0c9\ud558\uc138\uc694.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "67b0b234c484",
+      "headline": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
+      "summary": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that\u2019s already seeing life-changing returns for teachers, local businesses, and students.",
+      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
+      "source": "Meta Data Centers",
+      "source_id": "meta_data_centers",
+      "published_at": "2026-07-13T09:30:24+00:00",
+      "tags": [
+        "Meta",
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "\uba54\ud0c0, \ub8e8\uc774\uc9c0\uc560\ub098 \ub370\uc774\ud130 \uc13c\ud130 \ud655\uc7a5\uc73c\ub85c \uad50\uc0ac\uc640 \uc9c0\uc5ed \uae30\uc5c5\uc774 \ud61c\ud0dd",
+      "summary_ko": "\uba54\ud0c0\ub294 \ub8e8\uc774\uc9c0\uc560\ub098\uc8fc \ub9ac\uce58\ub79c\ub4dc \ud328\ub9ac\uc2dc \ub370\uc774\ud130 \uc13c\ud130\ub97c 5GW\ub85c \ud655\uc7a5 \uc911\uc774\uba70, \uc778\uadfc \ub9c8\uc744\uc5d0\uc11c\ub294 \uad50\uc0ac, \uc9c0\uc5ed \uae30\uc5c5, \ud559\uc0dd\ub4e4\uc774 \ud070 \ud61c\ud0dd\uc744 \ubcf4\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "0826a49e6d7e",
+      "headline": "Data Center Hardware Highlights: July 2026",
+      "summary": "We explore the latest data center hardware and infrastructure developments from the last month, spanning networking, memory, CPUs, orchestration software, and chip design.",
+      "url": "https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-july-2026",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-07-13T09:00:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Data Center Hardware Highlights: 2026\ub144 7\uc6d4",
+      "summary_ko": "\uc9c0\ub09c \ud55c \ub2ec\uac04\uc758 \ucd5c\uc2e0 data center \ud558\ub4dc\uc6e8\uc5b4 \ubc0f \uc778\ud504\ub77c \uac1c\ubc1c \ub3d9\ud5a5\uc744 networking, memory, CPU, orchestration software, chip design \ub4f1 \ubd84\uc57c\uc5d0\uc11c \uc0b4\ud3b4\ubd05\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "0a5e4747ecc8",
       "headline": "The electrical infrastructure gap: What AI data center density demands from every project team",
@@ -2630,255 +2975,14 @@
         "AI Infrastructure",
         "Data Center"
       ]
-    },
-    {
-      "id": "8e877dc24aca",
-      "headline": "We\u2019re strengthening our presence in Alabama through new investments and community support.",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former\u2026",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-06-15T15:00:00+00:00",
-      "tags": [
-        "Google Cloud",
-        "Data Center",
-        "Capex"
-      ],
-      "headline_ko": "\uc568\ub77c\ubc30\ub9c8\uc8fc\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 \ud22c\uc790\uc640 \uc9c0\uc5ed\uc0ac\ud68c \uc9c0\uc6d0\uc744 \ud1b5\ud574 \uc785\uc9c0\ub97c \uac15\ud654\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
-      "summary_ko": "Google\uc774 2026\ub144\uacfc 2027\ub144\uc5d0 \uac78\uccd0 15\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud558\uc5ec \uc568\ub77c\ubc30\ub9c8\uc8fc \uc7ad\uc2a8 \uce74\uc6b4\ud2f0\uc758 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\ub97c \ud655\uc7a5\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. 2019\ub144\ubd80\ud130 \uc6b4\uc601\ub418\uc5b4 \uc628 \uc774 \ucea0\ud37c\uc2a4\ub294 \uacfc\uac70\uc5d0\u2026",
-      "tags_ko": [
-        "Google Cloud",
-        "Data Center",
-        "Capex"
-      ]
-    },
-    {
-      "id": "7ee0693dd3ce",
-      "headline": "Infrastructure Explained: Compute Power",
-      "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs.",
-      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-06-10T14:30:04+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "\uc778\ud504\ub77c \uc124\uba85: \ucef4\ud4e8\ud305 \ud30c\uc6cc",
-      "summary_ko": "\uc6b0\ub9ac\ub294 \ucef4\ud4e8\ud305 \ud30c\uc6cc\uac00 \ubb34\uc5c7\uc778\uc9c0, \uadf8\ub9ac\uace0 GPU, CPU, MTIA \ucee4\uc2a4\ud140 \uc2e4\ub9ac\ucf58\uc774 AI \ud601\uc2e0 \ubc0f \ucef4\ud4e8\ud305 \uc694\uad6c\ub97c \ucda9\uc871\ud558\ub294 \ub370 \uc5b4\ub5bb\uac8c \ub3c4\uc6c0\uc774 \ub418\ub294\uc9c0 \uc124\uba85\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ud30c\uc6cc"
-      ]
-    },
-    {
-      "id": "3aa4a85fa76c",
-      "headline": "Meta Partners With Reliance on AI-Enabled Data Center in India",
-      "summary": "We've enetered an agreement with Reliance Industries to lease our first ever AI-enabled data center in India.",
-      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-06-10T02:30:40+00:00",
-      "tags": [
-        "Meta",
-        "Data Center",
-        "Colocation"
-      ],
-      "headline_ko": "Meta, \uc778\ub3c4\uc5d0 AI \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130 \uc704\ud574 \ub9b4\ub77c\uc774\uc5b8\uc2a4\uc640 \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0",
-      "summary_ko": "\ub9b4\ub77c\uc774\uc5b8\uc2a4 \uc778\ub354\uc2a4\ud2b8\ub9ac\uc988\uc640 \uc778\ub3c4 \ucd5c\ucd08\uc758 AI \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130 \uc784\ub300 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Meta",
-        "\ub370\uc774\ud130 \uc13c\ud130",
-        "\ucf5c\ub85c\ucf00\uc774\uc158"
-      ]
-    },
-    {
-      "id": "594a6d5e98c2",
-      "headline": "We\u2019re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
-      "summary": "",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-06-04T13:00:00+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\ud14d\uc0ac\uc2a4 \uadf8\ub808\uc774 \ubc0f \ub85c\ubc84\uce20 \uce74\uc6b4\ud2f0\uc5d0 \uc0c8\ub85c\uc6b4 data center \ubc0f \uc5d0\ub108\uc9c0 \ud22c\uc790 \ubc1c\ud45c",
-      "summary_ko": "Google\uc774 \ud14d\uc0ac\uc2a4 \uadf8\ub808\uc774 \uce74\uc6b4\ud2f0\uc640 \ub85c\ubc84\uce20 \uce74\uc6b4\ud2f0\uc5d0 \uc0c8\ub85c\uc6b4 data center \ubc0f \uc5d0\ub108\uc9c0 \ud22c\uc790\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "45ac77bf5452",
-      "headline": "Blue, yellow and green: Google invests in its new data center in Sweden.",
-      "summary": "",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/blue-yellow-and-green-google-invests-in-its-first-data-center-in-sweden/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-06-02T09:45:00+00:00",
-      "tags": [
-        "Google Cloud",
-        "Data Center"
-      ],
-      "headline_ko": "\ud30c\ub791, \ub178\ub791, \ucd08\ub85d: Google, \uc2a4\uc6e8\ub374 \uc2e0\uaddc \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ud22c\uc790",
-      "summary_ko": "Google\uc774 \uc2a4\uc6e8\ub374\uc5d0 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uad6c\ucd95\ud558\uae30 \uc704\ud574 \ud22c\uc790\ud55c\ub2e4.",
-      "tags_ko": [
-        "Google Cloud",
-        "Data Center"
-      ]
-    },
-    {
-      "id": "96dc1aa37eb4",
-      "headline": "We\u2019re announcing the first Texas Energy Impact Fund recipients.",
-      "summary": "",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/texas-energy-impact-fund/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-05-21T16:00:00+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Texas Energy Impact Fund \uccab \uc218\ud61c\uc790\ub97c \ubc1c\ud45c\ud569\ub2c8\ub2e4.",
-      "summary_ko": "Google Infrastructure & Cloud\uac00 Texas Energy Impact Fund\uc758 \uccab \ubc88\uc9f8 \uc218\ud61c\uc790\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Power"
-      ]
-    },
-    {
-      "id": "82ec7383e35c",
-      "headline": "How we\u2019re protecting energy affordability in Oklahoma",
-      "summary": "",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/oklahoma-energy-affordability-agreement/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-04-30T11:00:00+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "\uc624\ud074\ub77c\ud638\ub9c8\uc5d0\uc11c \uc5d0\ub108\uc9c0 \uac00\uaca9 \uc548\uc815\uc131\uc744 \ubcf4\ud638\ud558\ub294 \ubc29\ubc95",
-      "summary_ko": "Google\uc774 \uc624\ud074\ub77c\ud638\ub9c8\uc5d0\uc11c \uc5d0\ub108\uc9c0 \uac00\uaca9 \uc548\uc815\uc131\uc744 \ubcf4\ud638\ud558\ub294 \ubc29\uc548\uc744 \uc124\uba85\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "6bd5c7f3b665",
-      "headline": "Infrastructure Explained: Data Centers",
-      "summary": "We're explaining what data centers are and how they help you connect to your favorite digital experiences, from sharing a photo on Instagram to chatting with AI assistants.",
-      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-04-28T18:30:54+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc778\ud504\ub77c \uc124\uba85: \ub370\uc774\ud130 \uc13c\ud130",
-      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\uac00 \ubb34\uc5c7\uc774\uba70, Instagram\uc5d0 \uc0ac\uc9c4\uc744 \uacf5\uc720\ud558\uac70\ub098 AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8\uc640 \ucc44\ud305\ud558\ub294 \ub4f1 \uc88b\uc544\ud558\ub294 \ub514\uc9c0\ud138 \uacbd\ud5d8\uc5d0 \uc5f0\uacb0\ud558\ub294 \ub370 \uc5b4\ub5bb\uac8c \ub3c4\uc6c0\uc774 \ub418\ub294\uc9c0 \uc124\uba85\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130"
-      ]
-    },
-    {
-      "id": "9ecf1bd8721b",
-      "headline": "We're announcing the first West Memphis Energy Impact Fund recipients.",
-      "summary": "",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-memphis-energy-impact-fund-recipients/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-04-28T15:30:00+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "\uccab \ubc88\uc9f8 West Memphis \uc5d0\ub108\uc9c0 \uc784\ud329\ud2b8 \uae30\uae08 \uc218\ud61c\uc790\ub97c \ubc1c\ud45c\ud569\ub2c8\ub2e4.",
-      "summary_ko": "Google\uc774 West Memphis \uc5d0\ub108\uc9c0 \uc784\ud329\ud2b8 \uae30\uae08\uc758 \uccab \uc218\ud61c\uc790\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Power"
-      ]
-    },
-    {
-      "id": "fe771eec13ba",
-      "headline": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
-      "summary": "We\u2019re announcing an agreement with AWS to bring tens of millions of AWS Graviton cores into Meta's compute portfolio to support agentic AI workloads.",
-      "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-04-24T12:00:38+00:00",
-      "tags": [
-        "AWS",
-        "Meta",
-        "Power"
-      ],
-      "headline_ko": "Meta, AWS\uc640 \ud611\ub825\ud574 Graviton \uce69\uc73c\ub85c Agentic AI \uad6c\ub3d9",
-      "summary_ko": "Meta\uac00 AWS\uc640 \ud611\ub825\ud558\uc5ec \uc218\ucc9c\ub9cc \uac1c\uc758 AWS Graviton \ucf54\uc5b4\ub97c Meta\uc758 \ucef4\ud4e8\ud305 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uc5d0 \ub3c4\uc785\ud558\uc5ec Agentic AI \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc9c0\uc6d0\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "Meta",
-        "Power"
-      ]
-    },
-    {
-      "id": "70a2e4b04003",
-      "headline": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
-      "summary": "",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google Cloud",
-      "source_id": "google_cloud",
-      "published_at": "2026-04-23T12:00:00+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "TPU\uac00 \uc810\uc810 \ub354 demanding\ud55c AI \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc9c0\uc6d0\ud558\ub294 \ubc29\ubc95",
-      "summary_ko": "Google Cloud\uac00 \uc790\uc0ac TPU\ub97c \ud1b5\ud574 \uc99d\uac00\ud558\ub294 AI \uc6cc\ud06c\ub85c\ub4dc \uc694\uad6c\ub97c \ucda9\uc871\ud558\ub294 \ubc29\ubc95\uc744 \uc18c\uac1c\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "e45ccc2c61bd",
-      "headline": "Breaking Ground on a New AI-Optimized Data Center in Tulsa, Oklahoma",
-      "summary": "We're breaking ground on a new AI-optimized data center in Tulsa, Oklahoma. The post Breaking Ground on a New AI-Optimized Data Center in Tulsa, Oklahoma appeared first on Meta Newsroom .",
-      "url": "https://about.fb.com/news/2026/04/breaking-ground-new-ai-optimized-data-center-tulsa-oklahoma/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-04-21T20:30:39+00:00",
-      "tags": [
-        "Meta",
-        "Data Center"
-      ],
-      "headline_ko": "\uc624\ud074\ub77c\ud638\ub9c8\uc8fc \ud138\uc0ac\uc5d0 \uc0c8\ub85c\uc6b4 AI \ucd5c\uc801\ud654 \ub370\uc774\ud130 \uc13c\ud130 \ucc29\uacf5",
-      "summary_ko": "\uba54\ud0c0\uac00 \uc624\ud074\ub77c\ud638\ub9c8\uc8fc \ud138\uc0ac\uc5d0 AI \ucd5c\uc801\ud654 \ub370\uc774\ud130 \uc13c\ud130 \ucc29\uacf5\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ud0c0",
-        "\ub370\uc774\ud130 \uc13c\ud130"
-      ]
-    },
-    {
-      "id": "9ed2485d2d52",
-      "headline": "Meta Partners With Arm to Develop New Class of Data Center Silicon",
-      "summary": "We\u2019re partnering with Arm to develop a new class of CPUs purpose-built to support data centers and large-scale AI deployments.",
-      "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-03-24T17:15:11+00:00",
-      "tags": [
-        "Meta",
-        "Data Center"
-      ],
-      "headline_ko": "Meta, Arm\uacfc \ud611\ub825\ud558\uc5ec \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130\uc13c\ud130 \uc2e4\ub9ac\ucf58 \uac1c\ubc1c",
-      "summary_ko": "\uc6b0\ub9ac\ub294 Arm\uacfc \ud611\ub825\ud558\uc5ec \ub370\uc774\ud130\uc13c\ud130 \ubc0f \ub300\uaddc\ubaa8 AI \ubc30\ud3ec\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ud2b9\ubcc4\ud788 \uc124\uacc4\ub41c \uc0c8\ub85c\uc6b4 CPU \ud074\ub798\uc2a4\ub97c \uac1c\ubc1c\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Meta",
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-13T00:14:34.751873+00:00",
-    "cached": 153,
-    "translated": 1,
+    "generated_at": "2026-07-14T00:12:56.975418+00:00",
+    "cached": 141,
+    "translated": 19,
     "skipped": 0
   }
 }

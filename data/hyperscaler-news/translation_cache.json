@@ -1202,5 +1202,149 @@
       "AI Infrastructure",
       "Data Center"
     ]
+  },
+  "bd66e805ab0ac18f17407a1abd277057843745d7": {
+    "headline_ko": "Data Center \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+    "summary_ko": "Data Center \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "15f23a332cbb960a55270ed83ea5b086145df43c": {
+    "headline_ko": "\uce90\ub098\ub2e4\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \ud14c\uc2a4\ud2b8",
+    "summary_ko": "\uce90\ub098\ub2e4\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \ud14c\uc2a4\ud2b8",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "677afa6ea757420417a6d0f70336b8bb9454d410": {
+    "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+    "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "26dbfc578b01d74fbf05b5894e004ca545351796": {
+    "headline_ko": "Meta\uc758 5 GW Hyperion, AI\ub97c \uc804\ub825\ub9dd\uc758 \uc575\ucee4\ub85c \uc804\ud658",
+    "summary_ko": "\uba54\ud0c0\uc758 \ub8e8\uc774\uc9c0\uc560\ub098 AI \ucea0\ud37c\uc2a4\uac00 5 GW\ub85c \ud655\uc7a5\ub418\uba70, \ubd84\uc11d\uac00\ub4e4\uc740 \uc774 \uaddc\ubaa8\uac00 \uc9c0\uc5ed \uc804\ubc18\uc758 \ubc1c\uc804, \uc1a1\uc804 \ubc0f \uc720\ud2f8\ub9ac\ud2f0 \uacc4\ud68d\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce60 \uc218 \uc788\ub2e4\uace0 \ud3c9\uac00\ud55c\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "Data Center",
+      "Capacity",
+      "Power"
+    ]
+  },
+  "d1302232886723005cdd4c4acc997e91bc96c885": {
+    "headline_ko": "\ucc28\uc138\ub300 CEMS: \ub370\uc774\ud130 \uc13c\ud130 \ubc30\ucd9c \ucd94\uc801 \uac04\uc18c\ud654",
+    "summary_ko": "\ub808\uc774\uc800 \ubd84\uad11\ubc95\uacfc \uac19\uc740 \ud601\uc2e0\uc774 \ub370\uc774\ud130 \uc13c\ud130 \ubc30\ucd9c \ubaa8\ub2c8\ud130\ub9c1\uc744 \uac04\uc18c\ud654\ud558\uc5ec IT \uc911\uc2ec \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ud300\uc758 \uc720\uc9c0\ubcf4\uc218 \ubd80\ub2f4\uc744 \uc904\uc774\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c684d91ac6e8d68c38b8f35b7b08bb497e73cbb3": {
+    "headline_ko": "\uce90\ub098\ub2e4 \uce98\uac70\ub9ac \uc778\uadfc 575\uc5d0\uc774\ucee4 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uac00\ub2a5\uc131",
+    "summary_ko": "\ucd94\uac00 \uc2b9\uc778\uc774 \uc5ec\uc804\ud788 \ud544\uc694\ud558\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "80d61ecb396cf12cf2fbaaa758dfbbfce5f9f2a4": {
+    "headline_ko": "NTT, \ud0dc\uad6d \ucd0c\ubd80\ub9ac\uc5d0\uc11c \ucea0\ud37c\uc2a4 \ucc29\uacf5",
+    "summary_ko": "Bangkok 4, 2027\ub144 2\ubd84\uae30 \uac00\ub3d9 \uc608\uc815",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "5c346b759fd48124477d0ad480d7772a6994f042": {
+    "headline_ko": "\ubc84\uc9c0\ub2c8\uc544 \uc8fc \uce74\uc6b4\ud2f0 \ub2f9\uad6d, 2,000\uc5d0\uc774\ucee4 \ub370\uc774\ud130\uc13c\ud130 \ucea0\ud37c\uc2a4 \uc2e0\uccad \uac70\ubd80",
+    "summary_ko": "QTS\uac00 PW Gateway \uc2e0\uccad\uc744 \ucca0\ud68c\ud55c \uc9c0 \uba87 \uc8fc \ub9cc\uc5d0 Dulles South\uac00 \uac70\uc808\ub2f9\ud558\ub2e4",
+    "tags_ko": [
+      "\ub370\uc774\ud130\uc13c\ud130"
+    ]
+  },
+  "150fe141779c4599518237933a6cf1c0023a1194": {
+    "headline_ko": "TA Realty, \ubc84\uc9c0\ub2c8\uc544\uc8fc \uc2a4\ud138\ub9c1\uc5d0 \ub370\uc774\ud130\uc13c\ud130 \uc6a9\uc9c0 \ub9e4\uc785",
+    "summary_ko": "\ubd80\ub3d9\uc0b0 \ud68c\uc0ac\uac00 \uc5d0\uc774\ucee4\ub2f9 610\ub9cc \ub2ec\ub7ec\uc5d0 10\uc5d0\uc774\ucee4 \ubd80\uc9c0 \ub9e4\uc785",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "737f4d356e0868e62451d5d5f2cceb659c708f00": {
+    "headline_ko": "\ubc31\uc545\uad00, \ub370\uc774\ud130 \uc13c\ud130 \uad00\ub828 \uc694\uae08 \uc778\uc0c1\uc73c\ub85c\ubd80\ud130 \uc18c\ube44\uc790\ub97c \ubcf4\ud638\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc11c\uc57d \uacc4\ud68d - \ubcf4\uace0\uc11c",
+    "summary_ko": "\uc774\ub294 \uc62c\ud574 \ucd08 \uc11c\uba85\ub41c '\uc18c\ube44\uc790 \ubcf4\ud638 \uc11c\uc57d'\uc5d0 \ub530\ub978 \uac83\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "16d20d069d708c9efbb49b32a7670f3b9d55faf4": {
+    "headline_ko": "\ub124\ube0c\ub798\uc2a4\uce74 \uce74\ubcf8\ube14\ub799 \uacf5\uc7a5, \ub370\uc774\ud130 \uc13c\ud130 \uc720\uce58 \uc608\uc815",
+    "summary_ko": "Monolith, \uc774\ub2ec \ub9d0 \uacf5\uc2dd \uacc4\ud68d \uc81c\ucd9c \uc608\uc815",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "9230b23a98038178e2ae423c097ef4ff3fa20c43": {
+    "headline_ko": "Meta, \ub8e8\uc774\uc9c0\uc560\ub098\uc8fc Richland Parish \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\ub97c 5GW \ubc0f 500\uc5b5 \ub2ec\ub7ec\ub85c \ud655\uc7a5",
+    "summary_ko": "\ud68c\uc0ac\ub294 \ub610\ud55c \ud604\uc9c0 \uc778\ud504\ub77c \uac1c\uc120\uc5d0 10\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "c202552ebf7d94667272ee9411a702cf7c880802": {
+    "headline_ko": "Tract, \ubc84\uc9c0\ub2c8\uc544\uc8fc \ub9ac\uce58\uba3c\ub4dc \uc678\uacfd\uc5d0 900MW \uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \ud30c\ud06c \uac1c\ubc1c \ucd94\uc9c4",
+    "summary_ko": "\ud68c\uc0ac\ub294 Goochland County\uc5d0 \uac1c\ubc1c\uc744 \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "97de6bfe1bfd6ed78d293d56ed591081413756e6": {
+    "headline_ko": "Mindstream Energy, \uc694\ub974\ub2e8 \uac00\uc2a4\uc804\uc5d0 400MW \uac00\uc2a4 \ubc1c\uc804 \ub370\uc774\ud130 \uc13c\ud130 \uc81c\uc548",
+    "summary_ko": "\uc694\ub974\ub2e8 \ubc0f MENA \uc9c0\uc5ed\uc758 \uc218\uc694\ub97c \ucda9\uc871\ud560 \uac83\uc774\ub77c\uace0 \ubc1d\ud600",
+    "tags_ko": [
+      "Data Center",
+      "Power"
+    ]
+  },
+  "59140146dda83d919c539ee376dff340ed11cc6a": {
+    "headline_ko": "Global Stack, \uce98\ub9ac\ud3ec\ub2c8\uc544 \ub85c\ub370\uc624 \uc911\uc2ec \uc2e4\ub0b4 \uacbd\uae30\uc7a5\uc5d0 Edge \ub370\uc774\ud130 \uc13c\ud130 \uc81c\uc548",
+    "summary_ko": "\ud68c\uc0ac\ub294 Calistoga\uc5d0\uc11c\uc758 \uc88c\uc808 \uc774\ud6c4\uc5d0\ub3c4 \uc544\uc774\ub514\uc5b4\ub97c \ucd94\uc9c4\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "00aeb5a545bd3f87dbdb269787c4663b0b0534d0": {
+    "headline_ko": "\uc778\ud53c\ub2c8\uc5b8, LS\uc77c\ub809\ud2b8\ub9ad, AI \ub370\uc774\ud130\uc13c\ud130\uc6a9 DC \uc804\ub825 \uc778\ud504\ub77c \ud611\ub825",
+    "summary_ko": "\ucc28\uc138\ub300 \uc804\ub825 \uc2dc\uc2a4\ud15c \uac1c\ubc1c\uc744 \uc704\ud55c \ube44\uad6c\uc18d\uc801 \uc591\ud574\uac01\uc11c \uccb4\uacb0",
+    "tags_ko": [
+      "\ub370\uc774\ud130\uc13c\ud130",
+      "\uc804\ub825"
+    ]
+  },
+  "3079538fc4db9fa39c4909a3846eba47f7e2cbe5": {
+    "headline_ko": "\uce69 \uc628\ub3c4 \uc0c1\uc2b9\uacfc \ub370\uc774\ud130 \uc13c\ud130 \ub0c9\uac01\uc758 \ubcc0\ud654",
+    "summary_ko": "\uce69 \uc628\ub3c4, \uae30\ud6c4, \uc7a5\uae30 \ud6a8\uc728 \ubaa9\ud45c\uc5d0 \ub9de\ucdb0 \ubc29\uc5f4 \uae30\uc220\uc744 \uc801\uc6a9\ud558\ub294 AI \ub0c9\uac01\uc758 \ubbf8\ub798\ub97c \ud0d0\uc0c9\ud558\uc138\uc694.",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130",
+      "\uc804\ub825"
+    ]
+  },
+  "6845577dbcb0841ee61cc949ce2c90f3d83bf6ee": {
+    "headline_ko": "\uba54\ud0c0, \ub8e8\uc774\uc9c0\uc560\ub098 \ub370\uc774\ud130 \uc13c\ud130 \ud655\uc7a5\uc73c\ub85c \uad50\uc0ac\uc640 \uc9c0\uc5ed \uae30\uc5c5\uc774 \ud61c\ud0dd",
+    "summary_ko": "\uba54\ud0c0\ub294 \ub8e8\uc774\uc9c0\uc560\ub098\uc8fc \ub9ac\uce58\ub79c\ub4dc \ud328\ub9ac\uc2dc \ub370\uc774\ud130 \uc13c\ud130\ub97c 5GW\ub85c \ud655\uc7a5 \uc911\uc774\uba70, \uc778\uadfc \ub9c8\uc744\uc5d0\uc11c\ub294 \uad50\uc0ac, \uc9c0\uc5ed \uae30\uc5c5, \ud559\uc0dd\ub4e4\uc774 \ud070 \ud61c\ud0dd\uc744 \ubcf4\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "\ub370\uc774\ud130 \uc13c\ud130",
+      "\uc6a9\ub7c9"
+    ]
+  },
+  "f63ee3ad55b0077ed1188e1e0665994d604250f0": {
+    "headline_ko": "Data Center Hardware Highlights: 2026\ub144 7\uc6d4",
+    "summary_ko": "\uc9c0\ub09c \ud55c \ub2ec\uac04\uc758 \ucd5c\uc2e0 data center \ud558\ub4dc\uc6e8\uc5b4 \ubc0f \uc778\ud504\ub77c \uac1c\ubc1c \ub3d9\ud5a5\uc744 networking, memory, CPU, orchestration software, chip design \ub4f1 \ubd84\uc57c\uc5d0\uc11c \uc0b4\ud3b4\ubd05\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }
