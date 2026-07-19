@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-07-18T00:13:12.096726+00:00",
+  "generated_at": "2026-07-19T00:13:20.377071+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "da225e8c7350",
+      "headline": "Equinix tops out Munich data center in Germany",
+      "summary": "Company expanding MU4",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-tops-out-munich-data-center-in-germany/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-18T12:00:25+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Equinix, \ub3c5\uc77c \ubb8c\ud5e8 data center \uc0c1\ub7c9 \uc644\ub8cc",
+      "summary_ko": "\ud68c\uc0ac\uac00 MU4 \ud655\uc7a5 \uc911",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "ca141abaf443",
       "headline": "The AI Infrastructure Split Screen",
@@ -2894,31 +2911,14 @@
         "\uc6a9\ub7c9",
         "\ucf54\ub85c\ucf00\uc774\uc158"
       ]
-    },
-    {
-      "id": "42bb2c3bdf3a",
-      "headline": "The Liquid Cooling Market Matures",
-      "summary": "The Liquid Cooling Market Matures",
-      "url": "https://www.datacenterfrontier.com/cooling/article/55381913/liquid-cooling-market-matures-innovations-acquisitions-and-modular-solutions-for-ai-infrastructure",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-07-09T08:50:07.907597+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "\uc561\uccb4 \ub0c9\uac01 \uc2dc\uc7a5\uc774 \uc131\uc219\ud574\uc9c0\ub2e4",
-      "summary_ko": "\uc561\uccb4 \ub0c9\uac01 \uc2dc\uc7a5\uc774 \uc131\uc219\ud574\uc9c0\ub2e4",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-18T00:15:10.349153+00:00",
-    "cached": 144,
-    "translated": 16,
+    "generated_at": "2026-07-19T00:13:27.301400+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }

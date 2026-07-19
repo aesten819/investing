@@ -1819,5 +1819,12 @@
       "Data Center",
       "Power"
     ]
+  },
+  "addd3d6e5f90ee438fb4e4089193e086fcb74383": {
+    "headline_ko": "Equinix, \ub3c5\uc77c \ubb8c\ud5e8 data center \uc0c1\ub7c9 \uc644\ub8cc",
+    "summary_ko": "\ud68c\uc0ac\uac00 MU4 \ud655\uc7a5 \uc911",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }
