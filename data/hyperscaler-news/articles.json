@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-07-19T00:13:20.377071+00:00",
+  "generated_at": "2026-07-20T02:57:01.308160+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "9be7c9c23be2",
+      "headline": "Why network recovery still depends on a site visit",
+      "summary": "And why automated power control could be the answer",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-network-recovery-still-depends-on-a-site-visit/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-19T13:00:32+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "\ub124\ud2b8\uc6cc\ud06c \ubcf5\uad6c\uac00 \uc5ec\uc804\ud788 \ud604\uc7a5 \ubc29\ubb38\uc5d0 \uc758\uc874\ud558\ub294 \uc774\uc720",
+      "summary_ko": "\uc790\ub3d9\ud654\ub41c \uc804\ub825 \uc81c\uc5b4\uac00 \ud574\uacb0\ucc45\uc774 \ub420 \uc218 \uc788\ub294 \uc774\uc720",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
     {
       "id": "da225e8c7350",
       "headline": "Equinix tops out Munich data center in Germany",
@@ -2890,33 +2907,12 @@
       "tags_ko": [
         "Colocation"
       ]
-    },
-    {
-      "id": "c62b7cf24927",
-      "headline": "Hyperscale Operators and Colocation Continue to Drive Huge Changes in Data Center Capacity Trends",
-      "summary": "Hyperscale Operators and Colocation Continue to Drive Huge Changes in Data Center Capacity Trends",
-      "url": "https://www.srgresearch.com/articles/hyperscale-operators-and-colocation-continue-to-drive-huge-changes-in-data-center-capacity-trends",
-      "source": "Synergy Research",
-      "source_id": "synergy_research",
-      "published_at": "2026-07-09T08:50:07.907597+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Colocation"
-      ],
-      "headline_ko": "Hyperscale Operators\uc640 Colocation, Data Center Capacity \ud2b8\ub80c\ub4dc \ubcc0\ud654 \uc8fc\ub3c4 \uc9c0\uc18d",
-      "summary_ko": "Hyperscale Operators\uc640 Colocation, Data Center Capacity \ud2b8\ub80c\ub4dc \ubcc0\ud654 \uc8fc\ub3c4 \uc9c0\uc18d",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130",
-        "\uc6a9\ub7c9",
-        "\ucf54\ub85c\ucf00\uc774\uc158"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-19T00:13:27.301400+00:00",
+    "generated_at": "2026-07-20T02:57:06.247351+00:00",
     "cached": 159,
     "translated": 1,
     "skipped": 0
