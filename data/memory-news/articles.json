@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T00:08:10.901678+00:00",
-  "article_count": 32,
+  "generated_at": "2026-07-21T00:08:03.191603+00:00",
+  "article_count": 35,
   "articles": [
     {
       "id": "5de851c91b08",
@@ -66,6 +66,23 @@
       ]
     },
     {
+      "id": "a6f6bb3bbb60",
+      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "summary": "\u25aa Times Square roadblock campaign amplifies SK hynix\u2019s Nasdaq ADR trading debut \u25aa Brand film connects the dual meaning of \u201cmemory\u201d with meaningful moments in everyday life \u25aa Anamo...",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-10T23:58:29+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, \ube0c\ub79c\ub4dc\ub85c \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ubc1d\ud788\ub2e4, \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220 \uc870\uba85",
+      "summary_ko": "\u25aa \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub85c\ub4dc\ube14\ub85d \ucea0\ud398\uc778\uc774 SK hynix\uc758 Nasdaq ADR \uc0c1\uc7a5 \ub370\ubdd4\ub97c \uac15\ud654 \u25aa \ube0c\ub79c\ub4dc \ud544\ub984\uc774 'memory'\uc758 \uc774\uc911\uc801 \uc758\ubbf8\ub97c \uc77c\uc0c1\uc758 \uc758\ubbf8 \uc788\ub294 \uc21c\uac04\ub4e4\uacfc \uc5f0\uacb0 \u25aa Anamo...",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
       "id": "ecadcff03262",
       "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
       "summary": "\u25aa Times Square roadblock campaign amplifies SK hynix\u2019s Nasdaq ADR trading debut\u25aa Brand film connects the dual meaning of \u201cmemory\u201d with meaningful moments in everyday life\u25aa Anamorp...",
@@ -78,6 +95,40 @@
       ],
       "headline_ko": "SK hynix, \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ube0c\ub79c\ub4dc\ub85c \ubc1d\ud788\uba70 \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220 \uac15\uc870",
       "summary_ko": "\u25aa \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub85c\ub4dc\ube14\ub85d \ucea0\ud398\uc778\uc774 SK hynix\uc758 \ub098\uc2a4\ub2e5 ADR \uac70\ub798 \ub370\ubdd4\ub97c \uc54c\ub9ac\uace0, \ube0c\ub79c\ub4dc \ud544\ub984\uc740 '\uba54\ubaa8\ub9ac'\uc758 \uc774\uc911\uc801 \uc758\ubbf8\ub97c \uc77c\uc0c1\uc758 \uc758\ubbf8 \uc788\ub294 \uc21c\uac04\ub4e4\uacfc \uc5f0\uacb0\ud569\ub2c8\ub2e4. \u25aa \uc544\ub098\ubaa8\ub974...",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "5112de596b28",
+      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "summary": "SK hynix\u2019s HBM was brought to life through anamorphic 3D visuals on a Times Square digital screen.",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading-4/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-10T06:59:42+00:00",
+      "tags": [
+        "HBM"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220\uc744 \uac15\uc870\ud558\uba70 \ube0c\ub79c\ub4dc\ub85c \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ubc1d\ud788\ub2e4",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc758 HBM\uc774 \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub514\uc9c0\ud138 \uc2a4\ud06c\ub9b0\uc5d0\uc11c \uc544\ub098\ubaa8\ud53d 3D \uc2dc\uac01 \ud6a8\uacfc\ub85c \uad6c\ud604\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "HBM"
+      ]
+    },
+    {
+      "id": "f967befb3d86",
+      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "summary": "\u25b2The brand film visually expressed the dual meaning of \u201cmemory\u201das both a semiconductor technology and a human experience.",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-10T06:57:41+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220\uc744 \uac15\uc870\ud558\uba70 \ube0c\ub79c\ub4dc\ub85c \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ubc1d\ud788\ub2e4",
+      "summary_ko": "\u25b2\ube0c\ub79c\ub4dc \ud544\ub984\uc740 '\uba54\ubaa8\ub9ac'\uac00 \ubc18\ub3c4\uccb4 \uae30\uc220\uacfc \uc778\uac04 \uacbd\ud5d8\uc758 \uc774\uc911 \uc758\ubbf8\ub97c \uc2dc\uac01\uc801\uc73c\ub85c \ud45c\ud604\ud588\ub2e4.",
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
@@ -628,9 +679,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-19T00:08:10.971897+00:00",
+    "generated_at": "2026-07-21T00:08:19.896170+00:00",
     "cached": 32,
-    "translated": 0,
+    "translated": 3,
     "skipped": 0
   }
 }
