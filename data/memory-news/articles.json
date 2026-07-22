@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-07-21T00:08:03.191603+00:00",
-  "article_count": 35,
+  "generated_at": "2026-07-22T00:04:37.366161+00:00",
+  "article_count": 36,
   "articles": [
+    {
+      "id": "9e4681fa94c9",
+      "headline": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce",
+      "summary": "TrendForce\u2019s monthly July NAND Flash update reveals that the NAND Flash market has remained undersupplied throughout 2026, driven by surging AI-related demand and limited capacity...",
+      "url": "https://www.trendforce.com/presscenter/news/20260721-13148.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-07-21T07:09:47+00:00",
+      "tags": [
+        "NAND",
+        "Capacity"
+      ],
+      "headline_ko": "\ud2b8\ub80c\ub4dc\ud3ec\uc2a4, 2027\ub144 NAND Flash \uacf5\uae09 \uc99d\uac00\uac00 \uc218\uc694\ub97c \uc55e\uc9c8\ub7ec 2H27\uc5d0 \uacf5\uae09 \uc81c\uc57d \uc644\ud654 \uc804\ub9dd",
+      "summary_ko": "\ud2b8\ub80c\ub4dc\ud3ec\uc2a4\uc758 7\uc6d4 NAND Flash \uc5c5\ub370\uc774\ud2b8\uc5d0 \ub530\ub974\uba74, AI \uad00\ub828 \uc218\uc694 \uae09\uc99d\uacfc \uc81c\ud55c\ub41c \uc6a9\ub7c9\uc73c\ub85c \uc778\ud574 NAND Flash \uc2dc\uc7a5\uc740 2026\ub144 \ub0b4\ub0b4 \uacf5\uae09 \ubd80\uc871 \uc0c1\ud0dc\ub97c \uc720\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub41c\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "\uc6a9\ub7c9"
+      ]
+    },
     {
       "id": "5de851c91b08",
       "headline": "Micron Strengthens Automotive Ecosystem Supply Through Strategic Customer Agreements",
@@ -679,9 +698,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-21T00:08:19.896170+00:00",
-    "cached": 32,
-    "translated": 3,
+    "generated_at": "2026-07-22T00:04:44.440337+00:00",
+    "cached": 35,
+    "translated": 1,
     "skipped": 0
   }
 }
