@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-07-22T00:04:37.366161+00:00",
-  "article_count": 36,
+  "generated_at": "2026-07-23T00:12:13.311037+00:00",
+  "article_count": 37,
   "articles": [
+    {
+      "id": "a98026706ce2",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "As a full-stack AI memory creator, SK hynix offers a portfolio of AI memory solutions optimized for AI systems \u2014 including High Bandwidth Memory (HBM), AI-DRAM, and AI-NAND flash...",
+      "url": "https://news.skhynix.com/en/research-inside-ep1/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:49+00:00",
+      "tags": [
+        "HBM",
+        "DRAM",
+        "NAND",
+        "Memory"
+      ],
+      "headline_ko": "[\ub9ac\uc11c\uce58 \ub0b4\ubd80] SK\ud558\uc774\ub2c9\uc2a4, CTI \ud601\uc2e0\uc73c\ub85c 176\ub2e8 3D NAND \uc591\uc0b0 \uc9c4\uc804",
+      "summary_ko": "\ud480\uc2a4\ud0dd AI \uba54\ubaa8\ub9ac \ud06c\ub9ac\uc5d0\uc774\ud130\ub85c\uc11c SK\ud558\uc774\ub2c9\uc2a4\ub294 HBM, AI-DRAM, AI-NAND \ud50c\ub798\uc2dc \ub4f1 AI \uc2dc\uc2a4\ud15c\uc5d0 \ucd5c\uc801\ud654\ub41c AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "HBM",
+        "DRAM",
+        "NAND",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "9e4681fa94c9",
       "headline": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce",
@@ -698,8 +721,8 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-22T00:04:44.440337+00:00",
-    "cached": 35,
+    "generated_at": "2026-07-23T00:12:21.325273+00:00",
+    "cached": 36,
     "translated": 1,
     "skipped": 0
   }
