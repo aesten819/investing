@@ -247,14 +247,25 @@ h2 {
 }
 
 .metric-controls,
+.scope-controls,
 .ticker-controls {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
   gap: 8px;
 }
 
+.metric-controls,
+.ticker-controls {
+  justify-content: flex-end;
+}
+
+.scope-controls {
+  justify-content: flex-start;
+  margin-top: 12px;
+}
+
 .metric-button,
+.scope-button,
 .ticker-toggle {
   display: inline-flex;
   align-items: center;
@@ -296,7 +307,21 @@ h2 {
   background: color-mix(in srgb, var(--ticker-color) 14%, #121619);
 }
 
+.scope-button {
+  min-width: 52px;
+  padding: 7px 9px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 12px;
+}
+
+.scope-button.active {
+  border-color: var(--scope-accent);
+  background: color-mix(in srgb, var(--scope-accent) 16%, #121619);
+  color: #fff8e6;
+}
+
 .metric-button:hover,
+.scope-button:hover,
 .ticker-toggle:hover {
   border-color: #69727c;
   color: #ffffff;
@@ -612,6 +637,7 @@ h2 {
 
   .header-meta,
   .metric-controls,
+  .scope-controls,
   .ticker-controls {
     justify-content: flex-start;
   }

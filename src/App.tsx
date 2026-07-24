@@ -16,13 +16,13 @@ import EChart, { type ChartOption } from "./EChart";
 import {
   aggregateSeries,
   formatBillions,
-  latestAggregate,
   latestQuarter,
   latestTickerRows,
   metricDefinition,
   metricDefinitions,
   quarters,
   tickerBreakdown,
+  tickerSeries,
   tickers,
   type MetricKey,
   type Ticker,
@@ -64,6 +64,14 @@ const metricIcons: Record<MetricKey, typeof Activity> = {
 };
 
 type PageKey = "hyperscaler" | "memoryNews" | "infraNews";
+type TopChartScope = "aggregate" | Ticker;
+type TopChartPoint = {
+  quarter: string;
+  capex: number;
+  fcf: number;
+  cashAssets: number;
+  totalDebt: number;
+};
 
 const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeof Activity }> = [
   {
@@ -86,20 +94,51 @@ const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeo
   },
 ];
 
-function aggregateOption(metric: MetricKey): ChartOption {
+function topScopeLabel(scope: TopChartScope): string {
+  return scope === "aggregate" ? "5-company aggregate" : `${scope} standalone`;
+}
+
+function topScopeAccent(scope: TopChartScope, metric: MetricKey): string {
+  return scope === "aggregate" ? metricDefinition(metric).accent : tickerColors[scope];
+}
+
+function topSeriesForScope(scope: TopChartScope): TopChartPoint[] {
+  if (scope === "aggregate") {
+    return aggregateSeries;
+  }
+
+  return quarters.map((quarter) => {
+    const row = tickerSeries.find((item) => item.quarter === quarter && item.ticker === scope);
+
+    return {
+      quarter,
+      capex: row?.capex ?? 0,
+      fcf: row?.fcf ?? 0,
+      cashAssets: row?.cashAssets ?? 0,
+      totalDebt: row?.totalDebt ?? 0,
+    };
+  });
+}
+
+function topChartOption(
+  metric: MetricKey,
+  series: TopChartPoint[],
+  scope: TopChartScope,
+): ChartOption {
   const definition = metricDefinition(metric);
+  const accent = topScopeAccent(scope, metric);
 
   return {
     backgroundColor: "transparent",
-    color: [definition.accent],
+    color: [accent],
     dataZoom: [
       {
         bottom: 0,
         height: 20,
         borderColor: "#2a2f34",
         fillerColor: "rgba(255, 176, 0, 0.16)",
-        handleStyle: { color: definition.accent },
-        moveHandleStyle: { color: definition.accent },
+        handleStyle: { color: accent },
+        moveHandleStyle: { color: accent },
         textStyle: { color: "#7d858d" },
         type: "slider",
       },
@@ -123,7 +162,7 @@ function aggregateOption(metric: MetricKey): ChartOption {
       axisLabel: { color: "#87909a", fontSize: 11 },
       axisLine: { lineStyle: { color: "#2a2f34" } },
       axisTick: { show: false },
-      data: aggregateSeries.map((point) => point.quarter),
+      data: series.map((point) => point.quarter),
       type: "category",
     },
     yAxis: {
@@ -137,9 +176,9 @@ function aggregateOption(metric: MetricKey): ChartOption {
     },
     series: [
       {
-        data: aggregateSeries.map((point) => Number(point[metric].toFixed(2))),
-        lineStyle: { color: definition.accent, width: 2 },
-        name: definition.shortLabel,
+        data: series.map((point) => Number(point[metric].toFixed(2))),
+        lineStyle: { color: accent, width: 2 },
+        name: `${topScopeLabel(scope)} ${definition.shortLabel}`,
         showSymbol: false,
         smooth: 0.25,
         symbol: "circle",
@@ -203,9 +242,9 @@ function breakdownOption(metric: MetricKey, selectedTickers: Ticker[]): ChartOpt
   } as ChartOption;
 }
 
-function metricDelta(metric: MetricKey): number {
-  const current = aggregateSeries.at(-1)?.[metric] ?? 0;
-  const previous = aggregateSeries.at(-2)?.[metric] ?? 0;
+function metricDelta(metric: MetricKey, series: TopChartPoint[]): number {
+  const current = series.at(-1)?.[metric] ?? 0;
+  const previous = series.at(-2)?.[metric] ?? 0;
   return current - previous;
 }
 
@@ -235,20 +274,52 @@ function MetricButton({
   );
 }
 
-function StatCell({ metric }: { metric: MetricKey }) {
+function StatCell({
+  metric,
+  series,
+}: {
+  metric: MetricKey;
+  series: TopChartPoint[];
+}) {
   const definition = metricDefinition(metric);
-  const delta = metricDelta(metric);
+  const latestValue = series.at(-1)?.[metric] ?? 0;
+  const delta = metricDelta(metric, series);
   const positive = delta >= 0;
 
   return (
     <div className="stat-cell">
       <div className="stat-label">{definition.shortLabel}</div>
-      <div className="stat-value">{formatBillions(latestAggregate[metric])}</div>
+      <div className="stat-value">{formatBillions(latestValue)}</div>
       <div className={positive ? "stat-delta positive" : "stat-delta negative"}>
         {positive ? "+" : ""}
         {formatBillions(delta)} QoQ
       </div>
     </div>
+  );
+}
+
+function TopScopeButton({
+  scope,
+  selected,
+  onSelect,
+}: {
+  scope: TopChartScope;
+  selected: boolean;
+  onSelect: (scope: TopChartScope) => void;
+}) {
+  const label = scope === "aggregate" ? "ALL" : scope;
+  const accent = scope === "aggregate" ? "#ffb000" : tickerColors[scope];
+
+  return (
+    <button
+      className={`scope-button ${selected ? "active" : ""}`}
+      onClick={() => onSelect(scope)}
+      style={{ "--scope-accent": accent } as CSSProperties}
+      title={scope === "aggregate" ? "5-company aggregate" : `${scope} standalone series`}
+      type="button"
+    >
+      {label}
+    </button>
   );
 }
 
@@ -276,10 +347,15 @@ function TickerToggle({
 
 function HyperscalerPage() {
   const [activeMetric, setActiveMetric] = useState<MetricKey>("capex");
+  const [topScope, setTopScope] = useState<TopChartScope>("aggregate");
   const [selectedTickers, setSelectedTickers] = useState<Ticker[]>(tickers);
 
   const selectedDefinition = metricDefinition(activeMetric);
-  const topChart = useMemo(() => aggregateOption(activeMetric), [activeMetric]);
+  const topSeries = useMemo(() => topSeriesForScope(topScope), [topScope]);
+  const topChart = useMemo(
+    () => topChartOption(activeMetric, topSeries, topScope),
+    [activeMetric, topSeries, topScope],
+  );
   const breakdownChart = useMemo(
     () => breakdownOption(activeMetric, selectedTickers),
     [activeMetric, selectedTickers],
@@ -313,8 +389,21 @@ function HyperscalerPage() {
         <div className="primary-panel">
           <div className="panel-header">
             <div>
-              <div className="section-kicker">5-company aggregate</div>
-              <h2>{selectedDefinition.label}</h2>
+              <div className="section-kicker">{topScopeLabel(topScope)}</div>
+              <h2>
+                {topScope === "aggregate" ? selectedDefinition.label : `${topScope} ${selectedDefinition.shortLabel}`}
+              </h2>
+              <div className="scope-controls" aria-label="Top chart company scope">
+                <TopScopeButton onSelect={setTopScope} scope="aggregate" selected={topScope === "aggregate"} />
+                {tickers.map((ticker) => (
+                  <TopScopeButton
+                    key={ticker}
+                    onSelect={setTopScope}
+                    scope={ticker}
+                    selected={topScope === ticker}
+                  />
+                ))}
+              </div>
             </div>
             <div className="metric-controls">
               {metricDefinitions.map((metric) => (
@@ -333,10 +422,10 @@ function HyperscalerPage() {
         <aside className="stat-panel">
           <div className="stat-header">
             <Database aria-hidden="true" size={17} />
-            <span>Latest Aggregate</span>
+            <span>{topScope === "aggregate" ? "Latest Aggregate" : `Latest ${topScope}`}</span>
           </div>
           {metricDefinitions.map((metric) => (
-            <StatCell key={metric.key} metric={metric.key} />
+            <StatCell key={metric.key} metric={metric.key} series={topSeries} />
           ))}
         </aside>
       </section>
