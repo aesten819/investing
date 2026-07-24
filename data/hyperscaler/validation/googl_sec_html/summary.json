@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-04T19:42:42.253836Z",
+  "generated_at": "2026-07-24T19:07:50.196324Z",
   "ticker": "GOOGL",
   "source_folder_ticker": "GOOG",
-  "rows": 507,
+  "rows": 546,
   "status_counts": {
-    "match": 413,
+    "match": 452,
     "mismatch": 60,
     "missing_source": 10,
     "skipped": 20,
@@ -12,16 +12,16 @@
   },
   "by_statement": {
     "balance_sheet": {
-      "match": 160,
+      "match": 177,
       "mismatch": 52,
       "missing_source": 5,
       "not_comparable": 4
     },
     "cash_flow_statement": {
-      "match": 104
+      "match": 112
     },
     "income_statement": {
-      "match": 149,
+      "match": 163,
       "mismatch": 8,
       "missing_source": 5,
       "skipped": 20
@@ -29,171 +29,174 @@
   },
   "by_metric": {
     "accumulated_other_comprehensive_income": {
-      "match": 13
+      "match": 14
     },
     "capital_expenditure": {
-      "match": 13
+      "match": 14
     },
     "cash_and_equivalents": {
-      "match": 13
+      "match": 14
     },
     "change_in_cash_and_equivalents": {
-      "match": 13
+      "match": 14
     },
     "cost_of_revenue": {
-      "match": 13
+      "match": 14
     },
     "current_assets": {
-      "match": 13
+      "match": 14
     },
     "current_debt": {
-      "match": 13
+      "match": 14
     },
     "current_investments": {
       "mismatch": 9,
-      "match": 4
+      "match": 5
     },
     "current_liabilities": {
-      "match": 13
+      "match": 14
     },
     "earnings_per_share": {
-      "match": 10,
+      "match": 11,
       "skipped": 3
     },
     "earnings_per_share_diluted": {
-      "match": 10,
+      "match": 11,
       "skipped": 3
     },
     "effect_of_exchange_rate_changes": {
-      "match": 13
+      "match": 14
     },
     "free_cash_flow": {
-      "match": 13
+      "match": 14
     },
     "goodwill_and_intangible_assets": {
       "mismatch": 4,
-      "match": 9
+      "match": 10
     },
     "gross_profit": {
-      "match": 13
+      "match": 14
     },
     "income_tax_expense": {
-      "match": 13
+      "match": 14
     },
     "interest_expense": {
       "missing_source": 4,
-      "match": 8,
+      "match": 9,
       "mismatch": 1
     },
     "investments": {
-      "mismatch": 13
+      "mismatch": 13,
+      "match": 1
     },
     "net_cash_flow_from_financing": {
-      "match": 13
+      "match": 14
     },
     "net_cash_flow_from_investing": {
-      "match": 13
+      "match": 14
     },
     "net_cash_flow_from_operations": {
-      "match": 13
+      "match": 14
     },
     "net_income": {
-      "match": 13
+      "match": 14
     },
     "non_current_assets": {
-      "mismatch": 13
+      "mismatch": 13,
+      "match": 1
     },
     "non_current_debt": {
-      "match": 13
+      "match": 14
     },
     "non_current_investments": {
       "mismatch": 9,
-      "not_comparable": 4
+      "not_comparable": 4,
+      "match": 1
     },
     "operating_expense": {
       "mismatch": 6,
-      "match": 7
+      "match": 8
     },
     "operating_income": {
-      "match": 13
+      "match": 14
     },
     "property_plant_and_equipment": {
       "missing_source": 5,
       "mismatch": 4,
-      "match": 4
+      "match": 5
     },
     "research_and_development": {
-      "match": 13
+      "match": 14
     },
     "retained_earnings": {
-      "match": 13
+      "match": 14
     },
     "revenue": {
-      "match": 13
+      "match": 14
     },
     "selling_general_and_administrative_expenses": {
-      "match": 13
+      "match": 14
     },
     "share_based_compensation": {
-      "match": 13
+      "match": 14
     },
     "shareholders_equity": {
-      "match": 13
+      "match": 14
     },
     "total_assets": {
-      "match": 13
+      "match": 14
     },
     "total_debt": {
-      "match": 13
+      "match": 14
     },
     "total_liabilities": {
-      "match": 13
+      "match": 14
     },
     "weighted_average_shares": {
       "skipped": 7,
-      "match": 5,
+      "match": 6,
       "mismatch": 1
     },
     "weighted_average_shares_diluted": {
       "skipped": 7,
-      "match": 5,
+      "match": 6,
       "missing_source": 1
     }
   },
   "core_metric_status": {
     "cash_and_equivalents": {
-      "match": 13
+      "match": 14
     },
     "current_investments": {
       "mismatch": 9,
-      "match": 4
+      "match": 5
     },
     "net_cash_flow_from_operations": {
-      "match": 13
+      "match": 14
     },
     "capital_expenditure": {
-      "match": 13
+      "match": 14
     },
     "free_cash_flow": {
-      "match": 13
+      "match": 14
     },
     "current_debt": {
-      "match": 13
+      "match": 14
     },
     "non_current_debt": {
-      "match": 13
+      "match": 14
     },
     "total_debt": {
-      "match": 13
+      "match": 14
     },
     "revenue": {
-      "match": 13
+      "match": 14
     },
     "operating_income": {
-      "match": 13
+      "match": 14
     },
     "net_income": {
-      "match": 13
+      "match": 14
     }
   },
   "largest_mismatches": [

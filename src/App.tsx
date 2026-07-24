@@ -15,12 +15,13 @@ import {
 import EChart, { type ChartOption } from "./EChart";
 import {
   aggregateSeries,
+  commonQuarters,
   formatBillions,
+  latestQuarterByTicker,
   latestQuarter,
   latestTickerRows,
   metricDefinition,
   metricDefinitions,
-  quarters,
   tickerBreakdown,
   tickerSeries,
   tickers,
@@ -107,17 +108,15 @@ function topSeriesForScope(scope: TopChartScope): TopChartPoint[] {
     return aggregateSeries;
   }
 
-  return quarters.map((quarter) => {
-    const row = tickerSeries.find((item) => item.quarter === quarter && item.ticker === scope);
-
-    return {
-      quarter,
-      capex: row?.capex ?? 0,
-      fcf: row?.fcf ?? 0,
-      cashAssets: row?.cashAssets ?? 0,
-      totalDebt: row?.totalDebt ?? 0,
-    };
-  });
+  return tickerSeries
+    .filter((row) => row.ticker === scope)
+    .map((row) => ({
+      quarter: row.quarter,
+      capex: row.capex,
+      fcf: row.fcf,
+      cashAssets: row.cashAssets,
+      totalDebt: row.totalDebt,
+    }));
 }
 
 function topChartOption(
@@ -380,7 +379,7 @@ function HyperscalerPage() {
         </div>
         <div className="header-meta">
           <span>{latestQuarter}</span>
-          <span>{quarters.length} quarters</span>
+          <span>{commonQuarters.length} common quarters</span>
           <span>{tickers.length} tickers</span>
         </div>
       </header>
@@ -422,7 +421,11 @@ function HyperscalerPage() {
         <aside className="stat-panel">
           <div className="stat-header">
             <Database aria-hidden="true" size={17} />
-            <span>{topScope === "aggregate" ? "Latest Aggregate" : `Latest ${topScope}`}</span>
+            <span>
+              {topScope === "aggregate"
+                ? `Latest Aggregate ${latestQuarter}`
+                : `Latest ${topScope} ${latestQuarterByTicker[topScope]}`}
+            </span>
           </div>
           {metricDefinitions.map((metric) => (
             <StatCell key={metric.key} metric={metric.key} series={topSeries} />

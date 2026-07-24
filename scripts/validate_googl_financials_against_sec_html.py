@@ -13,6 +13,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any, Callable
 
+from googl_edgar_table_extractor import extract_googl_financial_rows_from_html
 from validate_amzn_financials_against_sec_html import (
     FilingFacts,
     SecMetric,
@@ -453,8 +454,10 @@ def validate(company_rows: list[dict[str, Any]], html_by_quarter: dict[str, dict
     ytd_history: dict[tuple[int, int, str], float] = {}
     rows: list[dict[str, Any]] = []
     filing_cache: dict[Path, FilingFacts] = {}
+    table_cache: dict[Path, dict[str, dict[str, float]]] = {}
+    sorted_company_rows = sorted(company_rows, key=lambda row: row["report_period"])
 
-    for company_row in sorted(company_rows, key=lambda row: row["report_period"]):
+    for company_row in sorted_company_rows:
         quarter = company_row["quarter"]
         html_info = html_by_quarter.get(quarter)
         if html_info is None:
@@ -463,16 +466,31 @@ def validate(company_rows: list[dict[str, Any]], html_by_quarter: dict[str, dict
 
         html_path = Path(html_info["path"])
         filing = filing_cache.setdefault(html_path, FilingFacts(html_path))
+        table_financial_rows: dict[str, dict[str, float]] = {}
+        if not filing.facts:
+            table_financial_rows = table_cache.setdefault(
+                html_path,
+                extract_googl_financial_rows_from_html(
+                    html_path,
+                    company_row["report_period"],
+                    sorted_company_rows,
+                ),
+            )
         fiscal_year, fiscal_quarter = fiscal_year_quarter(company_row["fiscal_period"])
 
         for metric_def in SEC_METRICS:
-            for tag in metric_def.tags:
-                if metric_def.value_type == "duration":
-                    ytd_value = filing.ytd_value(company_row, tag)
-                    if ytd_value is not None:
-                        ytd_history[(fiscal_year, fiscal_quarter, tag)] = ytd_value
+            statement_values = table_financial_rows.get(metric_def.statement, {})
+            if metric_def.metric in statement_values:
+                sec_value = statement_values[metric_def.metric]
+                method = "sec_html_table:EDGAR converted financial statement table"
+            else:
+                for tag in metric_def.tags:
+                    if metric_def.value_type == "duration":
+                        ytd_value = filing.ytd_value(company_row, tag)
+                        if ytd_value is not None:
+                            ytd_history[(fiscal_year, fiscal_quarter, tag)] = ytd_value
 
-            sec_value, method = metric_def.calculator(filing, company_row, ytd_history)
+                sec_value, method = metric_def.calculator(filing, company_row, ytd_history)
             current_value = source_value(company_row, metric_def.metric)
             tolerance = tolerance_for(metric_def.unit_kind)
             difference = None if current_value is None or sec_value is None else current_value - sec_value

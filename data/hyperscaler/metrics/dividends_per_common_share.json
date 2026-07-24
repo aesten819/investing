@@ -102,5 +102,13 @@
     "GOOGL": 0.21,
     "META": 0.525,
     "ORCL": 0.5
+  },
+  {
+    "quarter": "2026Q2",
+    "MSFT": "",
+    "AMZN": "",
+    "GOOGL": 0.22,
+    "META": "",
+    "ORCL": ""
   }
 ]

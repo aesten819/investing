@@ -2,11 +2,11 @@
 
 Validation of stored GOOGL financial data against locally archived GOOG SEC inline XBRL HTML filings.
 
-Generated: 2026-07-04T19:42:42.253836Z
+Generated: 2026-07-24T19:07:50.196324Z
 
 ## Status Counts
 
-- match: 413
+- match: 452
 - mismatch: 60
 - missing_source: 10
 - not_comparable: 4
@@ -14,17 +14,17 @@ Generated: 2026-07-04T19:42:42.253836Z
 
 ## Core Metrics
 
-- cash_and_equivalents: {'match': 13}
-- current_investments: {'mismatch': 9, 'match': 4}
-- net_cash_flow_from_operations: {'match': 13}
-- capital_expenditure: {'match': 13}
-- free_cash_flow: {'match': 13}
-- current_debt: {'match': 13}
-- non_current_debt: {'match': 13}
-- total_debt: {'match': 13}
-- revenue: {'match': 13}
-- operating_income: {'match': 13}
-- net_income: {'match': 13}
+- cash_and_equivalents: {'match': 14}
+- current_investments: {'mismatch': 9, 'match': 5}
+- net_cash_flow_from_operations: {'match': 14}
+- capital_expenditure: {'match': 14}
+- free_cash_flow: {'match': 14}
+- current_debt: {'match': 14}
+- non_current_debt: {'match': 14}
+- total_debt: {'match': 14}
+- revenue: {'match': 14}
+- operating_income: {'match': 14}
+- net_income: {'match': 14}
 
 ## Largest Mismatches
 

@@ -102,5 +102,13 @@
     "GOOGL": 0.0,
     "META": null,
     "ORCL": null
+  },
+  {
+    "quarter": "2026Q2",
+    "MSFT": "",
+    "AMZN": "",
+    "GOOGL": 9991000000.0,
+    "META": "",
+    "ORCL": ""
   }
 ]

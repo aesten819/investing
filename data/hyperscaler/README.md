@@ -2,13 +2,13 @@
 
 Quarterly income statement, balance sheet, and cash flow dataset for MSFT, AMZN, GOOGL, META, ORCL.
 
-Requested range: latest 13 quarters per company.
+Requested range: latest 14 quarters per company.
 
 Available range in the current dataset:
 
 - MSFT: 13 quarters
 - AMZN: 13 quarters
-- GOOGL: 13 quarters
+- GOOGL: 14 quarters
 - META: 13 quarters
 - ORCL: 12 quarters
 

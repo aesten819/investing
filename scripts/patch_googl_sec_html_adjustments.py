@@ -13,6 +13,7 @@ from typing import Any
 from fetch_hyperscaler_data import (
     BALANCE_SHEET_FIELDS,
     CASH_FLOW_FIELDS,
+    INCOME_STATEMENT_FIELDS,
     SOURCE_AUDIT_FIELDS,
     SOURCE_IDENTITY_FIELDS,
     build_panel,
@@ -21,6 +22,7 @@ from fetch_hyperscaler_data import (
     write_csv,
     write_json,
 )
+from googl_edgar_table_extractor import extract_googl_financial_rows_from_html
 from validate_amzn_financials_against_sec_html import FilingFacts, fiscal_year_quarter
 
 TICKER = "GOOGL"
@@ -90,6 +92,32 @@ def sec_filing_for(
     return html_info, filing
 
 
+def fiscal_period_for(report_period: str) -> str:
+    return f"{report_period[:4]}-Q{quarter_label(report_period)[-1]}"
+
+
+def source_identity(report_period: str, filing_url: str) -> dict[str, Any]:
+    return {
+        "ticker": TICKER,
+        "quarter": quarter_label(report_period),
+        "report_period": report_period,
+        "fiscal_period": fiscal_period_for(report_period),
+        "period": "quarterly",
+        "currency": "USD",
+        "accession_number": "",
+        "filing_url": filing_url,
+    }
+
+
+def has_inline_xbrl(path: Path) -> bool:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    return "ix:nonFraction" in text or "ix:nonfraction" in text
+
+
+def row_by_quarter(rows: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    return {row.get("quarter", ""): row for row in rows}
+
+
 def numeric_or_none(value: Any) -> float | None:
     if value in (None, ""):
         return None
@@ -126,6 +154,8 @@ def patch_googl_debt_from_sec_html(
         if row.get("ticker") != TICKER or row.get("quarter") not in html_by_quarter:
             continue
         html_info, filing = sec_filing_for(row, html_by_quarter, cache)
+        if not filing.facts:
+            continue
         current_debt, non_current_debt, total_debt = sec_debt_values(filing, row["report_period"])
         changed = (
             value_changed(row.get("current_debt"), current_debt)
@@ -161,6 +191,8 @@ def patch_googl_capex_from_sec_html(
         if row.get("ticker") != TICKER or row.get("quarter") not in html_by_quarter:
             continue
         html_info, filing = sec_filing_for(row, html_by_quarter, cache)
+        if not filing.facts:
+            continue
         fiscal_year, fiscal_quarter = fiscal_year_quarter(row["fiscal_period"])
 
         ytd_value = filing.ytd_value(row, CAPEX_TAG)
@@ -193,9 +225,93 @@ def patch_googl_capex_from_sec_html(
     return rows_touched, value_patched
 
 
-def write_googl_source_files(data_dir: Path, balance_rows: list[dict[str, Any]], cash_rows: list[dict[str, Any]]) -> None:
+def sync_rows_from_edgar_tables(
+    balance_rows: list[dict[str, Any]],
+    cash_rows: list[dict[str, Any]],
+    income_rows: list[dict[str, Any]],
+    html_by_quarter: dict[str, dict[str, str]],
+) -> tuple[int, int]:
+    added = 0
+    refreshed = 0
+    balance_by_quarter = row_by_quarter(balance_rows)
+    cash_by_quarter = row_by_quarter(cash_rows)
+    income_by_quarter = row_by_quarter(income_rows)
+
+    for quarter, html_info in sorted(html_by_quarter.items(), key=lambda item: item[1]["report_period"]):
+        report_period = html_info["report_period"]
+        html_path = Path(html_info["local_path"])
+        if (
+            quarter in balance_by_quarter
+            and quarter in cash_by_quarter
+            and quarter in income_by_quarter
+            and has_inline_xbrl(html_path)
+        ):
+            continue
+
+        extracted_rows = extract_googl_financial_rows_from_html(html_path, report_period, cash_rows)
+        identity = source_identity(report_period, html_info["local_path"])
+
+        if quarter in balance_by_quarter:
+            balance_row = balance_by_quarter[quarter]
+            balance_row.update(identity)
+            balance_row.update(extracted_rows["balance_sheet"])
+            refreshed += 1
+        else:
+            balance_row = {**identity, **extracted_rows["balance_sheet"]}
+            balance_rows.append(balance_row)
+            balance_by_quarter[quarter] = balance_row
+            added += 1
+        if quarter in balance_by_quarter:
+            balance_row["debt_source"] = "sec_html_table:pure_financial_debt"
+            balance_row["debt_definition"] = DEBT_DEFINITION
+            balance_row["debt_sec_accession_number"] = ""
+            balance_row["debt_sec_filed"] = ""
+            balance_row["debt_sec_filing_url"] = html_info["local_path"]
+
+        if quarter in cash_by_quarter:
+            cash_row = cash_by_quarter[quarter]
+            cash_row.update(identity)
+            cash_row.update(extracted_rows["cash_flow_statement"])
+            refreshed += 1
+        else:
+            cash_row = {**identity, **extracted_rows["cash_flow_statement"]}
+            cash_rows.append(cash_row)
+            cash_by_quarter[quarter] = cash_row
+            added += 1
+        if quarter in cash_by_quarter:
+            cash_row["capex_source"] = "sec_html_table:Purchases of property and equipment"
+            cash_row["capex_sec_accession_number"] = ""
+            cash_row["capex_sec_filed"] = ""
+            cash_row["capex_sec_frame"] = "YTD cash flow statement less prior same-year quarters"
+            cash_row["capex_sec_filing_url"] = html_info["local_path"]
+            cash_row["fcf_source"] = "calculated:net_cash_flow_from_operations_minus_abs_capital_expenditure"
+
+        if quarter in income_by_quarter:
+            income_row = income_by_quarter[quarter]
+            income_row.update(identity)
+            income_row.update(extracted_rows["income_statement"])
+            refreshed += 1
+        else:
+            income_row = {**identity, **extracted_rows["income_statement"]}
+            income_rows.append(income_row)
+            income_by_quarter[quarter] = income_row
+            added += 1
+
+    balance_rows.sort(key=lambda row: row.get("report_period", ""))
+    cash_rows.sort(key=lambda row: row.get("report_period", ""))
+    income_rows.sort(key=lambda row: row.get("report_period", ""))
+    return added, refreshed
+
+
+def write_googl_source_files(
+    data_dir: Path,
+    balance_rows: list[dict[str, Any]],
+    cash_rows: list[dict[str, Any]],
+    income_rows: list[dict[str, Any]],
+) -> None:
     write_json(data_dir / "source" / "balance_sheets" / f"{TICKER}.json", balance_rows)
     write_json(data_dir / "source" / "cash_flow_statements" / f"{TICKER}.json", cash_rows)
+    write_json(data_dir / "source" / "income_statements" / f"{TICKER}.json", income_rows)
     write_csv(
         data_dir / "source" / "balance_sheets" / f"{TICKER}.csv",
         balance_rows,
@@ -205,6 +321,11 @@ def write_googl_source_files(data_dir: Path, balance_rows: list[dict[str, Any]],
         data_dir / "source" / "cash_flow_statements" / f"{TICKER}.csv",
         cash_rows,
         SOURCE_IDENTITY_FIELDS + CASH_FLOW_FIELDS + SOURCE_AUDIT_FIELDS,
+    )
+    write_csv(
+        data_dir / "source" / "income_statements" / f"{TICKER}.csv",
+        income_rows,
+        SOURCE_IDENTITY_FIELDS + INCOME_STATEMENT_FIELDS + SOURCE_AUDIT_FIELDS,
     )
 
 
@@ -228,14 +349,27 @@ def main(argv: list[str] | None = None) -> int:
     tickers = load_tickers(args.data_dir, balance_sheets)
     cache: dict[Path, FilingFacts] = {}
 
+    added_rows, refreshed_rows = sync_rows_from_edgar_tables(
+        balance_sheets.get(TICKER, []),
+        cash_flows.get(TICKER, []),
+        income_statements.get(TICKER, []),
+        html_by_quarter,
+    )
     debt_rows, debt_value_patches = patch_googl_debt_from_sec_html(balance_sheets.get(TICKER, []), html_by_quarter, cache)
     capex_rows, capex_value_patches = patch_googl_capex_from_sec_html(cash_flows.get(TICKER, []), html_by_quarter, cache)
-    write_googl_source_files(args.data_dir, balance_sheets.get(TICKER, []), cash_flows.get(TICKER, []))
+    write_googl_source_files(
+        args.data_dir,
+        balance_sheets.get(TICKER, []),
+        cash_flows.get(TICKER, []),
+        income_statements.get(TICKER, []),
+    )
 
     limit = max(len(rows) for rows in balance_sheets.values())
     rows = build_panel(balance_sheets, cash_flows, income_statements, tickers, limit=limit)
     export_dataset(rows, args.data_dir, tickers, quarters_per_company=limit)
 
+    print(f"Added missing GOOGL source rows from SEC HTML tables: {added_rows}")
+    print(f"Refreshed existing GOOGL source rows from SEC HTML tables: {refreshed_rows}")
     print(f"Patched GOOGL debt rows from SEC HTML: {debt_rows} rows, {debt_value_patches} value changes")
     print(f"Patched GOOGL capex rows from SEC HTML: {capex_rows} rows, {capex_value_patches} value changes")
     print(f"Wrote refreshed derived dataset to {args.data_dir}")

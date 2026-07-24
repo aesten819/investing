@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-05T12:53:28.582885Z",
+  "generated_at": "2026-07-24T19:07:12.480479Z",
   "dataset": "hyperscaler_quarterly_financials",
   "period": "quarterly",
-  "quarters_per_company": 13,
-  "row_count": 64,
+  "quarters_per_company": 14,
+  "row_count": 65,
   "available_quarters_by_ticker": {
     "MSFT": 13,
     "AMZN": 13,
-    "GOOGL": 13,
+    "GOOGL": 14,
     "META": 13,
     "ORCL": 12
   },

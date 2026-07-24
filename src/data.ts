@@ -138,8 +138,11 @@ export const tickerSeries = panelRows
   .sort((a, b) => a.quarter.localeCompare(b.quarter) || a.ticker.localeCompare(b.ticker));
 
 export const quarters = Array.from(new Set(tickerSeries.map((row) => row.quarter))).sort();
+export const commonQuarters = quarters.filter((quarter) =>
+  tickers.every((ticker) => tickerSeries.some((row) => row.quarter === quarter && row.ticker === ticker)),
+);
 
-export const aggregateSeries: AggregatePoint[] = quarters.map((quarter) => {
+export const aggregateSeries: AggregatePoint[] = commonQuarters.map((quarter) => {
   const rows = tickerSeries.filter((row) => row.quarter === quarter);
 
   return {
@@ -151,7 +154,7 @@ export const aggregateSeries: AggregatePoint[] = quarters.map((quarter) => {
   };
 });
 
-export const latestQuarter = quarters.at(-1) ?? "";
+export const latestQuarter = commonQuarters.at(-1) ?? "";
 
 export const latestAggregate = aggregateSeries.at(-1) ?? {
   quarter: "",
@@ -162,6 +165,12 @@ export const latestAggregate = aggregateSeries.at(-1) ?? {
 };
 
 export const latestTickerRows = tickerSeries.filter((row) => row.quarter === latestQuarter);
+export const latestQuarterByTicker = Object.fromEntries(
+  tickers.map((ticker) => {
+    const tickerRows = tickerSeries.filter((row) => row.ticker === ticker);
+    return [ticker, tickerRows.at(-1)?.quarter ?? ""];
+  }),
+) as Record<Ticker, string>;
 
 export function formatBillions(value: number): string {
   const abs = Math.abs(value);
@@ -177,7 +186,7 @@ export function metricDefinition(key: MetricKey): MetricDefinition {
 }
 
 export function tickerBreakdown(metric: MetricKey, selectedTickers: Ticker[]): Array<Record<string, number | string>> {
-  return quarters.map((quarter) => {
+  return commonQuarters.map((quarter) => {
     const point: Record<string, number | string> = { quarter };
     for (const ticker of selectedTickers) {
       const row = tickerSeries.find((item) => item.quarter === quarter && item.ticker === ticker);
