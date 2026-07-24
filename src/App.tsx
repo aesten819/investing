@@ -8,15 +8,19 @@ import {
   LayoutDashboard,
   LineChart,
   Newspaper,
+  Percent,
   Rss,
   Scale,
   ServerCog,
+  TrendingUp,
 } from "lucide-react";
 import EChart, { type ChartOption } from "./EChart";
 import {
   aggregateSeries,
   commonQuarters,
   formatBillions,
+  formatMetricDelta,
+  formatMetricValue,
   latestQuarterByTicker,
   latestQuarter,
   latestTickerRows,
@@ -62,6 +66,10 @@ const metricIcons: Record<MetricKey, typeof Activity> = {
   fcf: LineChart,
   cashAssets: CircleDollarSign,
   totalDebt: Scale,
+  revenue: CircleDollarSign,
+  grossMargin: Percent,
+  operatingIncome: TrendingUp,
+  operatingMargin: Percent,
 };
 
 type PageKey = "hyperscaler" | "memoryNews" | "infraNews";
@@ -72,6 +80,10 @@ type TopChartPoint = {
   fcf: number;
   cashAssets: number;
   totalDebt: number;
+  revenue: number;
+  grossMargin: number;
+  operatingIncome: number;
+  operatingMargin: number;
 };
 
 const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeof Activity }> = [
@@ -116,7 +128,15 @@ function topSeriesForScope(scope: TopChartScope): TopChartPoint[] {
       fcf: row.fcf,
       cashAssets: row.cashAssets,
       totalDebt: row.totalDebt,
+      revenue: row.revenue,
+      grossMargin: row.grossMargin,
+      operatingIncome: row.operatingIncome,
+      operatingMargin: row.operatingMargin,
     }));
+}
+
+function axisValueLabel(metric: MetricKey, value: number): string {
+  return metricDefinition(metric).unit === "percent" ? `${Math.round(value)}%` : `${value}`;
 }
 
 function topChartOption(
@@ -155,7 +175,7 @@ function topChartOption(
       backgroundColor: "#111418",
       borderColor: "#343a40",
       textStyle: { color: "#f2f4f5" },
-      valueFormatter: (value) => `${formatBillions(Number(value))}`,
+      valueFormatter: (value) => `${formatMetricValue(metric, Number(value))}`,
     },
     xAxis: {
       axisLabel: { color: "#87909a", fontSize: 11 },
@@ -167,7 +187,7 @@ function topChartOption(
     yAxis: {
       axisLabel: {
         color: "#87909a",
-        formatter: (value: number) => `${value}`,
+        formatter: (value: number) => axisValueLabel(metric, value),
       },
       axisLine: { show: false },
       splitLine: { lineStyle: { color: "#22272d" } },
@@ -190,6 +210,7 @@ function topChartOption(
 function breakdownOption(metric: MetricKey, selectedTickers: Ticker[]): ChartOption {
   const definition = metricDefinition(metric);
   const data = tickerBreakdown(metric, selectedTickers);
+  const stacked = definition.unit !== "percent";
 
   return {
     backgroundColor: "transparent",
@@ -215,7 +236,7 @@ function breakdownOption(metric: MetricKey, selectedTickers: Ticker[]): ChartOpt
       backgroundColor: "#111418",
       borderColor: "#343a40",
       textStyle: { color: "#f2f4f5" },
-      valueFormatter: (value) => `${formatBillions(Number(value))}`,
+      valueFormatter: (value) => `${formatMetricValue(metric, Number(value))}`,
     },
     xAxis: {
       axisLabel: { color: "#87909a", fontSize: 11 },
@@ -225,17 +246,20 @@ function breakdownOption(metric: MetricKey, selectedTickers: Ticker[]): ChartOpt
       type: "category",
     },
     yAxis: {
-      axisLabel: { color: "#87909a" },
+      axisLabel: {
+        color: "#87909a",
+        formatter: (value: number) => axisValueLabel(metric, value),
+      },
       axisLine: { show: false },
       splitLine: { lineStyle: { color: "#22272d" } },
       type: "value",
     },
     series: selectedTickers.map((ticker) => ({
       barMaxWidth: 22,
-      data: data.map((point) => Number(point[ticker])),
+      data: data.map((point) => Number(Number(point[ticker]).toFixed(2))),
       emphasis: { focus: "series" },
       name: ticker,
-      stack: definition.key,
+      stack: stacked ? definition.key : undefined,
       type: "bar",
     })),
   } as ChartOption;
@@ -288,10 +312,9 @@ function StatCell({
   return (
     <div className="stat-cell">
       <div className="stat-label">{definition.shortLabel}</div>
-      <div className="stat-value">{formatBillions(latestValue)}</div>
+      <div className="stat-value">{formatMetricValue(metric, latestValue)}</div>
       <div className={positive ? "stat-delta positive" : "stat-delta negative"}>
-        {positive ? "+" : ""}
-        {formatBillions(delta)} QoQ
+        {formatMetricDelta(metric, delta)} QoQ
       </div>
     </div>
   );
@@ -471,6 +494,9 @@ function HyperscalerPage() {
                   <th>Cash Assets</th>
                   <th>Debt</th>
                   <th>Revenue</th>
+                  <th>Gross Margin</th>
+                  <th>Op Income</th>
+                  <th>Op Margin</th>
                   <th>Net Income</th>
                 </tr>
               </thead>
@@ -486,6 +512,9 @@ function HyperscalerPage() {
                     <td>{formatBillions(row.cashAssets)}</td>
                     <td>{formatBillions(row.totalDebt)}</td>
                     <td>{formatBillions(row.revenue)}</td>
+                    <td>{formatMetricValue("grossMargin", row.grossMargin)}</td>
+                    <td>{formatBillions(row.operatingIncome)}</td>
+                    <td>{formatMetricValue("operatingMargin", row.operatingMargin)}</td>
                     <td>{formatBillions(row.netIncome)}</td>
                   </tr>
                 ))}

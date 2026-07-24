@@ -16,12 +16,23 @@ export type RawFinancialRow = {
   current_investments?: number | string | null;
   total_debt?: number | string | null;
   revenue?: number | string | null;
+  gross_profit?: number | string | null;
   operating_income?: number | string | null;
   net_income?: number | string | null;
   [key: string]: number | string | null | undefined;
 };
 
-export type MetricKey = "capex" | "fcf" | "cashAssets" | "totalDebt";
+export type MetricKey =
+  | "capex"
+  | "fcf"
+  | "cashAssets"
+  | "totalDebt"
+  | "revenue"
+  | "grossMargin"
+  | "operatingIncome"
+  | "operatingMargin";
+
+export type MetricUnit = "billions" | "percent";
 
 export type MetricDefinition = {
   key: MetricKey;
@@ -29,6 +40,7 @@ export type MetricDefinition = {
   shortLabel: string;
   accent: string;
   source: string;
+  unit: MetricUnit;
 };
 
 export type AggregatePoint = {
@@ -37,6 +49,10 @@ export type AggregatePoint = {
   fcf: number;
   cashAssets: number;
   totalDebt: number;
+  revenue: number;
+  grossMargin: number;
+  operatingIncome: number;
+  operatingMargin: number;
 };
 
 export type TickerPoint = {
@@ -47,6 +63,10 @@ export type TickerPoint = {
   cashAssets: number;
   totalDebt: number;
   revenue: number;
+  grossProfit: number;
+  grossMargin: number;
+  operatingIncome: number;
+  operatingMargin: number;
   netIncome: number;
 };
 
@@ -59,6 +79,7 @@ export const metricDefinitions: MetricDefinition[] = [
     shortLabel: "Capex",
     accent: "#ffb000",
     source: "capital_expenditure, absolute value",
+    unit: "billions",
   },
   {
     key: "fcf",
@@ -66,6 +87,7 @@ export const metricDefinitions: MetricDefinition[] = [
     shortLabel: "FCF",
     accent: "#00d18f",
     source: "net_cash_flow_from_operations - abs(capital_expenditure)",
+    unit: "billions",
   },
   {
     key: "cashAssets",
@@ -73,6 +95,7 @@ export const metricDefinitions: MetricDefinition[] = [
     shortLabel: "Cash Assets",
     accent: "#37a2ff",
     source: "cash_and_equivalents + current_investments",
+    unit: "billions",
   },
   {
     key: "totalDebt",
@@ -80,6 +103,39 @@ export const metricDefinitions: MetricDefinition[] = [
     shortLabel: "Debt",
     accent: "#ff5d5d",
     source: "total_debt",
+    unit: "billions",
+  },
+  {
+    key: "revenue",
+    label: "Aggregate Revenue",
+    shortLabel: "Revenue",
+    accent: "#9ecbff",
+    source: "revenue",
+    unit: "billions",
+  },
+  {
+    key: "grossMargin",
+    label: "Aggregate Gross Margin",
+    shortLabel: "Gross Margin",
+    accent: "#2dd4bf",
+    source: "gross_profit / revenue",
+    unit: "percent",
+  },
+  {
+    key: "operatingIncome",
+    label: "Aggregate Operating Income",
+    shortLabel: "Op Income",
+    accent: "#ff8c42",
+    source: "operating_income",
+    unit: "billions",
+  },
+  {
+    key: "operatingMargin",
+    label: "Aggregate Operating Margin",
+    shortLabel: "Op Margin",
+    accent: "#f472b6",
+    source: "operating_income / revenue",
+    unit: "percent",
   },
 ];
 
@@ -102,6 +158,10 @@ function toBillions(value: number): number {
   return value / 1_000_000_000;
 }
 
+function percent(numerator: number, denominator: number): number {
+  return denominator === 0 ? 0 : (numerator / denominator) * 100;
+}
+
 function rowMetric(row: RawFinancialRow, metric: MetricKey): number {
   if (metric === "capex") {
     return Math.abs(toBillions(numericValue(row.capital_expenditure)));
@@ -117,10 +177,30 @@ function rowMetric(row: RawFinancialRow, metric: MetricKey): number {
     );
   }
 
-  return toBillions(numericValue(row.total_debt));
+  if (metric === "totalDebt") {
+    return toBillions(numericValue(row.total_debt));
+  }
+
+  if (metric === "revenue") {
+    return toBillions(numericValue(row.revenue));
+  }
+
+  if (metric === "grossMargin") {
+    return percent(numericValue(row.gross_profit), numericValue(row.revenue));
+  }
+
+  if (metric === "operatingIncome") {
+    return toBillions(numericValue(row.operating_income));
+  }
+
+  return percent(numericValue(row.operating_income), numericValue(row.revenue));
 }
 
 function tickerPoint(row: RawFinancialRow): TickerPoint {
+  const revenue = rowMetric(row, "revenue");
+  const grossProfit = toBillions(numericValue(row.gross_profit));
+  const operatingIncome = rowMetric(row, "operatingIncome");
+
   return {
     quarter: row.quarter,
     ticker: row.ticker,
@@ -128,7 +208,11 @@ function tickerPoint(row: RawFinancialRow): TickerPoint {
     fcf: rowMetric(row, "fcf"),
     cashAssets: rowMetric(row, "cashAssets"),
     totalDebt: rowMetric(row, "totalDebt"),
-    revenue: toBillions(numericValue(row.revenue)),
+    revenue,
+    grossProfit,
+    grossMargin: rowMetric(row, "grossMargin"),
+    operatingIncome,
+    operatingMargin: rowMetric(row, "operatingMargin"),
     netIncome: toBillions(numericValue(row.net_income)),
   };
 }
@@ -144,6 +228,9 @@ export const commonQuarters = quarters.filter((quarter) =>
 
 export const aggregateSeries: AggregatePoint[] = commonQuarters.map((quarter) => {
   const rows = tickerSeries.filter((row) => row.quarter === quarter);
+  const revenue = rows.reduce((sum, row) => sum + row.revenue, 0);
+  const grossProfit = rows.reduce((sum, row) => sum + row.grossProfit, 0);
+  const operatingIncome = rows.reduce((sum, row) => sum + row.operatingIncome, 0);
 
   return {
     quarter,
@@ -151,6 +238,10 @@ export const aggregateSeries: AggregatePoint[] = commonQuarters.map((quarter) =>
     fcf: rows.reduce((sum, row) => sum + row.fcf, 0),
     cashAssets: rows.reduce((sum, row) => sum + row.cashAssets, 0),
     totalDebt: rows.reduce((sum, row) => sum + row.totalDebt, 0),
+    revenue,
+    grossMargin: percent(grossProfit, revenue),
+    operatingIncome,
+    operatingMargin: percent(operatingIncome, revenue),
   };
 });
 
@@ -162,6 +253,10 @@ export const latestAggregate = aggregateSeries.at(-1) ?? {
   fcf: 0,
   cashAssets: 0,
   totalDebt: 0,
+  revenue: 0,
+  grossMargin: 0,
+  operatingIncome: 0,
+  operatingMargin: 0,
 };
 
 export const latestTickerRows = tickerSeries.filter((row) => row.quarter === latestQuarter);
@@ -179,6 +274,28 @@ export function formatBillions(value: number): string {
     maximumFractionDigits: precision,
     minimumFractionDigits: precision,
   })}B`;
+}
+
+export function formatPercent(value: number): string {
+  const precision = Math.abs(value) >= 10 ? 1 : 2;
+  return `${value.toLocaleString("en-US", {
+    maximumFractionDigits: precision,
+    minimumFractionDigits: precision,
+  })}%`;
+}
+
+export function formatMetricValue(metric: MetricKey, value: number): string {
+  return metricDefinition(metric).unit === "percent" ? formatPercent(value) : formatBillions(value);
+}
+
+export function formatMetricDelta(metric: MetricKey, value: number): string {
+  const sign = value >= 0 ? "+" : "";
+  return metricDefinition(metric).unit === "percent"
+    ? `${sign}${value.toLocaleString("en-US", {
+        maximumFractionDigits: 1,
+        minimumFractionDigits: 1,
+      })}pp`
+    : `${sign}${formatBillions(value)}`;
 }
 
 export function metricDefinition(key: MetricKey): MetricDefinition {
