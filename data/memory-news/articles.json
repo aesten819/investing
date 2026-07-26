@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-07-25T00:13:45.389690+00:00",
-  "article_count": 37,
+  "generated_at": "2026-07-26T00:11:47.206102+00:00",
+  "article_count": 39,
   "articles": [
+    {
+      "id": "d3b04c1df3e2",
+      "headline": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+      "summary": "Companies sign memorandum of understanding to broaden collaboration on next-generation AI infrastructure, spanning leading-edge memory, foundry technologies...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-07-25T14:10:03+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131\uc804\uc790\uc640 \ube0c\ub85c\ub4dc\ucef4, \uba54\ubaa8\ub9ac \ubc0f \ud30c\uc6b4\ub4dc\ub9ac \uae30\uc220 \uc804\ubc18\uc5d0 \uac78\uce5c \uc804\ub7b5\uc801 \ud611\ub825 \ud655\ub300",
+      "summary_ko": "\uae30\uc5c5\ub4e4\uc774 \ucc28\uc138\ub300 AI \uc778\ud504\ub77c\ub97c \uc704\ud55c \ud611\ub825\uc744 \ud655\ub300\ud558\uae30 \uc704\ud574 \uc591\ud574\uac01\uc11c\ub97c \uccb4\uacb0, \ucd5c\ucca8\ub2e8 \uba54\ubaa8\ub9ac\uc640 \ud30c\uc6b4\ub4dc\ub9ac \uae30\uc220\uc744 \uc544\uc6b0\ub978\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "1de1cfcf209c",
+      "headline": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "summary": "\u25aa SK Group and NVIDIA expand strategic collaboration with a $500 billion plus initiative spanning AI factories and next-generation memory.",
+      "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-25T04:39:50+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK\uadf8\ub8f9\uacfc NVIDIA, AI \uacf5\uc7a5 \ubc0f \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uad00\ub828 \uc804\ub7b5\uc801 \ud30c\ud2b8\ub108\uc2ed \ud655\ub300",
+      "summary_ko": "SK\uadf8\ub8f9\uacfc NVIDIA\uac00 5000\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uaddc\ubaa8\ub85c AI \uacf5\uc7a5\uacfc \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac\ub97c \ud3ec\ud568\ud55c \uc804\ub7b5\uc801 \ud611\ub825\uc744 \ud655\ub300\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "a98026706ce2",
       "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
@@ -214,23 +248,6 @@
       ]
     },
     {
-      "id": "f2e594208785",
-      "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
-      "summary": "When Solid State Drives (SSDs) first gained widespread adoption in the 2000s, they quickly replaced Hard Disk Drives (HDDs) as the standard storage solution...",
-      "url": "https://news.samsungsemiconductor.com/global/infographic-samsung-pm1763-ssd-a-core-storage-solution-for-next-generation-ai-platforms/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-07-08T08:00:00+00:00",
-      "tags": [
-        "SSD"
-      ],
-      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] Samsung PM1763 SSD: \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158",
-      "summary_ko": "\uc0bc\uc131 PM1763 SSD\ub294 \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "SSD"
-      ]
-    },
-    {
       "id": "8164f34cc5d7",
       "headline": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
       "summary": "PCIe 6.0-based enterprise SSD delivers outstanding performance and enhanced power efficiencyfor AI and HPC servers 9th-generation V-NAND, 4nm controller and...",
@@ -246,6 +263,23 @@
       "summary_ko": "PCIe 6.0 \uae30\ubc18 \uc5d4\ud130\ud504\ub77c\uc774\uc988 SSD\ub85c AI \ubc0f HPC \uc11c\ubc84\uc5d0 \ub6f0\uc5b4\ub09c \uc131\ub2a5\uacfc \ud5a5\uc0c1\ub41c \uc804\ub825 \ud6a8\uc728\uc744 \uc81c\uacf5\ud558\uba70, 9\uc138\ub300 V-NAND, 4nm \ucee8\ud2b8\ub864\ub7ec \ub4f1\uc744 \uc801\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.",
       "tags_ko": [
         "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "f2e594208785",
+      "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "summary": "When Solid State Drives (SSDs) first gained widespread adoption in the 2000s, they quickly replaced Hard Disk Drives (HDDs) as the standard storage solution...",
+      "url": "https://news.samsungsemiconductor.com/global/infographic-samsung-pm1763-ssd-a-core-storage-solution-for-next-generation-ai-platforms/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-07-08T08:00:00+00:00",
+      "tags": [
+        "SSD"
+      ],
+      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] Samsung PM1763 SSD: \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158",
+      "summary_ko": "\uc0bc\uc131 PM1763 SSD\ub294 \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
         "SSD"
       ]
     },
@@ -721,9 +755,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-25T00:13:45.465231+00:00",
+    "generated_at": "2026-07-26T00:11:57.810124+00:00",
     "cached": 37,
-    "translated": 0,
+    "translated": 2,
     "skipped": 0
   }
 }
