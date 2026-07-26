@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-07-25T00:57:31.628731+00:00",
+  "generated_at": "2026-07-26T00:17:42.642629+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "128a654dcd3e",
+      "headline": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
+      "summary": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
+      "url": "https://www.datacenterfrontier.com/home/webinar/55389061/the-data-center-market-decoded-trends-growth-project-opportunities",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-07-26T00:17:37.454781+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5 \ubd84\uc11d: \ud2b8\ub80c\ub4dc, \uc131\uc7a5 \ubc0f \ud504\ub85c\uc81d\ud2b8 \uae30\ud68c",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "7bcff3821177",
       "headline": "The Gigawatt Buildout Faces the Execution Test",
@@ -2886,33 +2903,14 @@
       "tags_ko": [
         "Neocloud"
       ]
-    },
-    {
-      "id": "8fa10e76f178",
-      "headline": "Our largest solar and battery storage project ever",
-      "summary": "Google will both invest in and purchase energy and storage from Steel River Energy Center in Mississippi County, Arkansas.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/",
-      "source": "Google Infrastructure & Cloud",
-      "source_id": "google_infrastructure_cloud",
-      "published_at": "2026-07-14T16:00:00+00:00",
-      "tags": [
-        "Google Cloud",
-        "Power"
-      ],
-      "headline_ko": "\uc5ed\ub300 \ucd5c\ub300 \uaddc\ubaa8\uc758 \ud0dc\uc591\uad11 \ubc0f \ubc30\ud130\ub9ac \uc800\uc7a5 \ud504\ub85c\uc81d\ud2b8",
-      "summary_ko": "Google\uc740 \uc544\uce78\uc18c\uc8fc \ubbf8\uc2dc\uc2dc\ud53c \uce74\uc6b4\ud2f0\uc758 Steel River Energy Center\uc5d0 \ud22c\uc790\ud558\uace0 \uc5d0\ub108\uc9c0\uc640 \uc800\uc7a5 \uc6a9\ub7c9\uc744 \uad6c\ub9e4\ud560 \uac83\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Google Cloud",
-        "Power"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-25T00:59:27.572340+00:00",
-    "cached": 139,
-    "translated": 21,
+    "generated_at": "2026-07-26T00:17:42.721962+00:00",
+    "cached": 160,
+    "translated": 0,
     "skipped": 0
   }
 }
