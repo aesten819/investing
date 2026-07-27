@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-07-26T00:17:42.642629+00:00",
+  "generated_at": "2026-07-27T00:17:03.559661+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "cbee108a274c",
+      "headline": "Rethinking redundancy: smarter strategies for the AI-driven data center",
+      "summary": "Thinking harder about cooling, power, and server-level redundancy",
+      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-redundancy-smarter-strategies-for-the-ai-driven-data-center/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-07-26T13:00:28+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\ub9ac\ub358\ub358\uc2dc \uc7ac\uace0: AI \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc704\ud55c \ub354 \uc2a4\ub9c8\ud2b8\ud55c \uc804\ub7b5",
+      "summary_ko": "\ub0c9\uac01, \uc804\ub825 \ubc0f \uc11c\ubc84 \uc218\uc900\uc758 \ub9ac\ub358\ub358\uc2dc\uc5d0 \ub300\ud55c \ub354 \uae4a\uc740 \uace0\ubbfc\uc774 \ud544\uc694\ud568\uc744 \uac15\uc870\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc804\ub825"
+      ]
+    },
     {
       "id": "128a654dcd3e",
       "headline": "The Data Center Market Decoded: Trends, Growth & Project Opportunities",
@@ -2886,31 +2905,14 @@
         "Data Center",
         "Capacity"
       ]
-    },
-    {
-      "id": "52b4b133b488",
-      "headline": "The neocloud approach to sustainability",
-      "summary": "Can the neocloud companies bring sustainability back into fashion?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/the-neocloud-approach-to-sustainability/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-14T16:00:36+00:00",
-      "tags": [
-        "Neocloud"
-      ],
-      "headline_ko": "\ub124\uc624\ud074\ub77c\uc6b0\ub4dc\uc758 \uc9c0\uc18d \uac00\ub2a5\uc131 \uc811\uadfc \ubc29\uc2dd",
-      "summary_ko": "\ub124\uc624\ud074\ub77c\uc6b0\ub4dc \uae30\uc5c5\ub4e4\uc774 \uc9c0\uc18d \uac00\ub2a5\uc131\uc744 \ub2e4\uc2dc \uc720\ud589\uc73c\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c?",
-      "tags_ko": [
-        "Neocloud"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-26T00:17:42.721962+00:00",
-    "cached": 160,
-    "translated": 0,
+    "generated_at": "2026-07-27T00:17:07.358336+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
