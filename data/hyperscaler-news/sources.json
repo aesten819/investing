@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:17:03.559661+00:00",
+  "generated_at": "2026-07-28T00:14:06.848975+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -7,7 +7,7 @@
       "url": "https://aws.amazon.com/blogs/aws/feed/",
       "type": "rss",
       "status": "ok",
-      "article_count": 0
+      "article_count": 1
     },
     {
       "id": "amazon_company_news",
@@ -63,7 +63,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 14
+      "article_count": 8
     },
     {
       "id": "data_center_knowledge",
@@ -71,7 +71,7 @@
       "url": "https://www.datacenterknowledge.com/rss.xml",
       "type": "rss",
       "status": "ok",
-      "article_count": 46
+      "article_count": 45
     },
     {
       "id": "synergy_research",
