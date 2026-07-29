@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:14:06.848975+00:00",
+  "generated_at": "2026-07-29T00:13:39.885754+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -55,7 +55,7 @@
       "url": "https://about.fb.com/news/tag/data-centers/feed/",
       "type": "rss",
       "status": "ok",
-      "article_count": 8
+      "article_count": 9
     },
     {
       "id": "datacenter_dynamics",
