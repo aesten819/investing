@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T00:08:11.947980+00:00",
-  "article_count": 39,
+  "generated_at": "2026-07-30T00:08:45.927303+00:00",
+  "article_count": 45,
   "articles": [
     {
       "id": "d3b04c1df3e2",
@@ -37,6 +37,40 @@
       ]
     },
     {
+      "id": "ea8ae89e7874",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "\u25b2 [Figure 1] The NAND Flash Cell-formation Process",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-01/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:57+00:00",
+      "tags": [
+        "NAND"
+      ],
+      "headline_ko": "[\uc5f0\uad6c\uc18c \ub0b4\ubd80] SK hynix\uc758 CTI \ud601\uc2e0, 176\ub808\uc774\uc5b4 3D NAND \uc591\uc0b0\uc744 \ud5a5\ud574 \ub098\uc544\uac00\ub2e4",
+      "summary_ko": "\u25b2 [\uadf8\ub9bc 1] NAND Flash \uc140 \ud615\uc131 \uacf5\uc815",
+      "tags_ko": [
+        "NAND"
+      ]
+    },
+    {
+      "id": "e97df98576eb",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "\u25b2 [Figure 2] The Conventional CTI Implementation Process",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-02/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:51+00:00",
+      "tags": [
+        "NAND"
+      ],
+      "headline_ko": "SK hynix\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc9c4\uc804\uc2dc\ud0a4\ub2e4",
+      "summary_ko": "SK hynix\uc758 CTI \ud601\uc2e0\uc73c\ub85c 176\ub2e8 3D NAND \uc591\uc0b0\uc774 \uc9c4\uc804\ub418\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "NAND"
+      ]
+    },
+    {
       "id": "a98026706ce2",
       "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
       "summary": "As a full-stack AI memory creator, SK hynix offers a portfolio of AI memory solutions optimized for AI systems \u2014 including High Bandwidth Memory (HBM), AI-DRAM, and AI-NAND flash...",
@@ -57,6 +91,74 @@
         "DRAM",
         "NAND",
         "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "cd88fcbb7395",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "\u25b2 [Figure 3] Differences in Channel-Hole Count due to Channel-Hole Diameter",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:46+00:00",
+      "tags": [
+        "NAND"
+      ],
+      "headline_ko": "[Inside the Research] SK hynix\uc758 CTI \ud601\uc2e0\uc774 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\ub2e4",
+      "summary_ko": "\u25b2 [Figure 3] \ucc44\ub110\ud640 \uc9c1\uacbd\uc5d0 \ub530\ub978 \ucc44\ub110\ud640 \uac1c\uc218 \ucc28\uc774",
+      "tags_ko": [
+        "NAND"
+      ]
+    },
+    {
+      "id": "fab0c2efcc3b",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "\u25b2 [Figure 4] The New CTI Implementation Process",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-04/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:37+00:00",
+      "tags": [
+        "NAND"
+      ],
+      "headline_ko": "[\uc5f0\uad6c \ub0b4\ubd80] SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc5d0 \ubc15\ucc28",
+      "summary_ko": "\u25b2 [\uadf8\ub9bc 4] \uc0c8\ub85c\uc6b4 CTI \uad6c\ud604 \ud504\ub85c\uc138\uc2a4",
+      "tags_ko": [
+        "NAND"
+      ]
+    },
+    {
+      "id": "26691aa38070",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "\u25b2 CTI explained",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:20+00:00",
+      "tags": [
+        "NAND"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\ub2e4",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \uae30\uc220 \ud601\uc2e0\uc774 176\ub2e8 3D NAND\uc758 \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "NAND"
+      ]
+    },
+    {
+      "id": "ce36269b80db",
+      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "summary": "\u25b2 [Figure 5] A Comparison of Conventional CTI with SK hynix\u2019s New CTI Process",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-05/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-07-22T05:00:02+00:00",
+      "tags": [
+        "NAND"
+      ],
+      "headline_ko": "[\uc5f0\uad6c \ub0b4\ubd80] SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\ub2e4",
+      "summary_ko": "\u25b2 [\uadf8\ub9bc 5] \uae30\uc874 CTI\uc640 SK\ud558\uc774\ub2c9\uc2a4\uc758 \uc0c8\ub85c\uc6b4 CTI \uacf5\uc815 \ube44\uad50",
+      "tags_ko": [
+        "NAND"
       ]
     },
     {
@@ -755,9 +857,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-29T00:08:12.027630+00:00",
+    "generated_at": "2026-07-30T00:09:05.594840+00:00",
     "cached": 39,
-    "translated": 0,
+    "translated": 6,
     "skipped": 0
   }
 }
