@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-07-30T00:08:45.927303+00:00",
-  "article_count": 45,
+  "generated_at": "2026-07-31T00:15:05.889589+00:00",
+  "article_count": 46,
   "articles": [
+    {
+      "id": "f569a3428fd8",
+      "headline": "Diverging Memory Market Outlook in 2027 as DRAM Supply Remains Tight While NAND Flash Supply Conditions Ease, Says TrendForce",
+      "summary": "TrendForce\u2019s latest research on the memory industry reveals that AI will remain the primary driver of memory demand in 2027.",
+      "url": "https://www.trendforce.com/presscenter/news/20260730-13158.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-07-30T08:04:49+00:00",
+      "tags": [
+        "DRAM",
+        "NAND",
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "2027\ub144 \uba54\ubaa8\ub9ac \uc2dc\uc7a5 \uc804\ub9dd \uc5c7\uac08\ub824: DRAM \uacf5\uae09 \ud0c0\uc774\ud2b8 \uc9c0\uc18d, NAND Flash \uacf5\uae09 \uc644\ud654, TrendForce \ubc1d\ud600",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 2027\ub144\uc5d0\ub3c4 AI\uac00 \uba54\ubaa8\ub9ac \uc218\uc694\uc758 \uc8fc\uc694 \ub3d9\uc778\uc73c\ub85c \ub0a8\uc744 \uac83\uc774\ub77c\uace0 \ud55c\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "NAND",
+        "\uba54\ubaa8\ub9ac",
+        "\uc6a9\ub7c9"
+      ]
+    },
     {
       "id": "d3b04c1df3e2",
       "headline": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
@@ -857,9 +880,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-07-30T00:09:05.594840+00:00",
-    "cached": 39,
-    "translated": 6,
+    "generated_at": "2026-07-31T00:15:14.158065+00:00",
+    "cached": 45,
+    "translated": 1,
     "skipped": 0
   }
 }
