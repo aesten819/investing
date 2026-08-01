@@ -2919,5 +2919,218 @@
       "AWS",
       "Data Center"
     ]
+  },
+  "974ac2db8c76abe78bc4ca94d0765ebef2c64169": {
+    "headline_ko": "Data Center \uc0b0\uc5c5\uc758 \uac74\uc124 \ud5c8\uac00",
+    "summary_ko": "Data Center \uc0b0\uc5c5\uc758 \uac74\uc124 \ud5c8\uac00\uc5d0 \uad00\ud55c \ub274\uc2a4\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "4b13fdf2a22804ee0e3d8a2e42b9c3c2c19fdc3e": {
+    "headline_ko": "\uc6d0\uc790\ub825 \ubaa8\uba58\ud140, MW \ud14c\uc2a4\ud2b8\ub97c \ub9cc\ub098\ub2e4",
+    "summary_ko": "\uc6d0\uc790\ub825 \ubaa8\uba58\ud140\uc774 MW \ud14c\uc2a4\ud2b8\ub97c \ub9cc\ub09c\ub2e4.",
+    "tags_ko": [
+      "\uc6a9\ub7c9",
+      "\uc804\ub825"
+    ]
+  },
+  "ad30e110b7af670b39091ec85750670a0fa98f9f": {
+    "headline_ko": "InP Capacity \uacbd\uc7c1: AI \uae30\ubc18 \uad11 \uc778\ud130\ucee4\ub125\ud2b8\uac00 \ubc18\ub3c4\uccb4 \uac00\uce58 \uc0ac\uc2ac\uc744 \uc7ac\ud3b8\ud558\ub2e4",
+    "summary_ko": "AI \uae30\ubc18 \uad11 \uc778\ud130\ucee4\ub125\ud2b8 \uc218\uc694\uac00 \uc99d\uac00\ud558\uba74\uc11c InP Capacity \uacbd\uc7c1\uc774 \ucd09\ubc1c\ub418\uace0, \uc774\ub294 \ubc18\ub3c4\uccb4 \uac00\uce58 \uc0ac\uc2ac\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Capacity"
+    ]
+  },
+  "4683d776ae6092135fdbbaf788b3ddd6c99516de": {
+    "headline_ko": "AI \uc2dc\ub300 Data Center \ubcf5\uc6d0\ub825 \uad6c\ucd95",
+    "summary_ko": "AI \uc2dc\ub300\uc5d0 Data Center \ubcf5\uc6d0\ub825\uc744 \uad6c\ucd95\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "3b474107d260f4605d3bff41e7145fc2f1d8c3f1": {
+    "headline_ko": "Data Center \uac74\uc124 MEP \uac10\ub3c5\uad00",
+    "summary_ko": "Data Center \uac74\uc124 MEP \uac10\ub3c5\uad00\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "32e257760660ee17bceb66551e83f709f8484175": {
+    "headline_ko": "MEP \uac10\ub3c5\uad00 - Data Center",
+    "summary_ko": "Data Center\uc758 MEP \uac10\ub3c5\uad00 \uc9c1\ucc45\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "aaf342b087bc74142e36d275f9c6ab269179d839": {
+    "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130\uc758 \uc228\uaca8\uc9c4 \uacf5\uaca9 \ud45c\uba74: OT \ubcf4\uc548\uc744 \ubbf8\ub8f0 \uc218 \uc5c6\ub294 \uc774\uc720",
+    "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub294 \uc0ac\uc774\ubc84\ubb3c\ub9ac \uc2dc\uc2a4\ud15c\uc73c\ub85c \uc778\ud55c \uc704\ud5d8\uc774 \uc99d\uac00\ud558\uace0 \uc788\uc73c\uba70, OT \ubcf4\uc548\uc740 \uc815\uc804 \ubc29\uc9c0\uc640 \uc6b4\uc601 \ubcf5\uc6d0\ub825 \ubcf4\uc7a5\uc5d0 \uc911\uc694\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "d5ce419bbcf8d3f5c63b2af46187db6148a69962": {
+    "headline_ko": "AWS, 2021\ub144 \uc774\ud6c4 \ucd5c\uace0 \uc131\uc7a5\ub960 \uae30\ub85d... Amazon, AI \uba54\ubaa8\ub9ac \ube44\uc6a9\uc73c\ub85c \uc5f0\uac04 capex $220bn \uc804\ub9dd",
+    "summary_ko": "\ud074\ub77c\uc6b0\ub4dc \ub9e4\ucd9c\uc774 \ud638\uc870\ub97c \ubcf4\uc774\uba74\uc11c, \ud68c\uc0ac\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uad6c\ucd95\uc744 \ud655\ub300\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "Data Center",
+      "Capex"
+    ]
+  },
+  "f5dc3edacde70d3657301ee89e39e3db2c20ebe0": {
+    "headline_ko": "'next wave' data center \uc2dc\uc7a5\uc774 \uc720\ub7fd\uc758 \ub370\uc774\ud130 \uc8fc\uad8c\uc744 \uc704\ud55c \uc2f8\uc6c0\uc758 \uc911\uc2ec\uc5d0 \uc788\ub294 \uc774\uc720",
+    "summary_ko": "FLAPD\uc5d0 \ub300\ud55c \uacfc\ub3c4\ud55c \uc758\uc874\uc774 \uc720\ub7fd\uc758 data center \ubbf8\ub798\uc5d0 \uc88b\uc9c0 \uc54a\uc740 \uc774\uc720\ub97c \uc124\uba85\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "531dd4a8cde6a189509510c83a911d771370b53f": {
+    "headline_ko": "PJM, AI \ub370\uc774\ud130 \uc13c\ud130\ub294 \ud655\uc815 \uc11c\ube44\uc2a4\ub97c \uc704\ud574 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud574\uc57c \ud55c\ub2e4",
+    "summary_ko": "PJM\uc774 \uc81c\uc548\ud55c \uc2e0\ub8b0\uc131 \ud504\ub808\uc784\uc6cc\ud06c\ub294 \ud5a5\ud6c4 \ub300\ud615 \ubd80\ud558\ub4e4\uc774 \uc790\uccb4 \ubc1c\uc804 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud558\uac70\ub098 \uc790\uc6d0 \ubd80\uc871 \uc2dc \uc11c\ube44\uc2a4 \ucd95\uc18c\ub97c \uc218\uc6a9\ud558\ub3c4\ub85d \uc694\uad6c\ud560 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "20409c4be15e90ae6b443c3810b7e722d27f355f": {
+    "headline_ko": "\uba38\uc2a4\ud06c, \uba64\ud53c\uc2a4\uc5d0 \ub124 \ubc88\uc9f8 SpaceXAI \ub370\uc774\ud130 \uc13c\ud130 \ud655\uc815, \ud68c\uc0ac\ub294 '\ubd88\ubc95' \uac00\uc2a4 \ud130\ube48 \uc81c\uac70 \uc2dc\uc791",
+    "summary_ko": "Macrohard\uac00 Minihard\ub97c \uc778\uc218\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c5a234b40101104b74ab7a02ab0722bf889307b7": {
+    "headline_ko": "Amazon\uacfc Duke Energy, \ub178\uc2a4\uce90\ub864\ub77c\uc774\ub098 \ud584\ub9bf\uc758 \uac1c\ubc1c \uc911\uc778 \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c Clean Air Act \ud68c\ud53c \ud610\uc758",
+    "summary_ko": "\ubc1c\uc804\uae30\uc5d0 \ub300\ud574 1\ub144 \ud5c8\uac00\uac00 \ub0b4\ub824\uc84c\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "0a71f6fa3891ff426e22cbdd7812b97449301cc7": {
+    "headline_ko": "CenterPoint Energy, data center \ubd80\ud558 \ud30c\uc774\ud504\ub77c\uc778 \uc99d\uac00\ub85c \ud22c\uc790 \uacc4\ud68d $1.2bn \uc99d\uc561",
+    "summary_ko": "CenterPoint Energy\ub294 2029\ub144\uae4c\uc9c0 \uadf8\ub808\uc774\ud130 \ud734\uc2a4\ud134 \uc9c0\uc5ed\uc5d0\uc11c \ucd5c\ub300 8GW\uc758 data center \ubd80\ud558\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capex",
+      "Power"
+    ]
+  },
+  "beca5a369cbc8a501901308ee05d6a55202f3b3a": {
+    "headline_ko": "GCM, \uc561\uccb4 \ub0c9\uac01 \ub370\uc774\ud130 \uc13c\ud130\uc6a9 \uace0\uc131\ub2a5 \ubc29\uc5f4\ud310 \uc81c\ud488\uad70 \ud655\uc7a5",
+    "summary_ko": "\ud638\uc8fc \uc5c5\uccb4\uc758 \ud751\uc5f0 \uae30\ubc18 \uc81c\ud488\uc774 \ub0c9\uac01 \uc131\ub2a5\uc744 \ud5a5\uc0c1\uc2dc\ud0ac \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "20cf6d9820c197f59dea014350989495933774ff": {
+    "headline_ko": "\uc544\ub9c8\uc874, 2026\ub144 AI Capex\ub97c $220B\ub85c \uc0c1\ud5a5, \uc5ec\uc804\ud788 Capacity \uc81c\uc57d",
+    "summary_ko": "\uc544\ub9c8\uc874\uc774 AI \uc778\ud504\ub77c \ud22c\uc790\ub97c $220B\ub85c \uc0c1\ud5a5\ud558\uba74\uc11c AWS\ub294 18\ubd84\uae30 \ub9cc\uc5d0 \uac00\uc7a5 \ube60\ub978 \uc131\uc7a5\uc744 \uae30\ub85d\ud588\uace0, \uba54\ubaa8\ub9ac \ube44\uc6a9\uc744 \uc774\uc720\ub85c \ub4e4\uba70 \uc218\uc694\uac00 \uc774\ubbf8 2028\ub144\uae4c\uc9c0 \uc774\uc5b4\uc9c4\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "AI Infrastructure",
+      "Capacity",
+      "Capex"
+    ]
+  },
+  "89985c06fd82d7dcb1dcbd7b543a67952f9aa233": {
+    "headline_ko": "\uae30\uc5c5\uc6a9 \ud074\ub77c\uc6b0\ub4dc \uc778\ud504\ub77c \uc9c0\ucd9c, 1430\uc5b5 \ub2ec\ub7ec \ub3cc\ud30c - \ubcf4\uace0\uc11c",
+    "summary_ko": "AI \uc131\uc7a5\uc5d0 \ud798\uc785\uc5b4 11\ubd84\uae30 \uc5f0\uc18d \uc131\uc7a5",
+    "tags_ko": [
+      "Capex"
+    ]
+  },
+  "915e2b0190d92853d611a5c17406699219af4fd4": {
+    "headline_ko": "AWS, \ubc84\uc9c0\ub2c8\uc544\uc8fc \uc560\uc288\ubc88 GWU \ubd80\uc9c0\uc5d0 800,000 sq ft \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uac74\uc124 \ucd94\uc9c4",
+    "summary_ko": "\uce74\uc6b4\ud2f0 \uac10\ub3c5\uad00\uc740 \uac1c\ubc1c\uc744 \uc800\uc9c0\ud558\uae30 \uc704\ud574 \u201c\uc0ac\uc6a9 \uac00\ub2a5\ud55c \ubaa8\ub4e0 \uc218\ub2e8\u201d\uc744 \ub3d9\uc6d0\ud558\uaca0\ub2e4\uace0 \ub2e4\uc9d0\ud588\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "Data Center"
+    ]
+  },
+  "ca05d3c35cbd3f497c0fc4e3214e785d6daa7c0b": {
+    "headline_ko": "CyrusOne, \ud14d\uc0ac\uc2a4 \ud398\uc5b4\ud544\ub4dc\uc5d0 15\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc6a9 \uac74\ubb3c 3\uac1c \uac1c\ubc1c \uc2e0\uccad",
+    "summary_ko": "3\uac1c \uac74\ubb3c \uc911 2\uac1c\ub294 \uc774\ubbf8 \ucc29\uacf5\ud588\uc73c\uba70, \ub098\uba38\uc9c0 1\uac1c\ub294 \ub2e4\uc74c \ub2ec \ucc29\uacf5 \uc608\uc815\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "5046095e85b190b350207a6495fe5575a6e60280": {
+    "headline_ko": "EU, \uc288\ud37c\ucef4\ud4e8\ud305 \ud074\ub7ec\uc2a4\ud130 7\uac1c \uc785\ucc30 \uacf5\uace0",
+    "summary_ko": "EU\ub294 \uc790\uc0ac\uc758 'AI gigafactory' \ud504\ub85c\uc81d\ud2b8\uac00 \ucd5c\uc18c 200\uc5b5 \uc720\ub85c\uc758 \ubbfc\uac04 \ud22c\uc790\ub97c \uc774\ub04c\uc5b4\ub0bc \uac83\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Capex"
+    ]
+  },
+  "e0e5f1c78348a5edc46bf81712747ea14fb63d8a": {
+    "headline_ko": "Veolia, \uc624\ud558\uc774\uc624 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc6a9 350MW \uac00\uc2a4 \uae30\ubc18 \ub9c8\uc774\ud06c\ub85c\uadf8\ub9ac\ub4dc \uc6b4\uc601",
+    "summary_ko": "\ucc9c\uc5f0\uac00\uc2a4 \uc804\ub825\uc744 \uae30\ubc18\uc73c\ub85c \ud558\uba70 BESS \uc7a5\uce58\ub85c \ubcf4\uc644\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "695de1eef2ee4093d9010409648a5390db19cdd5": {
+    "headline_ko": "Legacy Investing, \ubbf8\ub124\uc18c\ud0c0\uc8fc \ubbf8\ub2c8\uc560\ud3f4\ub9ac\uc2a4\uc5d0\uc11c data center \uac1c\ubc1c\uc6a9 \uc778\uc1c4 \uc2dc\uc124 \ub9e4\uc785",
+    "summary_ko": "\ud68c\uc0ac\ub294 \uc2dc\ub0b4\uc758 data center \ubaa8\ub77c\ud1a0\ub9ac\uc5c4\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 20MW \uaddc\ubaa8 \uc2dc\uc124\uc744 \uacc4\ud68d \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
+  },
+  "15a39d079c38991525a4e40d51416c54f51ab14f": {
+    "headline_ko": "Yondr, \uc601\uad6d \uc5f0\uae30\uae08\uc5d0 Slough \ucea0\ud37c\uc2a4 \uacfc\ubc18\uc218 \uc9c0\ubd84 \ub9e4\uac01",
+    "summary_ko": "DigitalBridge\uac00 \uc18c\uc720\ud55c \ud68c\uc0ac\uac00 GLIL Infrastructure\uc5d0 \ucea0\ud37c\uc2a4 \uc9c0\ubd84\uc744 \ub9e4\uac01\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "f834e6a5fd50637b893169e68e0b6d69b34684d6": {
+    "headline_ko": "DeepSeek, \uc911\uad6d \ub0b4\ubabd\uace8\uc5d0 1GW data center \uacc4\ud68d - \ubcf4\ub3c4",
+    "summary_ko": "\uc18c\uc2dd\ud1b5\uc5d0 \ub530\ub974\uba74 \ucea0\ud37c\uc2a4\ub294 2027\ub144 \ub9d0 \ub610\ub294 2028\ub144 \ucd08\uc5d0 \uac00\ub3d9\ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "dcbf8c676f222e880924f85db3ade49c9341d1f8": {
+    "headline_ko": "Poolin, \ud30c\uc0b0 \uc2e0\uccad\ud558\uba70 \ud14d\uc0ac\uc2a4 \uc554\ud638\ud654\ud3d0 \ucc44\uad74 \uc790\uc0b0 \ub9e4\uac01 \ubaa8\uc0c9",
+    "summary_ko": "\uc774\ub2ec \ucd08 data center\uc5d0\uc11c\uc758 \uc554\ud638\ud654\ud3d0 \ucc44\uad74\uc774 \uc911\ub2e8\ub410\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "54b9678e62a8fbae84acfd9b6cf05ca0e12d7a24": {
+    "headline_ko": "Nebius, \ub370\uc774\ud130 \uc13c\ud130 \uc131\uc7a5\uc5d0 \ud798\uc785\uc5b4 \uc5f0\uac04 \ud0c4\uc18c \ubc30\ucd9c\ub7c9 32\ubc30 \uae09\uc99d",
+    "summary_ko": "\uc544\uc9c1 \ubc30\ucd9c\ub7c9 \uac10\ucd95 \ubc0f \uc790\uc6d0 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \uc815\ub7c9\uc801 \ubaa9\ud45c\ub97c \ubc1c\ud45c\ud558\uc9c0 \uc54a\uc558\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "f38a229b337abaa5d39b2def0fb739418d621651": {
+    "headline_ko": "CleanCore Solutions, Cerebras\uc640 10\ub144 colocation \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "Cerebras\ub294 \ub610\ud55c CrowdStrike\uc758 AI \ubcf4\uc548 \ud50c\ub7ab\ud3fc \uad6c\ub3d9\uc744 \uc704\ud574 \uc120\uc815\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825",
+      "Colocation"
+    ]
+  },
+  "91815058fd405d266071a4744eaec33a8c1ca49a": {
+    "headline_ko": "DCD Talks: Schneider Electric\uc758 Tuan Hoang, \ud3d0\uc1c4 \ub8e8\ud504 \ub0c9\uac01\uc73c\ub85c \ubb3c \uc0ac\uc6a9 \ud6a8\uc728\uc131 \uc81c\uace0",
+    "summary_ko": "Schneider Electric\uc758 Tuan Hoang\uc740 DCD\uc758 Kat Sullivan\uacfc \ud568\uaed8 \ucca8\ub2e8 \ub0c9\uac01 \uae30\uc220\uc744 \ud1b5\ud574 data center\uc758 \ubb3c \uc18c\ube44\ub97c \uc904\uc774\uace0 \ub354 \uc9c0\uc18d \uac00\ub2a5\ud55c AI infrastructure\ub97c \uad6c\ucd95\ud558\ub294 \ubc29\ubc95\uc744 \ub17c\uc758\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "1f2e177d2607afa12cda2acf00ad2860bad6db92": {
+    "headline_ko": "AI, Uptime 2026 \uc124\ubb38\uc5d0\uc11c \ub370\uc774\ud130 \uc13c\ud130 \ubd88\ud655\uc2e4\uc131 \uc8fc\ub3c4",
+    "summary_ko": "Uptime\uc758 2026 \uc124\ubb38\uc870\uc0ac\ub294 AI\uac00 \ube44\uc6a9\uacfc \ubc00\ub3c4\ub97c \ub192\uc774\uace0 \uad00\ub9ac \ucd08\uc810\uc744 \uc881\ud788\ub294 \uac00\uc6b4\ub370, \uc6b4\uc601\uc790\ub4e4\uc774 \ub2e8\uacc4\uc801 \uad6c\ucd95\uc73c\ub85c \ud5e4\uc9c0\ud558\uba70 capacity \uc608\uce21\uc5d0 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\uc74c\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
   }
 }
