@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-08-01T00:14:37.003688+00:00",
+  "generated_at": "2026-08-02T00:16:27.141126+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "ae51c2b42bc7",
+      "headline": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
+      "summary": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
+      "url": "https://www.oracle.com/news/announcement/blog/weve-overhauled-project-jupiters-power-plan-2026-07-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-02T00:16:23.109449+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Project Jupiter\uc758 \uc804\ub825 \uacc4\ud68d\uc744 \uac1c\ud3b8\ud588\uc2b5\ub2c8\ub2e4. \ub0a8\ubd80 \ub274\uba55\uc2dc\ucf54 \uc8fc\ubbfc\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d",
+      "summary_ko": "Project Jupiter\uc758 \uc804\ub825 \uacc4\ud68d\uc744 \uac1c\ud3b8\ud588\uc2b5\ub2c8\ub2e4. \ub0a8\ubd80 \ub274\uba55\uc2dc\ucf54 \uc8fc\ubbfc\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d",
+      "tags_ko": [
+        "Power"
+      ]
+    },
+    {
+      "id": "fc3d3edf20d5",
+      "headline": "Public Review Opens for Updated Project Jupiter Power Plan",
+      "summary": "Public Review Opens for Updated Project Jupiter Power Plan",
+      "url": "https://www.oracle.com/news/announcement/public-review-opens-for-updated-project-jupiter-power-plan-2026-06-03/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-02T00:16:23.109449+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "\uc5c5\ub370\uc774\ud2b8\ub41c Project Jupiter Power Plan\uc5d0 \ub300\ud55c \uacf5\uac1c \uac80\ud1a0 \uac1c\uc2dc",
+      "summary_ko": "Oracle AI Data Centers\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c Project Jupiter Power Plan\uc5d0 \ub300\ud55c \uacf5\uac1c \uac80\ud1a0\uac00 \uc2dc\uc791\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "4be33458762e",
+      "headline": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge and Governor Whitmer Celebrate Construction of Stargate Campus in Saline Township.",
+      "summary": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge and Governor Whitmer Celebrate Construction of Stargate Campus in Saline Township.",
+      "url": "https://www.oracle.com/news/announcement/related-digital-oracle-openai-walbridge-and-governor-whitmer-celebrate-construction-of-stargate-campus-in-saline-township-2026-06-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-02T00:16:23.109449+00:00",
+      "tags": [
+        "Oracle",
+        "Data Center"
+      ],
+      "headline_ko": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge, \ubc0f \uc704\ud2b8\uba38 \uc8fc\uc9c0\uc0ac, Saline Township\uc5d0\uc11c Stargate \ucea0\ud37c\uc2a4 \uac74\uc124 \uae30\ub150",
+      "summary_ko": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge \ubc0f \uc704\ud2b8\uba38 \uc8fc\uc9c0\uc0ac\uac00 Saline Township\uc5d0\uc11c \uc9c4\ud589 \uc911\uc778 Stargate \ucea0\ud37c\uc2a4 \uac74\uc124\uc744 \uae30\ub150\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Data Center"
+      ]
+    },
     {
       "id": "c39edb931ab6",
       "headline": "The Data Center Industry\u2019s Permission to Build",
@@ -2872,71 +2925,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "cce4ceb331bc",
-      "headline": "Are data centers ready for \u2018quantum in the cloud\u2019?",
-      "summary": "Transitioning quantum computing from an experimental infrastructure to a true cloud service",
-      "url": "https://www.datacenterdynamics.com/en/opinions/are-data-centers-ready-for-quantum-in-the-cloud/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-22T14:36:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub294 \u2018\ud074\ub77c\uc6b0\ub4dc \uc18d \uc591\uc790\u2019\uc5d0 \ub300\ube44\ud560 \uc900\ube44\uac00 \ub418\uc5c8\ub098?",
-      "summary_ko": "\uc591\uc790 \ucef4\ud4e8\ud305\uc744 \uc2e4\ud5d8\uc801\uc778 \uc778\ud504\ub77c\uc5d0\uc11c \uc9c4\uc815\ud55c \ud074\ub77c\uc6b0\ub4dc \uc11c\ube44\uc2a4\ub85c \uc804\ud658\ud558\ub294 \uacfc\uc815",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "0e334c7a3d32",
-      "headline": "US data centers to consume up to 194GW of power by 2035 - report",
-      "summary": "Would account for 20 percent of US electricity consumption",
-      "url": "https://www.datacenterdynamics.com/en/news/us-data-centers-to-consume-up-to-194gw-of-power-by-2035-report/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-22T14:20:35+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130, 2035\ub144\uae4c\uc9c0 \ucd5c\ub300 194GW \uc804\ub825 \uc18c\ube44\ud560 \uc804\ub9dd - \ubcf4\uace0\uc11c",
-      "summary_ko": "\ubbf8\uad6d \uc804\ub825 \uc18c\ube44\uc758 20%\ub97c \ucc28\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1",
-      "tags_ko": [
-        "Data Center",
-        "Power"
-      ]
-    },
-    {
-      "id": "c02bbc626b33",
-      "headline": "Powering America\u2019s Genesis Mission: Microsoft\u2019s commitment to scientific discovery",
-      "summary": "Today, we\u2019re excited to share a long-term commitment to the Department of Energy\u2019s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the br...",
-      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
-      "source": "Microsoft Blog",
-      "source_id": "microsoft_blog",
-      "published_at": "2026-07-22T12:00:06+00:00",
-      "tags": [
-        "Azure",
-        "Capex",
-        "Power"
-      ],
-      "headline_ko": "\ubbf8\uad6d \uc81c\ub124\uc2dc\uc2a4 \ubbf8\uc158 \uc9c0\uc6d0: \uacfc\ud559\uc801 \ubc1c\uacac\uc744 \uc704\ud55c Microsoft\uc758 \uc57d\uc18d",
-      "summary_ko": "\uc624\ub298, \uc6b0\ub9ac\ub294 DOE(\uc5d0\ub108\uc9c0\ubd80)\uc758 \uc81c\ub124\uc2dc\uc2a4 \ubbf8\uc158\uc5d0 \ub300\ud55c \uc7a5\uae30\uc801\uc778 \uc57d\uc18d\uc744 \ubc1c\ud45c\ud558\uac8c \ub418\uc5b4 \uae30\uc069\ub2c8\ub2e4. \uc774\ub294 \uacfc\ud559\uc744 \uc704\ud55c AI\ub97c \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \uc124\uacc4\ub41c 6\ucc9c\ub9cc \ub2ec\ub7ec \ud22c\uc790\uc5d0 \uc758\ud574 \ub4b7\ubc1b\uce68\ub429\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Azure",
-        "Capex",
-        "Power"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-01T00:20:47.263214+00:00",
-    "cached": 132,
-    "translated": 28,
+    "generated_at": "2026-08-02T00:16:27.221459+00:00",
+    "cached": 160,
+    "translated": 0,
     "skipped": 0
   }
 }
