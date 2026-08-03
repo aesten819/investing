@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-02T00:16:27.141126+00:00",
+  "generated_at": "2026-08-03T00:17:04.865683+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "7135820a57fb",
+      "headline": "Meta boosts AI data center capex, forecasts $130-145bn spend",
+      "summary": "Shares drop as spending increases, and free cash flow falls",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-02T16:45:40+00:00",
+      "tags": [
+        "Meta",
+        "AI Infrastructure",
+        "Data Center",
+        "Capex"
+      ],
+      "headline_ko": "Meta, AI data center capex \ud655\ub300... 1300\uc5b5~1450\uc5b5 \ub2ec\ub7ec \uc9c0\ucd9c \uc804\ub9dd",
+      "summary_ko": "\uc9c0\ucd9c \uc99d\uac00\ub85c \uc8fc\uac00\uac00 \ud558\ub77d\ud558\uace0 \uc790\uc720\ud604\uae08\ud750\ub984\uc774 \uac10\uc18c\ud588\ub2e4.",
+      "tags_ko": [
+        "Meta",
+        "AI Infrastructure",
+        "Data Center",
+        "Capex"
+      ]
+    },
+    {
+      "id": "490bad818643",
+      "headline": "AI infrastructure is only as strong as its network",
+      "summary": "Reliable network connectivity is an AI enabler",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-is-only-as-strong-as-its-network/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-02T13:00:31+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "AI \uc778\ud504\ub77c\ub294 \ub124\ud2b8\uc6cc\ud06c\ub9cc\ud07c\ub9cc \uac15\ub825\ud558\ub2e4",
+      "summary_ko": "\uc548\uc815\uc801\uc778 \ub124\ud2b8\uc6cc\ud06c \uc5f0\uacb0\uc774 AI \uad6c\ud604\uc744 \uac00\ub2a5\ud558\uac8c \ud55c\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
     {
       "id": "ae51c2b42bc7",
       "headline": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
@@ -2887,52 +2927,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "666ae6c59d76",
-      "headline": "Australian gas firm plots gigawatt-scale gas-powered data center campus",
-      "summary": "Beetaloo Energy targets large-scale campus outside Darwin",
-      "url": "https://www.datacenterdynamics.com/en/news/australian-gas-firm-plots-gigawatt-scale-gas-powered-data-center-campus/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-22T14:40:38+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Power"
-      ],
-      "headline_ko": "\ud638\uc8fc \uac00\uc2a4 \uae30\uc5c5, \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8 \uac00\uc2a4 \ub3d9\ub825 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uacc4\ud68d",
-      "summary_ko": "Beetaloo Energy\uac00 Darwin \uc678\uacfd\uc758 \ub300\uaddc\ubaa8 \ucea0\ud37c\uc2a4\ub97c \ucd94\uc9c4 \uc911\uc774\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130",
-        "\uc6a9\ub7c9",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "eaf237d1a98c",
-      "headline": "Real estate firm eyes Amherst, Ohio, for potential data center project",
-      "summary": "Project in preliminary stages",
-      "url": "https://www.datacenterdynamics.com/en/news/real-estate-firm-eyes-amherst-ohio-for-potential-data-center-project/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-22T14:40:35+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ubd80\ub3d9\uc0b0 \ud68c\uc0ac, \uc624\ud558\uc774\uc624\uc8fc \uc560\uba38\uc2a4\ud2b8\uc5d0 \uc7a0\uc7ac\uc801 \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub85c\uc81d\ud2b8 \uac80\ud1a0",
-      "summary_ko": "\ud504\ub85c\uc81d\ud2b8 \ucd08\uae30 \ub2e8\uacc4",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-02T00:16:27.221459+00:00",
-    "cached": 160,
-    "translated": 0,
+    "generated_at": "2026-08-03T00:17:17.163307+00:00",
+    "cached": 158,
+    "translated": 2,
     "skipped": 0
   }
 }

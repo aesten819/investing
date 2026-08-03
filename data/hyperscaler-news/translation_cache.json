@@ -3132,5 +3132,22 @@
       "Data Center",
       "Capacity"
     ]
+  },
+  "b676cc1f1d6920733d5da8dd827ce6c3dfea9fb3": {
+    "headline_ko": "Meta, AI data center capex \ud655\ub300... 1300\uc5b5~1450\uc5b5 \ub2ec\ub7ec \uc9c0\ucd9c \uc804\ub9dd",
+    "summary_ko": "\uc9c0\ucd9c \uc99d\uac00\ub85c \uc8fc\uac00\uac00 \ud558\ub77d\ud558\uace0 \uc790\uc720\ud604\uae08\ud750\ub984\uc774 \uac10\uc18c\ud588\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "AI Infrastructure",
+      "Data Center",
+      "Capex"
+    ]
+  },
+  "f4a9b4336404fdef722c101bbd692aa28d166d32": {
+    "headline_ko": "AI \uc778\ud504\ub77c\ub294 \ub124\ud2b8\uc6cc\ud06c\ub9cc\ud07c\ub9cc \uac15\ub825\ud558\ub2e4",
+    "summary_ko": "\uc548\uc815\uc801\uc778 \ub124\ud2b8\uc6cc\ud06c \uc5f0\uacb0\uc774 AI \uad6c\ud604\uc744 \uac00\ub2a5\ud558\uac8c \ud55c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
   }
 }
