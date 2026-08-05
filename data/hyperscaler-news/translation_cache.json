@@ -3316,5 +3316,132 @@
     "tags_ko": [
       "Data Center"
     ]
+  },
+  "887a5e962fd3c8568474bf007c8a4be06ca3ed8b": {
+    "headline_ko": "\ud035\ucc57: AI \uc804\ud658 \uc9c0\uc6d0: \uc9c4\ud654\ud558\ub294 data center\ub97c \uc704\ud55c \ud604\ub300\uc801 \ub799 \uc778\ud504\ub77c",
+    "summary_ko": "\uc9c4\ud654\ud558\ub294 data center\ub97c \uc704\ud55c \ud604\ub300\uc801 \ub799 \uc778\ud504\ub77c\uac00 AI \uc804\ud658\uc744 \uc9c0\uc6d0\ud558\ub294 \ubc29\ubc95\uc744 \ub2e4\ub8f9\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "7ac8dee55a2d3b780ad05d64329ee7e9af7e491a": {
+    "headline_ko": "2026\ub144 8\uc6d4 \uc2e0\uaddc Data Center \uac1c\ubc1c \ub3d9\ud5a5",
+    "summary_ko": "\uc9c0\ub09c \ud55c \ub2ec\uac04 \ubc1c\ud45c\ub41c \ucd5c\uc2e0 Data Center \uac1c\ubc1c \uc18c\uc2dd\uc744 \uc0b4\ud3b4\ubd05\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "bc2ac86f5a8cc18bb45bd2786e7b1f5900ecda58": {
+    "headline_ko": "\uc9c4\ud589 \uc18d\ub3c4: \ubbf8\uad6d \uc8fc(\u5dde)\ub4e4\uc758 Data Center\u00b7\uc804\ub825 \uaddc\uc81c \ubcc0\ud654",
+    "summary_ko": "Data Center \uc131\uc7a5\uc774 \uc774\ub97c \uaddc\uc81c\ud558\uae30 \uc704\ud574 \ub9c8\ub828\ub41c \uaddc\uc815\uc744 \uc55e\uc9c0\ub974\uba74\uc11c, \uc758\uc6d0\ub4e4\uc740 \uac08\ub4f1\uc744 \ube5a\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "832111660706c08e90620d6fdab0b602df8aeaf6": {
+    "headline_ko": "CoreWeave, \uc778\ub3c4\ub124\uc2dc\uc544\uc5d0 360MW \uaddc\ubaa8\uc758 data center capacity \uad6c\ucd95 \uacc4\ud68d",
+    "summary_ko": "\uc544\uc2dc\uc544-\ud0dc\ud3c9\uc591 \uc9c0\uc5ed\uc5d0\uc11c \ud68c\uc0ac\uc758 \uccab data center\uac00 \ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "d144b6eceef79bb0a9c9031efde9fa4fd6e7c137": {
+    "headline_ko": "\ubc84\uc9c0\ub2c8\uc544\uc8fc \ub77c\uc6b0\ub358 \uce74\uc6b4\ud2f0\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \ud604\uc7a5\uc5d0\uc11c \uad6c\ub9ac\uc120\uc744 \ud6d4\uce5c \ub0a8\uc131 3\uba85 \uccb4\ud3ec",
+    "summary_ko": "\ubaa8\ub450 \uc911\uc808\ub3c4 \ud610\uc758\ub85c \uae30\uc18c\ub418\uc5c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "413e468487cce4f121bac826fbc9ee0553a80d6b": {
+    "headline_ko": "AI \uc5f0\uad6c\uc18c Moonshot, Alibaba Cloud\uc5d0\uc11c Nvidia GPU 2\ub9cc \uac1c \uc784\ub300 - \ubcf4\ub3c4",
+    "summary_ko": "\uc774\ub294 Moonshot\uc758 Kimi \ubaa8\ub378 \uc804\uccb4 \ucef4\ud4e8\ud305 capacity \uc911 \uc0c1\ub2f9 \ubd80\ubd84\uc744 \ucc28\uc9c0\ud55c\ub2e4.",
+    "tags_ko": [
+      "Capacity"
+    ]
+  },
+  "ed9b08d6c15cbfc185288727e8e6d8cb0458553c": {
+    "headline_ko": "Velox, I/ONX HPC, \uc2a4\uc6e8\ub374 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 FuriosaAI RNGD \uac00\uc18d\uae30 7,000\uac1c \ubc30\ud3ec",
+    "summary_ko": "\uc774 \ub370\uc774\ud130 \uc13c\ud130\ub294 \ucd5c\uc885\uc801\uc73c\ub85c \ucd1d 15MW \uc6a9\ub7c9\uc744 \uac16\ucd9c \uac83\uc73c\ub85c \uc608\uc0c1\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "ca792f3c0d6b1d1685556f850064073b6c2b3ea4": {
+    "headline_ko": "Volta, \uc2a4\ud154\uc2a4 \ubaa8\ub4dc\uc5d0\uc11c \ubc97\uc5b4\ub098 '\uc120\ub3c4\uc801 AI \uc5f0\uad6c\uc18c'\ub97c \uc704\ud574 Bitdeer\ub85c\ubd80\ud130 \ub178\ub974\uc6e8\uc774\uc5d0\uc11c capacity \uc784\ub300 \uc608\uc815",
+    "summary_ko": "\uc2e0\uc0dd \uae30\uc5c5\uc740 2030\ub144\uae4c\uc9c0 GW \uaddc\ubaa8\uc758 capacity\ub97c \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Capacity",
+      "Colocation"
+    ]
+  },
+  "018a0f70c076c33003c3f7902d37abb8874f4d8f": {
+    "headline_ko": "\ub3c5\uc77c\uc758 Maincubes, \ud504\ub791\ud06c\ud478\ub974\ud2b8 \uc2e0\uaddc data center \uccab \ubc88\uc9f8 \ubaa8\ub4c8 \uc644\uacf5",
+    "summary_ko": "16MW hyperscale/HPC data center\uc758 \uccab \ub2e8\uacc4\uac00 \uc644\uacf5\ub418\uc5c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "16a2f93e046dd7b690d3b2ca7d47e059861bac65": {
+    "headline_ko": "\ubbf8\ub798\ub294 \uc870\ub9bd\uc2dd\uc774\ub2e4",
+    "summary_ko": "\uc870\ub9bd\uc2dd \ubaa8\ub4c8\ub7ec \ub370\uc774\ud130 \uc13c\ud130\uac00 \uc18d\ub3c4, \ud6a8\uc728\uc131, \ud0c8\ud0c4\uc18c\ud654\ub97c \uc5b4\ub5bb\uac8c \uc774\ub044\ub294\uc9c0\uc5d0 \uad00\ud55c \ub0b4\uc6a9\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "1ac5e8cd74e6a13b301fbaacc4f07d3e65a1b9c8": {
+    "headline_ko": "\uc544\uc774\uc624\uc640 Google data center\uc5d0\uc11c \uc5d8\ub9ac\ubca0\uc774\ud130 \uc544\ub798\uc5d0 \uac07\ud78c \ub0a8\uc131, \ubcd1\uc6d0 \uc774\uc1a1 - \ubcf4\ub3c4",
+    "summary_ko": "\ud604\uc9c0 \uc18c\ubc29\uc11c\ub294 \ub0a8\uc131\uc774 \uc911\uc0c1\uc744 \uc785\uc5c8\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center"
+    ]
+  },
+  "3da749bb3393c0bf3b7eab9c5984f36506395b67": {
+    "headline_ko": "Microsoft, \uc601\uad6d Langley\uc5d0 data center \uacc4\ud68d \uc0c1\uc138 \ubc1c\ud45c",
+    "summary_ko": "Langley Business Centre \ubd80\uc9c0\uac00 data center\ub85c \uc7ac\uac1c\ubc1c\ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "Data Center"
+    ]
+  },
+  "85499694a841587b03cd0af082e18c271668949f": {
+    "headline_ko": "Foxconn \uc790\ud68c\uc0ac Visionbay.ai, \ub300\ub9cc\uc5d0\uc11c 5MW Nvidia \uae30\ubc18 AI \ud074\ub7ec\uc2a4\ud130 \uac00\ub3d9 \uc2dc\uc791",
+    "summary_ko": "\ud68c\uc0ac\ub294 capacity\uc758 90%\uac00 \uc774\ubbf8 \uc0ac\uc6a9 \uc911\uc774\ub77c\uace0 \uc8fc\uc7a5",
+    "tags_ko": [
+      "Capacity"
+    ]
+  },
+  "1228de7fec4134003afb74180187f02309d643de": {
+    "headline_ko": "Verrus, Salem(Oregon) data center \ucea0\ud37c\uc2a4 \ucd94\uc9c4 \uacc4\uc18d \uc2dc\ub3c4",
+    "summary_ko": "\uc8fc\uc9c0\uc0ac\uc758 \uac1c\uc785\uacfc \uc2dc\uc758 \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \uac80\ud1a0\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0, \ucd94\uc9c4\uc744 \uacc4\uc18d\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "df18c3be10e09adca87345aafa978cf8967cc2d0": {
+    "headline_ko": "Greater London Authority, \ud5a5\ud6c4 '\uccad\uc815\u00b7\uce5c\ud658\uacbd\u00b7\ud6a8\uc728\uc801' \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc6b0\uc120\uc2dc\ud558\uace0, \uadf8\ub808\uc774 \ubca8\ud2b8 \ud1a0\uc9c0\uc5d0 \uac74\uc124\ud560 \uc218\ub3c4 \uc788\ub2e4.",
+    "summary_ko": "\ubbf8\ub798 \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc744 \uc704\ud55c \uc9c0\uc18d \uac00\ub2a5\uc131 \ubc0f \uc0ac\ud68c\uc801 \uc601\ud5a5 \uae30\uc900\uc744 \uc81c\uc2dc\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "241fe8e0857123cd2fe1320acb5a4508bb0df85a": {
+    "headline_ko": "EdgeCore, \ubc84\uc9c0\ub2c8\uc544\uc8fc Louisa \uce74\uc6b4\ud2f0 \ucea0\ud37c\uc2a4 2\ub2e8\uacc4 \uac1c\ubc1c \uc2e0\uccad\uc11c \uc81c\ucd9c",
+    "summary_ko": "\ud68c\uc0ac\ub294 Shannon Hill \uc9c0\uc5ed \ube44\uc988\ub2c8\uc2a4 \ud30c\ud06c\uc5d0 \uc138 \uac1c\uc758 \uac74\ubb3c\uc744 \uac1c\ubc1c\ud558\uae30 \uc704\ud55c \uc2e0\uccad\uc11c\ub97c \uc81c\ucd9c\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "d45a5b529eb4cb24a57b9c10d5dcfe7855d9f0a3": {
+    "headline_ko": "Google, \uc544\uc774\uc624\uc640 Salix County \uc18c\uc7ac MidAmerican \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc7a0\uc7ac \uace0\uac1d",
+    "summary_ko": "900-acre \uaddc\ubaa8\uc758 \ucea0\ud37c\uc2a4\uac00 \uc62c\ud574 6\uc6d4\uc5d0 \uc81c\uc548\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center"
+    ]
   }
 }

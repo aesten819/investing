@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T00:57:00.251947+00:00",
+  "generated_at": "2026-08-05T00:17:07.420022+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -31,7 +31,7 @@
       "url": "https://blog.google/products/google-cloud/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 1
+      "article_count": 0
     },
     {
       "id": "microsoft_on_issues",
@@ -63,7 +63,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 14
+      "article_count": 15
     },
     {
       "id": "data_center_knowledge",
@@ -71,7 +71,7 @@
       "url": "https://www.datacenterknowledge.com/rss.xml",
       "type": "rss",
       "status": "ok",
-      "article_count": 46
+      "article_count": 45
     },
     {
       "id": "synergy_research",
