@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-08-07T01:43:56.019843+00:00",
-  "article_count": 53,
+  "generated_at": "2026-08-07T23:46:53.213577+00:00",
+  "article_count": 63,
   "articles": [
+    {
+      "id": "f863ab99f42f",
+      "headline": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+      "summary": "SK hynix Mid-to-Long-Term Investment Phased Execution",
+      "url": "https://news.skhynix.com/en/fab-facility-investment-2026-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T07:40:01+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, AI \uba54\ubaa8\ub9ac \uc218\uc694 \ub300\uc751 \uc911\uc7a5\uae30 \uc0dd\uc0b0\uae30\ubc18 \ud655\ubcf4 \uc704\ud574 \uc6a9\uc778 Y2\u00b7\uccad\uc8fc M17\uc5d0 54\uc870 \uc6d0 \ud22c\uc790",
+      "summary_ko": "SK hynix\uac00 \uc911\uc7a5\uae30 \ud22c\uc790\ub97c \ub2e8\uacc4\uc801\uc73c\ub85c \uc2e4\ud589\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "7b0064c66b00",
+      "headline": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+      "summary": "Rendering of the M17 fab that SK hynix plans to build in Cheongju",
+      "url": "https://news.skhynix.com/en/fab-facility-investment-2026-1/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T07:38:38+00:00",
+      "tags": [
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, AI \uba54\ubaa8\ub9ac \uc218\uc694\uc5d0 \ub300\ube44\ud55c \uc911\uc7a5\uae30 \uc0dd\uc0b0\uae30\uc9c0 \ud655\ubcf4 \uc704\ud574 \uc6a9\uc778 Y2\uc640 \uccad\uc8fc M17\uc5d0 54\uc870\uc6d0 \ud22c\uc790",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 \uccad\uc8fc\uc5d0 \uac74\ub9bd\ud560 \uc608\uc815\uc778 M17 \ud339\uc758 \ub80c\ub354\ub9c1 \uc774\ubbf8\uc9c0.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uce90\ud30c"
+      ]
+    },
+    {
+      "id": "6e0143d868d1",
+      "headline": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+      "summary": "\u25aa The company to invest 35.2 trillion won in Yongin \u201cY2\u201d fab and 19.1 trillion won in the Cheongju \u201cM17\u201d fab \u25aa To execute mid-to-long-term investment strategy\u2026 Y2 to open cleanroo...",
+      "url": "https://news.skhynix.com/en/fab-facility-investment-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T07:21:10+00:00",
+      "tags": [
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, AI \uba54\ubaa8\ub9ac \uc218\uc694 \ub300\ube44 \uc911\uc7a5\uae30 \uc0dd\uc0b0\uae30\uc9c0 \ud655\ubcf4 \uc704\ud574 \uc6a9\uc778 Y2\u00b7\uccad\uc8fc M17\uc5d0 54\uc870 \uc6d0 \ud22c\uc790",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\ub294 \uc6a9\uc778 Y2 \ud339\uc5d0 35.2\uc870 \uc6d0, \uccad\uc8fc M17 \ud339\uc5d0 19.1\uc870 \uc6d0 \ub4f1 \ucd1d 54\uc870 \uc6d0\uc744 \ud22c\uc790\ud574 AI \uba54\ubaa8\ub9ac \uc218\uc694\uc5d0 \ub300\uc751\ud558\ub294 \uc911\uc7a5\uae30 \uc0dd\uc0b0\uae30\ubc18\uc744 \ud655\ubcf4\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uce90\ud30c"
+      ]
+    },
+    {
+      "id": "9f2e6551ffe1",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/fms-2026-4/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:17:26+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK hynix, 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
+      "summary_ko": "SK hynix\uac00 'FMS 2026'\uc5d0\uc11c AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "55da61a7c5f2",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/fms-2026-3/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:16:49+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4, \u2018FMS 2026\u2019\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 FMS 2026\uc5d0\uc11c AI \uc2dc\ub300\uc5d0 \ub300\ube44\ud55c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc758 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "6678267ecfbe",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/fms-2026-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:15:17+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK hynix, 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
+      "summary_ko": "SK hynix\uac00 'FMS 2026'\uc5d0\uc11c AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "17942f60ce72",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/fms-2026-1/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:13:50+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK hynix, \u2018FMS 2026\u2019\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
+      "summary_ko": "SK hynix\ub294 \u2018FMS 2026\u2019\uc5d0\uc11c AI \uc2dc\ub300 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc758 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "8ab49c5a4f85",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "\u25b2 SK hynix\u2019s LPDDR and UFS lineup",
+      "url": "https://news.skhynix.com/en/fms-2026-9/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:00:57+00:00",
+      "tags": [
+        "DRAM",
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4\uac00 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5\uc131\uc744 \uc81c\uc2dc\ud558\ub2e4",
+      "summary_ko": "\u25b2 SK\ud558\uc774\ub2c9\uc2a4\uc758 LPDDR \ubc0f UFS \ub77c\uc778\uc5c5",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "27e8e1ffba79",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "\u25b2 SK hynix\u2019s SSD lineup",
+      "url": "https://news.skhynix.com/en/fms-2026-8/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:00:49+00:00",
+      "tags": [
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4, 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
+      "summary_ko": "\u25b2 SK\ud558\uc774\ub2c9\uc2a4\uc758 SSD \ub77c\uc778\uc5c5\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "Memory"
+      ]
+    },
+    {
+      "id": "682f25b63615",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "\u25b2 Dell\u2019s \u2018R7625\u2019 server system and SK hynix\u2019s \u201864GB DDR5 RDIMM\u2019 server DRAM",
+      "url": "https://news.skhynix.com/en/fms-2026-6/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T05:00:45+00:00",
+      "tags": [
+        "DRAM",
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4\uac00 \u2018FMS 2026\u2019\uc5d0\uc11c \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud558\ub2e4",
+      "summary_ko": "\u25b2 Dell\uc758 \u2018R7625\u2019 \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uacfc SK\ud558\uc774\ub2c9\uc2a4\uc758 \u201864GB DDR5 RDIMM\u2019 \uc11c\ubc84 DRAM",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "89880921a738",
       "headline": "Inside FMS 2026: Samsung Electronics Showcases the Future of AI Memory",
@@ -1011,9 +1191,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-07T01:43:56.098047+00:00",
+    "generated_at": "2026-08-07T23:48:41.864897+00:00",
     "cached": 53,
-    "translated": 0,
+    "translated": 10,
     "skipped": 0
   }
 }
