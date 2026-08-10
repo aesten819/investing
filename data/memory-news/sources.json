@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:45:04.139532+00:00",
+  "generated_at": "2026-08-10T23:49:28.815920+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -13,7 +13,7 @@
       "name": "SK hynix Newsroom",
       "url": "https://news.skhynix.com/feed/",
       "status": "ok",
-      "article_count": 10
+      "article_count": 5
     },
     {
       "id": "micron",
@@ -33,9 +33,8 @@
       "id": "semiconductor_today",
       "name": "Semiconductor Today",
       "url": "https://www.semiconductor-today.com/rss/news.xml",
-      "status": "error",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 7
     }
   ]
 }

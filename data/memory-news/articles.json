@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-08-09T23:45:04.139532+00:00",
-  "article_count": 63,
+  "generated_at": "2026-08-10T23:49:28.815920+00:00",
+  "article_count": 64,
   "articles": [
+    {
+      "id": "f4619254b28c",
+      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/the-next-generation-memory-architecture-in-the-ai-era-sk-hynix-charts-the-direction-at-fms-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-07T07:48:03+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4, \u2018FMS 2026\u2019\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 FMS 2026\uc5d0\uc11c AI \uc2dc\ub300\uc5d0 \uc801\ud569\ud55c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc758 \ubc29\ud5a5\uc131\uc744 \uc81c\uc2dc\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "f863ab99f42f",
       "headline": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
@@ -1191,9 +1208,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-09T23:45:04.214489+00:00",
+    "generated_at": "2026-08-10T23:49:37.203531+00:00",
     "cached": 63,
-    "translated": 0,
+    "translated": 1,
     "skipped": 0
   }
 }
