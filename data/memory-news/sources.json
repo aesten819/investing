@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:56:14.018522+00:00",
+  "generated_at": "2026-08-13T23:56:15.309217+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -19,8 +19,9 @@
       "id": "micron",
       "name": "Micron",
       "url": "https://investors.micron.com/rss/news-releases.xml",
-      "status": "ok",
-      "article_count": 3
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "article_count": 0
     },
     {
       "id": "trendforce",
