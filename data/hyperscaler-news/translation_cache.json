@@ -4049,5 +4049,137 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "12925f05ce09a73a13b761696c0f392758b09a1d": {
+    "headline_ko": "NVIDIA, AI \ud329\ud1a0\ub9ac\ub97c \uc790\uc0b0 \ud074\ub798\uc2a4\ub85c \uaca9\uc0c1",
+    "summary_ko": "NVIDIA\uac00 AI \ud329\ud1a0\ub9ac\ub97c \uc790\uc0b0 \ud074\ub798\uc2a4\ub85c \uaca9\uc0c1\ud588\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "ae0095d6de6497d5d1f652d202177f06d38fc49f": {
+    "headline_ko": "\uc5d4\ube44\ub514\uc544\uc758 5000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 AI \uc778\ud504\ub77c \ud22c\uc790, \uc804\ub825 \ud655\ubcf4\uac00 \ud575\uc2ec \ubcc0\uc218\ub85c \ubd80\uc0c1",
+    "summary_ko": "\uc5d4\ube44\ub514\uc544\uc758 5000\uc5b5 \ub2ec\ub7ec \uc790\uae08 \uc870\ub2ec\uc740 AI \uc778\ud504\ub77c \uc6b4\uc601\uc0ac\ub4e4\uc758 \uc790\uae08 \uc870\ub2ec \ubc29\uc2dd\uc744 \ubc14\uafc0 \uc218 \uc788\uc73c\uba70, \uc804\ub825\uacfc \uc0c1\ud638 \uc5f0\uacb0\uc740 \uc5ec\uc804\ud788 \uad6c\ucd95\uc758 \ud575\uc2ec \uc81c\uc57d \uc694\uc778\uc73c\ub85c \ub0a8\uc544 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "\uc804\ub825",
+      "\uc790\uae08 \uc870\ub2ec"
+    ]
+  },
+  "0ea174e09ae7a80602a4aca60be2c72cbd046ac5": {
+    "headline_ko": "RWE, \ub450 \uac74\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uac70\ub798 \uc644\ub8cc \uc784\ubc15",
+    "summary_ko": "RWE\ub294 2026\ub144\ubd80\ud130 2031\ub144\uae4c\uc9c0 \ucd1d \u20ac420\uc5b5\uc758 \uc21c\ud22c\uc790\ub97c \uacc4\ud68d\ud574 \uae09\uc99d\ud558\ub294 \uc218\uc694\ub97c \ucda9\uc871\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "1cc7f5e634b55726417bb08d77a00b4d9201c839": {
+    "headline_ko": "Crusoe\uac00 \ud22c\uc790\ud55c \ubcc0\uc555\uae30 \uc81c\uc870\uc5c5\uccb4 Heron Power, \uccab \ub300\uaddc\ubaa8 \uacf5\uc7a5 \ubd80\uc9c0\ub85c \uce98\ub9ac\ud3ec\ub2c8\uc544\uc8fc Morgan Hill \uc120\uc815",
+    "summary_ko": "\uc5f0\uac04 10,000\uac1c\uc758 Heron Links\ub97c \uc81c\uc870\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "2f9778da663233c17c15da39db9be6d181dcf610": {
+    "headline_ko": "Nebius, \uc6e8\uc77c\uc988 \ub274\ud3ec\ud2b8\uc5d0 \uc788\ub294 Vantage\ub85c\ubd80\ud130 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc744 \uc784\ub300\ud560 \uc608\uc815",
+    "summary_ko": "AI \ud074\ub77c\uc6b0\ub4dc \uae30\uc5c5\uc774 CLW1 \uc0ac\uc774\ud2b8\uc5d0 Nvidia GPU\ub97c \ubc30\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Colocation"
+    ]
+  },
+  "39e5206cf8a3181d3c4526c428dd4619fd79dcc6": {
+    "headline_ko": "Nebius, \uc720\ub7fd \uc785\uc9c0 \ud655\ub300\u2026 \uc5d0\uc2a4\ud1a0\ub2c8\uc544 \ubc30\ud3ec \ubc0f \ud540\ub780\ub4dc \ub9cc\ucc4c\ub798\uc5d0 \ub450 \ubc88\uc9f8 \ub370\uc774\ud130 \uc13c\ud130 \ubc1c\ud45c",
+    "summary_ko": "\uc774\ubc88 \ubc1c\ud45c\ub294 \ud68c\uc0ac\uc758 2026\ub144 2\ubd84\uae30 \uc2e4\uc801\uacfc \ud568\uaed8 \uc774\ub8e8\uc5b4\uc84c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "ed6e18e6a985653cad4edf9a1deb7d7a9816d9cd": {
+    "headline_ko": "\uc544\ub9c8\uc874, \uc624\ud558\uc774\uc624\uc8fc \uc2e0\uc2dc\ub0b4\ud2f0 \uc678\uacfd\uc5d0 18\uac1c \uac74\ubb3c \ucea0\ud37c\uc2a4 \uacc4\ud68d",
+    "summary_ko": "\ud2b8\ub80c\ud134 \uc8fc\ubcc0\uc5d0 396\ub9cc sq ft \uaddc\ubaa8\uc758 \ucea0\ud37c\uc2a4\uac00 \uacc4\ud68d\ub410\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "add1dbea363427c3913c50bfe8157aa10cdcb82b": {
+    "headline_ko": "\ud14d\uc0ac\uc2a4\uc8fc \ud3ec\ud2b8\uc6cc\uc2a4 \uc2dc\uc758\ud68c, data center \uc784\uc2dc \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \ubc1c\ud45c",
+    "summary_ko": "\uadf8 \uae30\uac04 \ub3d9\uc548 \uc0c8\ub85c\uc6b4 \uaddc\uc815\uc774 \ub9c8\ub828\ub420 \uc218 \uc788\uc9c0\ub9cc, \ub0b4\ub144\uae4c\uc9c0\ub294 \ubc1c\ud6a8\ub418\uc9c0 \uc54a\uc744 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "19a4996f9b4d076b2139783b3d607c6ed6d50592": {
+    "headline_ko": "\uc774\ud0c8\ub9ac\uc544 \ud53c\ub80c\uccb4\uc5d0 '\uc81c\ub85c \uc784\ud329\ud2b8' data center \uac74\ub9bd \ubc1c\ud45c",
+    "summary_ko": "\uc774 \uc2dc\uc124\uc740 \ub3c4\uc2dc \ub0a8\ub3d9\ubd80\uc5d0 \uacc4\ud68d\ub41c \uc7ac\uc0dd \uc5d0\ub108\uc9c0 \ud5c8\ube0c\uc758 \uc77c\ubd80\uac00 \ub420 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "1f13ac15a2941310d72dca8510a8a52e9f744ec5": {
+    "headline_ko": "Optimal Transit, \uc804\ub825\uc744 \uc0dd\uc131\ud558\uace0 \uccad\uc815 \uc74c\uc6a9\uc218\ub97c \uc81c\uacf5\ud558\ub294 Kraaken \ubd80\uc720\uc2dd data center \uc81c\uc548",
+    "summary_ko": "\ud504\ub85c\uc81d\ud2b8\ub294 \uc57c\uc2ec \ucc28 \ubcf4\uc774\uc9c0\ub9cc, \ubd84\uba85\ud788 \uac80\uc99d\ub41c \uae30\uc220\uc5d0 \uae30\ubc18\ud55c \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "6900cc56c18ee087277e4eaa947a094d1b809b5d": {
+    "headline_ko": "Intel, \ub2e4\uc911 \uada4\ub3c4 \ub370\uc774\ud130 \uc13c\ud130 \uc194\ub8e8\uc158\uc5d0 \ub300\ud55c \ud2b9\ud5c8 \uacc4\uc18d \ucd9c\uc6d0",
+    "summary_ko": "CPU \uac70\ub300 \uae30\uc5c5 \uc778\ud154\uc774 4\ub144 \ub41c \ud2b9\ud5c8\ub97c \uacc4\uc18d \uc774\uc5b4\uac00\uace0 \uc788\uc73c\uba70, \uacbd\uc7c1 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc774 \uc774\ub97c \uad6c\ucd95\ud558\uae30 \uc704\ud574 \uc11c\ub450\ub974\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "06a8704703e7490734f72be31628db49d84c9f9f": {
+    "headline_ko": "Form Energy, \ub370\uc774\ud130 \uc13c\ud130 \uc218\uc694 \uae09\uc99d\uc5d0 \ub300\uc751\ud574 \uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544 \ucca0-\uacf5\uae30 \ubc30\ud130\ub9ac \uacf5\uc7a5 \ud655\uc7a5\uc5d0 7\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec \uc870\ub2ec",
+    "summary_ko": "\uc774 \ud68c\uc0ac\ub294 \uc774\uc804\uc5d0 Google \ubc0f Crusoe\uc640 \uacf5\uae09 \uacc4\uc57d\uc744 \uccb4\uacb0\ud55c \ubc14 \uc788\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "e31265bbdfd59c056777c6cbb690db02ecbd4bbf": {
+    "headline_ko": "Centuria, \ud638\uc8fc \ub370\uc774\ud130 \uc13c\ud130 250MW \uc6a9\ub7c9 \ud655\ubcf4 \ucd94\uc9c4",
+    "summary_ko": "\ubd80\ub3d9\uc0b0 \uae30\uc5c5\uc774 \uae30\uc874 \ubd80\uc9c0 \ud655\uc7a5\uacfc \uc0b0\uc5c5 \ubd80\uc9c0 \uc6a9\ub3c4 \ubcc0\uacbd\uc744 \uac80\ud1a0\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "164060b866047d4018bcfd49057f1148995d8587": {
+    "headline_ko": "\ud39c\uc2e4\ubca0\uc774\ub2c8\uc544 \uc568\ub7f0\ud0c0\uc6b4 \uc678\uacfd 2.6 million sq ft \uaddc\ubaa8 data center \uacc4\ud68d, \ub2f9\uad6d\uc758 \uc2e0\uccad \uac70\ubd80\ub85c \ubb34\uc0b0",
+    "summary_ko": "Air Products\uc758 \uc61b \ubcf8\uc0ac \uac1c\ubc1c \uacc4\ud68d\uc774 \ubb34\uc0b0\ub410\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "39f9c96e793b7a622306031b37fafc50fa7ff5f1": {
+    "headline_ko": "Centuria Capital Group\uacfc ResetData, CDC Data Centres\uc640 7MW \uc6a9\ub7c9 \uacc4\uc57d \uccb4\uacb0, Macquarie Bank\ub85c\ubd80\ud130 1\uc5b5 6,500\ub9cc \ub2ec\ub7ec \ube0c\ub9ac\uc9c0 \ud30c\uc774\ub0b8\uc2f1 \ud655\ubcf4",
+    "summary_ko": "\ud68c\uc0ac\ub4e4\uc740 \ucd08\uae30 CDC \ubc30\ud3ec\uc6a9 GPU\ub97c \uc8fc\ubb38\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "5401b85499751ba11c0370822eff42dc3fb0e2cd": {
+    "headline_ko": "\ud575\uc2ec \uad11\ubb3c \uc704\uae30: AI Data Center \uacf5\uae09\ub9dd \uc555\ubc15",
+    "summary_ko": "AI Data Center \ubd90\uc740 \uad6c\ub9ac, \ub9ac\ud2ac, \ud76c\ud1a0\ub958\uc5d0 \uc758\uc874\ud558\uc9c0\ub9cc, \uc9c0\uc18d\uc801\uc778 \uacf5\uae09\ub9dd \uc555\ubc15\uc774 \uc0dd\uc0b0\uc790\ub4e4\uc774 \uc218\uc694\ub97c \ub530\ub77c\uc7a1\uc744 \uc218 \uc788\uc744\uc9c0 \uc2dc\ud5d8\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
+  },
+  "ed76e6887d3b5b7c4ae6a89a06ed426bd445828d": {
+    "headline_ko": "AI \uc778\ud504\ub77c \ud655\uc0b0\uc73c\ub85c Zayo\uc640 Nvidia, \uad11\uc12c\uc720 \uc6a9\ub7c9 \ud655\ubcf4\uc5d0 \uc8fc\ubaa9",
+    "summary_ko": "AI \ub370\uc774\ud130\uc13c\ud130 \uac74\uc124\ub85c \uc804\uc6a9 \uc5f0\uacb0\uc131\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 \uc218\uc694\uac00 \ubc1c\uc0dd\ud558\uace0 \uc788\uc9c0\ub9cc, \uad11\ud559 \uc7a5\ube44 \uc81c\uc57d\uc73c\ub85c \uae30\uc874 \uacbd\ub85c \ud655\uc7a5\uc774 \uc81c\ud55c\ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "Capacity"
+    ]
   }
 }

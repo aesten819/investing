@@ -1,7 +1,322 @@
 {
-  "generated_at": "2026-08-13T00:02:01.021896+00:00",
+  "generated_at": "2026-08-14T00:02:14.237721+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "fa578b699271",
+      "headline": "NVIDIA Takes AI Factory to Asset Class",
+      "summary": "NVIDIA Takes AI Factory to Asset Class",
+      "url": "https://www.datacenterfrontier.com/machine-learning/article/55397821/nvidia-pushes-the-ai-factory-from-rack-to-asset-class",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-08-14T00:02:10.531288+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "NVIDIA, AI \ud329\ud1a0\ub9ac\ub97c \uc790\uc0b0 \ud074\ub798\uc2a4\ub85c \uaca9\uc0c1",
+      "summary_ko": "NVIDIA\uac00 AI \ud329\ud1a0\ub9ac\ub97c \uc790\uc0b0 \ud074\ub798\uc2a4\ub85c \uaca9\uc0c1\ud588\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "2d0f9950ea34",
+      "headline": "Nvidia\u2019s $500B AI Infrastructure Bet Raises Power Stakes",
+      "summary": "Nvidia\u2019s $500B financing push could change how operators fund AI infrastructure, while power and interconnection remain critical constraints on deployment.",
+      "url": "https://www.datacenterknowledge.com/investing/nvidia-s-500b-ai-infrastructure-bet-raises-power-stakes",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-08-13T21:09:14+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Power",
+        "Financing"
+      ],
+      "headline_ko": "\uc5d4\ube44\ub514\uc544\uc758 5000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 AI \uc778\ud504\ub77c \ud22c\uc790, \uc804\ub825 \ud655\ubcf4\uac00 \ud575\uc2ec \ubcc0\uc218\ub85c \ubd80\uc0c1",
+      "summary_ko": "\uc5d4\ube44\ub514\uc544\uc758 5000\uc5b5 \ub2ec\ub7ec \uc790\uae08 \uc870\ub2ec\uc740 AI \uc778\ud504\ub77c \uc6b4\uc601\uc0ac\ub4e4\uc758 \uc790\uae08 \uc870\ub2ec \ubc29\uc2dd\uc744 \ubc14\uafc0 \uc218 \uc788\uc73c\uba70, \uc804\ub825\uacfc \uc0c1\ud638 \uc5f0\uacb0\uc740 \uc5ec\uc804\ud788 \uad6c\ucd95\uc758 \ud575\uc2ec \uc81c\uc57d \uc694\uc778\uc73c\ub85c \ub0a8\uc544 \uc788\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure",
+        "\uc804\ub825",
+        "\uc790\uae08 \uc870\ub2ec"
+      ]
+    },
+    {
+      "id": "28ed04d976dc",
+      "headline": "RWE nears completion on two data center deals",
+      "summary": "Plans total net investments of \u20ac42 billion from 2026 to 2031 to meet skyrocketing demand",
+      "url": "https://www.datacenterdynamics.com/en/news/rwe-nears-completion-on-two-data-center-deals/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T16:50:27+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "RWE, \ub450 \uac74\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uac70\ub798 \uc644\ub8cc \uc784\ubc15",
+      "summary_ko": "RWE\ub294 2026\ub144\ubd80\ud130 2031\ub144\uae4c\uc9c0 \ucd1d \u20ac420\uc5b5\uc758 \uc21c\ud22c\uc790\ub97c \uacc4\ud68d\ud574 \uae09\uc99d\ud558\ub294 \uc218\uc694\ub97c \ucda9\uc871\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "feb67efacb1c",
+      "headline": "Crusoe-backed transformer manufacturer Heron Power selects Morgan Hill, California, as site of first large-scale factory",
+      "summary": "Expected to manufacture 10,000 Heron Links every year",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-backed-transformer-manufacturer-heron-power-selects-morgan-hill-california-as-site-of-first-large-scale-factory/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T16:30:41+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Crusoe\uac00 \ud22c\uc790\ud55c \ubcc0\uc555\uae30 \uc81c\uc870\uc5c5\uccb4 Heron Power, \uccab \ub300\uaddc\ubaa8 \uacf5\uc7a5 \ubd80\uc9c0\ub85c \uce98\ub9ac\ud3ec\ub2c8\uc544\uc8fc Morgan Hill \uc120\uc815",
+      "summary_ko": "\uc5f0\uac04 10,000\uac1c\uc758 Heron Links\ub97c \uc81c\uc870\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "c617b59f77ab",
+      "headline": "Nebius to lease data center capacity from Vantage in Newport, Wales",
+      "summary": "AI cloud firm to deploy Nvidia GPUs at CLW1 site",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-to-lease-data-center-capacity-from-vantage-in-newport-wales/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T16:20:31+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ],
+      "headline_ko": "Nebius, \uc6e8\uc77c\uc988 \ub274\ud3ec\ud2b8\uc5d0 \uc788\ub294 Vantage\ub85c\ubd80\ud130 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc744 \uc784\ub300\ud560 \uc608\uc815",
+      "summary_ko": "AI \ud074\ub77c\uc6b0\ub4dc \uae30\uc5c5\uc774 CLW1 \uc0ac\uc774\ud2b8\uc5d0 Nvidia GPU\ub97c \ubc30\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "89f04c23e668",
+      "headline": "Nebius expands European presence, announces deployment in Estonia and second data center in M\u00e4nts\u00e4l\u00e4, Finland",
+      "summary": "Announcements made alongside company\u2019s Q2 2026 results",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-expands-european-presence-announces-deployment-in-estonia-and-second-data-center-in-m%C3%A4nts%C3%A4l%C3%A4-finland/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T16:07:10+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Nebius, \uc720\ub7fd \uc785\uc9c0 \ud655\ub300\u2026 \uc5d0\uc2a4\ud1a0\ub2c8\uc544 \ubc30\ud3ec \ubc0f \ud540\ub780\ub4dc \ub9cc\ucc4c\ub798\uc5d0 \ub450 \ubc88\uc9f8 \ub370\uc774\ud130 \uc13c\ud130 \ubc1c\ud45c",
+      "summary_ko": "\uc774\ubc88 \ubc1c\ud45c\ub294 \ud68c\uc0ac\uc758 2026\ub144 2\ubd84\uae30 \uc2e4\uc801\uacfc \ud568\uaed8 \uc774\ub8e8\uc5b4\uc84c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "19003a82be70",
+      "headline": "Amazon plans 18-building campus outside Cincinnati, Ohio",
+      "summary": "3.96 million sq ft campus planned around Trenton",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-plans-18-building-campus-outside-cincinnati-ohio/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T16:02:51+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc544\ub9c8\uc874, \uc624\ud558\uc774\uc624\uc8fc \uc2e0\uc2dc\ub0b4\ud2f0 \uc678\uacfd\uc5d0 18\uac1c \uac74\ubb3c \ucea0\ud37c\uc2a4 \uacc4\ud68d",
+      "summary_ko": "\ud2b8\ub80c\ud134 \uc8fc\ubcc0\uc5d0 396\ub9cc sq ft \uaddc\ubaa8\uc758 \ucea0\ud37c\uc2a4\uac00 \uacc4\ud68d\ub410\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "af4ad353a923",
+      "headline": "City council in Fort Worth, Texas, issues temporary data center moratorium",
+      "summary": "During which time new regulations may be developed, though won\u2019t come into force until next year",
+      "url": "https://www.datacenterdynamics.com/en/news/city-council-in-fort-worth-texas-issues-temporary-data-center-moratorium/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T15:28:20+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ud14d\uc0ac\uc2a4\uc8fc \ud3ec\ud2b8\uc6cc\uc2a4 \uc2dc\uc758\ud68c, data center \uc784\uc2dc \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \ubc1c\ud45c",
+      "summary_ko": "\uadf8 \uae30\uac04 \ub3d9\uc548 \uc0c8\ub85c\uc6b4 \uaddc\uc815\uc774 \ub9c8\ub828\ub420 \uc218 \uc788\uc9c0\ub9cc, \ub0b4\ub144\uae4c\uc9c0\ub294 \ubc1c\ud6a8\ub418\uc9c0 \uc54a\uc744 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "89764029378b",
+      "headline": "\u2018Zero-impact\u2019 data center announced for Florence, Italy",
+      "summary": "The facility will form part of a renewable energy hub planned for the southeast of the city",
+      "url": "https://www.datacenterdynamics.com/en/news/zero-impact-data-center-announced-for-florence-italy/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T13:40:01+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uc774\ud0c8\ub9ac\uc544 \ud53c\ub80c\uccb4\uc5d0 '\uc81c\ub85c \uc784\ud329\ud2b8' data center \uac74\ub9bd \ubc1c\ud45c",
+      "summary_ko": "\uc774 \uc2dc\uc124\uc740 \ub3c4\uc2dc \ub0a8\ub3d9\ubd80\uc5d0 \uacc4\ud68d\ub41c \uc7ac\uc0dd \uc5d0\ub108\uc9c0 \ud5c8\ube0c\uc758 \uc77c\ubd80\uac00 \ub420 \uac83\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "dee2f5d8a9fc",
+      "headline": "Optimal Transit pitches Kraaken floating data center than can generate power and provide clean drinking water",
+      "summary": "Project sounds ambitious, but is apparently based on proven technologies",
+      "url": "https://www.datacenterdynamics.com/en/news/optimal-transit-pitches-kraaken-floating-data-center-than-can-generate-power-and-provide-clean-drinking-water/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T13:38:00+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Optimal Transit, \uc804\ub825\uc744 \uc0dd\uc131\ud558\uace0 \uccad\uc815 \uc74c\uc6a9\uc218\ub97c \uc81c\uacf5\ud558\ub294 Kraaken \ubd80\uc720\uc2dd data center \uc81c\uc548",
+      "summary_ko": "\ud504\ub85c\uc81d\ud2b8\ub294 \uc57c\uc2ec \ucc28 \ubcf4\uc774\uc9c0\ub9cc, \ubd84\uba85\ud788 \uac80\uc99d\ub41c \uae30\uc220\uc5d0 \uae30\ubc18\ud55c \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "72c7e4874db3",
+      "headline": "Intel submits patent continuation on multi-orbit data center solution",
+      "summary": "CPU giant keeps four-year-old patent going as competing hyperscalers hurry to get them built",
+      "url": "https://www.datacenterdynamics.com/en/news/intel-submits-patent-continuation-on-multi-orbit-data-center-solution/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T13:23:24+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Intel, \ub2e4\uc911 \uada4\ub3c4 \ub370\uc774\ud130 \uc13c\ud130 \uc194\ub8e8\uc158\uc5d0 \ub300\ud55c \ud2b9\ud5c8 \uacc4\uc18d \ucd9c\uc6d0",
+      "summary_ko": "CPU \uac70\ub300 \uae30\uc5c5 \uc778\ud154\uc774 4\ub144 \ub41c \ud2b9\ud5c8\ub97c \uacc4\uc18d \uc774\uc5b4\uac00\uace0 \uc788\uc73c\uba70, \uacbd\uc7c1 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc774 \uc774\ub97c \uad6c\ucd95\ud558\uae30 \uc704\ud574 \uc11c\ub450\ub974\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "8c3bfd756177",
+      "headline": "Form Energy raises $750m to expand West Virginia iron-air battery plant to meet surging data center demand",
+      "summary": "The company has previously signed supply deals with Google and Crusoe",
+      "url": "https://www.datacenterdynamics.com/en/news/form-energy-raises-750m-to-expand-west-virginia-iron-air-battery-plant-to-meet-surging-data-center-demand/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T11:40:29+00:00",
+      "tags": [
+        "Google Cloud",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Form Energy, \ub370\uc774\ud130 \uc13c\ud130 \uc218\uc694 \uae09\uc99d\uc5d0 \ub300\uc751\ud574 \uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544 \ucca0-\uacf5\uae30 \ubc30\ud130\ub9ac \uacf5\uc7a5 \ud655\uc7a5\uc5d0 7\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec \uc870\ub2ec",
+      "summary_ko": "\uc774 \ud68c\uc0ac\ub294 \uc774\uc804\uc5d0 Google \ubc0f Crusoe\uc640 \uacf5\uae09 \uacc4\uc57d\uc744 \uccb4\uacb0\ud55c \ubc14 \uc788\ub2e4.",
+      "tags_ko": [
+        "Google Cloud",
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "788b46b39b93",
+      "headline": "Centuria eyes 250MW of data center capacity in Australia",
+      "summary": "Real estate firm looks to expand existing sites and repurpose industrial sites",
+      "url": "https://www.datacenterdynamics.com/en/news/centuria-eyes-250mw-of-data-center-capacity-in-australia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T10:47:29+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "Centuria, \ud638\uc8fc \ub370\uc774\ud130 \uc13c\ud130 250MW \uc6a9\ub7c9 \ud655\ubcf4 \ucd94\uc9c4",
+      "summary_ko": "\ubd80\ub3d9\uc0b0 \uae30\uc5c5\uc774 \uae30\uc874 \ubd80\uc9c0 \ud655\uc7a5\uacfc \uc0b0\uc5c5 \ubd80\uc9c0 \uc6a9\ub3c4 \ubcc0\uacbd\uc744 \uac80\ud1a0\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "fed2330542c3",
+      "headline": "Plans for 2.6 million sq ft data center outside Allentown, Pennsylvania, dropped after officials deny application",
+      "summary": "Air Products' hopes to develop its old HQ dashed",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-26-million-sq-ft-data-center-outside-allentown-pennsylvania-dropped-after-officials-deny-application/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T10:40:32+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ud39c\uc2e4\ubca0\uc774\ub2c8\uc544 \uc568\ub7f0\ud0c0\uc6b4 \uc678\uacfd 2.6 million sq ft \uaddc\ubaa8 data center \uacc4\ud68d, \ub2f9\uad6d\uc758 \uc2e0\uccad \uac70\ubd80\ub85c \ubb34\uc0b0",
+      "summary_ko": "Air Products\uc758 \uc61b \ubcf8\uc0ac \uac1c\ubc1c \uacc4\ud68d\uc774 \ubb34\uc0b0\ub410\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "f3f1c47c2b49",
+      "headline": "Centuria Capital Group and ResetData sign 7MW capacity agreement with CDC Data Centres, secures $165m bridge facility with Macquarie Bank",
+      "summary": "GPUs for initial CDC deployment have been ordered, companies said",
+      "url": "https://www.datacenterdynamics.com/en/news/centuria-capital-group-and-resetdata-sign-7mw-capacity-agreement-with-cdc-data-centres-secures-165m-bridge-facility-with-macquarie-bank/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-13T10:40:00+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "Centuria Capital Group\uacfc ResetData, CDC Data Centres\uc640 7MW \uc6a9\ub7c9 \uacc4\uc57d \uccb4\uacb0, Macquarie Bank\ub85c\ubd80\ud130 1\uc5b5 6,500\ub9cc \ub2ec\ub7ec \ube0c\ub9ac\uc9c0 \ud30c\uc774\ub0b8\uc2f1 \ud655\ubcf4",
+      "summary_ko": "\ud68c\uc0ac\ub4e4\uc740 \ucd08\uae30 CDC \ubc30\ud3ec\uc6a9 GPU\ub97c \uc8fc\ubb38\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "f9d3feca5732",
+      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain",
+      "summary": "The AI data center boom relies on copper, lithium, and rare earths, but ongoing supply chain pressures are testing whether producers can keep up.",
+      "url": "https://www.datacenterknowledge.com/supply-chain/the-critical-minerals-crisis-ai-data-centers-face-supply-chain-strain",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center"
+      ],
+      "headline_ko": "\ud575\uc2ec \uad11\ubb3c \uc704\uae30: AI Data Center \uacf5\uae09\ub9dd \uc555\ubc15",
+      "summary_ko": "AI Data Center \ubd90\uc740 \uad6c\ub9ac, \ub9ac\ud2ac, \ud76c\ud1a0\ub958\uc5d0 \uc758\uc874\ud558\uc9c0\ub9cc, \uc9c0\uc18d\uc801\uc778 \uacf5\uae09\ub9dd \uc555\ubc15\uc774 \uc0dd\uc0b0\uc790\ub4e4\uc774 \uc218\uc694\ub97c \ub530\ub77c\uc7a1\uc744 \uc218 \uc788\uc744\uc9c0 \uc2dc\ud5d8\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "3af7cf5e0543",
+      "headline": "Zayo, Nvidia Target Fiber Capacity as AI Infrastructure Spreads",
+      "summary": "AI data center construction is creating new demand for dedicated connectivity, while optical equipment constraints could limit expansion of existing routes.",
+      "url": "https://www.datacenterknowledge.com/networking/zayo-nvidia-target-fiber-capacity-as-ai-infrastructure-spreads",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-08-13T07:15:00+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "AI \uc778\ud504\ub77c \ud655\uc0b0\uc73c\ub85c Zayo\uc640 Nvidia, \uad11\uc12c\uc720 \uc6a9\ub7c9 \ud655\ubcf4\uc5d0 \uc8fc\ubaa9",
+      "summary_ko": "AI \ub370\uc774\ud130\uc13c\ud130 \uac74\uc124\ub85c \uc804\uc6a9 \uc5f0\uacb0\uc131\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 \uc218\uc694\uac00 \ubc1c\uc0dd\ud558\uace0 \uc788\uc9c0\ub9cc, \uad11\ud559 \uc7a5\ube44 \uc81c\uc57d\uc73c\ub85c \uae30\uc874 \uacbd\ub85c \ud655\uc7a5\uc774 \uc81c\ud55c\ub420 \uc218 \uc788\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center",
+        "Capacity"
+      ]
+    },
     {
       "id": "d1a4fce2e4fb",
       "headline": "Reports: Data Center Expansion Finds Its Contours",
@@ -2602,327 +2917,14 @@
         "\uc6a9\ub7c9",
         "\uc804\ub825"
       ]
-    },
-    {
-      "id": "e178d320e23a",
-      "headline": "InP Capacity Arms Race: How AI-Driven Optical Interconnects Are Reshaping the Semiconductor Value Chain",
-      "summary": "InP Capacity Arms Race: How AI-Driven Optical Interconnects Are Reshaping the Semiconductor Value Chain",
-      "url": "https://www.datacenterfrontier.com/sponsored/article/55394097/inp-capacity-arms-race-how-ai-driven-optical-interconnects-are-reshaping-the-semiconductor-value-chain",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-01T00:14:31.715423+00:00",
-      "tags": [
-        "Capacity"
-      ],
-      "headline_ko": "InP Capacity \uacbd\uc7c1: AI \uae30\ubc18 \uad11 \uc778\ud130\ucee4\ub125\ud2b8\uac00 \ubc18\ub3c4\uccb4 \uac00\uce58 \uc0ac\uc2ac\uc744 \uc7ac\ud3b8\ud558\ub2e4",
-      "summary_ko": "AI \uae30\ubc18 \uad11 \uc778\ud130\ucee4\ub125\ud2b8 \uc218\uc694\uac00 \uc99d\uac00\ud558\uba74\uc11c InP Capacity \uacbd\uc7c1\uc774 \ucd09\ubc1c\ub418\uace0, \uc774\ub294 \ubc18\ub3c4\uccb4 \uac00\uce58 \uc0ac\uc2ac\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Capacity"
-      ]
-    },
-    {
-      "id": "8e8cc71163ed",
-      "headline": "Data Center Construction MEP Superintendent",
-      "summary": "Data Center Construction MEP Superintendent",
-      "url": "https://jobs.crelate.com/portal/pkaza/job/5pdrgiap8b8iiot7etyrydendr",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-01T00:14:31.715423+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Data Center \uac74\uc124 MEP \uac10\ub3c5\uad00",
-      "summary_ko": "Data Center \uac74\uc124 MEP \uac10\ub3c5\uad00\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "aae53df986a7",
-      "headline": "MEP Superintendent - Data Center",
-      "summary": "MEP Superintendent - Data Center",
-      "url": "https://jobs.crelate.com/portal/pkaza/job/p3w1nggsgr6aymxctzxb7bi8fh",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-01T00:14:31.715423+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "MEP \uac10\ub3c5\uad00 - Data Center",
-      "summary_ko": "Data Center\uc758 MEP \uac10\ub3c5\uad00 \uc9c1\ucc45\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "82649fec9265",
-      "headline": "The Data Center\u2019s Hidden Attack Surface: Why OT Security Can\u2019t Wait",
-      "summary": "Data centers face growing risks from cyber-physical systems. Operational technology security is critical for preventing outages and ensuring operational resilience.",
-      "url": "https://www.datacenterknowledge.com/cybersecurity/the-data-centers-hidden-attack-surface-why-ot-security-cant-wait",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-07-31T16:00:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Data Center\uc758 \uc228\uaca8\uc9c4 \uacf5\uaca9 \ud45c\uba74: OT \ubcf4\uc548\uc744 \ubbf8\ub8f0 \uc218 \uc5c6\ub294 \uc774\uc720",
-      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub294 \uc0ac\uc774\ubc84-\ubb3c\ub9ac \uc2dc\uc2a4\ud15c\uc73c\ub85c \uc778\ud55c \uc704\ud5d8\uc774 \ucee4\uc9c0\uace0 \uc788\uc73c\uba70, \uc911\ub2e8\uc744 \uc608\ubc29\ud558\uace0 \uc6b4\uc601 \ubcf5\uc6d0\ub825\uc744 \ud655\ubcf4\ud558\ub824\uba74 OT \ubcf4\uc548\uc774 \ud544\uc218\uc801\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "4563050320e0",
-      "headline": "The Data Center\u2019s Hidden Attack Surface: Why OT Security Can\u2019t Wait",
-      "summary": "Data centers face growing risks from cyber-physical systems. Operational technology security is critical for preventing outages and ensuring operational resilience.",
-      "url": "https://www.datacenterknowledge.com/cybersecurity/untitled",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-07-31T16:00:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130\uc758 \uc228\uaca8\uc9c4 \uacf5\uaca9 \ud45c\uba74: OT \ubcf4\uc548\uc744 \ubbf8\ub8f0 \uc218 \uc5c6\ub294 \uc774\uc720",
-      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub294 \uc0ac\uc774\ubc84\ubb3c\ub9ac \uc2dc\uc2a4\ud15c\uc73c\ub85c \uc778\ud55c \uc704\ud5d8\uc774 \uc99d\uac00\ud558\uace0 \uc788\uc73c\uba70, OT \ubcf4\uc548\uc740 \uc815\uc804 \ubc29\uc9c0\uc640 \uc6b4\uc601 \ubcf5\uc6d0\ub825 \ubcf4\uc7a5\uc5d0 \uc911\uc694\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "ea7764bc7550",
-      "headline": "AWS reports fastest growth since 2021, Amazon annual capex to hit $220bn on AI memory costs",
-      "summary": "Cloud sales boom as company ramps up data center buildout",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-reports-fastest-growth-since-2021-amazon-annual-capex-to-hit-220bn-on-ai-memory-costs/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T15:43:46+00:00",
-      "tags": [
-        "AWS",
-        "Data Center",
-        "Capex"
-      ],
-      "headline_ko": "AWS, 2021\ub144 \uc774\ud6c4 \ucd5c\uace0 \uc131\uc7a5\ub960 \uae30\ub85d... Amazon, AI \uba54\ubaa8\ub9ac \ube44\uc6a9\uc73c\ub85c \uc5f0\uac04 capex $220bn \uc804\ub9dd",
-      "summary_ko": "\ud074\ub77c\uc6b0\ub4dc \ub9e4\ucd9c\uc774 \ud638\uc870\ub97c \ubcf4\uc774\uba74\uc11c, \ud68c\uc0ac\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uad6c\ucd95\uc744 \ud655\ub300\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "Data Center",
-        "Capex"
-      ]
-    },
-    {
-      "id": "a8da1bca0f28",
-      "headline": "Why \u2018next wave\u2019 data center markets are at the heart of Europe's fight for data sovereignty",
-      "summary": "And why an over-reliance on FLAPD is not good for Europe's data center future",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-next-wave-data-center-markets-are-at-the-heart-of-europes-fight-for-data-sovereignty/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T14:00:35+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "'next wave' data center \uc2dc\uc7a5\uc774 \uc720\ub7fd\uc758 \ub370\uc774\ud130 \uc8fc\uad8c\uc744 \uc704\ud55c \uc2f8\uc6c0\uc758 \uc911\uc2ec\uc5d0 \uc788\ub294 \uc774\uc720",
-      "summary_ko": "FLAPD\uc5d0 \ub300\ud55c \uacfc\ub3c4\ud55c \uc758\uc874\uc774 \uc720\ub7fd\uc758 data center \ubbf8\ub798\uc5d0 \uc88b\uc9c0 \uc54a\uc740 \uc774\uc720\ub97c \uc124\uba85\ud55c\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "9fe53b75e596",
-      "headline": "PJM Says AI Data Centers Must Bring Capacity to Earn Firm Service",
-      "summary": "PJM\u2019s proposed reliability framework would require many future large loads to either secure their own generating capacity or accept service curtailments during resource shortages.",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-says-ai-data-centers-must-bring-capacity-to-earn-firm-service",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-07-31T13:58:20+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity"
-      ],
-      "headline_ko": "PJM, AI \ub370\uc774\ud130 \uc13c\ud130\ub294 \ud655\uc815 \uc11c\ube44\uc2a4\ub97c \uc704\ud574 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud574\uc57c \ud55c\ub2e4",
-      "summary_ko": "PJM\uc774 \uc81c\uc548\ud55c \uc2e0\ub8b0\uc131 \ud504\ub808\uc784\uc6cc\ud06c\ub294 \ud5a5\ud6c4 \ub300\ud615 \ubd80\ud558\ub4e4\uc774 \uc790\uccb4 \ubc1c\uc804 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud558\uac70\ub098 \uc790\uc6d0 \ubd80\uc871 \uc2dc \uc11c\ube44\uc2a4 \ucd95\uc18c\ub97c \uc218\uc6a9\ud558\ub3c4\ub85d \uc694\uad6c\ud560 \uac83\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity"
-      ]
-    },
-    {
-      "id": "8bc190430109",
-      "headline": "Musk confirms fourth SpaceXAI data center in Memphis, company starts removing 'illegal' gas turbines",
-      "summary": "Macrohard gets Minihard",
-      "url": "https://www.datacenterdynamics.com/en/news/musk-confirms-fourth-spacexai-data-center-in-memphis-company-starts-removing-illegal-gas-turbines/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T13:42:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uba38\uc2a4\ud06c, \uba64\ud53c\uc2a4\uc5d0 \ub124 \ubc88\uc9f8 SpaceXAI \ub370\uc774\ud130 \uc13c\ud130 \ud655\uc815, \ud68c\uc0ac\ub294 '\ubd88\ubc95' \uac00\uc2a4 \ud130\ube48 \uc81c\uac70 \uc2dc\uc791",
-      "summary_ko": "Macrohard\uac00 Minihard\ub97c \uc778\uc218\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "5f3b20daab37",
-      "headline": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
-      "summary": "Generators permitted for one year",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T13:35:00+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "Amazon\uacfc Duke Energy, \ub178\uc2a4\uce90\ub864\ub77c\uc774\ub098 \ud584\ub9bf\uc758 \uac1c\ubc1c \uc911\uc778 \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c Clean Air Act \ud68c\ud53c \ud610\uc758",
-      "summary_ko": "\ubc1c\uc804\uae30\uc5d0 \ub300\ud574 1\ub144 \ud5c8\uac00\uac00 \ub0b4\ub824\uc84c\ub2e4.",
-      "tags_ko": [
-        "data center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "8c456ad12d07",
-      "headline": "CenterPoint Energy raises investment plan by $1.2bn as data center load pipeline grows",
-      "summary": "Expects to energize up to 8GW of data center load in the Greater Houston area by 2029",
-      "url": "https://www.datacenterdynamics.com/en/news/centerpoint-energy-raises-investment-plan-by-12bn-as-data-center-load-pipeline-grows/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T13:33:54+00:00",
-      "tags": [
-        "Data Center",
-        "Capex",
-        "Power"
-      ],
-      "headline_ko": "CenterPoint Energy, data center \ubd80\ud558 \ud30c\uc774\ud504\ub77c\uc778 \uc99d\uac00\ub85c \ud22c\uc790 \uacc4\ud68d $1.2bn \uc99d\uc561",
-      "summary_ko": "CenterPoint Energy\ub294 2029\ub144\uae4c\uc9c0 \uadf8\ub808\uc774\ud130 \ud734\uc2a4\ud134 \uc9c0\uc5ed\uc5d0\uc11c \ucd5c\ub300 8GW\uc758 data center \ubd80\ud558\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ud55c\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capex",
-        "Power"
-      ]
-    },
-    {
-      "id": "8ea98218936b",
-      "headline": "GCM expands range of high-performance heat sinks to cater for liquid-cooled data centers",
-      "summary": "Australian vendor's graphite-based products could boost cooling performance",
-      "url": "https://www.datacenterdynamics.com/en/news/gcm-expands-range-of-high-performance-heat-sinks-to-cater-for-liquid-cooled-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T13:30:26+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "GCM, \uc561\uccb4 \ub0c9\uac01 \ub370\uc774\ud130 \uc13c\ud130\uc6a9 \uace0\uc131\ub2a5 \ubc29\uc5f4\ud310 \uc81c\ud488\uad70 \ud655\uc7a5",
-      "summary_ko": "\ud638\uc8fc \uc5c5\uccb4\uc758 \ud751\uc5f0 \uae30\ubc18 \uc81c\ud488\uc774 \ub0c9\uac01 \uc131\ub2a5\uc744 \ud5a5\uc0c1\uc2dc\ud0ac \uc218 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "a9983b32ebac",
-      "headline": "Amazon Lifts 2026 AI Capex to $220B, Still Capacity-Constrained",
-      "summary": "AWS posted its fastest growth in 18 quarters as Amazon raised AI infrastructure spending to $220 billion, citing memory costs and saying demand already stretches into 2028.",
-      "url": "https://www.datacenterknowledge.com/infrastructure/amazon-lifts-ai-infrastructure-spending-to-220b-as-demand-outpaces-capacity",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-07-31T13:15:12+00:00",
-      "tags": [
-        "AWS",
-        "AI Infrastructure",
-        "Capacity",
-        "Capex"
-      ],
-      "headline_ko": "\uc544\ub9c8\uc874, 2026\ub144 AI Capex\ub97c $220B\ub85c \uc0c1\ud5a5, \uc5ec\uc804\ud788 Capacity \uc81c\uc57d",
-      "summary_ko": "\uc544\ub9c8\uc874\uc774 AI \uc778\ud504\ub77c \ud22c\uc790\ub97c $220B\ub85c \uc0c1\ud5a5\ud558\uba74\uc11c AWS\ub294 18\ubd84\uae30 \ub9cc\uc5d0 \uac00\uc7a5 \ube60\ub978 \uc131\uc7a5\uc744 \uae30\ub85d\ud588\uace0, \uba54\ubaa8\ub9ac \ube44\uc6a9\uc744 \uc774\uc720\ub85c \ub4e4\uba70 \uc218\uc694\uac00 \uc774\ubbf8 2028\ub144\uae4c\uc9c0 \uc774\uc5b4\uc9c4\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "AI Infrastructure",
-        "Capacity",
-        "Capex"
-      ]
-    },
-    {
-      "id": "0815478c2fca",
-      "headline": "Enterprise cloud infrastructure spending hits $143 billion - report",
-      "summary": "Driven by AI growth, the 11th consecutive growth quarter",
-      "url": "https://www.datacenterdynamics.com/en/news/enterprise-cloud-infrastructure-spending-hits-143-billion-report/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T12:30:00+00:00",
-      "tags": [
-        "Capex"
-      ],
-      "headline_ko": "\uae30\uc5c5\uc6a9 \ud074\ub77c\uc6b0\ub4dc \uc778\ud504\ub77c \uc9c0\ucd9c, 1430\uc5b5 \ub2ec\ub7ec \ub3cc\ud30c - \ubcf4\uace0\uc11c",
-      "summary_ko": "AI \uc131\uc7a5\uc5d0 \ud798\uc785\uc5b4 11\ubd84\uae30 \uc5f0\uc18d \uc131\uc7a5",
-      "tags_ko": [
-        "Capex"
-      ]
-    },
-    {
-      "id": "922bc6435e33",
-      "headline": "AWS looks to build 800,000 sq ft data center campus at GWU site in Ashburn, Virginia",
-      "summary": "County supervisor vows to use \"every tool available\" to fight development",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-looks-to-build-800000-sq-ft-data-center-campus-at-gwu-site-in-ashburn-virginia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T12:20:27+00:00",
-      "tags": [
-        "AWS",
-        "Data Center"
-      ],
-      "headline_ko": "AWS, \ubc84\uc9c0\ub2c8\uc544\uc8fc \uc560\uc288\ubc88 GWU \ubd80\uc9c0\uc5d0 800,000 sq ft \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uac74\uc124 \ucd94\uc9c4",
-      "summary_ko": "\uce74\uc6b4\ud2f0 \uac10\ub3c5\uad00\uc740 \uac1c\ubc1c\uc744 \uc800\uc9c0\ud558\uae30 \uc704\ud574 \u201c\uc0ac\uc6a9 \uac00\ub2a5\ud55c \ubaa8\ub4e0 \uc218\ub2e8\u201d\uc744 \ub3d9\uc6d0\ud558\uaca0\ub2e4\uace0 \ub2e4\uc9d0\ud588\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "Data Center"
-      ]
-    },
-    {
-      "id": "8ea7be7a0b60",
-      "headline": "CyrusOne files to develop three buildings for $1.5bn data center campus in Fairfield, Texas",
-      "summary": "Construction has commenced on two of the three buildings, with the third to be started next month",
-      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-files-to-develop-three-buildings-for-15bn-data-center-campus-in-fairfield-texas/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T12:11:17+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "CyrusOne, \ud14d\uc0ac\uc2a4 \ud398\uc5b4\ud544\ub4dc\uc5d0 15\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc6a9 \uac74\ubb3c 3\uac1c \uac1c\ubc1c \uc2e0\uccad",
-      "summary_ko": "3\uac1c \uac74\ubb3c \uc911 2\uac1c\ub294 \uc774\ubbf8 \ucc29\uacf5\ud588\uc73c\uba70, \ub098\uba38\uc9c0 1\uac1c\ub294 \ub2e4\uc74c \ub2ec \ucc29\uacf5 \uc608\uc815\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "a413243a7e72",
-      "headline": "EU puts out call for tender for seven supercomputing clusters",
-      "summary": "The Union says its \u2018AI gigafactory\u2019 project will unlock at least \u20ac20 billion in private investment",
-      "url": "https://www.datacenterdynamics.com/en/news/eu-puts-out-call-for-tender-for-seven-supercomputing-clusters/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-07-31T11:45:27+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Capex"
-      ],
-      "headline_ko": "EU, \uc288\ud37c\ucef4\ud4e8\ud305 \ud074\ub7ec\uc2a4\ud130 7\uac1c \uc785\ucc30 \uacf5\uace0",
-      "summary_ko": "EU\ub294 \uc790\uc0ac\uc758 'AI gigafactory' \ud504\ub85c\uc81d\ud2b8\uac00 \ucd5c\uc18c 200\uc5b5 \uc720\ub85c\uc758 \ubbfc\uac04 \ud22c\uc790\ub97c \uc774\ub04c\uc5b4\ub0bc \uac83\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4.",
-      "tags_ko": [
-        "AI Infrastructure",
-        "Capex"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-13T00:06:30.410872+00:00",
-    "cached": 146,
-    "translated": 14,
+    "generated_at": "2026-08-14T00:05:01.759542+00:00",
+    "cached": 143,
+    "translated": 17,
     "skipped": 0
   }
 }
