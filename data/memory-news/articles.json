@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-08-13T23:56:15.309217+00:00",
-  "article_count": 64,
+  "generated_at": "2026-08-14T23:33:55.416943+00:00",
+  "article_count": 65,
   "articles": [
+    {
+      "id": "a50e6caf69b9",
+      "headline": "[Analyst Interview | Ryu Hyung-keun, Daishin Securities] Exploring SK hynix\u2019s Next Opportunity Amid the Structural Growth of AI Memory",
+      "summary": "SK hynix reaffirmed its leadership in AI memory by reporting record quarterly revenue and operating profit in the second quarter, while surpassing KRW 100 trillion in cumulative f...",
+      "url": "https://news.skhynix.com/en/2026-analyst-interview-03/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-13T23:59:54+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[\uc560\ub110\ub9ac\uc2a4\ud2b8 \uc778\ud130\ubdf0 | \ub958\ud615\uadfc, \ub300\uc2e0\uc99d\uad8c] AI \uba54\ubaa8\ub9ac\uc758 \uad6c\uc870\uc801 \uc131\uc7a5 \uc18d\uc5d0\uc11c SK\ud558\uc774\ub2c9\uc2a4\uc758 \ub2e4\uc74c \uae30\ud68c \ud0d0\uc0c9",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\ub294 2\ubd84\uae30\uc5d0 \ubd84\uae30 \ucd5c\ub300 \ub9e4\ucd9c\uacfc \uc601\uc5c5\uc774\uc775\uc744 \uae30\ub85d\ud558\uba70 AI \uba54\ubaa8\ub9ac \ub9ac\ub354\uc2ed\uc744 \uc7ac\ud655\uc778\ud588\uace0, \ub204\uc801 ... 100\uc870 \uc6d0\uc744 \ub3cc\ud30c\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "f4619254b28c",
       "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
@@ -1208,9 +1225,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-13T23:56:15.380987+00:00",
+    "generated_at": "2026-08-14T23:34:14.359340+00:00",
     "cached": 64,
-    "translated": 0,
+    "translated": 1,
     "skipped": 0
   }
 }
