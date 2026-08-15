@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-08-14T23:42:01.295834+00:00",
+  "generated_at": "2026-08-15T23:39:26.168908+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "ae51c2b42bc7",
+      "headline": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
+      "summary": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
+      "url": "https://www.oracle.com/news/announcement/blog/weve-overhauled-project-jupiters-power-plan-2026-07-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-15T23:39:21.960855+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Project Jupiter\uc758 \uc804\ub825 \uacc4\ud68d\uc744 \uac1c\ud3b8\ud588\uc2b5\ub2c8\ub2e4. \ub0a8\ubd80 \ub274\uba55\uc2dc\ucf54 \uc8fc\ubbfc\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d",
+      "summary_ko": "Project Jupiter\uc758 \uc804\ub825 \uacc4\ud68d\uc744 \uac1c\ud3b8\ud588\uc2b5\ub2c8\ub2e4. \ub0a8\ubd80 \ub274\uba55\uc2dc\ucf54 \uc8fc\ubbfc\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d",
+      "tags_ko": [
+        "Power"
+      ]
+    },
+    {
+      "id": "fc3d3edf20d5",
+      "headline": "Public Review Opens for Updated Project Jupiter Power Plan",
+      "summary": "Public Review Opens for Updated Project Jupiter Power Plan",
+      "url": "https://www.oracle.com/news/announcement/public-review-opens-for-updated-project-jupiter-power-plan-2026-06-03/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-15T23:39:21.960855+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "\uc5c5\ub370\uc774\ud2b8\ub41c Project Jupiter Power Plan\uc5d0 \ub300\ud55c \uacf5\uac1c \uac80\ud1a0 \uac1c\uc2dc",
+      "summary_ko": "Oracle AI Data Centers\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c Project Jupiter Power Plan\uc5d0 \ub300\ud55c \uacf5\uac1c \uac80\ud1a0\uac00 \uc2dc\uc791\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "4be33458762e",
+      "headline": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge and Governor Whitmer Celebrate Construction of Stargate Campus in Saline Township.",
+      "summary": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge and Governor Whitmer Celebrate Construction of Stargate Campus in Saline Township.",
+      "url": "https://www.oracle.com/news/announcement/related-digital-oracle-openai-walbridge-and-governor-whitmer-celebrate-construction-of-stargate-campus-in-saline-township-2026-06-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-15T23:39:21.960855+00:00",
+      "tags": [
+        "Oracle",
+        "Data Center"
+      ],
+      "headline_ko": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge, \ubc0f \uc704\ud2b8\uba38 \uc8fc\uc9c0\uc0ac, Saline Township\uc5d0\uc11c Stargate \ucea0\ud37c\uc2a4 \uac74\uc124 \uae30\ub150",
+      "summary_ko": "Oracle, Related Digital, Blackstone, OpenAI, Walbridge \ubc0f \uc704\ud2b8\uba38 \uc8fc\uc9c0\uc0ac\uac00 Saline Township\uc5d0\uc11c \uc9c4\ud589 \uc911\uc778 Stargate \ucea0\ud37c\uc2a4 \uac74\uc124\uc744 \uae30\ub150\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "2fa14e4086a4",
+      "headline": "Building Data Center Resiliency in the AI Era",
+      "summary": "Building Data Center Resiliency in the AI Era",
+      "url": "https://www.datacenterfrontier.com/sponsored/whitepaper/55394416/building-data-center-resiliency-in-the-ai-era",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-08-15T23:39:21.960855+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "AI \uc2dc\ub300 Data Center \ubcf5\uc6d0\ub825 \uad6c\ucd95",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 Data Center \ubcf5\uc6d0\ub825\uc744 \uad6c\ucd95\ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "c39edb931ab6",
+      "headline": "The Data Center Industry\u2019s Permission to Build",
+      "summary": "The Data Center Industry\u2019s Permission to Build",
+      "url": "https://www.datacenterfrontier.com/site-selection/blog/55394817/the-data-center-industrys-permission-to-build",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-08-15T23:39:21.960855+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Data Center \uc0b0\uc5c5\uc758 \uac74\uc124 \ud5c8\uac00",
+      "summary_ko": "Data Center \uc0b0\uc5c5\uc758 \uac74\uc124 \ud5c8\uac00\uc5d0 \uad00\ud55c \ub274\uc2a4\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "856f119a1b60",
+      "headline": "Are orbital AI data centers the next frontier for compute infrastructure?",
+      "summary": "Data centers in space shift from concept to early operational demonstrations",
+      "url": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-15T13:00:33+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uada4\ub3c4 AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \ucef4\ud4e8\ud305 \uc778\ud504\ub77c\uc758 \ub2e4\uc74c \uac1c\ucc99\uc9c0\uc778\uac00?",
+      "summary_ko": "\uc6b0\uc8fc \ub370\uc774\ud130 \uc13c\ud130\uac00 \uac1c\ub150\uc5d0\uc11c \ucd08\uae30 \uc6b4\uc601 \uc2e4\uc99d \ub2e8\uacc4\ub85c \uc804\ud658\ub418\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "98142723ff39",
       "headline": "Poll: What Will Constrain Data Center Growth?",
@@ -2805,128 +2909,14 @@
         "AI Infrastructure",
         "Data Center"
       ]
-    },
-    {
-      "id": "b92cb6104234",
-      "headline": "Neocloud Kidz AI signs MoU with Limestone Networks for colocation agreement",
-      "summary": "Kidz AI will lease 1.125MW of capacity from Limestone's data center in Dallas, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/neocloud-kidz-ai-signs-mou-with-limestone-networks-for-colocation-agreement/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-03T16:10:29+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Colocation",
-        "Neocloud"
-      ],
-      "headline_ko": "Neocloud Kidz AI, Limestone Networks\uc640 \ucf5c\ub85c\ucf00\uc774\uc158 \uacc4\uc57d MoU \uccb4\uacb0",
-      "summary_ko": "Kidz AI\ub294 \ud14d\uc0ac\uc2a4\uc8fc \ub2ec\ub77c\uc2a4\uc5d0 \uc788\ub294 Limestone\uc758 data center\uc5d0\uc11c 1.125MW \uc6a9\ub7c9\uc744 \uc784\ub300\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity",
-        "Colocation",
-        "Neocloud"
-      ]
-    },
-    {
-      "id": "94d899065a36",
-      "headline": "Indigenous IT firm eyes data center campus in Canada\u2019s Northwest Territories",
-      "summary": "KatloTech pitches IceFox campus in Hay River and fiber route south to Alberta",
-      "url": "https://www.datacenterdynamics.com/en/news/indigenous-it-firm-eyes-data-center-campus-in-canadas-northwest-territories/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-03T16:00:30+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ud1a0\ucc29 IT \uae30\uc5c5, \uce90\ub098\ub2e4 \ub178\uc2a4\uc6e8\uc2a4\ud2b8 \uc900\uc8fc\uc5d0 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \ucd94\uc9c4",
-      "summary_ko": "KatloTech\ub294 Hay River\uc5d0 IceFox \ucea0\ud37c\uc2a4\ub97c \uc81c\uc548\ud558\uace0, \uc568\ubc84\ud0c0\uc8fc\uae4c\uc9c0 \ub0a8\ucabd\uc73c\ub85c \uc5f0\uacb0\ub418\ub294 \uad11\uc12c\uc720 \uacbd\ub85c\ub97c \uacc4\ud68d\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "45c3cec97124",
-      "headline": "UK government approves controversial 5.2MW Truman Brewery data center proposal",
-      "summary": "A win for the Brewery's owner",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-government-approves-controversial-52mw-truman-brewery-data-center-proposal/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-03T15:46:25+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc601\uad6d \uc815\ubd80, \ub17c\ub780\uc758 5.2MW Truman Brewery data center \uc81c\uc548 \uc2b9\uc778",
-      "summary_ko": "Truman Brewery \uc18c\uc720\uc8fc\uc5d0\uac8c\ub294 \uc2b9\ub9ac",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "46c2ad9db2d3",
-      "headline": "Yondr Group and Cerberus acquire 40 acres for data center campus in Manassas, Virginia",
-      "summary": "Will develop a 72MW campus on the site",
-      "url": "https://www.datacenterdynamics.com/en/news/yondr-group-and-cerberus-acquire-40-acres-for-data-center-campus-in-manassas-virginia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-03T15:40:30+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Yondr Group\uacfc Cerberus, \ubc84\uc9c0\ub2c8\uc544\uc8fc \ub9e4\ub108\uc11c\uc2a4\uc5d0 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc6a9 40\uc5d0\uc774\ucee4 \ubd80\uc9c0 \uc778\uc218",
-      "summary_ko": "\uc774 \ubd80\uc9c0\uc5d0 72MW \uaddc\ubaa8\uc758 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\ub97c \uac1c\ubc1c\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "2854281fc421",
-      "headline": "NV Energy files suit against Tract over Nevada data center costs",
-      "summary": "Tract denies the allegations",
-      "url": "https://www.datacenterdynamics.com/en/news/nv-energy-files-suit-against-tract-over-nevada-data-center-costs/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-03T15:30:31+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "NV Energy, \ub124\ubc14\ub2e4 \ub370\uc774\ud130 \uc13c\ud130 \ube44\uc6a9 \ubb38\uc81c\ub85c Tract \uc0c1\ub300 \uc18c\uc1a1 \uc81c\uae30",
-      "summary_ko": "Tract\ub294 \uad00\ub828 \uc8fc\uc7a5\uc744 \ubd80\uc778\ud55c\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "f41f576dabd4",
-      "headline": "DCD News: July review",
-      "summary": "DCD's Zoe Turner, Zachary Skidmore and Matt Gooding explore July's biggest data center stories, from AI-driven energy demand and M&A activity to grid challenges and emerging cooling solutio...",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-03T14:52:06+00:00",
-      "tags": [
-        "Data Center",
-        "Power",
-        "Financing"
-      ],
-      "headline_ko": "DCD \ub274\uc2a4: 7\uc6d4 \ub9ac\ubdf0",
-      "summary_ko": "DCD\uc758 Zoe Turner, Zachary Skidmore, Matt Gooding\uc774 AI \uae30\ubc18 \uc5d0\ub108\uc9c0 \uc218\uc694\uc640 M&A \ud65c\ub3d9, \uc804\ub825\ub9dd \uacfc\uc81c, \uc2e0\ud765 \ub0c9\uac01 \uc194\ub8e8\uc158 \ub4f1 7\uc6d4\uc758 \uc8fc\uc694 \ub370\uc774\ud130 \uc13c\ud130 \ub274\uc2a4\ub97c \uc0b4\ud3b4\ubd05\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825",
-        "\uae08\uc735"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-14T23:45:37.311419+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-08-15T23:39:30.171871+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
