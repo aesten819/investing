@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-08-18T23:34:08.702403+00:00",
-  "article_count": 67,
+  "generated_at": "2026-08-19T23:34:38.036085+00:00",
+  "article_count": 68,
   "articles": [
+    {
+      "id": "dbfb77171deb",
+      "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 1",
+      "summary": "Edge AI Moves Closer\u2014and Memory Matters More Than Ever Today, AI is rapidly expanding beyond large-scale data centers into smartphones, AI PCs, vehicles,...",
+      "url": "https://news.samsungsemiconductor.com/global/memory-innovation-powering-a-new-ai-infrastructure-cycle-part-1/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-19T15:00:00+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uc0c8\ub85c\uc6b4 AI \uc778\ud504\ub77c \uc0ac\uc774\ud074\uc744 \uc774\ub044\ub294 \uba54\ubaa8\ub9ac \ud601\uc2e0 1\ubd80",
+      "summary_ko": "Edge AI\uac00 \ub354 \uac00\uae4c\uc6cc\uc9c0\uace0 \uba54\ubaa8\ub9ac\uc758 \uc911\uc694\uc131\uc774 \uadf8 \uc5b4\ub290 \ub54c\ubcf4\ub2e4 \ucee4\uc9c0\uace0 \uc788\ub294 \uac00\uc6b4\ub370, \uc624\ub298\ub0a0 AI\ub294 \ub300\uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130\ub97c \ub118\uc5b4 \uc2a4\ub9c8\ud2b8\ud3f0, AI PC, \uc790\ub3d9\ucc28 \ub4f1\uc73c\ub85c \ube60\ub974\uac8c \ud655\uc7a5\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "e05c7e583140",
       "headline": "Combined Revenue of Top Five NAND Flash Brands Rises 77% QoQ in 2Q26; Micron Moves Up to Third Place, Says TrendForce",
@@ -1263,9 +1280,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-18T23:34:38.600721+00:00",
-    "cached": 65,
-    "translated": 2,
+    "generated_at": "2026-08-19T23:34:48.290041+00:00",
+    "cached": 67,
+    "translated": 1,
     "skipped": 0
   }
 }
