@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-08-19T23:34:38.036085+00:00",
-  "article_count": 68,
+  "generated_at": "2026-08-20T23:37:34.312449+00:00",
+  "article_count": 71,
   "articles": [
+    {
+      "id": "35831ce03d21",
+      "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 2",
+      "summary": "Samsung Memory Solutions Connecting the Future of Edge AI In Part 1, we explored how the expansion of edge AI is making capacity, bandwidth, and energy...",
+      "url": "https://news.samsungsemiconductor.com/global/memory-innovation-powering-a-new-ai-infrastructure-cycle-part-2/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-20T17:50:54+00:00",
+      "tags": [
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "\uc0c8\ub85c\uc6b4 AI \uc778\ud504\ub77c \uc0ac\uc774\ud074\uc744 \uad6c\ub3d9\ud558\ub294 \uba54\ubaa8\ub9ac \ud601\uc2e0, 2\ubd80",
+      "summary_ko": "\uc0bc\uc131 \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158\uc740 \uc5e3\uc9c0 AI\uc758 \ubbf8\ub798\ub97c \uc5f0\uacb0\ud558\uba70, 1\ubd80\uc5d0\uc11c\ub294 \uc5e3\uc9c0 AI \ud655\uc7a5\uc774 \uc6a9\ub7c9\u00b7\ub300\uc5ed\ud3ed\u00b7\uc5d0\ub108\uc9c0\uc5d0 \uc5b4\ub5a4 \ubcc0\ud654\ub97c \ub9cc\ub4e4\uc5b4\ub0b4\ub294\uc9c0 \uc0b4\ud3b4\ubcf4\uc558\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "eb73b2c6e8aa",
+      "headline": "At the Center of Global Memory Standards | Interview with FMS 2026 Lifetime Achievement Award Recipient Mian Quddus",
+      "summary": "Mian Quddus, Vice President at Samsung Electronics\u2019 Device Solutions America (DSA), received the Lifetime Achievement Award at FMS 2026. The award...",
+      "url": "https://news.samsungsemiconductor.com/global/at-the-center-of-global-memory-standards-interview-with-fms-2026-lifetime-achievement-award-recipient-mian-quddus/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uae00\ub85c\ubc8c \uba54\ubaa8\ub9ac \ud45c\uc900\uc758 \uc911\uc2ec | FMS 2026 \ud3c9\uc0dd \uacf5\ub85c\uc0c1 \uc218\uc0c1\uc790 Mian Quddus \uc778\ud130\ubdf0",
+      "summary_ko": "Mian Quddus, Samsung Electronics\uc758 Device Solutions America(DSA) \ubd80\uc0ac\uc7a5\uc774 FMS 2026\uc5d0\uc11c \ud3c9\uc0dd \uacf5\ub85c\uc0c1\uc744 \uc218\uc0c1\ud588\uc73c\uba70, \uc774 \uc0c1\uc740...",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "1aadfa10c3db",
+      "headline": "SK hynix\u2019s technology roadmap for co-packaged optics features in \u2018Nature Electronics,\u2019 as AI competition shifts from chips to systems",
+      "summary": "\u25b2 Conceptual illustration of an optics-centric architecture in which a photonic interposer directly connects compute resources in the XPU pool with memory resources in the memory...",
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-3/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-20T06:05:52+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix\uc758 co-packaged optics \uae30\uc220 \ub85c\ub4dc\ub9f5\uc774 'Nature Electronics'\uc5d0 \uac8c\uc7ac, AI \uacbd\uc7c1\uc774 \uce69\uc5d0\uc11c \uc2dc\uc2a4\ud15c\uc73c\ub85c \uc774\ub3d9",
+      "summary_ko": "\u25b2 \ud3ec\ud1a0\ub2c9 \uc778\ud130\ud3ec\uc800\uac00 XPU \ud480\uc758 \ucef4\ud4e8\ud305 \uc790\uc6d0\uacfc \uba54\ubaa8\ub9ac... \ub0b4\uc758 \uba54\ubaa8\ub9ac \uc790\uc6d0\uc744 \uc9c1\uc811 \uc5f0\uacb0\ud558\ub294 \uad11\ud559 \uc911\uc2ec \uc544\ud0a4\ud14d\ucc98\uc758 \uac1c\ub150\ub3c4\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "dbfb77171deb",
       "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 1",
@@ -1280,9 +1333,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-19T23:34:48.290041+00:00",
-    "cached": 67,
-    "translated": 1,
+    "generated_at": "2026-08-20T23:39:06.883277+00:00",
+    "cached": 68,
+    "translated": 3,
     "skipped": 0
   }
 }
