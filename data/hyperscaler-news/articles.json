@@ -1,7 +1,350 @@
 {
-  "generated_at": "2026-08-19T23:41:50.785656+00:00",
+  "generated_at": "2026-08-20T23:44:39.353672+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "a991d5035620",
+      "headline": "Synergy Reports that U.S. Data Center Capacity Will Continue to Balloon Despite Increasing Headwinds",
+      "summary": "Synergy Reports that U.S. Data Center Capacity Will Continue to Balloon Despite Increasing Headwinds",
+      "url": "https://www.srgresearch.com/articles/synergy-reports-that-us-data-center-capacity-will-continue-to-balloon-despite-increasing-headwinds",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "\uc2dc\ub108\uc9c0 \ub9ac\uc11c\uce58 \ubcf4\uace0\uc11c: \uc99d\uac00\ud558\ub294 \uc5ed\ud48d\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc740 \uacc4\uc18d \uc99d\uac00\ud560 \uc804\ub9dd",
+      "summary_ko": "\uc2dc\ub108\uc9c0 \ub9ac\uc11c\uce58 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74 \uc99d\uac00\ud558\ub294 \uc5ed\ud48d\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc740 \uacc4\uc18d \uc99d\uac00\ud560 \uc804\ub9dd\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "38dfe968370a",
+      "headline": "U.S. Hyperscale Investment Shifts Decisively Inland",
+      "summary": "U.S. Hyperscale Investment Shifts Decisively Inland",
+      "url": "https://www.srgresearch.com/articles/focus-of-us-hyperscale-investment-shifts-dramatically-inland",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Capex",
+        "Colocation"
+      ],
+      "headline_ko": "\ubbf8\uad6d \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ud22c\uc790, \ub0b4\ub959\uc73c\ub85c \ud655\uc2e4\ud788 \uc774\ub3d9",
+      "summary_ko": "\ubbf8\uad6d \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ud22c\uc790, \ub0b4\ub959\uc73c\ub85c \ud655\uc2e4\ud788 \uc774\ub3d9",
+      "tags_ko": [
+        "Capex",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "ef3e94d0cb89",
+      "headline": "Hyperscale Operators to Account for 67% of all Data Center Capacity by 2031",
+      "summary": "Hyperscale Operators to Account for 67% of all Data Center Capacity by 2031",
+      "url": "https://www.srgresearch.com/articles/hyperscale-operators-to-account-for-67-of-all-data-center-capacity-by-2031",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ],
+      "headline_ko": "2031\ub144\uae4c\uc9c0 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uc6b4\uc601\uc790, \uc804\uccb4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 67% \ucc28\uc9c0\ud560 \uac83",
+      "summary_ko": "2031\ub144\uae4c\uc9c0 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uc6b4\uc601\uc790\uac00 \uc804\uccb4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 67%\ub97c \ucc28\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub429\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc6a9\ub7c9",
+        "\ucf54\ub85c\ucf00\uc774\uc158"
+      ]
+    },
+    {
+      "id": "8ebaff8fdc25",
+      "headline": "Neocloud Market Forecast to Approach $400B by 2031, Driven by Surging AI Infrastructure Demand",
+      "summary": "Neocloud Market Forecast to Approach $400B by 2031, Driven by Surging AI Infrastructure Demand",
+      "url": "https://www.srgresearch.com/articles/neocloud-market-forecast-to-approach-400b-by-2031-driven-by-surging-ai-infrastructure-demand",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Neocloud"
+      ],
+      "headline_ko": "\ub124\uc624\ud074\ub77c\uc6b0\ub4dc \uc2dc\uc7a5, AI \uc778\ud504\ub77c \uc218\uc694 \uae09\uc99d\uc73c\ub85c 2031\ub144 4000\uc5b5 \ub2ec\ub7ec \uc721\ubc15 \uc804\ub9dd",
+      "summary_ko": "\ub124\uc624\ud074\ub77c\uc6b0\ub4dc \uc2dc\uc7a5, AI \uc778\ud504\ub77c \uc218\uc694 \uae09\uc99d\uc73c\ub85c 2031\ub144 4000\uc5b5 \ub2ec\ub7ec \uc721\ubc15 \uc804\ub9dd",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Neocloud"
+      ]
+    },
+    {
+      "id": "13dd2fb7b224",
+      "headline": "Hyperscale Spending Spree is Driving Dramatic Growth in Data Center Capacity",
+      "summary": "Hyperscale Spending Spree is Driving Dramatic Growth in Data Center Capacity",
+      "url": "https://www.srgresearch.com/articles/hyperscale-spending-spree-is-driving-dramatic-growth-in-data-center-capacity",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Capex",
+        "Colocation"
+      ],
+      "headline_ko": "Hyperscaler \uc9c0\ucd9c \ub7ec\uc2dc, \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9 \uadf9\uc801 \uc131\uc7a5 \uc8fc\ub3c4",
+      "summary_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc758 \uc9c0\ucd9c \ub7ec\uc2dc\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 \uadf9\uc801\uc778 \uc131\uc7a5\uc744 \uc8fc\ub3c4\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "Capex",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "eb16673d4530",
+      "headline": "Justifying the Explosive Growth in Hyperscale CAPEX",
+      "summary": "Justifying the Explosive Growth in Hyperscale CAPEX",
+      "url": "https://www.srgresearch.com/articles/justifying-the-explosive-growth-in-hyperscale-capex",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Capex",
+        "Colocation"
+      ],
+      "headline_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c CAPEX\uc758 \ud3ed\ubc1c\uc801 \uc131\uc7a5 \uc815\ub2f9\ud654",
+      "summary_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c CAPEX\uc758 \ud3ed\ubc1c\uc801 \uc131\uc7a5 \uc815\ub2f9\ud654",
+      "tags_ko": [
+        "Capex",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "a5554b92c662",
+      "headline": "Tier Two Metro Markets are Reshaping the Colocation World",
+      "summary": "Tier Two Metro Markets are Reshaping the Colocation World",
+      "url": "https://www.srgresearch.com/articles/tier-two-metro-markets-are-reshaping-the-colocation-world",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Colocation"
+      ],
+      "headline_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\ub2e4",
+      "summary_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
+      "tags_ko": [
+        "Colocation"
+      ]
+    },
+    {
+      "id": "96a177023897",
+      "headline": "Oracle is building AI data centers to help meet customer demand and to create economic opportunity in the communities where we operate.",
+      "summary": "Oracle is building AI data centers to help meet customer demand and to create economic opportunity in the communities where we operate.",
+      "url": "https://www.oracle.com/news/announcement/blog/ai-data-centers-create-local-jobs-2026-03-09/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [
+        "Oracle",
+        "Data Center"
+      ],
+      "headline_ko": "Oracle\uc774 AI \ub370\uc774\ud130 \uc13c\ud130\ub97c \uad6c\ucd95\ud558\uc5ec \uace0\uac1d \uc218\uc694\ub97c \ucda9\uc871\ud558\uace0 \uc6b4\uc601 \uc9c0\uc5ed\uc5d0 \uacbd\uc81c\uc801 \uae30\ud68c\ub97c \ucc3d\ucd9c\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "summary_ko": "Oracle\uc774 AI \ub370\uc774\ud130 \uc13c\ud130\ub97c \uad6c\ucd95\ud558\uc5ec \uace0\uac1d \uc218\uc694\ub97c \ucda9\uc871\ud558\uace0 \uc6b4\uc601 \uc9c0\uc5ed\uc5d0 \uacbd\uc81c\uc801 \uae30\ud68c\ub97c \ucc3d\ucd9c\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "c48594adb675",
+      "headline": "PORTS-Pike\u2019s 8-GW AI Buildout",
+      "summary": "PORTS-Pike\u2019s 8-GW AI Buildout",
+      "url": "https://www.datacenterfrontier.com/hyperscale/article/55398883/ports-pike-takes-shape-as-an-8-gw-ai-infrastructure-model",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-08-20T23:44:35.111257+00:00",
+      "tags": [],
+      "headline_ko": "PORTS-Pike\uc758 8GW AI \uc778\ud504\ub77c \uad6c\ucd95",
+      "summary_ko": "PORTS-Pike\uac00 8GW \uaddc\ubaa8\uc758 AI \uc778\ud504\ub77c\ub97c \uad6c\ucd95\ud55c\ub2e4.",
+      "tags_ko": []
+    },
+    {
+      "id": "b2d311d73cbf",
+      "headline": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
+      "summary": "The 78kW facility at Caritas Hospital will support digital services at several hospitals run by the operator in Baden-W\u00fcrttemberg",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T15:00:35+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "BBT \uadf8\ub8f9, \ub3c5\uc77c \ubc14\ud2b8 \uba54\ub974\uac90\ud558\uc784 \ubcd1\uc6d0\uc5d0 \ub370\uc774\ud130 \uc13c\ud130 \uac00\ub3d9",
+      "summary_ko": "\uce74\ub9ac\ud0c0\uc2a4 \ubcd1\uc6d0\uc758 78kW \uc2dc\uc124\uc740 \ubc14\ub374\ubdd4\ub974\ud15c\ubca0\ub974\ud06c\uc5d0\uc11c \uc6b4\uc601\uc790\uac00 \uc6b4\uc601\ud558\ub294 \uc5ec\ub7ec \ubcd1\uc6d0\uc758 \ub514\uc9c0\ud138 \uc11c\ube44\uc2a4\ub97c \uc9c0\uc6d0\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "fca3560720a5",
+      "headline": "100MW data center proposed in Allentown, Pennsylvania",
+      "summary": "J.G. Petrucci Company looks to pivot planned warehouse site",
+      "url": "https://www.datacenterdynamics.com/en/news/100mw-data-center-proposed-in-allentown-pennsylvania/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T14:50:31+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ud39c\uc2e4\ubca0\uc774\ub2c8\uc544 \uc568\ub7f0\ud0c0\uc6b4\uc5d0 100MW \uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \uc81c\uc548",
+      "summary_ko": "J.G. Petrucci Company\uac00 \uacc4\ud68d\ub41c \ucc3d\uace0 \ubd80\uc9c0\ub97c \ub370\uc774\ud130 \uc13c\ud130 \ubd80\uc9c0\ub85c \uc804\ud658\ud558\ub294 \ubc29\uc548\uc744 \uac80\ud1a0 \uc911\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "a37b7a7c8819",
+      "headline": "InfraTech to invest $2.7bn to develop data center campus in Carson County, Texas",
+      "summary": "Further details are expected to be revealed when the deal is completed",
+      "url": "https://www.datacenterdynamics.com/en/news/infratech-to-invest-27bn-to-develop-data-center-campus-in-carson-county-texas/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T14:20:34+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "InfraTech, \ud14d\uc0ac\uc2a4 \uce74\uc2a8 \uce74\uc6b4\ud2f0 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uac1c\ubc1c\uc5d0 27\uc5b5 \ub2ec\ub7ec \ud22c\uc790",
+      "summary_ko": "\uac70\ub798\uac00 \uc644\ub8cc\ub418\uba74 \ucd94\uac00 \uc138\ubd80 \uc0ac\ud56d\uc774 \uacf5\uac1c\ub420 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "59ac7e77ae24",
+      "headline": "Data center rumored to be coming to Hofheim in state of Hesse, Germany",
+      "summary": "Speculation rampant over the identity of the buyer of a plot sold by property developers Krieger Group",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-rumored-to-be-coming-to-hofheim-in-state-of-hesse-germany/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T13:59:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub3c5\uc77c \ud5e4\uc138\uc8fc \ud638\ud504\ud558\uc784\uc5d0 \ub370\uc774\ud130 \uc13c\ud130 \uc720\uce58\uc124 \uc81c\uae30",
+      "summary_ko": "\ubd80\ub3d9\uc0b0 \uac1c\ubc1c\uc5c5\uccb4 Krieger Group\uc774 \ub9e4\uac01\ud55c \ubd80\uc9c0\uc758 \ub9e4\uc218\uc790\uc5d0 \ub300\ud55c \ucd94\uce21\uc774 \ub09c\ubb34\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "fb940a4b2d4a",
+      "headline": "Saudi Arabia\u2019s Neom appoints Naif al Rabeah as head of its digital business subsidiary, Tonomus",
+      "summary": "The appointment comes months after Neom pivoted toward focusing on data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/saudi-arabias-neom-appoints-naif-al-rabeah-as-head-of-its-digital-business-subsidiary-tonomus/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T13:45:04+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544\uc758 Neom, \ub514\uc9c0\ud138 \uc0ac\uc5c5 \uc790\ud68c\uc0ac Tonomus \uc218\uc7a5\uc5d0 Naif al Rabeah \uc120\uc784",
+      "summary_ko": "\uc774\ubc88 \uc120\uc784\uc740 Neom\uc774 data center \uac1c\ubc1c\uc5d0 \ucd08\uc810\uc744 \ub9de\ucd94\uae30\ub85c \uc804\ud658\ud55c \uc9c0 \uba87 \uac1c\uc6d4 \ub9cc\uc5d0 \uc774\ub904\uc84c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "4a48708c918d",
+      "headline": "Microsoft expands partnership with solar cell manufacturer Qcells",
+      "summary": "Will support the development of virtual power plants",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-expands-partnership-with-solar-cell-manufacturer-qcells/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T13:34:09+00:00",
+      "tags": [
+        "Azure",
+        "Power"
+      ],
+      "headline_ko": "Microsoft, \ud0dc\uc591\uc804\uc9c0 \uc81c\uc870\uc5c5\uccb4 Qcells\uc640 \ud611\ub825 \ud655\ub300",
+      "summary_ko": "\uac00\uc0c1 \ubc1c\uc804\uc18c \uac1c\ubc1c\uc744 \uc9c0\uc6d0\ud560 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Azure",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "a2a32c7e833d",
+      "headline": "First Nations on Fort Peck Reservation in Montana banned from discussions with data center firms",
+      "summary": "Leaders raise concerns over environmental impact of building projects",
+      "url": "https://www.datacenterdynamics.com/en/news/first-nations-on-fort-peck-reservation-in-montana-banned-from-discussions-with-data-center-firms/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T13:25:15+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ubaac\ud0dc\ub098\uc8fc \ud3ec\ud2b8\ud399 \ubcf4\ud638\uad6c\uc5ed \uc6d0\uc8fc\ubbfc, \ub370\uc774\ud130 \uc13c\ud130 \uae30\uc5c5\uacfc\uc758 \ub17c\uc758\uc5d0\uc11c \ubc30\uc81c",
+      "summary_ko": "\uc9c0\ub3c4\uc790\ub4e4\uc740 \uac74\uc124 \ud504\ub85c\uc81d\ud2b8\uc758 \ud658\uacbd \uc601\ud5a5\uc744 \uc6b0\ub824\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "b3744379793b",
+      "headline": "The data center networking imperative",
+      "summary": "Key trends driving the next era of data centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-data-center-networking-imperative-2/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T12:02:01+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \ub124\ud2b8\uc6cc\ud0b9\uc758 \ud544\uc218 \uacfc\uc81c",
+      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\uc758 \ub2e4\uc74c \uc2dc\ub300\ub97c \uc774\ub044\ub294 \uc8fc\uc694 \ud2b8\ub80c\ub4dc",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "f9fe9e455fd2",
+      "headline": "IBM successfully demonstrates connection and cooling of two cryogenic modules",
+      "summary": "Company says demo is important milestone on its path to deploying first fault-tolerant quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/ibm-successfully-demonstrates-connection-and-cooling-of-two-cryogenic-modules/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-20T11:58:51+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "IBM, \uadf9\uc800\uc628 \ubaa8\ub4c8 2\uac1c \uc5f0\uacb0\u00b7\ub0c9\uac01 \uc2dc\uc5f0 \uc131\uacf5",
+      "summary_ko": "IBM\uc740 \uc774\ubc88 \uc2dc\uc5f0\uc774 \ucd5c\ucd08\uc758 \ub0b4\uacb0\ud568\uc131 \uc591\uc790 \ucef4\ud4e8\ud130\ub97c \ubc30\uce58\ud558\ub294 \ub370 \uc911\uc694\ud55c \uc774\uc815\ud45c\ub77c\uace0 \ubc1d\ud614\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "e71ae2eab278",
+      "headline": "AI Data Center Networking: Scaling Up, Out, and Across with 102.4T Ethernet",
+      "summary": "As AI clusters scale and network silicon becomes the bottleneck, next-generation switching architecture targets latency and multi-site connectivity.",
+      "url": "https://www.datacenterknowledge.com/networking/ai-data-center-networking-scaling-up-out-and-across-with-102-4t-ethernet",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center"
+      ],
+      "headline_ko": "AI \ub370\uc774\ud130\uc13c\ud130 \ub124\ud2b8\uc6cc\ud0b9: 102.4T \uc774\ub354\ub137\uc73c\ub85c \uc218\uc9c1\u00b7\uc218\ud3c9\u00b7\uad50\ucc28 \ud655\uc7a5",
+      "summary_ko": "AI \ud074\ub7ec\uc2a4\ud130\uac00 \ud655\uc7a5\ub418\uace0 \ub124\ud2b8\uc6cc\ud06c \uc2e4\ub9ac\ucf58\uc774 \ubcd1\ubaa9 \uc9c0\uc810\uc774 \ub428\uc5d0 \ub530\ub77c, \ucc28\uc138\ub300 \uc2a4\uc704\uce6d \uc544\ud0a4\ud14d\ucc98\ub294 \uc9c0\uc5f0 \uc2dc\uac04\uacfc \uba40\ud2f0\uc0ac\uc774\ud2b8 \uc5f0\uacb0\uc131\uc744 \ubaa9\ud45c\ub85c \ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center"
+      ]
+    },
     {
       "id": "d88dcc91fd5b",
       "headline": "US Rises Again as Synergy Updates Its Ranking of Hyperscale Data Center Locations",
@@ -2554,355 +2897,14 @@
         "Data Center",
         "\uc804\ub825"
       ]
-    },
-    {
-      "id": "158059d687fa",
-      "headline": "Building cost-effective networks for the AI era: data center interconnect and scale-across networking",
-      "summary": "Three innovations central to next phase of DCI and scale-across networking",
-      "url": "https://www.datacenterdynamics.com/en/opinions/building-cost-effective-networks-for-the-ai-era-data-center-interconnect-and-scale-across-networking/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T14:00:21+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "AI \uc2dc\ub300\ub97c \uc704\ud55c \ube44\uc6a9 \ud6a8\uc728\uc801 \ub124\ud2b8\uc6cc\ud06c \uad6c\ucd95: \ub370\uc774\ud130 \uc13c\ud130 \uc0c1\ud638 \uc5f0\uacb0 \ubc0f \uc2a4\ucf00\uc77c-\uc5b4\ud06c\ub85c\uc2a4 \ub124\ud2b8\uc6cc\ud0b9",
-      "summary_ko": "DCI \ubc0f \uc2a4\ucf00\uc77c-\uc5b4\ud06c\ub85c\uc2a4 \ub124\ud2b8\uc6cc\ud0b9\uc758 \ub2e4\uc74c \ub2e8\uacc4\ub97c \uc704\ud55c \uc138 \uac00\uc9c0 \ud601\uc2e0",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "b580261b7657",
-      "headline": "Telesat expands Lightspeed capacity by 44% after securing $1.93bn Arctic military satcom contract",
-      "summary": "Canadian space champion sees compounding recommitment in funding on sovereign space connectivity",
-      "url": "https://www.datacenterdynamics.com/en/news/telesat-expands-lightspeed-capacity-by-44-after-securing-193bn-arctic-military-satcom-contract/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T13:00:26+00:00",
-      "tags": [
-        "Capacity"
-      ],
-      "headline_ko": "Telesat, 19\uc5b5 3\ucc9c\ub9cc \ub2ec\ub7ec \ubd81\uadf9 \uad70\uc6a9 \uc704\uc131\ud1b5\uc2e0 \uacc4\uc57d \uccb4\uacb0 \ud6c4 Lightspeed capacity 44% \ud655\ub300",
-      "summary_ko": "\uce90\ub098\ub2e4 \uc6b0\uc8fc \uc0b0\uc5c5\uc758 \uc120\ub450\uc8fc\uc790\uac00 \uc8fc\uad8c\uc801 \uc6b0\uc8fc \uc5f0\uacb0\uc5d0 \ub300\ud55c \uc790\uae08 \uc9c0\uc6d0 \uc7ac\ud655\uc57d\uc774 \uac70\ub4ed\ub418\uace0 \uc788\uc74c\uc744 \ud655\uc778\ud588\ub2e4.",
-      "tags_ko": [
-        "Capacity"
-      ]
-    },
-    {
-      "id": "658ad1e6fab8",
-      "headline": "Gigawatt-scale data center in Atlanta, Georgia, withdrawn by developer",
-      "summary": "Developer will instead pursue residential development",
-      "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-in-atlanta-georgia-withdrawn-by-developer/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T12:35:00+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity"
-      ],
-      "headline_ko": "\uac1c\ubc1c\uc0ac, \uc870\uc9c0\uc544\uc8fc \uc560\ud2c0\ub79c\ud0c0 GW \uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d \ucca0\ud68c",
-      "summary_ko": "\uac1c\ubc1c\uc0ac\ub294 \ub300\uc2e0 \uc8fc\uac70 \uac1c\ubc1c\uc744 \ucd94\uc9c4\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity"
-      ]
-    },
-    {
-      "id": "20a5c3475991",
-      "headline": "Chinese green tech company Envision says it has commissioned 2GW campus in Inner Mongolia",
-      "summary": "Envision joins the ranks of DeepSeek and RedNote",
-      "url": "https://www.datacenterdynamics.com/en/news/chinese-green-tech-company-envision-says-it-has-commissioned-2gw-campus-in-inner-mongolia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T12:26:42+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc911\uad6d \uce5c\ud658\uacbd \uae30\uc220 \uae30\uc5c5 Envision, \ub0b4\ubabd\uace8\uc5d0 2GW \uaddc\ubaa8 \ucea0\ud37c\uc2a4 \uac00\ub3d9 \uc2dc\uc791",
-      "summary_ko": "Envision\uc774 DeepSeek \ubc0f RedNote\uc758 \ub300\uc5f4\uc5d0 \ud569\ub958\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "6961276fe764",
-      "headline": "Officials reject proposal for 20-story data center in downtown Kansas City, Missouri",
-      "summary": "Revitalization Unlimited has hoped to demolish former newspaper building",
-      "url": "https://www.datacenterdynamics.com/en/news/officials-reject-proposal-for-20-story-data-center-in-downtown-kansas-city-missouri/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T12:20:30+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uad00\uacc4\uc790\ub4e4, \ubbf8\uc8fc\ub9ac\uc8fc \uce94\uc790\uc2a4\uc2dc\ud2f0 \ub3c4\uc2ec 20\uce35 data center \uc81c\uc548 \uac70\ubd80",
-      "summary_ko": "Revitalization Unlimited\ub294 \uc61b \uc2e0\ubb38\uc0ac \uac74\ubb3c\uc744 \ucca0\uac70\ud558\uae30\ub97c \ud76c\ub9dd\ud574\uc654\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "b9c724bcb0e1",
-      "headline": "12-story office building in Chicago, Illinios, eyed for data center conversion",
-      "summary": "Local developer files to convert portion of 300 West Adams to data center use",
-      "url": "https://www.datacenterdynamics.com/en/news/12-story-office-building-in-chicago-illinios-eyed-for-data-center-conversion/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T12:00:31+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc77c\ub9ac\ub178\uc774\uc8fc \uc2dc\uce74\uace0 12\uce35 \uc0ac\ubb34\uc2e4 \uac74\ubb3c, data center \uc804\ud658 \uac80\ud1a0",
-      "summary_ko": "\ub85c\uceec \uac1c\ubc1c\uc0ac\uac00 300 West Adams \ube4c\ub529\uc758 \uc77c\ubd80\ub97c data center \uc6a9\ub3c4\ub85c \uc804\ud658\ud558\ub294 \uc2e0\uccad\uc11c\ub97c \uc81c\ucd9c\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "66e84c36a66e",
-      "headline": "Taiwanese cloud provider Konst signs data center lease with LG Sinar Mas in Indonesia",
-      "summary": "Taiwanese cloud provider is leasing capacity from LGSM Indonesian data center unit",
-      "url": "https://www.datacenterdynamics.com/en/news/taiwanese-cloud-provider-konst-signs-data-center-lease-with-lg-sinar-mas-in-indonesia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-10T12:00:29+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Colocation"
-      ],
-      "headline_ko": "\ub300\ub9cc \ud074\ub77c\uc6b0\ub4dc \uc81c\uacf5\uc5c5\uccb4 Konst, \uc778\ub3c4\ub124\uc2dc\uc544\uc5d0\uc11c LG Sinar Mas\uc640 \ub370\uc774\ud130 \uc13c\ud130 \uc784\ub300 \uacc4\uc57d \uccb4\uacb0",
-      "summary_ko": "\ub300\ub9cc \ud074\ub77c\uc6b0\ub4dc \uc81c\uacf5\uc5c5\uccb4\uac00 LGSM \uc778\ub3c4\ub124\uc2dc\uc544 \ub370\uc774\ud130 \uc13c\ud130 \ubd80\ubb38\uc5d0\uc11c capacity\ub97c \uc784\ub300\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity",
-        "Colocation"
-      ]
-    },
-    {
-      "id": "cee92ed4498c",
-      "headline": "Meta Upholds Texas Governor Greg Abbott\u2019s Data Center Standards",
-      "summary": "Meta supports Texas Governor Greg Abbott\u2019s commitment to responsible data center development, and we pay the full costs of our data centers\u2019 energy and water use so they aren\u2019t passed on to...",
-      "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-08-10T12:00:28+00:00",
-      "tags": [
-        "Meta",
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "Meta, \ud14d\uc0ac\uc2a4 \uc8fc\uc9c0\uc0ac Greg Abbott\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uae30\uc900\uc744 \uc9c0\uc9c0\ud558\ub2e4",
-      "summary_ko": "Meta\ub294 \ud14d\uc0ac\uc2a4 \uc8fc\uc9c0\uc0ac Greg Abbott\uc758 \ucc45\uc784 \uc788\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud55c \ud655\uace0\ud55c \uc758\uc9c0\ub97c \uc9c0\uc9c0\ud558\uba70, \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc5d0\ub108\uc9c0 \ubc0f \ubb3c \uc0ac\uc6a9 \ube44\uc6a9\uc744 \uc804\uc561 \ubd80\ub2f4\ud558\uc5ec \ub2e4\ub978 \uc0ac\ub78c\uc5d0\uac8c \uc804\uac00\ud558\uc9c0 \uc54a\ub294\ub2e4.",
-      "tags_ko": [
-        "Meta",
-        "Data Center",
-        "Power"
-      ]
-    },
-    {
-      "id": "7a8a3b10d538",
-      "headline": "Ofgem Fee Aims to Clear Grid Queue \u2013 Who Benefits?",
-      "summary": "The policy shifts grid access from chronological priority to proof of viability, potentially forcing smaller developers to pursue alternative strategies.",
-      "url": "https://www.datacenterknowledge.com/regulations/ofgem-fee-aims-to-clear-grid-queue-who-benefits-",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-08-10T09:00:00+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Ofgem \uc218\uc218\ub8cc, \uc804\ub825\ub9dd \ub300\uae30\uc5f4 \ud574\uc18c \uaca8\ub0e5 \u2013 \ub204\uac00 \ud61c\ud0dd\uc744 \ubc1b\ub098?",
-      "summary_ko": "\uc774 \uc815\ucc45\uc740 \uc804\ub825\ub9dd \uc811\uadfc \ubc29\uc2dd\uc744 \uc2dc\uac04\uc21c \uc6b0\uc120\uc5d0\uc11c \uc2e4\ud604 \uac00\ub2a5\uc131 \uc99d\uba85\uc73c\ub85c \uc804\ud658\ud574, \uc18c\uaddc\ubaa8 \uac1c\ubc1c\uc5c5\uccb4\uac00 \ub300\uccb4 \uc804\ub7b5\uc744 \ubaa8\uc0c9\ud558\ub3c4\ub85d \ud560 \uc218 \uc788\ub2e4.",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "b21fbb40cf6d",
-      "headline": "Community benefit agreements are essential to data center success",
-      "summary": "The roadmap to being a good neighbor",
-      "url": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-09T13:00:24+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc9c0\uc5ed\uc0ac\ud68c \ud61c\ud0dd \ud611\uc57d\uc740 \ub370\uc774\ud130 \uc13c\ud130 \uc131\uacf5\uc5d0 \ud544\uc218\uc801",
-      "summary_ko": "\uc88b\uc740 \uc774\uc6c3\uc774 \ub418\uae30 \uc704\ud55c \ub85c\ub4dc\ub9f5",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "71f53a05746c",
-      "headline": "Land and Expand: The Gigawatt Credibility Test",
-      "summary": "Land and Expand: The Gigawatt Credibility Test",
-      "url": "https://www.datacenterfrontier.com/hyperscale/article/55393445/land-and-expand-the-gigawatt-credibility-test",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-07T23:51:23.861819+00:00",
-      "tags": [
-        "Capacity"
-      ],
-      "headline_ko": "\ub79c\ub4dc \uc564 \uc775\uc2a4\ud32c\ub4dc: GW \uc2e0\ub8b0\uc131 \ud14c\uc2a4\ud2b8",
-      "summary_ko": "\ub79c\ub4dc \uc564 \uc775\uc2a4\ud32c\ub4dc: GW \uc2e0\ub8b0\uc131 \ud14c\uc2a4\ud2b8",
-      "tags_ko": [
-        "Capacity"
-      ]
-    },
-    {
-      "id": "d81523b88843",
-      "headline": "Applying Decades of Critical Infrastructure Insights to Data Center Cooling Challenges",
-      "summary": "Applying Decades of Critical Infrastructure Insights to Data Center Cooling Challenges",
-      "url": "https://www.datacenterfrontier.com/sponsored/article/55394113/applying-decades-of-critical-infrastructure-insights-to-data-center-cooling-challenges",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-07T23:51:23.861819+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\uc218\uc2ed \ub144\uac04\uc758 \ud575\uc2ec \uc778\ud504\ub77c \ud1b5\ucc30\ub825\uc744 data center \ub0c9\uac01 \ubb38\uc81c\uc5d0 \uc801\uc6a9",
-      "summary_ko": "data center \ub0c9\uac01 \ubb38\uc81c\uc5d0 \uc218\uc2ed \ub144\uac04\uc758 \ud575\uc2ec \uc778\ud504\ub77c \ud1b5\ucc30\ub825\uc744 \uc801\uc6a9\ud55c\ub2e4.",
-      "tags_ko": [
-        "data center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "cf7c3aa5697c",
-      "headline": "Scaling Liquid-Cooled AI Infrastructure: Water, Efficiency & Operational Resiliency",
-      "summary": "Scaling Liquid-Cooled AI Infrastructure: Water, Efficiency & Operational Resiliency",
-      "url": "https://www.datacenterfrontier.com/webinar/webinar/55392986/scaling-liquid-cooled-ai-infrastructure-water-efficiency-operational-resiliency",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-07T23:51:23.861819+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Power"
-      ],
-      "headline_ko": "\uc561\uccb4 \ub0c9\uac01 AI \uc778\ud504\ub77c \ud655\uc7a5: \ubb3c, \ud6a8\uc728\uc131 \ubc0f \uc6b4\uc601 \ubcf5\uc6d0\ub825",
-      "summary_ko": "\uc561\uccb4 \ub0c9\uac01 AI \uc778\ud504\ub77c \ud655\uc7a5: \ubb3c, \ud6a8\uc728\uc131 \ubc0f \uc6b4\uc601 \ubcf5\uc6d0\ub825",
-      "tags_ko": [
-        "AI \uc778\ud504\ub77c",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "8eb6744ee061",
-      "headline": "Bridge DC launches prefabricated data center power module",
-      "summary": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-07T17:00:55+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "Bridge DC, \uc870\ub9bd\uc2dd \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \ubaa8\ub4c8 \ucd9c\uc2dc",
-      "summary_ko": "\ucee8\ud14c\uc774\ub108\uc5d0 \ubcc0\uc555\uae30, \uc804\ub825 \ubd84\ubc30, UPS, \ub0c9\uac01 \uc778\ud504\ub77c\uac00 \ud3ec\ud568\ub41c\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "8ba66c8b363f",
-      "headline": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-      "summary": "Data center sales of $733 million",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-07T17:00:40+00:00",
-      "tags": [
-        "Data Center",
-        "Capex"
-      ],
-      "headline_ko": "NTT Data, 1\ubd84\uae30 \uc2e4\uc801\uc5d0\uc11c 5\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 data center \ud22c\uc790 \ubcf4\uace0",
-      "summary_ko": "Data center \ub9e4\ucd9c\uc740 7\uc5b5 3,300\ub9cc \ub2ec\ub7ec\ub97c \uae30\ub85d\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capex"
-      ]
-    },
-    {
-      "id": "ccbbc440f025",
-      "headline": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
-      "summary": "Allege scheme to reduce equity",
-      "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-07T16:44:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc804 \uc9c1\uc6d0\ub4e4\uc774 Prime Data Centers\ub97c \uc0c1\ub300\ub85c 4\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ubcf4\uc0c1 \uc0ac\uae30 \uc18c\uc1a1\uc744 \uc81c\uae30\ud588\ub2e4",
-      "summary_ko": "\uc9c0\ubd84\uc744 \uc904\uc774\uae30 \uc704\ud55c \uacc4\ud68d\uc774\uc5c8\ub2e4\uace0 \uc8fc\uc7a5\ud55c\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "925491dac66b",
-      "headline": "TCC Concept Limited's data center subsidiary could develop 60MW data center in Pune, India",
-      "summary": "But details of purchase murky",
-      "url": "https://www.datacenterdynamics.com/en/news/tcc-concept-limiteds-data-center-subsidiary-could-develop-60mw-data-center-in-pune-india/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-07T14:00:32+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "TCC Concept Limited\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uc790\ud68c\uc0ac, \uc778\ub3c4 \ud478\ub124\uc5d0 60MW \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c \uac00\ub2a5\uc131",
-      "summary_ko": "\ud558\uc9c0\ub9cc \uad6c\ub9e4 \uc138\ubd80 \uc0ac\ud56d\uc740 \ubd88\ud22c\uba85\ud558\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "d8ef87cac530",
-      "headline": "Crusoe appoints new director of energy development group",
-      "summary": "Matthew Potter joins the team",
-      "url": "https://www.datacenterdynamics.com/en/news/crusoe-appoints-new-director-of-energy-development-group/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-07T13:30:39+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Crusoe, \uc5d0\ub108\uc9c0 \uac1c\ubc1c \uadf8\ub8f9 \uc2e0\uc784 \ub514\ub809\ud130 \uc120\uc784",
-      "summary_ko": "\ub9e4\ud29c \ud3ec\ud130\uac00 \ud300\uc5d0 \ud569\ub958\ud588\ub2e4.",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "d7274e25b223",
-      "headline": "Indosat reinforces AI push with 1GW data center play",
-      "summary": "The company is working with wider Ooredoo Group along with partners Nvidia and Nokia",
-      "url": "https://www.datacenterdynamics.com/en/news/indosat-reinforces-ai-push-with-1gw-data-center-play/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-07T13:20:36+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Indosat, 1GW \ub370\uc774\ud130 \uc13c\ud130 \uc0ac\uc5c5\uc73c\ub85c AI \ucd94\uc9c4 \uac15\ud654",
-      "summary_ko": "\uc774 \ud68c\uc0ac\ub294 Nvidia \ubc0f Nokia \ud30c\ud2b8\ub108\uc640 \ud568\uaed8 Ooredoo Group\uacfc \ud611\ub825\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-19T23:45:02.552019+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-08-20T23:45:52.867475+00:00",
+    "cached": 149,
+    "translated": 11,
     "skipped": 0
   }
 }
