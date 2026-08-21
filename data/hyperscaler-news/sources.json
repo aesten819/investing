@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:44:39.353672+00:00",
+  "generated_at": "2026-08-21T23:43:18.112630+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -38,7 +38,8 @@
       "name": "Microsoft On the Issues",
       "url": "https://blogs.microsoft.com/on-the-issues/feed/",
       "type": "rss",
-      "status": "ok",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden",
       "article_count": 0
     },
     {
@@ -46,8 +47,9 @@
       "name": "Microsoft Blog",
       "url": "https://blogs.microsoft.com/feed/",
       "type": "rss",
-      "status": "ok",
-      "article_count": 3
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "article_count": 0
     },
     {
       "id": "meta_data_centers",
@@ -63,7 +65,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 9
+      "article_count": 12
     },
     {
       "id": "data_center_knowledge",
