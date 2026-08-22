@@ -1,7 +1,92 @@
 {
-  "generated_at": "2026-08-21T23:43:18.112630+00:00",
+  "generated_at": "2026-08-22T23:39:47.232888+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "c74a97c33037",
+      "headline": "Virginia\u2019s Data Centers: A Strategic Asset Worth Protecting",
+      "summary": "Virginia\u2019s Data Centers: A Strategic Asset Worth Protecting",
+      "url": "https://www.datacenterfrontier.com/white-papers/whitepaper/55394917/virginias-data-centers-a-strategic-asset-worth-protecting",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-08-22T23:39:42.774370+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ubc84\uc9c0\ub2c8\uc544\uc758 data center: \ubcf4\ud638\ud560 \uac00\uce58\uac00 \uc788\ub294 \uc804\ub7b5\uc801 \uc790\uc0b0",
+      "summary_ko": "\ubc84\uc9c0\ub2c8\uc544\uc758 data center\ub294 \ubcf4\ud638\ud560 \uac00\uce58\uac00 \uc788\ub294 \uc804\ub7b5\uc801 \uc790\uc0b0\uc774\ub2e4.",
+      "tags_ko": [
+        "data center"
+      ]
+    },
+    {
+      "id": "6ee15ac6a11f",
+      "headline": "Texas Tightens Data Center Oversight",
+      "summary": "Texas Tightens Data Center Oversight",
+      "url": "https://www.datacenterfrontier.com/hyperscale/article/55396202/texas-tightens-oversight-of-data-center-development",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-08-22T23:39:42.774370+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ud14d\uc0ac\uc2a4, \ub370\uc774\ud130 \uc13c\ud130 \uac10\ub3c5 \uac15\ud654",
+      "summary_ko": "\ud14d\uc0ac\uc2a4\uc8fc\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \uac10\ub3c5\uc744 \uac15\ud654\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "8c721bc44f10",
+      "headline": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "summary": "The joint project also includes the development of a photovoltaic plant",
+      "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-22T14:00:33+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Ignis\uc640 Acciona, \uc2a4\ud398\uc778 \uc138\uace0\ube44\uc544\uc5d0 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \ucd94\uc9c4",
+      "summary_ko": "\uc774 \uacf5\ub3d9 \ud504\ub85c\uc81d\ud2b8\uc5d0\ub294 \ud0dc\uc591\uad11 \ubc1c\uc804\uc18c \uac1c\ubc1c\ub3c4 \ud3ec\ud568\ub41c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "f2b21ea5984a",
+      "headline": "Building data centers is getting easier. Building trust is not",
+      "summary": "Data centers cannot afford to treat communities as an afterthought",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-22T14:00:31+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "data center \uad6c\ucd95\uc740 \uc26c\uc6cc\uc9c0\uace0 \uc788\ub2e4. \ud558\uc9c0\ub9cc \uc2e0\ub8b0 \uad6c\ucd95\uc740 \uadf8\ub807\uc9c0 \uc54a\ub2e4.",
+      "summary_ko": "data center\ub294 \uc9c0\uc5ed\uc0ac\ud68c\ub97c \ub4b7\uc804\uc73c\ub85c \ucde8\uae09\ud574\uc11c\ub294 \uc548 \ub41c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "50c129b95451",
+      "headline": "Terronova starts work on 300MW data center campus outside S\u00e3o Paulo, Brazil",
+      "summary": "Site could eventually exceed 1GW",
+      "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-22T11:00:30+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Terronova, \ube0c\ub77c\uc9c8 \uc0c1\ud30c\uc6b8\ub8e8 \uc678\uacfd\uc5d0 300MW \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uacf5\uc0ac \ucc29\uc218",
+      "summary_ko": "\uc774 \ubd80\uc9c0\ub294 \uacb0\uad6d 1GW\ub97c \ucd08\uacfc\ud560 \uc218 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "4415f4caed25",
       "headline": "How Modern Data Center Service Models Can Add to Competitive Advantage",
@@ -2810,107 +2895,14 @@
         "AWS",
         "Data Center"
       ]
-    },
-    {
-      "id": "2b22f0e31672",
-      "headline": "Nvidia AI interconnect darling Point2 bags $136m funding from Arm, others",
-      "summary": "Data center interconnect disruptor Point2 Technology celebrates Series B success",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ai-interconnect-darling-point2-bags-136m-funding-from-arm-others/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-11T16:16:12+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Nvidia AI \uc0c1\ud638\uc5f0\uacb0 \uc720\ub9dd\uc8fc Point2, Arm \ub4f1\uc73c\ub85c\ubd80\ud130 1\uc5b5 3600\ub9cc \ub2ec\ub7ec \ud22c\uc790 \uc720\uce58",
-      "summary_ko": "Data Center \uc0c1\ud638\uc5f0\uacb0 \ubd84\uc57c\uc758 \ud30c\uad34\uc801 \ud601\uc2e0 \uae30\uc5c5 Point2 Technology\uac00 \uc2dc\ub9ac\uc988 B \ud22c\uc790 \uc720\uce58\uc5d0 \uc131\uacf5\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "12f801ba896a",
-      "headline": "AI data center developer 5C secures half a billion dollars in new financing",
-      "summary": "Funds will be used to develop existing project pipeline",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-developer-5c-secures-half-a-billion-dollars-in-new-financing/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-11T15:44:08+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Data Center",
-        "Financing"
-      ],
-      "headline_ko": "AI data center \uac1c\ubc1c\uc5c5\uccb4 5C, 5\uc5b5 \ub2ec\ub7ec \uc2e0\uaddc \uc790\uae08 \uc870\ub2ec \ud655\ubcf4",
-      "summary_ko": "\uc870\ub2ec \uc790\uae08\uc740 \uae30\uc874 \ud504\ub85c\uc81d\ud2b8 \ud30c\uc774\ud504\ub77c\uc778 \uac1c\ubc1c\uc5d0 \uc0ac\uc6a9\ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "AI Infrastructure",
-        "Data Center",
-        "\uc790\uae08 \uc870\ub2ec"
-      ]
-    },
-    {
-      "id": "b1bc177fde53",
-      "headline": "Australia\u2019s CDC mulls new data center in New Zealand",
-      "summary": "Partners with Contact Energy on the potential project",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-11T15:40:03+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\ud638\uc8fc CDC, \ub274\uc9c8\ub79c\ub4dc\uc5d0 \uc0c8 \ub370\uc774\ud130 \uc13c\ud130 \uac80\ud1a0",
-      "summary_ko": "\uc7a0\uc7ac\uc801 \ud504\ub85c\uc81d\ud2b8\ub97c \uc704\ud574 Contact Energy\uc640 \ud611\ub825\ud55c\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "fff02cfd0233",
-      "headline": "Malaysian property giant sells 36-acre land parcel in Cyberjaya for data center",
-      "summary": "Documents imply that campus could offer 182MW of capacity",
-      "url": "https://www.datacenterdynamics.com/en/news/malaysian-property-giant-sells-36-acre-land-parcel-in-cyberjaya-for-data-center/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-11T14:30:25+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity"
-      ],
-      "headline_ko": "\ub9d0\ub808\uc774\uc2dc\uc544 \ubd80\ub3d9\uc0b0 \ub300\uae30\uc5c5, Cyberjaya\uc758 36\uc5d0\uc774\ucee4 \ubd80\uc9c0\ub97c data center \uc6a9\ub3c4\ub85c \ub9e4\uac01",
-      "summary_ko": "\ubb38\uc11c\uc5d0 \ub530\ub974\uba74 \uc774 \ucea0\ud37c\uc2a4\ub294 182MW\uc758 capacity\ub97c \uc81c\uacf5\ud560 \uc218 \uc788\uc744 \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity"
-      ]
-    },
-    {
-      "id": "4f15c71af01c",
-      "headline": "Azur Datacenter to convert HRS hydrogen facility in Champagnier, France, into data center",
-      "summary": "Transaction expected to close at end of the year",
-      "url": "https://www.datacenterdynamics.com/en/news/azur-datacenter-to-convert-hrs-hydrogen-facility-in-champagnier-france-into-data-center/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-11T14:20:21+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Azur Datacenter, \ud504\ub791\uc2a4 \uc0f9\ud30c\ub2c8\uc5d0\uc758 HRS \uc218\uc18c \uc2dc\uc124\uc744 \ub370\uc774\ud130 \uc13c\ud130\ub85c \uc804\ud658",
-      "summary_ko": "\uac70\ub798\ub294 \uc5f0\ub9d0\uc5d0 \ub9c8\ubb34\ub9ac\ub420 \uc608\uc815\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-21T23:46:17.547368+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-08-22T23:40:04.543292+00:00",
+    "cached": 157,
+    "translated": 3,
     "skipped": 0
   }
 }
