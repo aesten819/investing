@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-08-22T23:39:47.232888+00:00",
+  "generated_at": "2026-08-23T23:39:57.642371+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "dcf3b837105d",
+      "headline": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
+      "summary": "Managing fire in the AI age",
+      "url": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-23T10:00:26+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub9ac\ud2ac\uc774\uc628 \ubc30\ud130\ub9ac\uac00 data center\ub97c \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4, \ud654\uc7ac \uc548\uc804\ub3c4 \uadf8 \uc18d\ub3c4\ub97c \ub530\ub77c\uc57c \ud55c\ub2e4",
+      "summary_ko": "AI \uc2dc\ub300\uc758 \ud654\uc7ac \uad00\ub9ac",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "c74a97c33037",
       "headline": "Virginia\u2019s Data Centers: A Strategic Asset Worth Protecting",
@@ -2876,33 +2893,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "3d62450a1ae5",
-      "headline": "AWS Data Center Withdrawal Signals Growing Political, Community Challenges",
-      "summary": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-08-11T18:34:58+00:00",
-      "tags": [
-        "AWS",
-        "Data Center"
-      ],
-      "headline_ko": "AWS Data Center \ucca0\uc218, \uc815\uce58\uc801\u00b7\ucee4\ubba4\ub2c8\ud2f0 \ub3c4\uc804 \uc99d\uac00 \uc2e0\ud638",
-      "summary_ko": "AWS\ub294 \uba54\ub9b4\ub79c\ub4dc Data Center \ucca0\uc218 \ubc30\uacbd\uc73c\ub85c \uc778\ud504\ub77c \uc6b0\uc120\uc21c\uc704\ub97c \uc5b8\uae09\ud588\uc9c0\ub9cc, \uc774 \uacb0\uc815\uc740 \ucee4\ubba4\ub2c8\ud2f0\uc640 \uc815\uce58\uc801 \uc800\ud56d\uc758 \uc601\ud5a5\ub825\uc774 \ucee4\uc9c0\uace0 \uc788\uc74c\uc744 \uc2dc\uc0ac\ud55c\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-22T23:40:04.543292+00:00",
-    "cached": 157,
-    "translated": 3,
+    "generated_at": "2026-08-23T23:40:10.702293+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
