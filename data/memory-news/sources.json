@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T23:34:10.283558+00:00",
+  "generated_at": "2026-08-24T23:33:32.475215+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
       "name": "Samsung Semiconductor",
       "url": "https://news.samsungsemiconductor.com/global/feed/",
       "status": "ok",
-      "article_count": 11
+      "article_count": 9
     },
     {
       "id": "sk_hynix",
