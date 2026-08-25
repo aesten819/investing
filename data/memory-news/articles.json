@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-24T23:33:32.475215+00:00",
-  "article_count": 71,
+  "generated_at": "2026-08-25T23:35:50.309759+00:00",
+  "article_count": 73,
   "articles": [
+    {
+      "id": "f532bdaa3879",
+      "headline": "Memory Prices Soar; DRAM and NAND Flash to Account for 68% of Major CSP CapEx in 2027, Says TrendForce",
+      "summary": "According to TrendForce\u2019s latest memory industry research, major global cloud service providers (CSPs) are accelerating AI infrastructure investment, with total CapEx projected to...",
+      "url": "https://www.trendforce.com/presscenter/news/20260825-13198.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-08-25T11:05:11+00:00",
+      "tags": [
+        "DRAM",
+        "NAND",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "\uba54\ubaa8\ub9ac \uac00\uaca9 \uae09\ub4f1, 2027\ub144 \uc8fc\uc694 CSP CapEx\uc758 68%\ub97c DRAM\uacfc NAND \ud50c\ub798\uc2dc\uac00 \ucc28\uc9c0\ud560 \uac83 - TrendForce",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uc8fc\uc694 \uae00\ub85c\ubc8c CSP(\ud074\ub77c\uc6b0\ub4dc \uc11c\ube44\uc2a4 \uc81c\uacf5\uc5c5\uccb4)\ub4e4\uc774 AI \uc778\ud504\ub77c \ud22c\uc790\ub97c \uac00\uc18d\ud654\ud558\uace0 \uc788\uc73c\uba70, \ucd1d CapEx\ub294 2027\ub144\uc5d0 DRAM\uacfc NAND \ud50c\ub798\uc2dc\uac00 68%\ub97c \ucc28\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub429\ub2c8\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "NAND",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9",
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "ebb2f494a367",
+      "headline": "[HY-Knowledge EP.3] Physical AI: The Next Revolution After Generative AI | Professor Cho Kyu-jin",
+      "summary": "HY-Knowledge, an original series by SK hynix, explores the latest technologies shaping the AI era and the role of memory in making them possible.",
+      "url": "https://news.skhynix.com/en/hy-knowledge-ep-3/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-21T04:38:01+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[HY-Knowledge EP.3] Physical AI: \uc0dd\uc131\ud615 AI \uc774\ud6c4\uc758 \ub2e4\uc74c \ud601\uba85 | Professor Cho Kyu-jin",
+      "summary_ko": "HY-Knowledge\ub294 SK hynix\uc758 \uc624\ub9ac\uc9c0\ub110 \uc2dc\ub9ac\uc988\ub85c, AI \uc2dc\ub300\ub97c \ud615\uc131\ud558\ub294 \ucd5c\uc2e0 \uae30\uc220\uacfc \uc774\ub97c \uac00\ub2a5\ud558\uac8c \ud558\ub294 \uba54\ubaa8\ub9ac\uc758 \uc5ed\ud560\uc744 \ud0d0\uad6c\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "35831ce03d21",
       "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 2",
@@ -1333,9 +1375,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-24T23:33:32.525955+00:00",
+    "generated_at": "2026-08-25T23:36:21.721976+00:00",
     "cached": 71,
-    "translated": 0,
+    "translated": 2,
     "skipped": 0
   }
 }
