@@ -5256,5 +5256,125 @@
     "tags_ko": [
       "\uc804\ub825"
     ]
+  },
+  "aa419a69934c9bd151716d1ba68086df030192fc": {
+    "headline_ko": "\uc720\ub839 \ub370\uc774\ud130 \uc13c\ud130 \ud6a8\uacfc",
+    "summary_ko": "\uc720\ub839 \ub370\uc774\ud130 \uc13c\ud130 \ud6a8\uacfc\uc5d0 \uad00\ud55c \uae30\uc0ac\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "d4435462e81809471319aab291a2495b0f239e78": {
+    "headline_ko": "PJM\uc758 \uc804\ub825 \ubd80\uc871, Data Center \uc131\uc7a5 \ubd80\uac01",
+    "summary_ko": "PJM\uc758 \uccab \ub300\uaddc\ubaa8 \ubd80\ud558 \ucc98\ub9ac \uacfc\uc815\uc740 12\uac1c \uc81c\uc548\uc744 \ub0c8\uc9c0\ub9cc \ud569\uc758\uc5d0 \uc774\ub974\uc9c0 \ubabb\ud588\uc73c\uba70, \uc774\uc81c \uac00\uc18d\ud654\ub41c \uc870\ub2ec\uc744 \ud1b5\ud574 6.8 GW capacity \ubd80\uc871\uc744 \ud574\uacb0\ud558\ub824 \ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Power"
+    ]
+  },
+  "0ceb80243e780065590c55cbba4a4cdecf9dfd30": {
+    "headline_ko": "\uc2a4\uc6e8\ub374 EcoDataCenter, \ub2ec\ub77c\ub974\ub098\uc5d0 150MW \ucea0\ud37c\uc2a4\uc6a9 \ubd80\uc9c0 \ud655\ubcf4",
+    "summary_ko": "\ub2ec\ub77c\ub974\ub098\uc8fc\uc5d0\uc11c \uc138 \ubc88\uc9f8 \ud504\ub85c\uc81d\ud2b8\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "a37785412cb713845141a333bdef94691f47b778": {
+    "headline_ko": "Empyrion, E.Sun Bank\uc640 \ub300\ub9cc \ud0c0\uc774\ubca0\uc774 \ub370\uc774\ud130 \uc13c\ud130 \uc790\uae08 \uc870\ub2ec \uc644\ub8cc",
+    "summary_ko": "APAC \uc6b4\uc601\uc0ac\uac00 \ud0c0\uc774\ubca0\uc774 \ub124\uc774\ud6c4\uc5d0 \uc704\uce58\ud55c 7MW \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc790\uae08 \uc870\ub2ec\uc744 \uc644\ub8cc\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc790\uae08 \uc870\ub2ec"
+    ]
+  },
+  "5ac40dc6c404c07ed8b51c65e1e064775ed77214": {
+    "headline_ko": "\ubbf8\uad6d \uc5f0\ubc29\ubc95\uc6d0 \ud589\uc815\ucc98, colocation \ub370\uc774\ud130 \uc13c\ud130 2\uacf3 \uacf5\uae09\uc5c5\uccb4 \ubaa8\uc0c9",
+    "summary_ko": "\ud604\uc7ac\ub294 \uc81c3\uc790 \ubca4\ub354\ub97c \ud1b5\ud574 Digital Realty\uc640 Csquare\ub97c \uc0ac\uc6a9 \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "aca19938f8cbb218ed942a381a80887ce7309e69": {
+    "headline_ko": "Rum Group, \uc774\ub984 \ubbf8\uacf5\uac1c \ubbf8\uad6d \ud074\ub77c\uc6b0\ub4dc \uace0\uac1d\uacfc \ucd5c\ub300 137\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 \uc784\ub300 \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "\uc774\ub984 \ubbf8\uacf5\uac1c \uace0\uac1d\uc774 Rum\uc758 \uc870\uc9c0\uc544\uc8fc Maysville\uc5d0 \uc704\uce58\ud55c data center\uc5d0\uc11c capacity\ub97c \uc784\ub300\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Colocation"
+    ]
+  },
+  "7c94eed6de216d105222b167f93a878316705732": {
+    "headline_ko": "\ud504\ub791\uc2a4 \ub0b4 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc804\ub825\ub9dd \uc5f0\uacb0",
+    "summary_ko": "\ubc95\uc801 \uccb4\uacc4\uc640 \uc2e4\ubb34\uc801 \uc774\uc288\ub97c \uc790\uc138\ud788 \uc0b4\ud3b4\ubcf8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "7f93c7b13366c2de120ccc68c2141b713e52c719": {
+    "headline_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ud658\uacbd\uc5d0\uc11c \ubb3c\ub9ac\uc801 \uc811\uadfc \uad00\ub9ac",
+    "summary_ko": "300\uac1c \uc774\uc0c1\uc758 \uc0ac\uc774\ud2b8\uc640 \uc218\ubc31\ub9cc \uac1c\uc758 \uc544\uc774\ub374\ud2f0\ud2f0\uc5d0 \ub300\ud55c \uc811\uadfc \uac70\ubc84\ub10c\uc2a4",
+    "tags_ko": [
+      "Colocation"
+    ]
+  },
+  "640c53ef952427cb223841b140967665c0ba8cb0": {
+    "headline_ko": "MTN, \uc774\ub984 \ubbf8\uacf5\uac1c \ud22c\uc790\uc790\uc640 data center \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0",
+    "summary_ko": "\ubc94\uc544\ud504\ub9ac\uce74 \ud1b5\uc2e0\uc0ac\uac00 1\ub2e8\uacc4\uc5d0\uc11c 150MW \uc774\uc0c1\uc758 \uc2e0\uaddc capacity\ub97c \ubaa9\ud45c\ub85c \ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc9d0",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "a3963725cc89b7059dd170f156ab7a83640ab358": {
+    "headline_ko": "\uc2a4\ud398\uc778, data center\uac00 \uc2e0\uaddc \uc7ac\uc0dd\uc5d0\ub108\uc9c0\uc5d0\uc11c \uc804\ub825\uc758 80%\ub97c \uc870\ub2ec\ud558\ub3c4\ub85d \ud558\ub294 \uaddc\uc815 \ucd08\uc548 \ub9c8\ub828 - \ubcf4\ub3c4",
+    "summary_ko": "\ucd08\uc548 \ubc95\ub839\uc740 capacity 1MW \uc774\uc0c1\uc758 data center\uc5d0 \uc801\uc6a9\ub420 \uc608\uc815\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "619040f2ac52b76303ebbb8ef0cc84b6ac78229e": {
+    "headline_ko": "Armada, 10MW \ubaa8\ub4c8\ub7ec \ub370\uc774\ud130 \uc13c\ud130 'Orion' \ucd9c\uc2dc",
+    "summary_ko": "Armada\uc758 Galleon \uc81c\ud488\uad70 \uc911 \uac00\uc7a5 \ud070 \ubc84\uc804\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "078da13a67796e5b23051124f46074d6309c3764": {
+    "headline_ko": "OpenAI, Data Center \uc870\uc9c1\uc73c\ub85c \uc5d0\ub108\uc9c0 \uacc4\ud68d \uc774\ub3d9",
+    "summary_ko": "OpenAI\ub294 \uc131\uc7a5\ud558\ub294 AI Data Center \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc804\ubc18\uc5d0 \uac78\uccd0 \uc720\uc5f0\ud55c \ubd80\ud558, \ubc1c\uc804 \ubc0f \uc800\uc7a5 \uc804\ub7b5\uc744 \ud655\uc7a5\ud558\uba74\uc11c \uc5d0\ub108\uc9c0 \uae30\uc220 \uc5ed\ud560\uc744 \ucd94\uac00\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "Power"
+    ]
+  },
+  "4b4f78e48f56a373e8d66f36f3dae665b854c918": {
+    "headline_ko": "OpenAI \ub370\uc774\ud130 \uc13c\ud130 \ucd1d\uad04 Chris Malone, \ucd5c\uadfc \uc774\ud0c8",
+    "summary_ko": "Stargate \ud300\uc5d0\uc11c \uc8fc\uc694 \uc778\uc0ac\ub4e4\uc774 \uc774\ud0c8\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "bcfa7d342e2ae0ac55fe80d2c4441f2b8d91c33a": {
+    "headline_ko": "\ud30c\ud478\uc544\ub274\uae30\ub2c8, AI \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \uc18c\ubc84\ub9b0 \ud074\ub77c\uc6b0\ub4dc \ucd9c\uc2dc",
+    "summary_ko": "\uadf8 \uc678 \uc18c\ubc84\ub9b0 \ud074\ub77c\uc6b0\ub4dc \uad00\ub828 \ub274\uc2a4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
+  },
+  "b6b8161b4f8eab7e6cab60068f6e4cf003d79dc5": {
+    "headline_ko": "DOE, data center \uc218\uc694 \uae09\uc99d \uc18d Eddystone \ubc1c\uc804\uc18c \uac00\ub3d9 \uc720\uc9c0",
+    "summary_ko": "PJM\uc774 data center \ubd80\ud558 \uc99d\uac00, \ubc1c\uc804\uae30 \ud3d0\uc9c0, \uc804\ub825 \uc790\uc6d0 \uc9c0\uc5f0\uc5d0 \uc9c1\uba74\ud568\uc5d0 \ub530\ub77c 760MW \uaddc\ubaa8\uc758 Eddystone \ubc1c\uc804\uc18c\uac00 \ub354 \uc624\ub798 \uac00\ub3d9\uc744 \uc720\uc9c0\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
   }
 }
