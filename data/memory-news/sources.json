@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-25T23:35:50.309759+00:00",
+  "generated_at": "2026-08-27T04:30:21.473556+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
       "name": "Samsung Semiconductor",
       "url": "https://news.samsungsemiconductor.com/global/feed/",
       "status": "ok",
-      "article_count": 9
+      "article_count": 10
     },
     {
       "id": "sk_hynix",
       "name": "SK hynix Newsroom",
       "url": "https://news.skhynix.com/feed/",
       "status": "ok",
-      "article_count": 2
+      "article_count": 7
     },
     {
       "id": "micron",

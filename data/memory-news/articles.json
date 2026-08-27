@@ -1,7 +1,126 @@
 {
-  "generated_at": "2026-08-25T23:35:50.309759+00:00",
-  "article_count": 73,
+  "generated_at": "2026-08-27T04:30:21.473556+00:00",
+  "article_count": 80,
   "articles": [
+    {
+      "id": "9c7d653dc087",
+      "headline": "Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026",
+      "summary": "Flagship P9 and versatile P7 expand Samsung\u2019s portable SSD lineup with USB4 connectivity Doubled performance at 4,000MB/s supports demanding...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-showcases-p9-and-p7-ssds-featuring-usb4-at-gamescom-2026/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-26T16:00:00+00:00",
+      "tags": [
+        "SSD"
+      ],
+      "headline_ko": "\uc0bc\uc131, Gamescom 2026\uc5d0\uc11c USB4 \uc9c0\uc6d0 P9\u00b7P7 SSD \uc120\ubd2c",
+      "summary_ko": "\ud50c\ub798\uadf8\uc2ed P9\uc640 \ub2e4\uc7ac\ub2e4\ub2a5\ud55c P7\uc740 USB4 \uc5f0\uacb0\ub85c \uc0bc\uc131\uc758 \ud734\ub300\uc6a9 SSD \ub77c\uc778\uc5c5\uc744 \ud655\uc7a5\ud558\uba70, 4,000MB/s\uc758 \ub450 \ubc30 \uc131\ub2a5\uc73c\ub85c \uae4c\ub2e4\ub85c\uc6b4 \uc791\uc5c5\uc744 \uc9c0\uc6d0\ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD"
+      ]
+    },
+    {
+      "id": "00b430e51eac",
+      "headline": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "summary": "\u25b2 Youngpyo Joo, Vice President andhead of the System Architecture department, delivers the keynote",
+      "url": "https://news.skhynix.com/en/dtf-2026-5/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-26T01:32:12+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c\uc5d0 \ucd5c\uc801\ud654\ub41c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud480 \ub77c\uc778\uc5c5 \uc120\ubcf4\uc5ec",
+      "summary_ko": "\u25b2 \uc2dc\uc2a4\ud15c \uc544\ud0a4\ud14d\ucc98 \ubd80\ubb38 \ubd80\uc0ac\uc7a5 \uc8fc\uc601\ud45c(Youngpyo Joo)\uac00 \uae30\uc870 \uc5f0\uc124\uc744 \uc9c4\ud589\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "1c26053ae4d2",
+      "headline": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "summary": "\u25b2 The \u2018Product & System\u2019 exhibition space, where visitors could explore SK hynix\u2019s diverse AI memory products",
+      "url": "https://news.skhynix.com/en/dtf-2026-4/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-26T01:29:46+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c\uc5d0 \ucd5c\uc801\ud654\ub41c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud480 \ub77c\uc778\uc5c5 \uc120\ubcf4\uc5ec",
+      "summary_ko": "\u25b2 \ubc29\ubb38\uac1d\ub4e4\uc774 SK hynix\uc758 \ub2e4\uc591\ud55c AI \uba54\ubaa8\ub9ac \uc81c\ud488\uc744 \ub458\ub7ec\ubcfc \uc218 \uc788\ub294 'Product & System' \uc804\uc2dc \uacf5\uac04\uc774 \ub9c8\ub828\ub410\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "0ba19fd36a64",
+      "headline": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "summary": "\u25b2 The \u2018Product & System\u2019 exhibition space, where visitors could explore SK hynix\u2019s diverse AI memory products",
+      "url": "https://news.skhynix.com/en/dtf-2026-3/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-26T01:29:00+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c\uc5d0 \ucd5c\uc801\ud654\ub41c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud480 \ub77c\uc778\uc5c5 \uc120\ubcf4\uc5ec",
+      "summary_ko": "\u25b2 \ubc29\ubb38\uac1d\ub4e4\uc774 SK hynix\uc758 \ub2e4\uc591\ud55c AI \uba54\ubaa8\ub9ac \uc81c\ud488\uc744 \uc0b4\ud3b4\ubcfc \uc218 \uc788\uc5c8\ub358 'Product & System' \uc804\uc2dc \uacf5\uac04",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "cb0a6041497c",
+      "headline": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "summary": "\u25b2 The internal structure of the Scalable Data Server and the SK hynix products positioned in each area",
+      "url": "https://news.skhynix.com/en/dtf-2026-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-26T01:28:12+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c\uc5d0 \ucd5c\uc801\ud654\ub41c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud480 \ub77c\uc778\uc5c5 \ubc1c\ud45c",
+      "summary_ko": "Scalable Data Server\uc758 \ub0b4\ubd80 \uad6c\uc870\uc640 \uac01 \uc601\uc5ed\uc5d0 \ubc30\uce58\ub41c SK hynix \uc81c\ud488\uc744 \ubcf4\uc5ec\uc90d\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "7c4ff2e1d478",
+      "headline": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/dtf-2026-1/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-26T01:27:05+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c\uc5d0 \ucd5c\uc801\ud654\ub41c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud480 \ub77c\uc778\uc5c5 \uc120\ubcf4\uc5ec",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c\uc5d0 \ucd5c\uc801\ud654\ub41c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud480 \ub77c\uc778\uc5c5\uc744 \uacf5\uac1c\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "7ea24c402006",
+      "headline": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "summary": "SK hynix has been broadening its collaboration with its strategic partner Dell Technologies (Dell).",
+      "url": "https://news.skhynix.com/en/dtf-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-26T00:00:23+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix, DTF 2026\uc5d0\uc11c AI \uc778\ud504\ub77c \ucd5c\uc801\ud654 \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uc804\uccb4 \ub77c\uc778\uc5c5 \uc120\ubcf4\uc5ec",
+      "summary_ko": "SK hynix\ub294 \uc804\ub7b5\uc801 \ud30c\ud2b8\ub108\uc778 Dell Technologies(Dell)\uc640\uc758 \ud611\ub825\uc744 \ud655\ub300\ud574 \uc654\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "f532bdaa3879",
       "headline": "Memory Prices Soar; DRAM and NAND Flash to Account for 68% of Major CSP CapEx in 2027, Says TrendForce",
@@ -1375,9 +1494,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-25T23:36:21.721976+00:00",
-    "cached": 71,
-    "translated": 2,
+    "generated_at": "2026-08-27T04:31:35.437139+00:00",
+    "cached": 73,
+    "translated": 7,
     "skipped": 0
   }
 }
