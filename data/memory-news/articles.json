@@ -1,7 +1,96 @@
 {
-  "generated_at": "2026-08-27T04:30:21.473556+00:00",
+  "generated_at": "2026-08-28T06:55:32.561724+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "6d3e5e816cc6",
+      "headline": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, \u201cBeginning a New Future for US-Korea AI\u201d",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana-beginning-a-new-future-for-us-korea-ai/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-28T02:46:45+00:00",
+      "tags": [
+        "HBM"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc778\ub514\uc560\ub098 HBM \uc0dd\uc0b0\uae30\uc9c0 \uae30\uacf5\uc2dd \uac1c\ucd5c\u2026\"\ubbf8\u00b7\ud55c AI\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798\uc758 \uc2dc\uc791\"",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 \uc778\ub514\uc560\ub098\uc8fc\uc5d0 HBM \uc0dd\uc0b0\uae30\uc9c0\uc758 \uae30\uacf5\uc2dd\uc744 \uc5f4\uace0 \ubbf8\u00b7\ud55c AI \ud611\ub825\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798\ub97c \uc608\uace0\ud588\ub2e4.",
+      "tags_ko": [
+        "HBM"
+      ]
+    },
+    {
+      "id": "8af5690b0f93",
+      "headline": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, \u201cBeginning a New Future for US-Korea AI\u201d",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-3/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-28T02:44:52+00:00",
+      "tags": [
+        "HBM"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc778\ub514\uc560\ub098 HBM \uc0dd\uc0b0\uae30\uc9c0 \uae30\uacf5\uc2dd \uac1c\ucd5c, '\ud55c\ubbf8 AI\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798 \uc2dc\uc791'",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 \ubbf8\uad6d \uc778\ub514\uc560\ub098\uc8fc\uc5d0 HBM \uc0dd\uc0b0\uae30\uc9c0 \uae30\uacf5\uc2dd\uc744 \uc5f4\uace0 \ud55c\ubbf8 AI \ud611\ub825\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798\ub97c \uc2dc\uc791\ud588\ub2e4.",
+      "tags_ko": [
+        "HBM"
+      ]
+    },
+    {
+      "id": "f6d2b531a094",
+      "headline": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, \u201cBeginning a New Future for US-Korea AI\u201d",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-28T02:41:28+00:00",
+      "tags": [
+        "HBM"
+      ],
+      "headline_ko": "SK hynix, \uc778\ub514\uc560\ub098 HBM \uc0dd\uc0b0 \uae30\uc9c0 \uae30\uacf5\uc2dd \uac1c\ucd5c, \"\ubbf8\uad6d-\ud55c\uad6d AI\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798\ub97c \uc2dc\uc791\ud558\ub2e4\"",
+      "summary_ko": "SK hynix\uac00 \ubbf8\uad6d \uc778\ub514\uc560\ub098\uc5d0\uc11c HBM \uc0dd\uc0b0 \uae30\uc9c0 \uae30\uacf5\uc2dd\uc744 \uc5f4\uace0 \ud55c\ubbf8 AI \ud611\ub825\uc758 \uc0c8\ub85c\uc6b4 \uc7a5\uc744 \uc5f4\uc5c8\ub2e4.",
+      "tags_ko": [
+        "HBM"
+      ]
+    },
+    {
+      "id": "c273b5b2df0c",
+      "headline": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, \u201cBeginning a New Future for US-Korea AI\u201d",
+      "summary": "\u25b2 Rendering of the AI memory advanced packaging production base being constructed by SK hynix in West Lafayette, Indiana, U.S",
+      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-01/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-27T16:21:49+00:00",
+      "tags": [
+        "HBM",
+        "Memory"
+      ],
+      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc778\ub514\uc560\ub098 HBM \uc0dd\uc0b0\uae30\uc9c0 \uae30\uacf5\uc2dd \uac1c\ucd5c, \u201c\ud55c\ubbf8 AI\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798\ub97c \uc2dc\uc791\u201d",
+      "summary_ko": "\u25b2 \ubbf8\uad6d \uc778\ub514\uc560\ub098\uc8fc \uc6e8\uc2a4\ud2b8\ub77c\ud30c\uc608\ud2b8\uc5d0 SK\ud558\uc774\ub2c9\uc2a4\uac00 \uac74\uc124 \uc911\uc778 AI \uba54\ubaa8\ub9ac \uc5b4\ub4dc\ubc34\uc2a4\ub4dc \ud328\ud0a4\uc9d5 \uc0dd\uc0b0\uae30\uc9c0 \uc870\uac10\ub3c4",
+      "tags_ko": [
+        "HBM",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "9f7f8d852237",
+      "headline": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, \u201cBeginning a New Future for US-Korea AI\u201d",
+      "summary": "\u25aa Investing over $4 billion in Indiana fab and first \u2018Made in USA\u2019 next-generation HBM mass production in U.S.",
+      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-08-27T16:01:24+00:00",
+      "tags": [
+        "HBM",
+        "Capacity"
+      ],
+      "headline_ko": "SK hynix, \uc778\ub514\uc560\ub098 HBM \uc0dd\uc0b0\uae30\uc9c0 \uae30\uacf5\uc2dd \uac1c\ucd5c... '\ud55c\ubbf8 AI\uc758 \uc0c8\ub85c\uc6b4 \ubbf8\ub798 \uc2dc\uc791'",
+      "summary_ko": "\ubbf8\uad6d \uc778\ub514\uc560\ub098\uc8fc \ud339\uc5d0 40\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc744 \ud22c\uc790\ud558\uace0, \ubbf8\uad6d \ub0b4 \uccab 'Made in USA' \ucc28\uc138\ub300 HBM \uc591\uc0b0\uc5d0 \ub098\uc120\ub2e4.",
+      "tags_ko": [
+        "HBM",
+        "\uc0dd\uc0b0\ub2a5\ub825"
+      ]
+    },
     {
       "id": "9c7d653dc087",
       "headline": "Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026",
@@ -1396,107 +1485,14 @@
         "HBM",
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "7ffcf0d01c91",
-      "headline": "Smartphone shipments to fall 7% in 2026 amid memory constraints and geopolitical pressures",
-      "summary": "Based on assumptions on first-quarter memory prices (which indicate that pricing pressure and constrained supply will begin to ease in second-half 2026), Omdia\u2019s latest outlook fo...",
-      "url": "https://www.semiconductor-today.com/news_items/2026/mar/omdia-050326.shtml",
-      "source": "Semiconductor Today",
-      "source_id": "semiconductor_today",
-      "published_at": "2026-03-05T13:54:44+00:00",
-      "tags": [
-        "Memory",
-        "Pricing",
-        "Capacity"
-      ],
-      "headline_ko": "2026\ub144 \uc2a4\ub9c8\ud2b8\ud3f0 \ucd9c\ud558\ub7c9, \uba54\ubaa8\ub9ac \uc81c\uc57d\uacfc \uc9c0\uc815\ud559\uc801 \uc555\ub825\uc73c\ub85c 7% \uac10\uc18c \uc804\ub9dd",
-      "summary_ko": "Omdia\uc758 \ucd5c\uc2e0 \uc804\ub9dd\uc740 1\ubd84\uae30 \uba54\ubaa8\ub9ac \uac00\uaca9\uc774 2026\ub144 \ud558\ubc18\uae30\uc5d0\ub294 \uac00\uaca9 \uc555\ub825\uacfc \uacf5\uae09 \uc81c\uc57d\uc774 \uc644\ud654\ub420 \uac83\uc784\uc744 \uc2dc\uc0ac\ud55c\ub2e4\ub294 \uac00\uc815\uc5d0 \uae30\ubc18\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Memory",
-        "Pricing",
-        "Capacity"
-      ]
-    },
-    {
-      "id": "dca4bdf3e204",
-      "headline": "Samsung Ships Industry-First Commercial HBM4 With Ultimate Performance for AI Computing",
-      "summary": "Mass production commences for HBM4 with consistent transfer speed of 11.7Gbps, capable of up to 13Gbps Leading-edge DRAM with 4nm logic base die maximizes...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-ships-industry-first-commercial-hbm4-with-ultimate-performance-for-ai-computing/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-02-12T15:14:56+00:00",
-      "tags": [
-        "DRAM"
-      ],
-      "headline_ko": "\uc0bc\uc131, AI \ucef4\ud4e8\ud305 \uc704\ud55c \uc5c5\uacc4 \ucd5c\ucd08 \uc0c1\uc6a9 HBM4 \ucd9c\ud558",
-      "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 11.7Gbps \uc77c\uad00 \uc804\uc1a1 \uc18d\ub3c4, \ucd5c\ub300 13Gbps \uc9c0\uc6d0\ud558\ub294 \uc5c5\uacc4 \ucd5c\ucd08\uc758 HBM4 \uc591\uc0b0\uc744 \uc2dc\uc791\ud588\ub2e4.",
-      "tags_ko": [
-        "DRAM"
-      ]
-    },
-    {
-      "id": "c6eaefd5207e",
-      "headline": "GigaDevice and Navitas unveil Digital Power Joint Lab to accelerate high-efficiency power management deployment",
-      "summary": "GigaDevice Semiconductor Inc \u2014 a fabless supplier of Flash memory, 32-bit microcontrollers (MCUs), sensors and analog products that relocated its headquarters this year from Beiji...",
-      "url": "https://www.semiconductor-today.com/news_items/2025/oct/navitas-gigadevice-271025.shtml",
-      "source": "Semiconductor Today",
-      "source_id": "semiconductor_today",
-      "published_at": "2025-10-27T12:02:28+00:00",
-      "tags": [
-        "NAND",
-        "Memory"
-      ],
-      "headline_ko": "GigaDevice\uc640 Navitas, \uace0\ud6a8\uc728 \uc804\ub825 \uad00\ub9ac \ubc30\ud3ec \uac00\uc18d\ud654\ub97c \uc704\ud55c Digital Power Joint Lab \uacf5\uac1c",
-      "summary_ko": "GigaDevice\uc640 Navitas\uac00 \uace0\ud6a8\uc728 \uc804\ub825 \uad00\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 Digital Power Joint Lab\uc744 \uc124\ub9bd\ud588\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "Memory"
-      ]
-    },
-    {
-      "id": "cf7514408f84",
-      "headline": "ST launches SiPho and next-gen BiCMOS technologies for higher-performing cloud optical interconnect in data centers and AI clusters",
-      "summary": "With the exponential growth of AI computing needs, challenges arise in performance and energy efficiency across computing, memory, power supply and the interconnections linking th...",
-      "url": "https://www.semiconductor-today.com/news_items/2025/feb/st-200225.shtml",
-      "source": "Semiconductor Today",
-      "source_id": "semiconductor_today",
-      "published_at": "2025-02-20T15:37:40+00:00",
-      "tags": [
-        "Memory",
-        "Capacity"
-      ],
-      "headline_ko": "ST, \ub370\uc774\ud130\uc13c\ud130 \ubc0f AI \ud074\ub7ec\uc2a4\ud130\uc6a9 \uace0\uc131\ub2a5 \ud074\ub77c\uc6b0\ub4dc \uad11\ud559 \uc778\ud130\ucee4\ub125\ud2b8\ub97c \uc704\ud55c SiPho \ubc0f \ucc28\uc138\ub300 BiCMOS \uae30\uc220 \ucd9c\uc2dc",
-      "summary_ko": "AI \ucef4\ud4e8\ud305 \uc218\uc694\uc758 \uae30\ud558\uae09\uc218\uc801 \uc99d\uac00\ub85c \uc778\ud574 \ucef4\ud4e8\ud305, \uba54\ubaa8\ub9ac, \uc804\uc6d0 \uacf5\uae09 \ubc0f \uc774\ub4e4\uc744 \uc5f0\uacb0\ud558\ub294 \uc778\ud130\ucee4\ub125\ud2b8\uc5d0\uc11c \uc131\ub2a5 \ubc0f \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc131 \ubb38\uc81c\uac00 \ub300\ub450\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac",
-        "\uc6a9\ub7c9"
-      ]
-    },
-    {
-      "id": "576a74ef806c",
-      "headline": "Plasma-Therm\u2019s Grenoble site made EMEA HQ focused on power, wireless, memory, sensor and MEMS device development",
-      "summary": "Plasma-Therm LLC of St Petersburg, FL, USA (which makes plasma-process equipment for the semiconductor and compound semiconductor markets) says that its site in Grenoble, France w...",
-      "url": "https://www.semiconductor-today.com/news_items/2022/nov/plasmatherm-161122.shtml",
-      "source": "Semiconductor Today",
-      "source_id": "semiconductor_today",
-      "published_at": "2022-11-16T13:00:02+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "Plasma-Therm\uc758 Grenoble \uc0ac\uc774\ud2b8\uac00 EMEA \ubcf8\ubd80\ub85c \uc9c0\uc815\ub418\uc5b4 \uc804\ub825, \ubb34\uc120, \uba54\ubaa8\ub9ac, \uc13c\uc11c \ubc0f MEMS \uc18c\uc790 \uac1c\ubc1c\uc5d0 \ucd08\uc810",
-      "summary_ko": "Plasma-Therm LLC\ub294 \ud504\ub791\uc2a4 \uadf8\ub974\ub178\ube14 \uc0ac\uc774\ud2b8\ub97c EMEA \ubcf8\ubd80\ub85c \uc9c0\uc815\ud558\uace0 \uc804\ub825, \ubb34\uc120, \uba54\ubaa8\ub9ac, \uc13c\uc11c \ubc0f MEMS \uc18c\uc790 \uac1c\ubc1c\uc5d0 \uc9d1\uc911\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-27T04:31:35.437139+00:00",
-    "cached": 73,
-    "translated": 7,
+    "generated_at": "2026-08-28T06:56:08.119428+00:00",
+    "cached": 75,
+    "translated": 5,
     "skipped": 0
   }
 }
