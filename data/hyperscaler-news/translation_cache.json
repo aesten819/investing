@@ -5548,5 +5548,145 @@
       "AWS",
       "Data Center"
     ]
+  },
+  "6b9ecf9ef7ca51d6ef161a763355e2edc51e576f": {
+    "headline_ko": "CBRE, \uc0c1\ubc18\uae30 data center \uacf5\uae09 \ubd80\uc871 \ucd94\uc801",
+    "summary_ko": "CBRE\uac00 \uc0c1\ubc18\uae30 data center \uacf5\uae09 \ubd80\uc871\uc744 \ucd94\uc801\ud588\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "5ffae3f05f319d7416913d44d1915fd91022c630": {
+    "headline_ko": "\ucc28\uc138\ub300 AI\ub97c \uc704\ud55c Data Center \uc778\ud504\ub77c",
+    "summary_ko": "\ucc28\uc138\ub300 AI\ub97c \uc704\ud55c Data Center \uc778\ud504\ub77c",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c76f9da08e143c31d82821dae54dbf74aa225474": {
+    "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \ud655\uc7a5 \uc18d \ud2b8\ub7fc\ud504, \ud574\uc678 \uadf8\ub9ac\ub4dc \uc7a5\ube44 \uaca8\ub0e5",
+    "summary_ko": "\uc0c8 \ud589\uc815\uba85\ub839\uc740 \uc720\ud2f8\ub9ac\ud2f0\uc640 \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5c5\uccb4\uac00 \uacf5\uae09 \ubd80\uc871\uacfc \uae34 \ub9ac\ub4dc\ud0c0\uc784\uc744 \uacaa\ub294 \uac00\uc6b4\ub370 \ud574\uc678 \uadf8\ub9ac\ub4dc \uc7a5\ube44\ub97c \ub300\uc0c1\uc73c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "17fe0e0c1bdf94ccc6f326c511ea7f900a2e6261": {
+    "headline_ko": "\ud2b8\ub7fc\ud504 \ud589\uc815\ubd80, \ucd94\uac00 \ubc18\ub3c4\uccb4 \uad00\uc138 \uac80\ud1a0... \ub370\uc774\ud130 \uc13c\ud130 \uc11c\ubc84 \ud3ec\ud568 \uac00\ub2a5",
+    "summary_ko": "\uc9c0\ub09c\ubc88\uc5d0\ub3c4 \uc798 \ub410\uae30 \ub54c\ubb38\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "5f6bdc80b6fa31268f15e9920fc13b33177b0aea": {
+    "headline_ko": "\uc601\uad6d \ub179\uc0c9\ub2f9, \uc804\uad6d\uc801 data center \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \ucd09\uad6c",
+    "summary_ko": "\uc624\uc9c1 '\uc9c0\uc5ed \uc0ac\ud68c\ub97c \uc704\ud55c \uc9c0\uc5ed \uaddc\ubaa8 data center'\ub9cc \ud5c8\uc6a9\ub420 \uac83",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "170c415e95dad0b78d1f81bd4ee6cff417d40fad": {
+    "headline_ko": "ESDS Software Solution, Rs 720 Crore \uaddc\ubaa8 IPO \ucd94\uc9c4, \uc870\ub2ec \uc790\uae08\uc73c\ub85c \ub370\uc774\ud130 \uc13c\ud130 \ud655\uc7a5",
+    "summary_ko": "IPO\uac00 \uc624\ub298(8\uc6d4 28\uc77c) \uc2dc\uc791\ub429\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "8f4a3be669469ca0014bb028fae3afdb10edef44": {
+    "headline_ko": "SLA \ub178\ucd9c\uc774 data center \ud30c\uc774\ub0b8\uc2f1 \ubc0f \uac00\uce58\ud3c9\uac00\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5",
+    "summary_ko": "\ubcf4\ud5d8\uc5d0 \ub4e4\uc9c0 \uc54a\uc740 \ub2e4\uc6b4\ud0c0\uc784\uc774 data center \uac00\uce58\ud3c9\uac00\ub97c \uc704\ud611\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\ud30c\uc774\ub0b8\uc2f1"
+    ]
+  },
+  "d87418c1696af7d026ba1a66df1a73219eec031e": {
+    "headline_ko": "X2M\uc774 \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub2f4 \uc790\ud68c\uc0ac\ub97c \uc124\ub9bd\ud558\uace0 \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub85c\uc81d\ud2b8 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\ub2e4.",
+    "summary_ko": "\ud638\uc8fc IoT \uae30\uc5c5\uc774 \ub370\uc774\ud130 \uc13c\ud130 \ubd84\uc57c\uc5d0 \uc9c4\ucd9c\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "884f37abfb575c0269de7dcb9c097a9f2e2382de": {
+    "headline_ko": "DOE\uc758 \uc1a1\uc804 \ud68c\ub791 \ud6c4\ud1f4, \uc120\uc81c\uc801 \uac74\uc124\uc758 \uadfc\uac70\ub97c \uc2dc\ud5d8\ud558\ub2e4",
+    "summary_ko": "DOE\uac00 \uc790\uccb4 \uc5f0\uad6c\uc5d0\uc11c \ub370\uc774\ud130 \uc13c\ud130 \ubd80\ud558 \uc99d\uac00\ub97c \uc5b8\uae09\ud558\uba74\uc11c\ub3c4 \uc138 \uac1c\uc758 \uc1a1\uc804 \ud68c\ub791 \uc81c\uc548\uc744 \uac70\ubd80\ud558\uc5ec, \uc720\ud2f8\ub9ac\ud2f0\uac00 \uc5bc\ub9c8\ub098 \uc120\uc81c\uc801\uc73c\ub85c \uac74\uc124\ud574\uc57c \ud558\ub294\uc9c0\uc5d0 \ub300\ud55c \uc758\ubb38\uc744 \uc81c\uae30\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "962462e93fab12db750c6707b54d3a95c6ab29ea": {
+    "headline_ko": "atNorth, \ud540\ub780\ub4dc \ucea0\ud37c\uc2a4\uc5d0 \ucd94\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uac74\ubb3c\uc744 \uc704\ud574 YIT\uc640 \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "YIT\uc5d0 \ubd80\uc5ec\ub41c \uacc4\uc57d \uae08\uc561\uc740 \uacf5\uac1c\ub418\uc9c0 \uc54a\uc558\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "06ba6db15463572c060ded0e0a130c3ebea96a96": {
+    "headline_ko": "\ub274\uc800\uc9c0 \uc8fc\uc9c0\uc0ac, \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc5d0\ub108\uc9c0\u00b7\ubb3c \uc0ac\uc6a9\ub7c9 \ubcf4\uace0 \uc758\ubb34\ud654 \ubc95\uc548 \uc11c\uba85",
+    "summary_ko": "7\uc6d4 \uc2e0\uaddc \uc694\uae08\uc81c \ub4f1\uae09 \ub3c4\uc785\uc5d0 \ub530\ub978 \ud6c4\uc18d \uc870\uce58\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Power"
+    ]
+  },
+  "76b9594eefb62a76f97b0a5b6865caf6658febf3": {
+    "headline_ko": "Digital Realty, \uc2a4\uc704\uc2a4 \ucde8\ub9ac\ud788\uc5d0 \ub124 \ubc88\uc9f8 data center \ucc29\uacf5",
+    "summary_ko": "\ud68c\uc0ac\ub294 15MW\uc758 capacity\ub97c \ucd94\uac00\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "b2e53cfac96e4350f407d3a1e8e602ea6c2b4984": {
+    "headline_ko": "Alibaba Cloud, \ube0c\ub77c\uc9c8\uc5d0 \uccab cloud region \ucd9c\uc2dc",
+    "summary_ko": "\ub450 \uac1c\uc758 \uc2e0\uaddc data center\uac00 \ud604\uc9c0 \uae30\uc5c5\uc744 \uc704\ud574 cloud services\uc640 \uc77c\ub828\uc758 agent \uae30\ubc18 AI \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "2d73f911e3900962e7112571ba3b97fd996b7483": {
+    "headline_ko": "Warehouses De Pauw, \ub8e8\ub9c8\ub2c8\uc544 Ilfov County\uc5d0 \ub450 \uac1c\uc758 Data Center \ud504\ub85c\uc81d\ud2b8 \ubc1c\ud45c",
+    "summary_ko": "\ubd80\ucfe0\ub808\uc288\ud2f0 \uc678\uacfd\uc5d0 \uc704\uce58\ud55c \uc2dc\uc124\ub4e4\uc758 \ucd1d \uc804\ub825 \uc218\uc694\ub294 380MW\uc5d0 \ub2ec\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "dde3dc4861d27f7e2d703e0282795355d7060dab": {
+    "headline_ko": "Amazon, \uc2a4\uc6e8\ub374\uc5d0\uc11c OX2 \ubc0f Mirova\uc640 199MW \uaddc\ubaa8\uc758 PPA \uccb4\uacb0",
+    "summary_ko": "\uc804\ub825\uc740 4\uac1c\uc758 \uc721\uc0c1 \ud48d\ub825 \ubc1c\uc804\uc18c\uc5d0\uc11c \uacf5\uae09\ub420 \uc608\uc815\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "4b1c02389b20c54eb1fe9d22b933a511b392d2e4": {
+    "headline_ko": "T1 Energy, \ub178\ub974\uc6e8\uc774 Mo i Rana\uc758 \ud0dc\uc591\uad11 \uc81c\uc870 \ucea0\ud37c\uc2a4\ub97c 50MW \ub370\uc774\ud130 \uc13c\ud130\ub85c \uc804\ud658\ud558\ub294 \uc2b9\uc778 \ud68d\ub4dd",
+    "summary_ko": "\ud655\uc7a5 \uc635\uc158\ub3c4 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "0c248f5b6adac845054ead76133c8ff973f6b209": {
+    "headline_ko": "\uc778\ub3c4\uc0db(Indosat)\uc758 Infra Fiber Teknologi \ubd84\uc0ac, AI \uc9c0\uc6d0 RAIA Grid \ucd9c\uc2dc",
+    "summary_ko": "\uc774 \uadf8\ub9ac\ub4dc\ub294 \uba38\uc2e0\ub7ec\ub2dd(Machine Learning), AI, \uc5d0\uc774\uc804\ud2f1 AI(Agentic AI)\ub97c \ub0b4\uc7a5\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "cdf1f63c8bede99adc7550d1acb1759277497a22": {
+    "headline_ko": "GARBE.DC, \uc624\uc2a4\ud2b8\ub9ac\uc544 \ub808\uc624\ud3f4\uc988\ub3c4\ub974\ud504\uc5d0\uc11c \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c \uac80\ud1a0",
+    "summary_ko": "\uac74\uc124\ub420 \uacbd\uc6b0, \uc774 \uc2dc\uc124\uc740 CloudHQ\uac00 \uc62c\ud574 \ucd08 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130\ub97c \ubc1c\ud45c\ud55c \uc774\ud6c4 \uc774 \uc9c0\uc5ed\uc5d0\uc11c \ub450 \ubc88\uc9f8\ub85c \ubc1c\ud45c\ub418\ub294 \uc2dc\uc124\uc774 \ub420 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "0bfe2c366e35639752bc3ddec306c9acdc8591f0": {
+    "headline_ko": "AI \ub799 \ubc00\ub3c4\uc758 \uc2e4\uc81c \ud55c\uacc4: \uc804\ub825, \ub0c9\uac01, \uc7a5\uc560 \uc704\ud5d8",
+    "summary_ko": "AI \ub799\uc774 100kW\ub97c \ub118\uc5b4\uc11c\uba74\uc11c, \uce69 \uc218\uac00 \uc544\ub2c8\ub77c \uc804\uae30 \uacf5\ud559\uacfc \ubcf5\uc6d0\ub825 \uacc4\ud68d\uc774 \ud55c\uacc4\ub97c \uacb0\uc815\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
   }
 }
