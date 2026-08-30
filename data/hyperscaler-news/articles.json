@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-08-29T04:11:33.029183+00:00",
+  "generated_at": "2026-08-30T01:19:04.344322+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "6075dc1ba0b8",
+      "headline": "From pressure to proof: Leading through constraint in the data center era",
+      "summary": "And the mindset shift the team needed",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-08-29T11:00:31+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc555\ubc15\uc5d0\uc11c \uc99d\uba85\uc73c\ub85c: \ub370\uc774\ud130 \uc13c\ud130 \uc2dc\ub300\uc758 \uc81c\uc57d \uc18d\uc5d0\uc11c \ub9ac\ub4dc\ud558\uae30",
+      "summary_ko": "\uadf8\ub9ac\uace0 \ud300\uc5d0 \ud544\uc694\ud55c \ub9c8\uc778\ub4dc\uc14b \ubcc0\ud654",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "ae51c2b42bc7",
       "headline": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
@@ -2904,31 +2921,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "88c7f29240c2",
-      "headline": "Plans filed for 10-story data center outside Brisbane, Australia",
-      "summary": "Facility to be located close to BESS and substation",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-10-story-data-center-outside-brisbane-australia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-19T13:45:08+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ud638\uc8fc \ube0c\ub9ac\uc988\ubc88 \uc678\uacfd\uc5d0 10\uce35 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uacc4\ud68d \uc81c\ucd9c",
-      "summary_ko": "\ud574\ub2f9 \uc2dc\uc124\uc740 BESS \ubc0f \ubcc0\uc804\uc18c \uc778\uadfc\uc5d0 \uc704\uce58\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-29T04:14:32.477405+00:00",
-    "cached": 141,
-    "translated": 19,
+    "generated_at": "2026-08-30T01:19:11.541643+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
