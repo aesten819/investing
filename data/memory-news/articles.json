@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-08-30T01:14:06.814722+00:00",
+  "generated_at": "2026-08-31T01:22:16.239612+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "fc4ee249f419",
+      "headline": "[FMS 2026 3D & NAND Innovation Award] V10 BV-NAND: Pushing the Boundaries of AI Storage Beyond 400 Layers",
+      "summary": "As AI continues to advance and the volume of data that needs to be processed grows exponentially, storage solutions are being called upon to deliver greater...",
+      "url": "https://news.samsungsemiconductor.com/global/fms-2026-3d-nand-innovation-award-v10-bv-nand-pushing-the-boundaries-of-ai-storage-beyond-400-layers/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[FMS 2026 3D & NAND Innovation Award] V10 BV-NAND: AI \uc2a4\ud1a0\ub9ac\uc9c0\uc758 \uacbd\uacc4\ub97c 400\ub2e8 \uc774\uc0c1\uc73c\ub85c \ud655\uc7a5\ud558\ub2e4",
+      "summary_ko": "AI\uac00 \uacc4\uc18d \ubc1c\uc804\ud558\uace0 \ucc98\ub9ac\ud574\uc57c \ud560 \ub370\uc774\ud130\uc758 \uc591\uc774 \uae30\ud558\uae09\uc218\uc801\uc73c\ub85c \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc740 \ub354 \ud070 ...\uc744 \uc81c\uacf5\ud574\uc57c \ud558\ub294 \uc694\uad6c\ub97c \ubc1b\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
     {
       "id": "6d3e5e816cc6",
       "headline": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, \u201cBeginning a New Future for US-Korea AI\u201d",
@@ -1466,33 +1485,14 @@
         "\uba54\ubaa8\ub9ac",
         "\uc6a9\ub7c9"
       ]
-    },
-    {
-      "id": "e1af388dbb53",
-      "headline": "[Video] The HBM4 Infographic: Key Specs and Performance Leap",
-      "summary": "Samsung Electronics has commenced mass production of HBM4 (6th-generation High Bandwidth Memory) and initiated commercial shipments to customers, marking...",
-      "url": "https://news.samsungsemiconductor.com/global/video-the-hbm4-infographic-key-specs-and-performance-leap/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-03-13T09:00:00+00:00",
-      "tags": [
-        "HBM",
-        "Memory"
-      ],
-      "headline_ko": "[\ube44\ub514\uc624] HBM4 \uc778\ud3ec\uadf8\ub798\ud53d: \uc8fc\uc694 \uc0ac\uc591 \ubc0f \uc131\ub2a5 \ub3c4\uc57d",
-      "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 HBM4(6\uc138\ub300 \uace0\ub300\uc5ed\ud3ed \uba54\ubaa8\ub9ac) \uc591\uc0b0\uc5d0 \ub3cc\uc785\ud558\uace0 \uace0\uac1d\uc0ac\uc5d0 \uc0c1\uc5c5 \ucd9c\ud558\ub97c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "HBM",
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-08-30T01:14:06.871323+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-08-31T01:22:34.183113+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
