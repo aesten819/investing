@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T01:22:16.239612+00:00",
+  "generated_at": "2026-09-01T01:48:39.135011+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -34,9 +34,8 @@
       "id": "semiconductor_today",
       "name": "Semiconductor Today",
       "url": "https://www.semiconductor-today.com/rss/news.xml",
-      "status": "error",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 7
     }
   ]
 }
