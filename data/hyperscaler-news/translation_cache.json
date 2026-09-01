@@ -5695,5 +5695,39 @@
     "tags_ko": [
       "Data Center"
     ]
+  },
+  "e2b4c06ee65c72102423fca15c9e3d560f4d3a7a": {
+    "headline_ko": "\uc2dc\ub2c8\uc5b4 Data Center \uc2dc\uc124 \uc5d4\uc9c0\ub2c8\uc5b4",
+    "summary_ko": "\uc2dc\ub2c8\uc5b4 Data Center \uc2dc\uc124 \uc5d4\uc9c0\ub2c8\uc5b4\uc5d0 \ub300\ud55c \uce74\ub4dc\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "b72be19dcf47046b06878e045c40e24e82a2a482": {
+    "headline_ko": "SLB, 41\uc5b5 \ub2ec\ub7ec Kelvion \uc778\uc218\ub85c AI Data Center \uc0ac\uc5c5 \ud655\uc7a5",
+    "summary_ko": "SLB\uc758 41\uc5b5 \ub2ec\ub7ec Kelvion \uc778\uc218\ub294 AI\uac00 \ub354 \ub192\uc740 \uc804\ub825 \ubc00\ub3c4\uc640 \ub0c9\uac01 \uc218\uc694\ub97c \uc8fc\ub3c4\ud558\uba74\uc11c \ub370\uc774\ud130 \uc13c\ud130 \uc0ac\uc5c5\uc744 \uc5f4 \uad00\ub9ac \ubd84\uc57c\ub85c \ud655\uc7a5\ud55c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "43d68face5d31d66b20a256225d3a0f9d37991b8": {
+    "headline_ko": "\uace0\uccb4 \ubcc0\uc555\uae30, \ucc28\uc138\ub300 AI Data Center \uc804\ub825 \uacf5\uae09",
+    "summary_ko": "\uace0\uccb4 \ubcc0\uc555\uae30\uac00 AI data center\uc5d0\uc11c \uc911\uac04 \uc804\uc555 AC\ub97c \uc9c1\uc811 800V DC\ub85c \ubcc0\ud658\ud558\ub294 \ubc29\uc2dd\uc73c\ub85c \uc8fc\ubaa9\ubc1b\uace0 \uc788\uc9c0\ub9cc, \uae30\uc220 \uc131\uc219\ub3c4\uc5d0 \ub300\ud55c \uc758\ubb38\uc740 \uc5ec\uc804\ud558\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "eb8963ea5cf06cf8e81fe9b0a1881cebb01bc22b": {
+    "headline_ko": "QumulusAI, GPU \ud655\uc7a5\ud558\uc9c0\ub9cc, \uc804\ub825 \uacf5\uae09 \uc6a9\ub7c9\uc774 \uc18d\ub3c4 \uacb0\uc815",
+    "summary_ko": "\uc774 neocloud\uc758 2\ubd84\uae30 \ud655\uc7a5\uc740 \uac00\uc6a9 \uc804\ub825, \ubc30\uce58 \uac00\ub2a5\ud55c Data Center \uacf5\uac04, \uc790\ubcf8\uc774 AI \ucef4\ud4e8\ud305 \uacc4\uc57d\uc758 \uc218\uc775\ud654 \uc5ec\ubd80\ub97c \uacb0\uc815\ud558\ub294 \ubc29\uc2dd\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825",
+      "Neocloud"
+    ]
   }
 }
