@@ -1,7 +1,66 @@
 {
-  "generated_at": "2026-09-01T01:48:39.135011+00:00",
+  "generated_at": "2026-09-02T01:01:06.115207+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "35831ce03d21",
+      "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 2",
+      "summary": "Samsung Memory Solutions Connecting the Future of Edge AI In Part 1, we explored how the expansion of edge AI is making capacity, bandwidth, and energy...",
+      "url": "https://news.samsungsemiconductor.com/global/memory-innovation-powering-a-new-ai-infrastructure-cycle-part-2/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-09-02T09:14:28+00:00",
+      "tags": [
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "\uc0c8\ub85c\uc6b4 AI \uc778\ud504\ub77c \uc0ac\uc774\ud074\uc744 \uad6c\ub3d9\ud558\ub294 \uba54\ubaa8\ub9ac \ud601\uc2e0, 2\ubd80",
+      "summary_ko": "\uc0bc\uc131 \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158\uc740 \uc5e3\uc9c0 AI\uc758 \ubbf8\ub798\ub97c \uc5f0\uacb0\ud558\uba70, 1\ubd80\uc5d0\uc11c\ub294 \uc5e3\uc9c0 AI \ud655\uc7a5\uc774 \uc6a9\ub7c9\u00b7\ub300\uc5ed\ud3ed\u00b7\uc5d0\ub108\uc9c0\uc5d0 \uc5b4\ub5a4 \ubcc0\ud654\ub97c \ub9cc\ub4e4\uc5b4\ub0b4\ub294\uc9c0 \uc0b4\ud3b4\ubcf4\uc558\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uc6a9\ub7c9"
+      ]
+    },
+    {
+      "id": "dbfb77171deb",
+      "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 1",
+      "summary": "Edge AI Moves Closer\u2014and Memory Matters More Than Ever Today, AI is rapidly expanding beyond large-scale data centers into smartphones, AI PCs, vehicles,...",
+      "url": "https://news.samsungsemiconductor.com/global/memory-innovation-powering-a-new-ai-infrastructure-cycle-part-1/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-09-01T11:15:00+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uc0c8\ub85c\uc6b4 AI \uc778\ud504\ub77c \uc0ac\uc774\ud074\uc744 \uc774\ub044\ub294 \uba54\ubaa8\ub9ac \ud601\uc2e0 1\ubd80",
+      "summary_ko": "Edge AI\uac00 \ub354 \uac00\uae4c\uc6cc\uc9c0\uace0 \uba54\ubaa8\ub9ac\uc758 \uc911\uc694\uc131\uc774 \uadf8 \uc5b4\ub290 \ub54c\ubcf4\ub2e4 \ucee4\uc9c0\uace0 \uc788\ub294 \uac00\uc6b4\ub370, \uc624\ub298\ub0a0 AI\ub294 \ub300\uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130\ub97c \ub118\uc5b4 \uc2a4\ub9c8\ud2b8\ud3f0, AI PC, \uc790\ub3d9\ucc28 \ub4f1\uc73c\ub85c \ube60\ub974\uac8c \ud655\uc7a5\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "aa3e444fea8f",
+      "headline": "Higher Prices and Shipments Drive Top Five Enterprise SSD Vendors\u2019 Revenue to Nearly US$37.59 Billion in 2Q26, Says TrendForce",
+      "summary": "NAND Flash suppliers are broadening their enterprise SSD product lines to boost profits and refine their offerings, according to TrendForce\u2019s recent memory industry report.",
+      "url": "https://www.trendforce.com/presscenter/news/20260901-13210.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-09-01T06:22:58+00:00",
+      "tags": [
+        "NAND",
+        "SSD",
+        "Memory",
+        "Pricing"
+      ],
+      "headline_ko": "\uc0c1\uc704 5\uac1c \uae30\uc5c5\uc6a9 SSD \uc5c5\uccb4 2Q26 \ub9e4\ucd9c, \uac00\uaca9 \uc0c1\uc2b9\uacfc \ucd9c\ud558 \uc99d\uac00\ub85c \uc57d 375\uc5b5 9\ucc9c\ub9cc \ub2ec\ub7ec\uc5d0 \uadfc\uc811 - TrendForce",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uadfc \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, NAND Flash \uacf5\uae09\uc5c5\uccb4\ub4e4\uc740 \uc218\uc775\uc131\uc744 \ub192\uc774\uace0 \uc81c\ud488 \uad6c\uc131\uc744 \uac1c\uc120\ud558\uae30 \uc704\ud574 \uae30\uc5c5\uc6a9 SSD \uc81c\ud488 \ub77c\uc778\uc744 \ud655\ub300\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9"
+      ]
+    },
     {
       "id": "fc4ee249f419",
       "headline": "[FMS 2026 3D & NAND Innovation Award] V10 BV-NAND: Pushing the Boundaries of AI Storage Beyond 400 Layers",
@@ -272,25 +331,6 @@
       ]
     },
     {
-      "id": "35831ce03d21",
-      "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 2",
-      "summary": "Samsung Memory Solutions Connecting the Future of Edge AI In Part 1, we explored how the expansion of edge AI is making capacity, bandwidth, and energy...",
-      "url": "https://news.samsungsemiconductor.com/global/memory-innovation-powering-a-new-ai-infrastructure-cycle-part-2/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-08-20T17:50:54+00:00",
-      "tags": [
-        "Memory",
-        "Capacity"
-      ],
-      "headline_ko": "\uc0c8\ub85c\uc6b4 AI \uc778\ud504\ub77c \uc0ac\uc774\ud074\uc744 \uad6c\ub3d9\ud558\ub294 \uba54\ubaa8\ub9ac \ud601\uc2e0, 2\ubd80",
-      "summary_ko": "\uc0bc\uc131 \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158\uc740 \uc5e3\uc9c0 AI\uc758 \ubbf8\ub798\ub97c \uc5f0\uacb0\ud558\uba70, 1\ubd80\uc5d0\uc11c\ub294 \uc5e3\uc9c0 AI \ud655\uc7a5\uc774 \uc6a9\ub7c9\u00b7\ub300\uc5ed\ud3ed\u00b7\uc5d0\ub108\uc9c0\uc5d0 \uc5b4\ub5a4 \ubcc0\ud654\ub97c \ub9cc\ub4e4\uc5b4\ub0b4\ub294\uc9c0 \uc0b4\ud3b4\ubcf4\uc558\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac",
-        "\uc6a9\ub7c9"
-      ]
-    },
-    {
       "id": "eb73b2c6e8aa",
       "headline": "At the Center of Global Memory Standards | Interview with FMS 2026 Lifetime Achievement Award Recipient Mian Quddus",
       "summary": "Mian Quddus, Vice President at Samsung Electronics\u2019 Device Solutions America (DSA), received the Lifetime Achievement Award at FMS 2026. The award...",
@@ -320,23 +360,6 @@
       ],
       "headline_ko": "SK hynix\uc758 co-packaged optics \uae30\uc220 \ub85c\ub4dc\ub9f5\uc774 'Nature Electronics'\uc5d0 \uac8c\uc7ac, AI \uacbd\uc7c1\uc774 \uce69\uc5d0\uc11c \uc2dc\uc2a4\ud15c\uc73c\ub85c \uc774\ub3d9",
       "summary_ko": "\u25b2 \ud3ec\ud1a0\ub2c9 \uc778\ud130\ud3ec\uc800\uac00 XPU \ud480\uc758 \ucef4\ud4e8\ud305 \uc790\uc6d0\uacfc \uba54\ubaa8\ub9ac... \ub0b4\uc758 \uba54\ubaa8\ub9ac \uc790\uc6d0\uc744 \uc9c1\uc811 \uc5f0\uacb0\ud558\ub294 \uad11\ud559 \uc911\uc2ec \uc544\ud0a4\ud14d\ucc98\uc758 \uac1c\ub150\ub3c4\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "dbfb77171deb",
-      "headline": "Memory Innovation Powering a New AI Infrastructure Cycle Part 1",
-      "summary": "Edge AI Moves Closer\u2014and Memory Matters More Than Ever Today, AI is rapidly expanding beyond large-scale data centers into smartphones, AI PCs, vehicles,...",
-      "url": "https://news.samsungsemiconductor.com/global/memory-innovation-powering-a-new-ai-infrastructure-cycle-part-1/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-08-19T15:00:00+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "\uc0c8\ub85c\uc6b4 AI \uc778\ud504\ub77c \uc0ac\uc774\ud074\uc744 \uc774\ub044\ub294 \uba54\ubaa8\ub9ac \ud601\uc2e0 1\ubd80",
-      "summary_ko": "Edge AI\uac00 \ub354 \uac00\uae4c\uc6cc\uc9c0\uace0 \uba54\ubaa8\ub9ac\uc758 \uc911\uc694\uc131\uc774 \uadf8 \uc5b4\ub290 \ub54c\ubcf4\ub2e4 \ucee4\uc9c0\uace0 \uc788\ub294 \uac00\uc6b4\ub370, \uc624\ub298\ub0a0 AI\ub294 \ub300\uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130\ub97c \ub118\uc5b4 \uc2a4\ub9c8\ud2b8\ud3f0, AI PC, \uc790\ub3d9\ucc28 \ub4f1\uc73c\ub85c \ube60\ub974\uac8c \ud655\uc7a5\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
@@ -1095,6 +1118,23 @@
       ]
     },
     {
+      "id": "f2e594208785",
+      "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "summary": "When Solid State Drives (SSDs) first gained widespread adoption in the 2000s, they quickly replaced Hard Disk Drives (HDDs) as the standard storage solution...",
+      "url": "https://news.samsungsemiconductor.com/global/infographic-samsung-pm1763-ssd-a-core-storage-solution-for-next-generation-ai-platforms/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-07-08T08:00:00+00:00",
+      "tags": [
+        "SSD"
+      ],
+      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] Samsung PM1763 SSD: \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158",
+      "summary_ko": "\uc0bc\uc131 PM1763 SSD\ub294 \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD"
+      ]
+    },
+    {
       "id": "8164f34cc5d7",
       "headline": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
       "summary": "PCIe 6.0-based enterprise SSD delivers outstanding performance and enhanced power efficiencyfor AI and HPC servers 9th-generation V-NAND, 4nm controller and...",
@@ -1110,23 +1150,6 @@
       "summary_ko": "PCIe 6.0 \uae30\ubc18 \uc5d4\ud130\ud504\ub77c\uc774\uc988 SSD\ub85c AI \ubc0f HPC \uc11c\ubc84\uc5d0 \ub6f0\uc5b4\ub09c \uc131\ub2a5\uacfc \ud5a5\uc0c1\ub41c \uc804\ub825 \ud6a8\uc728\uc744 \uc81c\uacf5\ud558\uba70, 9\uc138\ub300 V-NAND, 4nm \ucee8\ud2b8\ub864\ub7ec \ub4f1\uc744 \uc801\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.",
       "tags_ko": [
         "NAND",
-        "SSD"
-      ]
-    },
-    {
-      "id": "f2e594208785",
-      "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
-      "summary": "When Solid State Drives (SSDs) first gained widespread adoption in the 2000s, they quickly replaced Hard Disk Drives (HDDs) as the standard storage solution...",
-      "url": "https://news.samsungsemiconductor.com/global/infographic-samsung-pm1763-ssd-a-core-storage-solution-for-next-generation-ai-platforms/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-07-08T08:00:00+00:00",
-      "tags": [
-        "SSD"
-      ],
-      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] Samsung PM1763 SSD: \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158",
-      "summary_ko": "\uc0bc\uc131 PM1763 SSD\ub294 \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
         "SSD"
       ]
     },
@@ -1270,6 +1293,25 @@
       ]
     },
     {
+      "id": "f11c0f00c55e",
+      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
+      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-06-23T08:00:00+00:00",
+      "tags": [
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
+      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
       "id": "ce728598d9c2",
       "headline": "[Infographic] UFS 5.0 Memory: The Optimal Solution for On-Device AI",
       "summary": "Samsung Electronics has announced the development of its next-generation Universal Flash Storage (UFS) 5.0 mobile memory solution, setting a new benchmark...",
@@ -1286,25 +1328,6 @@
       "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 \ucc28\uc138\ub300 Universal Flash Storage (UFS) 5.0 \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \ubc1c\ud45c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uae30\uc900\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4.",
       "tags_ko": [
         "NAND",
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "f11c0f00c55e",
-      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
-      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-06-23T08:00:00+00:00",
-      "tags": [
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
-      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
-      "tags_ko": [
         "SSD",
         "\uba54\ubaa8\ub9ac"
       ]
@@ -1464,35 +1487,14 @@
       "tags_ko": [
         "Memory"
       ]
-    },
-    {
-      "id": "8550d3991cdd",
-      "headline": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions",
-      "summary": "The companies will collaborate on industry-leading HBM4 supply for AMD Instinct\u2122 MI455X GPUs and next-generation DDR5 solutions for AMD EPYC\u2122 processors and...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-03-18T17:00:00+00:00",
-      "tags": [
-        "DRAM",
-        "Memory",
-        "Capacity"
-      ],
-      "headline_ko": "\uc0bc\uc131\uacfc AMD, \ucc28\uc138\ub300 AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158\uc5d0 \ub300\ud55c \uc804\ub7b5\uc801 \ud611\ub825 \ud655\ub300",
-      "summary_ko": "\ub450 \ud68c\uc0ac\ub294 AMD Instinct\u2122 MI455X GPU\uc6a9 \uc5c5\uacc4 \uc120\ub3c4\uc801\uc778 HBM4 \uacf5\uae09\uacfc AMD EPYC\u2122 \ud504\ub85c\uc138\uc11c\uc6a9 \ucc28\uc138\ub300 DDR5 \uc194\ub8e8\uc158\uc5d0 \ub300\ud574 \ud611\ub825\ud560 \uac83\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "DRAM",
-        "\uba54\ubaa8\ub9ac",
-        "\uc6a9\ub7c9"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-01T01:48:39.201909+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-09-02T01:01:21.503123+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
