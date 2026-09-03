@@ -5835,5 +5835,128 @@
     "tags_ko": [
       "Data Center"
     ]
+  },
+  "144e5ef0c250248d05f142d5fab040f52867fc4a": {
+    "headline_ko": "(\uc67c\ucabd\ubd80\ud130) Dynamic Lifecycle Innovations\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uc194\ub8e8\uc158 \ub9e4\ub2c8\uc800 \uc870\uc2dc \ud5d8, Data Center Frontier\uc758 \uae30\uc5ec \ud3b8\uc9d1\uc790 \ub354\uadf8 \ube14\ub799",
+    "summary_ko": "\uc0ac\uc9c4\uc740 \uc67c\ucabd\ubd80\ud130 Dynamic Lifecycle Innovations\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uc194\ub8e8\uc158 \ub9e4\ub2c8\uc800 \uc870\uc2dc \ud5d8\uacfc Data Center Frontier\uc758 \uae30\uc5ec \ud3b8\uc9d1\uc790 \ub354\uadf8 \ube14\ub799\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "19ff7ce89a104eb6c5285bc3dc3f4312e8cedbcd": {
+    "headline_ko": "\ud14d\uc0ac\uc2a4 \uc8fc \ud5db\ud1a0\uc758 \uc2e0\uaddc AI \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uac74\uc124\uc5d0 600MW\ub97c \uacf5\uae09\ud558\ub294 \uc804\ub825\ub9dd \ubcc0\uc804\uc18c",
+    "summary_ko": "\ud14d\uc0ac\uc2a4 \uc8fc \ud5db\ud1a0\uc758 \uc2e0\uaddc AI \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4 \uac74\uc124\uc5d0 \uc804\ub825\ub9dd \ubcc0\uc804\uc18c\uac00 600MW\ub97c \uacf5\uae09\ud55c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "0eccb4c400833693437724dcd893765a9f1cb7d8": {
+    "headline_ko": "Data Center Frontier Show",
+    "summary_ko": "Data Center Frontier Show\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c38192b619f2b5e5e3442593126b900f7f4ab665": {
+    "headline_ko": "AWS, \ud0dc\ud3c9\uc591 \ud6a1\ub2e8 \ubbf8\uad6d \uc2e0\uaddc AI \ub178\uc120 \uc5f0\uacb0",
+    "summary_ko": "AWS\ub294 AI \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc9c0\uc6d0\ud558\uace0 \ud0dc\ud3c9\uc591 \ud6a1\ub2e8 \ub124\ud2b8\uc6cc\ud06c capacity\ub97c \ud655\uc7a5\ud558\uae30 \uc704\ud574 \uc77c\ubcf8\uacfc \uc6cc\uc2f1\ud134 \uc8fc \uc0ac\uc774\uc5d0 420 Tbps \ud574\uc800 \ucf00\uc774\ube14\uc744 \uad6c\ucd95 \uc911\uc774\uba70, \uc774\ub294 2029\ub144 \uc11c\ube44\uc2a4 \uac1c\uc2dc \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "Capacity"
+    ]
+  },
+  "6a3d73db6990aa56cca32a988d60a81ce67a35b1": {
+    "headline_ko": "AI\uac00 \ud604\ub300 data center\uc758 \ud654\uc7ac \ubcf4\ud638\ub97c \uc5b4\ub5bb\uac8c \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\ub098",
+    "summary_ko": "\ud6a8\uacfc\uc801\uc778 \ubcf4\ud638\ub294 \ucd08\uae30 \uc124\uacc4 \ud1b5\ud569\uacfc \uac74\ubb3c \uad6c\uc870, \ube44\uc0c1 \uc808\ucc28, \uc6b4\uc601 \ubcf5\uc6d0\ub825\uc744 \uace0\ub824\ud55c \ucd1d\uccb4\uc801 \uc811\uadfc\uc5d0 \ub2ec\ub824 \uc788\uc73c\uba70, \ub2e8\uc21c\ud55c \ucf54\ub4dc \uc900\uc218\ub9cc\uc73c\ub85c\ub294 \ubd80\uc871\ud558\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "85bf320513ad8f39aa126359925daebf66916512": {
+    "headline_ko": "Iren, '\uc120\ub3c4\uc801 \ud504\ub7f0\ud2f0\uc5b4 \ub7a9'\uacfc \uacc4\uc57d \uccb4\uacb0, \uc5f0\ub9d0\uae4c\uc9c0 \uc554\ud638\ud654\ud3d0 \uc0ac\uc5c5 \ucca0\uc218 \uc608\uc815",
+    "summary_ko": "Neocloud\uac00 2026 \ud68c\uacc4\uc5f0\ub3c4 \uc2e4\uc801\uc744 \ubc1c\ud45c\ud588\ub2e4.",
+    "tags_ko": [
+      "Neocloud"
+    ]
+  },
+  "3500f0bf7eb534e6c1e65ee7b668cf7b0d03aa4d": {
+    "headline_ko": "Haffner Energy, data center\uc6a9 \ubc14\uc774\uc624\ub9e4\uc2a4 \uc804\ub825\u00b7\ub0c9\uac01 \uc2dc\uc2a4\ud15c \ucd9c\uc2dc",
+    "summary_ko": "\uc774 \uc2dc\uc2a4\ud15c\uc740 \uc794\uc5ec \ubc14\uc774\uc624\ub9e4\uc2a4\ub85c \uad6c\ub3d9\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "fde6d6a9e0cda6b252c40a59ab58012be1de769a": {
+    "headline_ko": "Telehouse, \ud504\ub791\ud06c\ud478\ub974\ud2b8 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc5d0 \uc2e0\uaddc \uac74\ubb3c \ucd94\uac00",
+    "summary_ko": "Building N\uc740 \ucea0\ud37c\uc2a4\uc5d0 5.4MW\ub97c \ucd94\uac00\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "85e04d1c1ae7210a5851e3745bebf9bef3c05dda": {
+    "headline_ko": "Infineon, Skeleton Technologies, AI data center \uc804\ub825 \uc2dc\uc2a4\ud15c \ud611\ub825",
+    "summary_ko": "\uc774\ubc88 \ud611\ub825\uc740 Infineon\uc758 CoolSiC \uc804\ub825 \ubc18\ub3c4\uccb4\uc640 Skeleton\uc758 \uc804\ub825 \ubcc0\ud658 \uc2dc\uc2a4\ud15c \uc804\ubb38\uc131\uc744 \uacb0\ud569\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub41c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "fa261dabded3109467c852b790690db2d6e3e454": {
+    "headline_ko": "Gradiant, \uc11c\ubd80 \ud14d\uc0ac\uc2a4 data center\uc5d0 HyperSolved \uc218\ucc98\ub9ac \uc2dc\uc2a4\ud15c \uacf5\uae09",
+    "summary_ko": "\uc774\ub97c \ud1b5\ud574 Gradiant\ub294 \ud574\ub2f9 \ubd80\uc9c0\uc5d0 \uc790\uc0ac\uc758 \uc5d4\ub4dc\ud22c\uc5d4\ub4dc \uc218\ucc98\ub9ac \ud50c\ub7ab\ud3fc\uc744 \ubc30\ud3ec\ud558\uac8c \ub41c\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "e47917b2b9abafd37f524153f46d497708bf42b4": {
+    "headline_ko": "AWS\uc640 Humain, 2028\ub144\uae4c\uc9c0 \uc0ac\uc6b0\ub514 AI Zone\uc5d0\uc11c 50MW \uac00\ub3d9 \ud569\uc758",
+    "summary_ko": "AWS\ub294 \ub610\ud55c 2026\ub144 12\uc6d4 \ud074\ub77c\uc6b0\ub4dc \ub9ac\uc804 \ucd9c\uc2dc\ub97c \uc55e\ub450\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "Capacity"
+    ]
+  },
+  "9bde5a36f200a31313ca75780963bf6094d2a29d": {
+    "headline_ko": "\ub3c5\uc77c\u00b7\uc77c\ubcf8 \uacfc\ud559\uc790\ub4e4, \uc804\uae30 \uc5c6\uc774 \ub3cc\uc544\uac00\ub294 data center \ub0c9\uac01 \uc2dc\uc2a4\ud15c \uc2dc\uc81c\ud488 \uac1c\ubc1c",
+    "summary_ko": "\uace0\uccb4 \uc0c1\ud0dc \ub0c9\uac01 \uae30\uc220\uc740 \ud310\ub3c4\ub97c \ubc14\uafc0 \uc218 \uc788\uc9c0\ub9cc, \uacfc\uc5f0 \ub300\uaddc\ubaa8 \ud655\uc7a5\uc774 \uac00\ub2a5\ud560\uae4c?",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130",
+      "\uc804\ub825"
+    ]
+  },
+  "d2fc39623dbfb9cf062ea8368549691b59402502": {
+    "headline_ko": "Cerebras, \ud540\ub780\ub4dc \ubbf8\ucf08\ub9ac\uc5d0 165MW data center \uac74\uc124 \ucc29\uacf5",
+    "summary_ko": "1\ucc28 50MW \uaddc\ubaa8\uc758 \uacf5\uc0ac\uac00 \uc9c4\ud589 \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "151f2c4796c8537a779a0f128da10fef44825ce3": {
+    "headline_ko": "Google\uc758 \uc0c8\ub85c\uc6b4 \ud30c\ud2b8\ub108\uc2ed, \uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544\uc5d0 \uc7a5\uc8fc\uae30 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \ub3c4\uc785",
+    "summary_ko": "Google\uc758 \uc0c8\ub85c\uc6b4 \ud30c\ud2b8\ub108\uc2ed\uc774 \uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544\uc5d0 \uc7a5\uc8fc\uae30 \uc5d0\ub108\uc9c0 \uc800\uc7a5\uc744 \ub3c4\uc785\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "9052bde96d71c2554e30d906c5dc8e6f6f236c7e": {
+    "headline_ko": "Data Center\uac00 \ub0c9\uac01\uc218\ub97c \uac70\uc758 \uc7ac\uc0ac\uc6a9\ud558\uc9c0 \uc54a\ub294 \uc774\uc720",
+    "summary_ko": "\uc99d\ubc1c\uc2dd \ub0c9\uac01\uc758 \ub300\uc548\uc774 \uc874\uc7ac\ud558\uc9c0\ub9cc, \ub300\ubd80\ubd84\uc758 Data Center\ub294 \ud604\uc7ac \ub354 \ub192\uc740 \uc790\ubcf8 \ube44\uc6a9\uacfc \uc6b4\uc601 \ubcf5\uc7a1\uc131\uc774 \uacbd\uc81c\uc801\uc73c\ub85c \uc815\ub2f9\ud654\ub418\uc9c0 \uc54a\uae30 \ub54c\ubb38\uc5d0 \uc774\ub7ec\ud55c \ub300\uc548\uc744 \ucc44\ud0dd\ud558\uc9c0 \uc54a\ub294\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "bc7dea736fd9ec949316820bdc7e365c4f6f1d31": {
+    "headline_ko": "\uc218\uc775\uc131 \uc81c\uace0\uc758 \uacfc\uc81c: AI infrastructure\ub97c \uc720\uc6a9\ud55c \uc9c0\ub2a5\uc73c\ub85c \uc804\ud658",
+    "summary_ko": "\uc0c8\ub85c\uc6b4 \uc2dc\ub300\uc5d0 \uc811\uc5b4\ub4e4\uba70, \uc6b0\ub9ac\uc758 \uc9c4\ubcf4\ub97c \uc815\uc758\ud558\ub294 \uae30\uc900\uc740 \ubb34\uc5c7\uc774 \ub420\uae4c?",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
   }
 }
