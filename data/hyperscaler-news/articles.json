@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-09-05T01:05:03.801619+00:00",
+  "generated_at": "2026-09-06T01:04:14.767871+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "832bb36c47be",
+      "headline": "The role of manufacturing in tomorrow\u2019s data center buildouts",
+      "summary": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-05T10:00:34+00:00",
+      "tags": [
+        "Data Center",
+        "Capex"
+      ],
+      "headline_ko": "\ubbf8\ub798 \ub370\uc774\ud130 \uc13c\ud130 \uad6c\ucd95\uc5d0\uc11c \uc81c\uc870\uc5c5\uc758 \uc5ed\ud560",
+      "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \ud22c\uc790 \uc99d\uac00\uc5d0 \uc870\ub2ec \uc778\ud504\ub77c\uac00 \ud655\uc7a5\ub418\uc9c0 \ubabb\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capex"
+      ]
+    },
     {
       "id": "7cec18866b91",
       "headline": "PwC Maps $31.6 Trillion AI Buildout",
@@ -2920,31 +2939,14 @@
       "tags_ko": [
         "\uc804\ub825"
       ]
-    },
-    {
-      "id": "e1b917dccc94",
-      "headline": "Beyond Uptime: Data Center Resiliency in the Age of AI",
-      "summary": "Beyond Uptime: Data Center Resiliency in the Age of AI",
-      "url": "https://www.datacenterfrontier.com/sponsored/article/55394104/beyond-uptime-data-center-resiliency-in-the-age-of-ai",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-24T23:40:41.014986+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc5c5\ud0c0\uc784\uc744 \ub118\uc5b4\uc11c: AI \uc2dc\ub300\uc758 data center \ud68c\ubcf5\ud0c4\ub825\uc131",
-      "summary_ko": "AI \uc2dc\ub300\uc758 data center \ud68c\ubcf5\ud0c4\ub825\uc131\uc740 \uc5c5\ud0c0\uc784\uc744 \ub118\uc5b4\uc120\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-05T01:07:57.408635+00:00",
-    "cached": 147,
-    "translated": 13,
+    "generated_at": "2026-09-06T01:04:23.029477+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
