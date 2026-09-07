@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-09-06T01:04:14.767871+00:00",
+  "generated_at": "2026-09-07T01:06:33.995726+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "5eaa3a4bfbd1",
+      "headline": "Why data center cooling is now business-critical",
+      "summary": "Rapid growth of data centers forces operators to rethink thermal fluid management",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-06T14:00:35+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uc65c data center \ub0c9\uac01\uc774 \uc774\uc81c \ube44\uc988\ub2c8\uc2a4\uc5d0 \uc911\uc694\ud55c\uac00",
+      "summary_ko": "data center\uc758 \uae09\uc18d\ud55c \uc131\uc7a5\uc73c\ub85c \uc6b4\uc601\uc790\ub4e4\uc740 \uc5f4 \uc720\uccb4 \uad00\ub9ac \ubc29\uc2dd(thermal fluid management)\uc744 \uc7ac\uace0\ud574\uc57c \ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "2946a390d8d1",
+      "headline": "The electrical power problem that will decide the AI race",
+      "summary": "America\u2019s data centers are about to draw power on the scale of entire nations",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-06T10:00:35+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "AI \uacbd\uc7c1\uc744 \uc88c\uc6b0\ud560 \uc804\ub825 \ubb38\uc81c",
+      "summary_ko": "\ubbf8\uad6d\uc758 data center\ub294 \uace7 \uad6d\uac00 \uc804\uccb4 \uaddc\ubaa8\uc758 \uc804\ub825\uc744 \uc18c\ube44\ud558\uac8c \ub420 \uac83\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
     {
       "id": "832bb36c47be",
       "headline": "The role of manufacturing in tomorrow\u2019s data center buildouts",
@@ -2905,48 +2943,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "50dc5d9b7609",
-      "headline": "Orange Slovakia signs ten-year solar PPA with Enery",
-      "summary": "Contracted to receive 125,030MWh of power over the agreement's duration",
-      "url": "https://www.datacenterdynamics.com/en/news/orange-slovakia-signs-ten-year-solar-ppa-with-enery/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-25T11:57:28+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Orange Slovakia, Enery\uc640 10\ub144 \ud0dc\uc591\uad11 PPA \uccb4\uacb0",
-      "summary_ko": "\uacc4\uc57d \uae30\uac04 \ub3d9\uc548 125,030MWh\uc758 \uc804\ub825\uc744 \uacf5\uae09\ubc1b\uae30\ub85c \uacc4\uc57d\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "dec14a5c5e69",
-      "headline": "ASK THE EXPERT: AI is Reshaping Liquid Cooling from the Valve Up",
-      "summary": "ASK THE EXPERT: AI is Reshaping Liquid Cooling from the Valve Up",
-      "url": "https://www.datacenterfrontier.com/sponsored/whitepaper/55398610/ask-the-expert-ai-is-reshaping-liquid-cooling-from-the-valve-up",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-24T23:40:41.014986+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub294\ub2e4: AI\uac00 \ubc38\ube0c\ubd80\ud130 liquid cooling\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
-      "summary_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub294\ub2e4: AI\uac00 \ubc38\ube0c\ubd80\ud130 liquid cooling\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-06T01:04:23.029477+00:00",
-    "cached": 159,
-    "translated": 1,
+    "generated_at": "2026-09-07T01:06:51.512899+00:00",
+    "cached": 158,
+    "translated": 2,
     "skipped": 0
   }
 }

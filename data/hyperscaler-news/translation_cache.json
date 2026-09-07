@@ -6156,5 +6156,21 @@
       "Data Center",
       "Capex"
     ]
+  },
+  "c3a39b819f043d769a353e9ee454ec7e801061d9": {
+    "headline_ko": "\uc65c data center \ub0c9\uac01\uc774 \uc774\uc81c \ube44\uc988\ub2c8\uc2a4\uc5d0 \uc911\uc694\ud55c\uac00",
+    "summary_ko": "data center\uc758 \uae09\uc18d\ud55c \uc131\uc7a5\uc73c\ub85c \uc6b4\uc601\uc790\ub4e4\uc740 \uc5f4 \uc720\uccb4 \uad00\ub9ac \ubc29\uc2dd(thermal fluid management)\uc744 \uc7ac\uace0\ud574\uc57c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "c73a8a337d105c869d4b5f93f7fd45195f96d764": {
+    "headline_ko": "AI \uacbd\uc7c1\uc744 \uc88c\uc6b0\ud560 \uc804\ub825 \ubb38\uc81c",
+    "summary_ko": "\ubbf8\uad6d\uc758 data center\ub294 \uace7 \uad6d\uac00 \uc804\uccb4 \uaddc\ubaa8\uc758 \uc804\ub825\uc744 \uc18c\ube44\ud558\uac8c \ub420 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
   }
 }
