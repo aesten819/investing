@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:10:32.549599+00:00",
+  "generated_at": "2026-09-09T01:14:11.389759+00:00",
   "article_count": 80,
   "articles": [
     {
@@ -1316,25 +1316,6 @@
       ]
     },
     {
-      "id": "f11c0f00c55e",
-      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
-      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-06-23T08:00:00+00:00",
-      "tags": [
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
-      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
       "id": "ce728598d9c2",
       "headline": "[Infographic] UFS 5.0 Memory: The Optimal Solution for On-Device AI",
       "summary": "Samsung Electronics has announced the development of its next-generation Universal Flash Storage (UFS) 5.0 mobile memory solution, setting a new benchmark...",
@@ -1351,6 +1332,25 @@
       "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 \ucc28\uc138\ub300 Universal Flash Storage (UFS) 5.0 \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \ubc1c\ud45c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uae30\uc900\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4.",
       "tags_ko": [
         "NAND",
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "f11c0f00c55e",
+      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
+      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-06-23T08:00:00+00:00",
+      "tags": [
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
+      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
+      "tags_ko": [
         "SSD",
         "\uba54\ubaa8\ub9ac"
       ]
@@ -1498,9 +1498,9 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-08T01:10:58.488919+00:00",
-    "cached": 79,
-    "translated": 1,
+    "generated_at": "2026-09-09T01:14:11.536217+00:00",
+    "cached": 80,
+    "translated": 0,
     "skipped": 0
   }
 }
