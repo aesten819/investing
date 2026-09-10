@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-09-09T01:14:11.389759+00:00",
+  "generated_at": "2026-09-10T01:02:38.666543+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "321f7a443d7a",
+      "headline": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum\u2014\u201dNow Is the Golden Time to Leap Forward\u201d",
+      "summary": "\u25b2 Industry experts taking part in the panel discussion, together with SK hynix Vice President Hyungsoo Kim, head of the DRAM Design department (first from left)",
+      "url": "https://news.skhynix.com/en/future-forum-2026-7/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-09-09T01:34:12+00:00",
+      "tags": [
+        "DRAM"
+      ],
+      "headline_ko": "SK hynix, 2026 Future Forum\uc5d0\uc11c \uc0ac\uc5c5\u00b7\uae30\uc220 \ubc29\ud5a5 \uc81c\uc2dc \u2014 \"\uc9c0\uae08\uc774 \ub3c4\uc57d\uc758 \uace8\ub4e0\ud0c0\uc784\"",
+      "summary_ko": "\u25b2 \ud328\ub110 \ud1a0\ub860\uc5d0 \ucc38\uc5ec\ud55c \uc5c5\uacc4 \uc804\ubb38\uac00\ub4e4\uacfc DRAM \uc124\uacc4 \ub2f4\ub2f9 \uae40\ud615\uc218 SK hynix \ubd80\uc0ac\uc7a5(\uc67c\ucabd \uccab \ubc88\uc9f8)",
+      "tags_ko": [
+        "DRAM"
+      ]
+    },
     {
       "id": "24373a31994d",
       "headline": "DRAM Industry Revenue Rises 59.5% QoQ in 2Q26 as Supply Expansion Continues to Lag Demand Growth, Says TrendForce",
@@ -1476,31 +1493,14 @@
         "SSD",
         "Memory"
       ]
-    },
-    {
-      "id": "0ee1eba859c0",
-      "headline": "Quinas advances ULTRARAM development with atomic-scale processing at KAUST Core Labs",
-      "summary": "Quinas Technology Ltd of London, UK (which was spun off from Lancaster University in early 2023, and is developing ULTRARAM non-volatile memory technology) has announced a milesto...",
-      "url": "https://www.semiconductor-today.com/news_items/2026/apr/quinas-kaust-oipt-210426.shtml",
-      "source": "Semiconductor Today",
-      "source_id": "semiconductor_today",
-      "published_at": "2026-04-21T19:55:30+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "Quinas, KAUST Core Labs\uc758 \uc6d0\uc790 \uaddc\ubaa8 \uacf5\uc815\uc73c\ub85c ULTRARAM \uac1c\ubc1c \uc9c4\uc804",
-      "summary_ko": "\uc601\uad6d \ub7f0\ub358\uc758 Quinas Technology Ltd\uac00 KAUST Core Labs\uc5d0\uc11c \uc6d0\uc790 \uaddc\ubaa8 \uacf5\uc815\uc744 \ud1b5\ud574 ULTRARAM \ube44\ud718\ubc1c\uc131 \uba54\ubaa8\ub9ac \uae30\uc220 \uac1c\ubc1c\uc5d0 \uc9c4\uc804\uc744 \uc774\ub8e8\uc5c8\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-09T01:14:11.536217+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-09-10T01:02:42.716534+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
