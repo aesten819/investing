@@ -1,4 +1,4 @@
-import { useMemo, useState, type CSSProperties } from "react";
+import { lazy, Suspense, useEffect, useMemo, useState, type CSSProperties } from "react";
 import {
   Activity,
   BarChart3,
@@ -72,7 +72,9 @@ const metricIcons: Record<MetricKey, typeof Activity> = {
   operatingMargin: Percent,
 };
 
-type PageKey = "hyperscaler" | "memoryNews" | "infraNews";
+const MomentumPage = lazy(() => import("./MomentumPage"));
+
+type PageKey = "hyperscaler" | "memoryNews" | "infraNews" | "momentum";
 type TopChartScope = "aggregate" | Ticker;
 type TopChartPoint = {
   quarter: string;
@@ -87,6 +89,7 @@ type TopChartPoint = {
 };
 
 const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeof Activity }> = [
+  { key: "momentum", label: "모멘텀 맵", kicker: "market rotation", icon: Activity },
   {
     key: "hyperscaler",
     label: "Hyperscaler",
@@ -668,7 +671,20 @@ function InfraNewsPage() {
 }
 
 export default function App() {
-  const [activePage, setActivePage] = useState<PageKey>("hyperscaler");
+  const readPage = (): PageKey => {
+    const page = window.location.hash.replace(/^#\/?/, "").split("?")[0];
+    return navItems.some(item => item.key === page) ? page as PageKey : "hyperscaler";
+  };
+  const [activePage, setActivePage] = useState<PageKey>(readPage);
+  useEffect(() => {
+    const onHash = () => setActivePage(readPage());
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []);
+
+  useEffect(() => {
+    document.title = activePage === "momentum" ? "모멘텀 맵 | Investing Desk" : "Hyperscaler Infrastructure Monitor";
+  }, [activePage]);
 
   return (
     <main className="app-layout">
@@ -685,7 +701,7 @@ export default function App() {
                 aria-current={activePage === item.key ? "page" : undefined}
                 className={`side-nav-button ${activePage === item.key ? "active" : ""}`}
                 key={item.key}
-                onClick={() => setActivePage(item.key)}
+                onClick={() => { window.location.hash = `/${item.key}`; }}
                 type="button"
               >
                 <Icon aria-hidden="true" size={18} />
@@ -704,6 +720,7 @@ export default function App() {
       </aside>
 
       <div className="page-frame">
+        {activePage === "momentum" && <Suspense fallback={<p role="status" style={{padding: 32}}>모멘텀 맵을 불러오는 중입니다.</p>}><MomentumPage /></Suspense>}
         {activePage === "hyperscaler" && <HyperscalerPage />}
         {activePage === "memoryNews" && <MemoryNewsPage />}
         {activePage === "infraNews" && <InfraNewsPage />}

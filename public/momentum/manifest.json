@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-09-13T12:09:15.415660+00:00",
+  "candidate_only": true,
+  "history_mode": "current_revised_not_as_known",
+  "profiles": [
+    {
+      "id": "us_etf",
+      "label": "미국 ETF",
+      "kind": "us",
+      "description": "SPY 대비 상대강도 · 섹터 대비 가속도",
+      "file": "us_etf-4b9e7502ef0f.json",
+      "sha256": "4b9e7502ef0f68bf728056e91a8bd9da01b1fbfe1fa5ff15b918c71292a77fec",
+      "dates": 399,
+      "latest_date": "2026-09-11",
+      "latest_ranked_date": "2026-09-11",
+      "default_date": "2026-09-11"
+    },
+    {
+      "id": "global_binance",
+      "label": "글로벌 · Binance USDT",
+      "kind": "global",
+      "description": "BTC·ETH: Binance 현물 USDT, USD 환산 없음",
+      "file": "global_binance-642319664e6a.json",
+      "sha256": "642319664e6a0feadd3298b57f027f7f39cdbac901cca974b2226e6281cbaaae",
+      "dates": 400,
+      "latest_date": "2026-09-11",
+      "latest_ranked_date": "2026-09-04",
+      "default_date": "2026-09-04"
+    },
+    {
+      "id": "global_coinbase",
+      "label": "글로벌 · Coinbase USD",
+      "kind": "global",
+      "description": "BTC·ETH: Coinbase 현물 USD, 거래소 결측 보존",
+      "file": "global_coinbase-09573996c72c.json",
+      "sha256": "09573996c72c1f06b7357b5a47d90365ef4996717f83fe0aa65fcc2007737789",
+      "dates": 400,
+      "latest_date": "2026-09-11",
+      "latest_ranked_date": "2026-09-04",
+      "default_date": "2026-09-04"
+    }
+  ]
+}
