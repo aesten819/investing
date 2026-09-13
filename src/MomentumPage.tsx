@@ -141,6 +141,7 @@ export default function MomentumPage() {
     day?.points.filter((p) => p.status === "complete_candidate") || [];
   const withheld =
     day?.points.filter((p) => p.status !== "complete_candidate") || [];
+  const carried = day?.points.filter((p) => p.carried) || [];
   const index = profile && day ? profile.days.indexOf(day) : -1;
   const changeProfile = (p: ProfileEntry) =>
     navigate(
@@ -314,6 +315,14 @@ export default function MomentumPage() {
               원화는 값이 높을수록 강세 방향입니다.
             </p>
           )}
+          {carried.length > 0 && (
+            <p className="mm-source-note" role="status">
+              <Info size={15} aria-hidden="true" />
+              연준 최신 관측값 사용 · {carried.map((p) =>
+                `${assets[p.key].label} ${p.source_date} (${p.source_age_days}일 전)`
+              ).join(" · ")}. 새 공표 전까지 해당 모멘텀을 유지하고 순위는 선택일 기준으로 다시 계산합니다.
+            </p>
+          )}
           {withheld.length > 0 && (
             <div className="mm-notice">
               <strong>전체 순위 보류</strong>
@@ -321,7 +330,7 @@ export default function MomentumPage() {
                 {withheld
                   .map((p) => `${assets[p.key].ticker}: ${status(p.status)}`)
                   .join(" · ")}
-                . 유효 좌표만 표시하며 결측을 전일 값으로 채우지 않습니다.
+                . 유효 좌표만 표시합니다. 비공표일의 연준 자료 외에 수집 결측은 이전 값으로 채우지 않습니다.
               </span>
             </div>
           )}
@@ -450,6 +459,9 @@ export default function MomentumPage() {
                       ·{" "}
                       {profile.kind === "us" ? "평균 거래대금" : "연율 변동성"}{" "}
                       {renderMetric(chosen)} ·{" "}
+                      {profile.kind === "global" && chosen.source_date && (
+                        <span>원천 관측일 {chosen.source_date}{chosen.carried ? ` (${chosen.source_age_days}일 전 · 최신값 유지)` : ""} · </span>
+                      )}
                       <a
                         href={chosenAsset.source.url}
                         target="_blank"
@@ -535,7 +547,7 @@ export default function MomentumPage() {
                           />
                           <span className="mm-rank-asset">
                             <strong>{a.ticker}</strong>
-                            <small>{a.label}</small>
+                            <small>{a.label}{p.carried ? ` · ${p.source_date} 기준` : ""}</small>
                           </span>
                           <span
                             className={`mm-rank-score ${p.score! >= 0 ? "positive" : "negative"}`}
@@ -670,7 +682,7 @@ export default function MomentumPage() {
                 <p>
                   현재 확보한 수정본과 고정 모집단을 사용합니다. 과거 당시
                   공개된 정보만으로 수행한 백테스트가 아닙니다. 연준은 주간
-                  공표로 최신 관측일에 시차가 있습니다.
+                  공표로 최신 관측일에 시차가 있습니다. 새 공표 전에는 최근 실제 관측값 25개로 계산한 연준 모멘텀을 유지하고, 다른 자산의 선택일 좌표와 함께 순위를 다시 계산합니다. 비공표일의 가격을 복제하지 않습니다.
                 </p>
               </section>
             </div>

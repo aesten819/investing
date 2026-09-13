@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at": "2026-09-13T12:09:15.415660+00:00",
+  "exported_at": "2026-09-13T13:02:37.960672+00:00",
   "candidate_only": true,
   "history_mode": "current_revised_not_as_known",
   "profiles": [
@@ -21,24 +21,24 @@
       "label": "글로벌 · Binance USDT",
       "kind": "global",
       "description": "BTC·ETH: Binance 현물 USDT, USD 환산 없음",
-      "file": "global_binance-642319664e6a.json",
-      "sha256": "642319664e6a0feadd3298b57f027f7f39cdbac901cca974b2226e6281cbaaae",
+      "file": "global_binance-0b86bcaa0f22.json",
+      "sha256": "0b86bcaa0f22deea840a1114603f536da83926beefb5a8bde650797e7a45eb3b",
       "dates": 400,
       "latest_date": "2026-09-11",
-      "latest_ranked_date": "2026-09-04",
-      "default_date": "2026-09-04"
+      "latest_ranked_date": "2026-09-11",
+      "default_date": "2026-09-11"
     },
     {
       "id": "global_coinbase",
       "label": "글로벌 · Coinbase USD",
       "kind": "global",
       "description": "BTC·ETH: Coinbase 현물 USD, 거래소 결측 보존",
-      "file": "global_coinbase-09573996c72c.json",
-      "sha256": "09573996c72c1f06b7357b5a47d90365ef4996717f83fe0aa65fcc2007737789",
+      "file": "global_coinbase-90faea381d26.json",
+      "sha256": "90faea381d262bf26ab6a4c01d6a4af3bb24c0d88b8d6a4c621b58c525481227",
       "dates": 400,
       "latest_date": "2026-09-11",
-      "latest_ranked_date": "2026-09-04",
-      "default_date": "2026-09-04"
+      "latest_ranked_date": "2026-09-11",
+      "default_date": "2026-09-11"
     }
   ]
 }

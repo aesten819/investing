@@ -20,6 +20,9 @@ export type Point = {
   turnover: number | null;
   above_threshold: boolean | null;
   volatility: number | null;
+  source_date?: string | null;
+  source_age_days?: number | null;
+  carried?: boolean;
 };
 export type Envelope = {
   coverage: number;

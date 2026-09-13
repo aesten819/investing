@@ -15,8 +15,8 @@ from pathlib import Path
 
 DEFAULT_RUNS = {
     'us_etf': '8f1b68e2-e3a4-4345-8f90-5983b7f4a738',
-    'global_binance': '9ec1bb22-2325-4abe-903f-20920b1141da',
-    'global_coinbase': '28f4a3bf-f808-4eb0-9cca-9871f5b27ac1',
+    'global_binance': 'a9da8669-7e99-4fe6-a71c-52c682fd0574',
+    'global_coinbase': 'c4df5169-7846-4cd4-97dc-cdae4b82eff4',
 }
 PROFILE_INFO = {
     'us_etf': ('미국 ETF', 'us', 'SPY 대비 상대강도 · 섹터 대비 가속도'),
@@ -71,6 +71,16 @@ def validate_profile(profile):
         for p in d['points']:
             if (p['status'] == 'complete_candidate') != (p['x'] is not None and p['y'] is not None):
                 raise ValueError('Coordinate status mismatch')
+            if profile['kind'] == 'global':
+                sd=p['source_date'];age=p['source_age_days'];carried=p['carried']
+                if sd is not None:
+                    expected_age=(date.fromisoformat(d['date'])-date.fromisoformat(sd)).days
+                    if expected_age<0 or age!=expected_age:raise ValueError('Invalid source observation date')
+                elif age is not None or p['status']=='complete_candidate':raise ValueError('Missing source observation date')
+                if carried != bool(sd and sd<d['date'] and p['status']=='complete_candidate'):
+                    raise ValueError('Carry state mismatch')
+                if carried and p['key'] not in ('fred_dexkous','fred_dtwexbgs'):
+                    raise ValueError('Carry is restricted to Fed series')
             if (p['score'] is None) != (p['rank'] is None):
                 raise ValueError('Score/rank mismatch')
         ranks = [p for p in d['points'] if p['rank'] is not None]
@@ -127,7 +137,7 @@ def export_profile(conn, profile_id, run_id):
             key=r['series_key']; m=r['metadata']
             ticker = r['initial_ticker'] or {'krx_kospi':'KOSPI','krx_kosdaq':'KOSDAQ','fred_dtwexbgs':'BROAD USD','fred_dexkous':'KRW'}.get(key) or ('BTC' if 'btc' in key else 'ETH')
             assets[key] = dict(key=key,ticker=ticker,label=m['label_ko'],group=m['asset_class'],role='ranked',basis=m['basis'],currency=m.get('quote_currency',m.get('currency')),source=source_for(key))
-            points[str(r['observation_date'])].append(dict(key=key,x=r['x_trend'],y=r['y_acceleration'],score=r['composite_score'],rank=r['observation_rank'],status=r['coordinate_status'],quadrant=r['quadrant'],liquidity_status=None,turnover=None,above_threshold=None,volatility=r['annualized_volatility_20']))
+            points[str(r['observation_date'])].append(dict(key=key,x=r['x_trend'],y=r['y_acceleration'],score=r['composite_score'],rank=r['observation_rank'],status=r['coordinate_status'],quadrant=r['quadrant'],liquidity_status=None,turnover=None,above_threshold=None,volatility=r['annualized_volatility_20'],source_date=r['details'].get('source_observation_date'),source_age_days=r['details'].get('source_age_days'),carried=r['details'].get('carried_forward',False)))
         daily = conn.execute('SELECT * FROM report.global_momentum_daily WHERE run_id=%s ORDER BY observation_date',(run_id,)).fetchall()
         for r in daily:
             ds=str(r['observation_date']);h=r['details'].get('envelope',{});hd=h.get('history_dates',[])
@@ -165,7 +175,7 @@ def main():
         sha=hashlib.sha256(body).hexdigest();filename=profile['id']+'-'+sha[:12]+'.json'
         (args.output_dir/filename).write_bytes(body)
         dates=[d['date'] for d in profile['days']];ranked=[d['date'] for d in profile['days'] if d['score_status']=='complete_candidate'];complete=[d['date'] for d in profile['days'] if d['score_status']=='complete_candidate' and d['envelope_status']=='complete_candidate']
-        manifest['profiles'].append(dict(id=profile['id'],label=profile['label'],kind=profile['kind'],description=profile['description'],file=filename,sha256=sha,dates=len(dates),latest_date=dates[-1],latest_ranked_date=ranked[-1] if ranked else None,default_date=(complete or ranked or dates)[-1]))
+        manifest['profiles'].append(dict(id=profile['id'],label=profile['label'],kind=profile['kind'],description=profile['description'],file=filename,sha256=sha,dates=len(dates),latest_date=dates[-1],latest_ranked_date=ranked[-1] if ranked else None,default_date=(ranked or dates)[-1]))
     tmp=args.output_dir/'manifest.json.tmp';tmp.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');tmp.replace(args.output_dir/'manifest.json')
     active={r['file'] for r in manifest['profiles']}
     for f in args.output_dir.glob('*.json'):

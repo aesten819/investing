@@ -23,7 +23,7 @@ class MomentumSnapshotTests(unittest.TestCase):
             p=self.profiles[e['id']]
             ranked=[d for d in p['days'] if d['score_status']=='complete_candidate']
             complete=[d for d in ranked if d['envelope_status']=='complete_candidate']
-            self.assertEqual((complete or ranked or p['days'])[-1]['date'],e['default_date'])
+            self.assertEqual((ranked or p['days'])[-1]['date'],e['default_date'])
             self.assertEqual(p['days'][-1]['date'],e['latest_date'])
             self.assertEqual(ranked[-1]['date'],e['latest_ranked_date'])
 
@@ -37,15 +37,35 @@ class MomentumSnapshotTests(unittest.TestCase):
             self.assertLess(d['history']['end'],d['date'])
             self.assertEqual(d['history']['samples'],7812)
 
-    def test_global_latest_date_does_not_invent_ranks_or_fx_values(self):
+    def test_latest_fed_features_are_reused_but_ranks_are_daily(self):
         for key in ('global_binance','global_coinbase'):
-            d=self.profiles[key]['days'][-1]
-            self.assertEqual(d['date'],'2026-09-11')
-            self.assertEqual(sum(p['status']=='complete_candidate' for p in d['points']),11)
-            self.assertTrue(all(p['rank'] is None for p in d['points']))
-            self.assertEqual(d['envelopes'],[])
-            for p in d['points']:
-                if p['key'].startswith('fred_'):self.assertIsNone(p['x'])
+            days=self.profiles[key]['days']
+            base={p['key']:p for p in next(d for d in days if d['date']=='2026-09-04')['points']}
+            latest=[d for d in days if d['date']>'2026-09-04']
+            self.assertEqual(len(latest),4)
+            for d in latest:
+                self.assertEqual(sum(p['status']=='complete_candidate' for p in d['points']),13)
+                self.assertTrue(all(p['rank'] is not None for p in d['points']))
+                self.assertEqual(d['envelopes'],[])
+                self.assertEqual(sum(p['carried'] for p in d['points']),2)
+                for p in d['points']:
+                    if p['key'].startswith('fred_'):
+                        self.assertEqual(p['source_date'],'2026-09-04')
+                        self.assertEqual(p['source_age_days'],int(d['date'][-2:])-4)
+                        for metric in ('x','y','volatility'):self.assertEqual(p[metric],base[p['key']][metric])
+                    else:self.assertEqual(p['source_date'],d['date'])
+
+    def test_forged_carry_metadata_is_rejected(self):
+        for case in ('future','age','non_fed','flag','missing'):
+            profile=copy.deepcopy(self.profiles['global_binance'])
+            day=profile['days'][-1]
+            p=next(p for p in day['points'] if p['carried'])
+            if case=='future':p['source_date']='2026-09-14'
+            if case=='age':p['source_age_days']=0
+            if case=='non_fed':p=next(p for p in day['points'] if not p['key'].startswith('fred_'));p.update(carried=True,source_date='2026-09-04',source_age_days=7)
+            if case=='flag':p['carried']=False
+            if case=='missing':p['source_date']=None
+            with self.subTest(case=case),self.assertRaises(ValueError):validate_profile(profile)
 
     def test_profile_isolation_and_crypto_gap_preserved(self):
         b=self.profiles['global_binance'];c=self.profiles['global_coinbase']
@@ -87,6 +107,6 @@ class MomentumSnapshotTests(unittest.TestCase):
             for d in p['days']:
                 self.assertEqual(set(d),{'date','score_status','envelope_status','history','points','envelopes'})
                 for point in d['points']:
-                    self.assertEqual(set(point),{'key','x','y','score','rank','status','quadrant','liquidity_status','turnover','above_threshold','volatility'})
+                    self.assertEqual(set(point),{'key','x','y','score','rank','status','quadrant','liquidity_status','turnover','above_threshold','volatility'} | ({'source_date','source_age_days','carried'} if p['kind']=='global' else set()))
 
 if __name__=='__main__':unittest.main()
