@@ -6742,5 +6742,27 @@
     "tags_ko": [
       "Data Center"
     ]
+  },
+  "32fc78dd30f005ef845f7011bb40685b8ee8c02a": {
+    "headline_ko": "\ub9ac\ud2b8\ub85c\ud54f\uc774 AI infrastructure \uacbd\uc7c1 \uc2b9\ub9ac\uc5d0 \uc5b4\ub5bb\uac8c \uae30\uc5ec\ud560 \uc218 \uc788\ub294\uac00",
+    "summary_ko": "\uc2e0\ucd95\uc744 \uba48\ucd94\uace0 \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \uc2dc\uc791\ud558\ub77c.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "7c8eeffef6e977eaa4732b9bd6aa4a4b56c0c0be": {
+    "headline_ko": "\uc804\ub825\ub9dd \uc81c\uc57d\uc5d0\uc11c \uc804\ub825\ub9dd \uc790\uc0b0\uc73c\ub85c: data center \uc804\ub825 \ud655\ubcf4 \uacbd\ub85c \uc7ac\uace0",
+    "summary_ko": "\ud5c8\uac00\ub97c \uad6c\ud558\uc9c0 \ub9d0\uace0 \ud574\uacb0\ucc45\uc744 \uc81c\uc2dc\ud574\uc57c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "3eb565db427f6648abb2e67c147e0a6ad3388313": {
+    "headline_ko": "AI\uac00 data center\uc758 \uc5ed\ud560\uc744 \ubc14\uafe8\ub2e4",
+    "summary_ko": "AI\uac00 \ub610\ub2e4\uc2dc \uaddc\uce59\uc744 \ubc14\uafbc\ub2e4",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }

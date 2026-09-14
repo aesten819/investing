@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-09-13T01:09:04.064794+00:00",
+  "generated_at": "2026-09-14T01:13:37.427822+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "0899810b188f",
+      "headline": "How retrofitting can help win the AI infrastructure race",
+      "summary": "Stop building, start upgrading",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-retrofitting-can-help-win-the-ai-infrastructure-race/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-13T16:00:27+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "\ub9ac\ud2b8\ub85c\ud54f\uc774 AI infrastructure \uacbd\uc7c1 \uc2b9\ub9ac\uc5d0 \uc5b4\ub5bb\uac8c \uae30\uc5ec\ud560 \uc218 \uc788\ub294\uac00",
+      "summary_ko": "\uc2e0\ucd95\uc744 \uba48\ucd94\uace0 \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \uc2dc\uc791\ud558\ub77c.",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "6ed8462d436d",
+      "headline": "From grid constraint to grid asset: Rethinking the path to data center power",
+      "summary": "Stop asking for permission and start offering solutions",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-13T11:00:30+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\uc804\ub825\ub9dd \uc81c\uc57d\uc5d0\uc11c \uc804\ub825\ub9dd \uc790\uc0b0\uc73c\ub85c: data center \uc804\ub825 \ud655\ubcf4 \uacbd\ub85c \uc7ac\uace0",
+      "summary_ko": "\ud5c8\uac00\ub97c \uad6c\ud558\uc9c0 \ub9d0\uace0 \ud574\uacb0\ucc45\uc744 \uc81c\uc2dc\ud574\uc57c \ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "32b2f8c0fb52",
+      "headline": "AI has changed the data center's job description",
+      "summary": "AI rewrites the rules yet again",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-has-changed-the-data-centers-job-description/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-12T10:00:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "AI\uac00 data center\uc758 \uc5ed\ud560\uc744 \ubc14\uafe8\ub2e4",
+      "summary_ko": "AI\uac00 \ub610\ub2e4\uc2dc \uaddc\uce59\uc744 \ubc14\uafbc\ub2e4",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "fc3d3edf20d5",
       "headline": "Public Review Opens for Updated Project Jupiter Power Plan",
@@ -185,6 +238,23 @@
       ]
     },
     {
+      "id": "6f1b87ea5b9b",
+      "headline": "Urban Data Centers: Who Needs Them and Where to Find Them",
+      "summary": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub3c4\uc2dc\ud615 data center: \ub204\uac00 \ud544\uc694\ub85c \ud558\uba70 \uc5b4\ub514\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc788\ub098",
+      "summary_ko": "\ub3c4\uc2dc\ud615 data center\ub294 metro \uc6cc\ud06c\ub85c\ub4dc\uc5d0 \ub0ae\uc740 \uc9c0\uc5f0\uc2dc\uac04\uacfc \ud48d\ubd80\ud55c interconnection\uc744 \uc81c\uacf5\ud558\uba70, \uc5b8\uc81c \uc801\ud569\ud55c\uc9c0, \uc8fc\uc694 trade-off\ub294 \ubb34\uc5c7\uc778\uc9c0, \uc801\ud569\ud55c \uacf5\uae09\uc790\ub97c \ucc3e\ub294 \ubc29\ubc95\uc744 \uc54c\uc544\ubcf8\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
       "id": "5d2dcf4d55b2",
       "headline": "Nostrum's data center in Badajoz gets the green light for electrical connection",
       "summary": "The power supply system includes a 400/220 kV substation",
@@ -201,23 +271,6 @@
       "tags_ko": [
         "Data Center",
         "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "6f1b87ea5b9b",
-      "headline": "Urban Data Centers: Who Needs Them and Where to Find Them",
-      "summary": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub3c4\uc2dc\ud615 data center: \ub204\uac00 \ud544\uc694\ub85c \ud558\uba70 \uc5b4\ub514\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc788\ub098",
-      "summary_ko": "\ub3c4\uc2dc\ud615 data center\ub294 metro \uc6cc\ud06c\ub85c\ub4dc\uc5d0 \ub0ae\uc740 \uc9c0\uc5f0\uc2dc\uac04\uacfc \ud48d\ubd80\ud55c interconnection\uc744 \uc81c\uacf5\ud558\uba70, \uc5b8\uc81c \uc801\ud569\ud55c\uc9c0, \uc8fc\uc694 trade-off\ub294 \ubb34\uc5c7\uc778\uc9c0, \uc801\ud569\ud55c \uacf5\uae09\uc790\ub97c \ucc3e\ub294 \ubc29\ubc95\uc744 \uc54c\uc544\ubcf8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
       ]
     },
     {
@@ -2868,65 +2921,14 @@
         "Data Center",
         "\uc804\ub825"
       ]
-    },
-    {
-      "id": "6075dc1ba0b8",
-      "headline": "From pressure to proof: Leading through constraint in the data center era",
-      "summary": "And the mindset shift the team needed",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-08-29T11:00:31+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc555\ubc15\uc5d0\uc11c \uc99d\uba85\uc73c\ub85c: \ub370\uc774\ud130 \uc13c\ud130 \uc2dc\ub300\uc758 \uc81c\uc57d \uc18d\uc5d0\uc11c \ub9ac\ub4dc\ud558\uae30",
-      "summary_ko": "\uadf8\ub9ac\uace0 \ud300\uc5d0 \ud544\uc694\ud55c \ub9c8\uc778\ub4dc\uc14b \ubcc0\ud654",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "ae51c2b42bc7",
-      "headline": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
-      "summary": "We\u2019ve Overhauled Project Jupiter\u2019s Power Plan. Here\u2019s What Southern New Mexico Residents Should Know",
-      "url": "https://www.oracle.com/news/announcement/blog/weve-overhauled-project-jupiters-power-plan-2026-07-01/",
-      "source": "Oracle AI Data Centers",
-      "source_id": "oracle_ai_data_centers",
-      "published_at": "2026-08-29T04:11:27.628971+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Project Jupiter\uc758 \uc804\ub825 \uacc4\ud68d\uc744 \uac1c\ud3b8\ud588\uc2b5\ub2c8\ub2e4. \ub0a8\ubd80 \ub274\uba55\uc2dc\ucf54 \uc8fc\ubbfc\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d",
-      "summary_ko": "Project Jupiter\uc758 \uc804\ub825 \uacc4\ud68d\uc744 \uac1c\ud3b8\ud588\uc2b5\ub2c8\ub2e4. \ub0a8\ubd80 \ub274\uba55\uc2dc\ucf54 \uc8fc\ubbfc\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d",
-      "tags_ko": [
-        "Power"
-      ]
-    },
-    {
-      "id": "89d9f258ae14",
-      "headline": "CBRE Tracks H1 Data Center Crunch",
-      "summary": "CBRE Tracks H1 Data Center Crunch",
-      "url": "https://www.datacenterfrontier.com/site-selection/news/55401462/cbre-record-data-center-construction-fails-to-ease-capacity-crunch",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-08-29T04:11:27.628971+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "CBRE, \uc0c1\ubc18\uae30 data center \uacf5\uae09 \ubd80\uc871 \ucd94\uc801",
-      "summary_ko": "CBRE\uac00 \uc0c1\ubc18\uae30 data center \uacf5\uae09 \ubd80\uc871\uc744 \ucd94\uc801\ud588\ub2e4.",
-      "tags_ko": [
-        "data center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-13T01:09:04.154134+00:00",
-    "cached": 160,
-    "translated": 0,
+    "generated_at": "2026-09-14T01:13:52.145399+00:00",
+    "cached": 157,
+    "translated": 3,
     "skipped": 0
   }
 }
