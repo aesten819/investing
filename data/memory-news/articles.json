@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-09-14T01:01:43.185885+00:00",
+  "generated_at": "2026-09-15T01:26:07.975016+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "038497efa95d",
+      "headline": "[Video] The World of Nano \u2013 V-NAND, Bonding V-NAND: Redefining Storage Architecture",
+      "summary": "From Storage to AI: NAND\u2019s Evolution for Next-Generation Infrastructure NAND flash has long been a foundational storage technology in devices from USB...",
+      "url": "https://news.samsungsemiconductor.com/global/video-the-world-of-nano-v-nand-bonding-v-nand-redefining-storage-architecture/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-09-15T10:01:00+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[\uc601\uc0c1] \ub098\ub178\uc758 \uc138\uacc4 \u2013 V-NAND, \ubcf8\ub529 V-NAND: \uc2a4\ud1a0\ub9ac\uc9c0 \uc544\ud0a4\ud14d\ucc98 \uc7ac\uc815\uc758",
+      "summary_ko": "\uc2a4\ud1a0\ub9ac\uc9c0\uc5d0\uc11c AI\ub85c: \ucc28\uc138\ub300 \uc778\ud504\ub77c\ub97c \uc704\ud55c NAND\uc758 \uc9c4\ud654\u2014NAND \ud50c\ub798\uc2dc\ub294 USB \ub4f1 \uae30\uae30\uc5d0\uc11c \uc624\ub7ab\ub3d9\uc548 \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uae30\uc220\uc774\uc5c8\ub2e4...",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "15b2e2959528",
+      "headline": "[Video] The World of Nano \u2013 From HBM to zHBM: Rethinking Architecture Innovation",
+      "summary": "Advancing Memory Architecture for the AI Era \u2013 Up to 8x Performance Gains As AI computational demands continue to grow, data bottlenecks have become...",
+      "url": "https://news.samsungsemiconductor.com/global/video-the-world-of-nano-from-hbm-to-zhbm-rethinking-architecture-innovation/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "tags": [
+        "HBM",
+        "Memory"
+      ],
+      "headline_ko": "[\uc601\uc0c1] \ub098\ub178\uc758 \uc138\uacc4 \u2013 HBM\uc5d0\uc11c zHBM\uae4c\uc9c0: \uc544\ud0a4\ud14d\ucc98 \ud601\uc2e0 \uc7ac\uace0",
+      "summary_ko": "AI \ucef4\ud4e8\ud305 \uc218\uc694\uac00 \uacc4\uc18d \ucee4\uc9c0\uba74\uc11c \ub370\uc774\ud130 \ubcd1\ubaa9\uc774 \ub300\ub450\ub418\ub294 \uac00\uc6b4\ub370, AI \uc2dc\ub300\ub97c \uc704\ud55c \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\ub294 \ucd5c\ub300 8\ubc30 \uc131\ub2a5 \ud5a5\uc0c1\uc73c\ub85c \ubc1c\uc804\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "HBM",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "0d47aa0fd01f",
+      "headline": "NOR Flash Price Trends Diverge in 2H26, with High-Capacity Products Poised for 90\u2013110% Increases, Says TrendForce",
+      "summary": "TrendForce\u2019s latest memory industry research indicates that the NOR Flash market is undergoing its most significant structural shift in supply and demand in nearly a decade.",
+      "url": "https://www.trendforce.com/presscenter/news/20260914-13235.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-09-14T06:32:11+00:00",
+      "tags": [
+        "NAND",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "TrendForce, 2026\ub144 \ud558\ubc18\uae30 NOR Flash \uac00\uaca9 \ucd94\uc138 \ubd84\ud654\u2026 \uace0\uc6a9\ub7c9 \uc81c\ud488 90~110% \uc0c1\uc2b9 \uc804\ub9dd",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74 NOR Flash \uc2dc\uc7a5\uc740 \uc57d 10\ub144 \ub9cc\uc5d0 \uac00\uc7a5 \ud070 \uacf5\uae09\u00b7\uc218\uc694 \uad6c\uc870\uc801 \uc804\ud658\uc744 \uacaa\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9",
+        "\uc6a9\ub7c9"
+      ]
+    },
     {
       "id": "321f7a443d7a",
       "headline": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum\u2014\u201dNow Is the Golden Time to Leap Forward\u201d",
@@ -676,23 +737,6 @@
       ]
     },
     {
-      "id": "0c376d2723a9",
-      "headline": "[Infographic] The Evolution of AI-Era Memory: Faster, Denser Computing",
-      "summary": "Samsung Electronics Showcases Its Vision for Next-Generation 3D Memory at FMS 2026 AI is rapidly advancing from generative AI that simply answers questions...",
-      "url": "https://news.samsungsemiconductor.com/global/the-evolution-of-ai-era-memory-faster-denser-computing/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-08-05T04:30:00+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] AI \uc2dc\ub300 \uba54\ubaa8\ub9ac\uc758 \uc9c4\ud654: \ub354 \ube60\ub974\uace0, \ub354 \uace0\ubc00\ub3c4 \ucef4\ud4e8\ud305",
-      "summary_ko": "\uc0bc\uc131\uc804\uc790\ub294 FMS 2026\uc5d0\uc11c \ucc28\uc138\ub300 3D \uba54\ubaa8\ub9ac\uc5d0 \ub300\ud55c \ube44\uc804\uc744 \uc120\ubcf4\uc774\uba70, AI\ub294 \ub2e8\uc21c\ud788 \uc9c8\ubb38\uc5d0 \ub2f5\ud558\ub294 \uc0dd\uc131\ud615 AI\uc5d0\uc11c \ube60\ub974\uac8c \uc9c4\ud654\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
       "id": "89ce18eb3ec0",
       "headline": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
       "summary": "Samsung introduces industry-first concept models of zHBM and zNAND-O,highlighting leadership in next-generation memory architecture for HPC and AI...",
@@ -705,6 +749,23 @@
       ],
       "headline_ko": "\uc0bc\uc131, FMS 2026\uc5d0\uc11c \ucc28\uc138\ub300 3D \uba54\ubaa8\ub9ac \ube44\uc804 \uacf5\uac1c, AI \uc778\ud504\ub77c\uc758 \ubbf8\ub798 \uc81c\uc2dc",
       "summary_ko": "\uc0bc\uc131\uc740 \uc5c5\uacc4 \ucd5c\ucd08\uc758 zHBM \ubc0f zNAND-O \uac1c\ub150 \ubaa8\ub378\uc744 \uc18c\uac1c\ud558\uba70, HPC \ubc0f AI\ub97c \uc704\ud55c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc5d0\uc11c\uc758 \ub9ac\ub354\uc2ed\uc744 \uac15\uc870\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "0c376d2723a9",
+      "headline": "[Infographic] The Evolution of AI-Era Memory: Faster, Denser Computing",
+      "summary": "Samsung Electronics Showcases Its Vision for Next-Generation 3D Memory at FMS 2026 AI is rapidly advancing from generative AI that simply answers questions...",
+      "url": "https://news.samsungsemiconductor.com/global/the-evolution-of-ai-era-memory-faster-denser-computing/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-05T04:30:00+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] AI \uc2dc\ub300 \uba54\ubaa8\ub9ac\uc758 \uc9c4\ud654: \ub354 \ube60\ub974\uace0, \ub354 \uace0\ubc00\ub3c4 \ucef4\ud4e8\ud305",
+      "summary_ko": "\uc0bc\uc131\uc804\uc790\ub294 FMS 2026\uc5d0\uc11c \ucc28\uc138\ub300 3D \uba54\ubaa8\ub9ac\uc5d0 \ub300\ud55c \ube44\uc804\uc744 \uc120\ubcf4\uc774\uba70, AI\ub294 \ub2e8\uc21c\ud788 \uc9c8\ubb38\uc5d0 \ub2f5\ud558\ub294 \uc0dd\uc131\ud615 AI\uc5d0\uc11c \ube60\ub974\uac8c \uc9c4\ud654\ud558\uace0 \uc788\ub2e4.",
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
@@ -1333,6 +1394,25 @@
       ]
     },
     {
+      "id": "f11c0f00c55e",
+      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
+      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-06-23T08:00:00+00:00",
+      "tags": [
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
+      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
+      "tags_ko": [
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
       "id": "ce728598d9c2",
       "headline": "[Infographic] UFS 5.0 Memory: The Optimal Solution for On-Device AI",
       "summary": "Samsung Electronics has announced the development of its next-generation Universal Flash Storage (UFS) 5.0 mobile memory solution, setting a new benchmark...",
@@ -1349,25 +1429,6 @@
       "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 \ucc28\uc138\ub300 Universal Flash Storage (UFS) 5.0 \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \ubc1c\ud45c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uae30\uc900\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4.",
       "tags_ko": [
         "NAND",
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "f11c0f00c55e",
-      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
-      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-06-23T08:00:00+00:00",
-      "tags": [
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
-      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
-      "tags_ko": [
         "SSD",
         "\uba54\ubaa8\ub9ac"
       ]
@@ -1432,75 +1493,14 @@
         "\uac00\uaca9",
         "\uc0dd\uc0b0\ub2a5\ub825"
       ]
-    },
-    {
-      "id": "2d4d560262bf",
-      "headline": "SK hynix Showcases Tech Leadership as \u2018Full Stack AI Memory Creator\u2019 at HPED 2026, Reaffirming Strong Partnership with HPE",
-      "summary": "As competition and collaboration around AI infrastructure continue to intensify, HPED 2026 brought together industry leaders to explore the future of AI-driven IT infrastructure.",
-      "url": "https://news.skhynix.com/hpe-discover-2026/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-06-19T00:02:41+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, HPED 2026\uc5d0\uc11c \u2018Full Stack AI Memory Creator\u2019\ub85c \uae30\uc220 \ub9ac\ub354\uc2ed \uacfc\uc2dc, HPE\uc640\uc758 \uac15\ub825\ud55c \ud30c\ud2b8\ub108\uc2ed \uc7ac\ud655\uc778",
-      "summary_ko": "AI \uc778\ud504\ub77c \uacbd\uc7c1 \ubc0f \ud611\ub825\uc774 \uc2ec\ud654\ub418\ub294 \uac00\uc6b4\ub370, HPED 2026\uc740 \uc5c5\uacc4 \ub9ac\ub354\ub4e4\uc774 \ubaa8\uc5ec AI \uae30\ubc18 IT \uc778\ud504\ub77c\uc758 \ubbf8\ub798\ub97c \ud0d0\uad6c\ud558\ub294 \uc790\ub9ac\ub97c \ub9c8\ub828\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "5545e7d3f75a",
-      "headline": "Contract Prices Surged More Than 100% in 1H26; Structural Shortages to Keep NOR Flash and SLC NAND Prices Rising in 2H26, Says TrendForce",
-      "summary": "Major memory suppliers continue to prioritize capacity allocation toward higher-value products such as HBM and advanced-layer 3D NAND, according to TrendForce\u2019s latest research on...",
-      "url": "https://www.trendforce.com/presscenter/news/20260616-13102.html",
-      "source": "TrendForce",
-      "source_id": "trendforce",
-      "published_at": "2026-06-16T06:30:52+00:00",
-      "tags": [
-        "HBM",
-        "NAND",
-        "Memory",
-        "Pricing",
-        "Capacity"
-      ],
-      "headline_ko": "\uacc4\uc57d \uac00\uaca9, 1H26\uc5d0 100% \uc774\uc0c1 \uae09\ub4f1; \uad6c\uc870\uc801 \ubd80\uc871\uc73c\ub85c NOR Flash \ubc0f SLC NAND \uac00\uaca9 2H26\uc5d0\ub3c4 \uc0c1\uc2b9 \uc9c0\uc18d, TrendForce \ubc1c\ud45c",
-      "summary_ko": "\uc8fc\uc694 \uba54\ubaa8\ub9ac \uacf5\uae09\uc5c5\uccb4\ub4e4\uc740 HBM\uacfc \uace0\uce35 3D NAND \uac19\uc740 \uace0\ubd80\uac00\uac00\uce58 \uc81c\ud488\uc5d0 \uc6a9\ub7c9 \ubc30\ubd84\uc744 \uacc4\uc18d \uc6b0\uc120\uc2dc\ud558\uace0 \uc788\ub2e4\uace0 TrendForce\uc758 \ucd5c\uc2e0 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74...",
-      "tags_ko": [
-        "NOR Flash",
-        "SLC NAND",
-        "Contract Price",
-        "Structural Shortage",
-        "TrendForce"
-      ]
-    },
-    {
-      "id": "28565b9cb034",
-      "headline": "Micron Powers AI Everywhere at COMPUTEX 2026",
-      "summary": "End-to-end AI memory and storage portfolio spans data center to intelligent edge, with key products now in high-volume production TAIPEI, Taiwan, June 01, 2026 (GLOBE NEWSWIRE) --...",
-      "url": "https://investors.micron.com/news-releases/news-release-details/micron-powers-ai-everywhere-computex-2026",
-      "source": "Micron",
-      "source_id": "micron",
-      "published_at": "2026-06-01T22:00:08+00:00",
-      "tags": [
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "\ub9c8\uc774\ud06c\ub860, COMPUTEX 2026\uc5d0\uc11c AI Everywhere \uad6c\ud604",
-      "summary_ko": "\uc5d4\ub4dc\ud22c\uc5d4\ub4dc AI \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uac00 \ub370\uc774\ud130\uc13c\ud130\ubd80\ud130 \uc778\ud154\ub9ac\uc804\ud2b8 \uc5e3\uc9c0\uae4c\uc9c0 \uc544\uc6b0\ub974\uba70, \uc8fc\uc694 \uc81c\ud488\ub4e4\uc774 \ud604\uc7ac \uc591\uc0b0 \uc911\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "SSD",
-        "Memory"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-14T01:01:43.290169+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-09-15T01:26:22.287535+00:00",
+    "cached": 77,
+    "translated": 3,
     "skipped": 0
   }
 }

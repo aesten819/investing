@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T01:01:43.185885+00:00",
+  "generated_at": "2026-09-15T01:26:07.975016+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
       "name": "Samsung Semiconductor",
       "url": "https://news.samsungsemiconductor.com/global/feed/",
       "status": "ok",
-      "article_count": 13
+      "article_count": 14
     },
     {
       "id": "sk_hynix",
@@ -28,7 +28,7 @@
       "name": "TrendForce",
       "url": "https://www.trendforce.com/feed/Semiconductors.html",
       "status": "ok",
-      "article_count": 4
+      "article_count": 5
     },
     {
       "id": "semiconductor_today",
