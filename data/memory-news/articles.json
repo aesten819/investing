@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-09-16T01:23:17.359576+00:00",
+  "generated_at": "2026-09-17T01:23:01.637445+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "bf3a85fb3f9f",
+      "headline": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S.",
+      "summary": "\u25cb This relates to a recent report published on September 16, 2026, titled, \u201cSK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say....",
+      "url": "https://news.skhynix.com/en/fact-10/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-09-16T10:01:11+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "SK hynix\uc640 Intel\uc758 \ubbf8\uad6d \ub0b4 \uba54\ubaa8\ub9ac \uce69 \uc0dd\uc0b0 \uad00\ub828 \ubcf4\ub3c4\ub41c \ud611\uc758\uc5d0 \ub300\ud574 \ud655\uc815\ub41c \uacc4\ud68d\uc740 \uc5c6\ub2e4.",
+      "summary_ko": "2026\ub144 9\uc6d4 16\uc77c \ubcf4\ub3c4\ub41c \u201cSK Hynix, Intel\uacfc \ubbf8\uad6d\uc5d0\uc11c \ucc98\uc74c\uc73c\ub85c \uba54\ubaa8\ub9ac \uce69\uc744 \uc0dd\uc0b0\ud558\ub294 \uacc4\uc57d \ub17c\uc758 \uc911\u201d\uc774\ub77c\ub294 \uc81c\ubaa9\uc758 \ucd5c\uadfc \uae30\uc0ac\uc640 \uad00\ub828\ub41c \ub0b4\uc6a9\uc774\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "038497efa95d",
       "headline": "[Video] The World of Nano \u2013 V-NAND, Bonding V-NAND: Redefining Storage Architecture",
@@ -1470,37 +1487,14 @@
         "Memory",
         "Capacity"
       ]
-    },
-    {
-      "id": "be521c0dd50c",
-      "headline": "Consumer DRAM Shortages Extend to DDR2 Products with Contract Prices Expected to Continue Rising in 3Q26",
-      "summary": "TrendForce\u2019s latest research reveals that structural tightening in mature-node DRAM supply is forcing consumer DRAM buyers to adopt legacy memory products to secure larger supply...",
-      "url": "https://www.trendforce.com/presscenter/news/20260622-13112.html",
-      "source": "TrendForce",
-      "source_id": "trendforce",
-      "published_at": "2026-06-22T04:52:36+00:00",
-      "tags": [
-        "DRAM",
-        "Memory",
-        "Pricing",
-        "Capacity"
-      ],
-      "headline_ko": "\uc18c\ube44\uc790 DRAM \ubd80\uc871\uc774 DDR2 \uc81c\ud488\uae4c\uc9c0 \ud655\ub300, 3\ubd84\uae30 26\ub144\uc5d0\ub3c4 \uacc4\uc57d \uac00\uaca9 \uc0c1\uc2b9 \uc9c0\uc18d \uc804\ub9dd",
-      "summary_ko": "TrendForce\uc758 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uc131\uc219 \uacf5\uc815 DRAM \uacf5\uae09\uc758 \uad6c\uc870\uc801 \uae34\ucd95\uc73c\ub85c \uc18c\ube44\uc790 DRAM \ubd80\uc871\uc774 DDR2 \uc81c\ud488\uae4c\uc9c0 \ud655\ub300\ub418\uba70, 3\ubd84\uae30 26\ub144\uc5d0\ub3c4 \uacc4\uc57d \uac00\uaca9 \uc0c1\uc2b9\uc774 \uc9c0\uc18d\ub420 \uc804\ub9dd\uc774\ub2e4.",
-      "tags_ko": [
-        "DRAM",
-        "\uba54\ubaa8\ub9ac",
-        "\uac00\uaca9",
-        "\uc0dd\uc0b0\ub2a5\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-16T01:23:17.437760+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-09-17T01:23:05.528968+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
