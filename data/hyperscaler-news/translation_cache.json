@@ -6957,5 +6957,108 @@
       "Capacity",
       "\uc804\ub825"
     ]
+  },
+  "370f2ca09e28372940ca18159bcfd19a8d995236": {
+    "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub97c \ube60\ub974\uac8c \uad6c\ucd95\ud558\uae30: \uc804\uc120\uad00(conduit) \uacb0\uc815\uc774 \uadf8 \uc5b4\ub290 \ub54c\ubcf4\ub2e4 \uc55e\ub2f9\uaca8\uc9c0\ub294 \uc774\uc720",
+    "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\ub97c \ube60\ub974\uac8c \uad6c\ucd95\ud558\ub294 \uacfc\uc815\uc5d0\uc11c \uc804\uc120\uad00 \uacb0\uc815\uc774 \uadf8 \uc5b4\ub290 \ub54c\ubcf4\ub2e4 \ub354 \uc77c\ucc0d \uc911\uc694\ud574\uc9c0\ub294 \uc774\uc720\ub97c \ub2e4\ub8ec\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "eb9e7375d04fe41513a08ebe3951a0309884cdca": {
+    "headline_ko": "Data Center Frontier 2026\ub144 9\uc6d4",
+    "summary_ko": "Data Center Frontier 2026\ub144 9\uc6d4\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "59a692b89c5bc14bbe55dff4b8da4a14458de210": {
+    "headline_ko": "Onsemi, \uc804\ub825 \ubc00\ub3c4 \ud5a5\uc0c1\uc744 \uc704\ud55c Embedded Power Platform \uc544\ud0a4\ud14d\ucc98 \uacf5\uac1c",
+    "summary_ko": "\uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c\ub97c embedded package\ub85c \uc0ac\uc6a9\ud558\ub294 \ubc29\uc2dd\uc73c\ub85c \uc791\ub3d9\ud55c\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "8668fda99aabf02847d4c3ec44ee0df629434e3d": {
+    "headline_ko": "\uc2a4\ucf54\ud2c0\ub79c\ub4dc \uc758\ud68c, \uc2e0\uaddc hyperscale data center\uc5d0 \ub300\ud55c \uc0ac\uc2e4\uc0c1\uc758 \ud55c\uc2dc\uc801 \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \uc9c0\uc9c0",
+    "summary_ko": "\uc0c8 \uacc4\ud68d \uc9c0\uce68\uc774 \ubc1c\ud45c\ub420 \ub54c\uae4c\uc9c0\ub294 \uc5b4\ub5a4 \uacc4\ud68d\ub3c4 \uc2b9\uc778\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "271500af4415e0553d8187ad468f7dca62c683a4": {
+    "headline_ko": "Data Center SLA \uc18c\uac1c",
+    "summary_ko": "SLA \ubcc0\ub3d9\uc131\uc5d0 \ub300\uc751\ud558\uace0 data center \ud604\uae08 \ud750\ub984\uc744 \ubcf4\ud638\ud558\ub294 \ub0b4\uc6a9\uc744 \ub2e4\ub8f9\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "ba2bdb5c39915ef6447fd74596dd469184a11fd6": {
+    "headline_ko": "AI \uc131\uc7a5\uc73c\ub85c \ub124\ud2b8\uc6cc\ud06c\uac00 \ucc28\uc138\ub300 data center \ubcd1\ubaa9\uc73c\ub85c \ubd80\uac01",
+    "summary_ko": "\uc601\uad6d\uc5d0\uc11c \uc0c8\ub85c\uc6b4 data center \ud5c8\ube0c\ub97c \uad6c\ucd95\ud558\ub294 \ub370 \uad11\uc12c\uc720\uac00 \uc911\uc694\ud558\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "abf8bdbe64080ac5856ee7ab51859e48816081ff": {
+    "headline_ko": "AirJoule, \ub0c9\uac01 \uae30\uc5c5 BitSink \uc778\uc218",
+    "summary_ko": "\uc774\ubc88 \uac70\ub798\ub294 \ucd5c\ub300 6,700\ub9cc \ub2ec\ub7ec \uaddc\ubaa8\uac00 \ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "c5d413c58935bbbc9bfb6ab9b27b31757b6b6550": {
+    "headline_ko": "Goodman, Hong Kong data center \ud30c\ud2b8\ub108\uc2ed \uc704\ud574 4\uc5b5 5,500\ub9cc \ub2ec\ub7ec \uc870\ub2ec",
+    "summary_ko": "Hong Kong data center \uac74\uc124 \uc790\uae08\uc73c\ub85c \uc0ac\uc6a9\ub418\uba70, 2028\ub144 \uac1c\uc7a5 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "29b7cb8d00deedebe119b955fa36ac39e0c1f807": {
+    "headline_ko": "OpenAI Astra\uc758 \u2018Critical\u2019 \ub4f1\uae09\uacfc AI \ud1b5\uc81c \uac00\ub2a5\uc131 \uaca9\ucc28",
+    "summary_ko": "\uace0\uae09 AI \ubaa8\ub378\uc774 \uc774\uc81c \uac10\ub3c5\uc744 \ud68c\ud53c\ud560 \uc218 \uc788\uc73c\ubbc0\ub85c, data center \uc6b4\uc601\uc790\ub294 \ubca4\ub354 \uc8fc\uc7a5\uc5d0 \uc758\uc874\ud558\uae30\ubcf4\ub2e4 \uc801\ub300\uc801 \uc870\uac74\uc5d0\uc11c \ubaa8\ub2c8\ud130\ub9c1\uc744 \uac80\uc99d\ud574\uc57c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "9b5c3a3e5080e3f3fd9c90019b1a00347020fdd8": {
+    "headline_ko": "DCD Intelligence: 2026 data center \uc778\ub825 \uc124\ubb38 \uacb0\uacfc",
+    "summary_ko": "data center \uc131\uc7a5\uc774 \uc778\uc7ac \ud655\ubcf4 \uc18d\ub3c4\ub97c \uc55e\uc9c0\ub974\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "0ead1227c4c8c34582ce7fbbd85af9f235d84832": {
+    "headline_ko": "Serverfarm, \ubd81\ubbf8 data center \uac1c\ubc1c \ud380\ub4dc\ub97c 38\uc5b5 9,000\ub9cc \ub2ec\ub7ec\ub85c \ud655\ub300",
+    "summary_ko": "\ucd94\uac00\ub85c 8\uc5b5 9,500\ub9cc \ub2ec\ub7ec\ub97c \ud074\ub85c\uc9d5\ud588\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "55b8dcce8abf95226ba6fcf2faeb871bc8fa1f7b": {
+    "headline_ko": "Microsoft, \ubc84\uc9c0\ub2c8\uc544\uc8fc Prince William County\uc5d0 data center \ucea0\ud37c\uc2a4 \uac74\uc124 \uc2e0\uccad",
+    "summary_ko": "\ud68c\uc0ac\ub294 Gainesville \uc678\uacfd\uc5d0 \ub450 \uac1c\uc758 \uac74\ubb3c\uc744 \uac1c\ubc1c\ud558\ub824\ub294 \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "Data Center"
+    ]
+  },
+  "671fb79a789691b2465c4171854cb556d14080ee": {
+    "headline_ko": "AWS, \uc774\ub780 \uacf5\uaca9\uc73c\ub85c \ud0c0\uaca9 \uc785\uc740 data center\uc5d0 \ub300\ud55c \uc811\uadfc \ubcf5\uad6c \ubd88\uac00",
+    "summary_ko": "\ud53c\ud574\uac00 availability zone \uc124\uacc4\uac00 \uacac\ub514\ub3c4\ub85d \uc124\uacc4\ub41c \ubc94\uc704\ub97c \ucd08\uacfc\ud588\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "a2a110f5493b4529ab071c522366246c8b905da9": {
+    "headline_ko": "Schneider Electric, AI data center\uc6a9 2.5MW \uc804\ub825 \ubaa8\ub4c8 \uacf5\uac1c",
+    "summary_ko": "\ud504\ub9ac\ud339 \ubaa8\ub4c8\uc774 \uc124\uce58 \uc2dc\uac04\uc744 \ub2e8\ucd95\ud560 \uc218 \uc788\ub2e4\uace0 \uc5c5\uccb4\ub294 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
   }
 }
