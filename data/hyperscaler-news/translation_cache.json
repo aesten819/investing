@@ -7060,5 +7060,98 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "c2f1a2586a3e4a9cdea43c667dbe18ccd52ba559": {
+    "headline_ko": "\uc9c0\ub2a5\ud615 \uc548\uc804 \uc194\ub8e8\uc158\uc73c\ub85c Data Center \ubcf5\uc6d0\ub825 \ud5a5\uc0c1",
+    "summary_ko": "\uc9c0\ub2a5\ud615 \uc548\uc804 \uc194\ub8e8\uc158\uc744 \ud1b5\ud574 Data Center \ubcf5\uc6d0\ub825\uc744 \ud5a5\uc0c1\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "cf30585060fbf761da112e51834cbf3024386ee6": {
+    "headline_ko": "\uac00\uc2a4\uc5d0 \ub0c9\ub2f4\ud574\uc9c0\ub294 \uae30\uc5c5\ub4e4",
+    "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130\uac00 \uac00\uc2a4 \ud30c\uc774\ud504\ub77c\uc778\uc5d0 \uc5f0\uacb0\ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "43099f64cd8741c0b5f6e72f0cb73af98f3d3d20": {
+    "headline_ko": "data center \uc131\uc7a5\uc758 \ub2e4\uc74c \ub2e8\uacc4\ub294 \uc778\ub3c4 \ud655\uc2e4\uc131\uc774 \uc88c\uc6b0\ud560 \uac83",
+    "summary_ko": "data center \uc218\uc694\ub294 \uac15\ud558\uc9c0\ub9cc \uc131\uacf5\uc740 \uc778\ub3c4 \uc5ed\ub7c9\uc774 \uc88c\uc6b0\ud560 \uac83\uc774\uba70, \uc804\ub825\u00b7\uc778\ub825\u00b7\uacf5\uae09\ub9dd \uc81c\uc57d\uc774 \uc0c8\ub85c\uc6b4 \uacbd\uc7c1\uc758 \uc7a5\uc774 \ub420 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "f5d82b71c4dd171ae243bc4db65bc3fd5a6d6a27": {
+    "headline_ko": "AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Rebellions, ai&\uc640 \uc77c\ubcf8 AI infrastructure \uad6c\ucd95 \ud611\ub825",
+    "summary_ko": "ai&\ub294 Rebellions\uc758 RebelRack infrastructure\ub97c \ucd5c\ub300 100\ub300 \uad6c\ub9e4\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "9b773625a1f0da1beceff28ad580bc0611018be7": {
+    "headline_ko": "Data Center 800VDC \ubcf4\ud638",
+    "summary_ko": "\ucc28\uc138\ub300 AI Data Center \ud6a8\uc728\uc131\uc744 \uc2e4\ud604\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
+  },
+  "e565fb1a06fd6a6adae786f50d32904b3e2efab2": {
+    "headline_ko": "\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, \uc870\uc9c0\uc544\uc8fc \uc560\ud2c0\ub79c\ud0c0 \uc678\uacfd\uc5d0 2\uac1c \ub3d9 \uaddc\ubaa8 \ucea0\ud37c\uc2a4 \uac1c\ubc1c \uc2e0\uccad",
+    "summary_ko": "\uc720\ub2c8\uc5b8\uc2dc\ud2f0\uc5d0\uc11c \uacc4\ud68d\uc744 \ud655\ub300\ud55c\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "Data Center"
+    ]
+  },
+  "6df87ae148a6d26845c58872ca64cea9af57ab47": {
+    "headline_ko": "Google, \ub274\uba55\uc2dc\ucf54 data center \uac1c\ubc1c \uac80\ud1a0",
+    "summary_ko": "\uac80\uc0c9 \ub300\uae30\uc5c5 Google\uc774 \ub274\uba55\uc2dc\ucf54\uc8fc \uccab \uc2dc\uc124\uc744 \uac80\ud1a0\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center"
+    ]
+  },
+  "a4d4d9c49d6ca4d06bfe7325db8a3760746da84d": {
+    "headline_ko": "NorthC, \ub3c5\uc77c \ud504\ub791\ud06c\ud478\ub974\ud2b8 data center \ucc29\uacf5",
+    "summary_ko": "6MW \uaddc\ubaa8 \uc2dc\uc124\uc774 2028\ub144 \uac00\ub3d9\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "de92e32fad5a3d4031cbf4682ecfc33bbbe4f1df": {
+    "headline_ko": "Aligned, \ud39c\uc2e4\ubca0\uc774\ub2c8\uc544\uc5d0\uc11c GW \uaddc\ubaa8 data center \ucea0\ud37c\uc2a4 \ucc29\uacf5",
+    "summary_ko": "\ud68c\uc0ac\ub294 Shippingport\uc5d0\uc11c \uacf5\uc0ac\ub97c \uc2dc\uc791\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "b18671620b04edba4535ebf7ba2180df65147ff0": {
+    "headline_ko": "\uc804 Global Switch \uc784\uc6d0\ub4e4, AI\u00b7\ud074\ub77c\uc6b0\ub4dc \uc778\ud504\ub77c \ud22c\uc790\uc0ac \uc774\ub048\ub2e4",
+    "summary_ko": "\ubbfc\uac04 \ud22c\uc790\uc790 Margaux Platforms\uc758 \uc9c0\uc6d0\uc744 \ubc1b\ub294\ub2e4.",
+    "tags_ko": [
+      "Capex"
+    ]
+  },
+  "6e2636561b4ae235cb531aea5daf91e44b313ab7": {
+    "headline_ko": "Google, Nvidia, Emerald AI\uac00 data center \ubd80\ubb38\uc758 \uc218\uc694\ubc18\uc751 \uc5ed\ub7c9\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 AI Energy Management Alliance\ub97c \uc124\ub9bd\ud588\ub2e4",
+    "summary_ko": "Anthropic\uacfc RWE\ub97c \ube44\ub86f\ud55c \uc5ec\ub7ec \ucd9c\ubc94 \ud30c\ud2b8\ub108\uac00 \ucc38\uc5ec\ud588\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "b15df1f17f4bb964cbfbd41470732d7a41a5b492": {
+    "headline_ko": "Magnora, \uc5d0\uc2a4\ud1a0\ub2c8\uc544 data center \ud504\ub85c\uc81d\ud2b8 \ud569\uc791 \ucc38\uc5ec",
+    "summary_ko": "Magnora\ub294 \uc7ac\uc0dd\uc5d0\ub108\uc9c0 \uae30\uc5c5 Sunly\uc640 \ud30c\ud2b8\ub108\uc2ed\uc744 \ub9fa\ub294\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
   }
 }
