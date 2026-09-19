@@ -5,6 +5,7 @@ import {
   CircleDollarSign,
   Database,
   ExternalLink,
+  Flame,
   LayoutDashboard,
   LineChart,
   Newspaper,
@@ -73,8 +74,9 @@ const metricIcons: Record<MetricKey, typeof Activity> = {
 };
 
 const MomentumPage = lazy(() => import("./MomentumPage"));
+const LngSpreadsPage = lazy(() => import("./LngSpreadsPage"));
 
-type PageKey = "hyperscaler" | "memoryNews" | "infraNews" | "momentum";
+type PageKey = "hyperscaler" | "memoryNews" | "infraNews" | "momentum" | "lng";
 type TopChartScope = "aggregate" | Ticker;
 type TopChartPoint = {
   quarter: string;
@@ -90,6 +92,7 @@ type TopChartPoint = {
 
 const navItems: Array<{ key: PageKey; label: string; kicker: string; icon: typeof Activity }> = [
   { key: "momentum", label: "모멘텀 맵", kicker: "market rotation", icon: Activity },
+  { key: "lng", label: "LNG 스프레드", kicker: "energy spreads", icon: Flame },
   {
     key: "hyperscaler",
     label: "Hyperscaler",
@@ -683,7 +686,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    document.title = activePage === "momentum" ? "모멘텀 맵 | Investing Desk" : "Hyperscaler Infrastructure Monitor";
+    document.title = activePage === "lng" ? "LNG 스프레드 | Investing Desk" : activePage === "momentum" ? "모멘텀 맵 | Investing Desk" : "Hyperscaler Infrastructure Monitor";
   }, [activePage]);
 
   return (
@@ -720,6 +723,7 @@ export default function App() {
       </aside>
 
       <div className="page-frame">
+        {activePage === "lng" && <Suspense fallback={<p role="status" style={{padding: 32}}>LNG 스프레드를 불러오는 중입니다.</p>}><LngSpreadsPage /></Suspense>}
         {activePage === "momentum" && <Suspense fallback={<p role="status" style={{padding: 32}}>모멘텀 맵을 불러오는 중입니다.</p>}><MomentumPage /></Suspense>}
         {activePage === "hyperscaler" && <HyperscalerPage />}
         {activePage === "memoryNews" && <MemoryNewsPage />}
