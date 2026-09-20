@@ -1,7 +1,102 @@
 {
-  "generated_at": "2026-09-19T01:17:07.514592+00:00",
+  "generated_at": "2026-09-20T01:18:17.857405+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "d88dcc91fd5b",
+      "headline": "US Rises Again as Synergy Updates Its Ranking of Hyperscale Data Center Locations",
+      "summary": "US Rises Again as Synergy Updates Its Ranking of Hyperscale Data Center Locations",
+      "url": "https://www.srgresearch.com/articles/us-rises-again-as-synergy-updates-its-ranking-of-hyperscale-data-center-locations",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-09-20T01:18:13.608672+00:00",
+      "tags": [
+        "Data Center",
+        "Colocation"
+      ],
+      "headline_ko": "\ubbf8\uad6d, Synergy\uc758 hyperscale data center \uc704\uce58 \uc21c\uc704 \uc5c5\ub370\uc774\ud2b8\uc5d0\uc11c \ub2e4\uc2dc \ubd80\uc0c1",
+      "summary_ko": "Synergy Research\uac00 \uc5c5\ub370\uc774\ud2b8\ud55c hyperscale data center \uc704\uce58 \uc21c\uc704\uc5d0\uc11c \ubbf8\uad6d\uc774 \ub2e4\uc2dc \uc0c1\uc2b9\uc138\ub97c \ubcf4\uc600\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "a991d5035620",
+      "headline": "Synergy Reports that U.S. Data Center Capacity Will Continue to Balloon Despite Increasing Headwinds",
+      "summary": "Synergy Reports that U.S. Data Center Capacity Will Continue to Balloon Despite Increasing Headwinds",
+      "url": "https://www.srgresearch.com/articles/synergy-reports-that-us-data-center-capacity-will-continue-to-balloon-despite-increasing-headwinds",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-09-20T01:18:13.608672+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "\uc2dc\ub108\uc9c0 \ub9ac\uc11c\uce58 \ubcf4\uace0\uc11c: \uc99d\uac00\ud558\ub294 \uc5ed\ud48d\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc740 \uacc4\uc18d \uc99d\uac00\ud560 \uc804\ub9dd",
+      "summary_ko": "\uc2dc\ub108\uc9c0 \ub9ac\uc11c\uce58 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74 \uc99d\uac00\ud558\ub294 \uc5ed\ud48d\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc740 \uacc4\uc18d \uc99d\uac00\ud560 \uc804\ub9dd\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "38dfe968370a",
+      "headline": "U.S. Hyperscale Investment Shifts Decisively Inland",
+      "summary": "U.S. Hyperscale Investment Shifts Decisively Inland",
+      "url": "https://www.srgresearch.com/articles/focus-of-us-hyperscale-investment-shifts-dramatically-inland",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-09-20T01:18:13.608672+00:00",
+      "tags": [
+        "Capex",
+        "Colocation"
+      ],
+      "headline_ko": "\ubbf8\uad6d \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ud22c\uc790, \ub0b4\ub959\uc73c\ub85c \ud655\uc2e4\ud788 \uc774\ub3d9",
+      "summary_ko": "\ubbf8\uad6d \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ud22c\uc790, \ub0b4\ub959\uc73c\ub85c \ud655\uc2e4\ud788 \uc774\ub3d9",
+      "tags_ko": [
+        "Capex",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "ef3e94d0cb89",
+      "headline": "Hyperscale Operators to Account for 67% of all Data Center Capacity by 2031",
+      "summary": "Hyperscale Operators to Account for 67% of all Data Center Capacity by 2031",
+      "url": "https://www.srgresearch.com/articles/hyperscale-operators-to-account-for-67-of-all-data-center-capacity-by-2031",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-09-20T01:18:13.608672+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ],
+      "headline_ko": "2031\ub144\uae4c\uc9c0 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uc6b4\uc601\uc790, \uc804\uccb4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 67% \ucc28\uc9c0\ud560 \uac83",
+      "summary_ko": "2031\ub144\uae4c\uc9c0 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uc6b4\uc601\uc790\uac00 \uc804\uccb4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 67%\ub97c \ucc28\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub429\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\uc6a9\ub7c9",
+        "\ucf54\ub85c\ucf00\uc774\uc158"
+      ]
+    },
+    {
+      "id": "f438cf0d49c3",
+      "headline": "Speed-to-power: Closing the gap between AI demand and energy delivery",
+      "summary": "Speed-to-power: Closing the gap between AI demand and energy delivery",
+      "url": "https://www.datacenterfrontier.com/white-papers/whitepaper/55398019/speed-to-power-closing-the-gap-between-ai-demand-and-energy-delivery",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-09-20T01:18:13.608672+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Speed-to-power: AI \uc218\uc694\uc640 \uc5d0\ub108\uc9c0 \uacf5\uae09 \uac04\uc758 \uaca9\ucc28 \ud574\uc18c",
+      "summary_ko": "Speed-to-power: AI \uc218\uc694\uc640 \uc5d0\ub108\uc9c0 \uacf5\uae09 \uac04\uc758 \uaca9\ucc28 \ud574\uc18c",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
     {
       "id": "8ebaff8fdc25",
       "headline": "Neocloud Market Forecast to Approach $400B by 2031, Driven by Surging AI Infrastructure Demand",
@@ -2800,105 +2895,14 @@
       "tags_ko": [
         "Capacity"
       ]
-    },
-    {
-      "id": "ba39648094f0",
-      "headline": "Using waste heat from data centers",
-      "summary": "Turning digital heat into community warmth",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/using-waste-heat-from-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-07T10:52:24+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \ud3d0\uc5f4 \ud65c\uc6a9",
-      "summary_ko": "\ub514\uc9c0\ud138 \uc5f4\uc744 \uc9c0\uc5ed\uc0ac\ud68c\uc758 \uc628\uae30\ub85c \uc804\ud658\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "711007516249",
-      "headline": "Stulz launches new air cooling systems for Edge data centers",
-      "summary": "Updates product line aimed at small facilities",
-      "url": "https://www.datacenterdynamics.com/en/news/stulz-launches-new-air-cooling-systems-for-edge-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-07T10:52:00+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "Stulz, Edge data center\uc6a9 \uc2e0\uaddc \uacf5\ub7ad\uc2dd \ub0c9\uac01 \uc2dc\uc2a4\ud15c \ucd9c\uc2dc",
-      "summary_ko": "\uc18c\uaddc\ubaa8 \uc2dc\uc124\uc744 \uaca8\ub0e5\ud574 \uc81c\ud488 \ub77c\uc778\uc744 \uc5c5\ub370\uc774\ud2b8\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "f952d409ac00",
-      "headline": "ERCOT to complete Texas data center audit by December",
-      "summary": "Audit ordered by governor last month",
-      "url": "https://www.datacenterdynamics.com/en/news/ercot-to-complete-texas-data-center-audit-by-december/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-07T10:45:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "ERCOT, \ud14d\uc0ac\uc2a4 data center \uac10\uc0ac\ub97c 12\uc6d4\uae4c\uc9c0 \uc644\ub8cc \uc608\uc815",
-      "summary_ko": "\uc9c0\ub09c\ub2ec \ud14d\uc0ac\uc2a4 \uc8fc\uc9c0\uc0ac\uac00 \uc9c0\uc2dc\ud55c \uac10\uc0ac\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "35f040ce6800",
-      "headline": "Ireland weighs cut-price gas for data centers in exchange for curtailment - report",
-      "summary": "Facilities would have to temporarily power down during periods of high demand",
-      "url": "https://www.datacenterdynamics.com/en/news/ireland-weighs-cut-price-gas-for-data-centers-in-exchange-for-curtailment-report/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-07T10:41:59+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\uc544\uc77c\ub79c\ub4dc, \uc218\uc694 \uac10\ucd95 \uc870\uac74\uc73c\ub85c data center\uc5d0 \uc800\uac00 \uac00\uc2a4 \uacf5\uae09 \ubc29\uc548 \uac80\ud1a0 - \ubcf4\ub3c4",
-      "summary_ko": "\uc774\ub4e4 \uc2dc\uc124\uc740 \uc804\ub825 \uc218\uc694\uac00 \ub192\uc740 \uc2dc\uac04\ub300\uc5d0 \uc77c\uc2dc\uc801\uc73c\ub85c \uac00\ub3d9\uc744 \uc911\ub2e8\ud574\uc57c \ud55c\ub2e4.",
-      "tags_ko": [
-        "data center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "0ee86c68a0c9",
-      "headline": "Thailand pauses construction on 49 data centers, as it plans new regulations",
-      "summary": "Due to growing concerns over power consumption and local community impacts",
-      "url": "https://www.datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-07T10:19:41+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\ud0dc\uad6d, \uc2e0\uaddc \uaddc\uc81c \uacc4\ud68d\ud558\uba70 data center 49\uacf3 \uac74\uc124 \uc77c\uc2dc \uc911\ub2e8",
-      "summary_ko": "\uc804\ub825 \uc18c\ube44\uc640 \uc9c0\uc5ed \uc0ac\ud68c \uc601\ud5a5\uc5d0 \ub300\ud55c \uc6b0\ub824\uac00 \ucee4\uc9c0\uace0 \uc788\uae30 \ub54c\ubb38\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-19T01:18:20.718762+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-09-20T01:18:17.932831+00:00",
+    "cached": 160,
+    "translated": 0,
     "skipped": 0
   }
 }
