@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:18:17.857405+00:00",
+  "generated_at": "2026-09-21T01:13:24.059587+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -1735,23 +1735,6 @@
       ]
     },
     {
-      "id": "6f1b87ea5b9b",
-      "headline": "Urban Data Centers: Who Needs Them and Where to Find Them",
-      "summary": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub3c4\uc2dc\ud615 data center: \ub204\uac00 \ud544\uc694\ub85c \ud558\uba70 \uc5b4\ub514\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc788\ub098",
-      "summary_ko": "\ub3c4\uc2dc\ud615 data center\ub294 metro \uc6cc\ud06c\ub85c\ub4dc\uc5d0 \ub0ae\uc740 \uc9c0\uc5f0\uc2dc\uac04\uacfc \ud48d\ubd80\ud55c interconnection\uc744 \uc81c\uacf5\ud558\uba70, \uc5b8\uc81c \uc801\ud569\ud55c\uc9c0, \uc8fc\uc694 trade-off\ub294 \ubb34\uc5c7\uc778\uc9c0, \uc801\ud569\ud55c \uacf5\uae09\uc790\ub97c \ucc3e\ub294 \ubc29\ubc95\uc744 \uc54c\uc544\ubcf8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
       "id": "9cf8b29b82a0",
       "headline": "How AI Is Reshaping Subsea and Terrestrial Networks",
       "summary": "Hyperscalers are driving new subsea builds directly into data centers. Here\u2019s how SDM cables, 800G coherent pluggables, and optical pass-through are changing end-to-end network design.",
@@ -1764,6 +1747,23 @@
       ],
       "headline_ko": "AI\uac00 \ud574\uc800 \ubc0f \uc721\uc0c1 \ub124\ud2b8\uc6cc\ud06c\ub97c \uc7ac\ud3b8\ud558\ub294 \ubc29\uc2dd",
       "summary_ko": "hyperscaler\ub4e4\uc774 \ub370\uc774\ud130 \uc13c\ud130\ub85c \uc9c1\uc811 \uc774\uc5b4\uc9c0\ub294 \uc0c8\ub85c\uc6b4 \ud574\uc800\ub9dd \uad6c\ucd95\uc744 \uc8fc\ub3c4\ud558\ub294 \uac00\uc6b4\ub370, SDM \ucf00\uc774\ube14, 800G coherent pluggables, optical pass-through\uac00 end-to-end \ub124\ud2b8\uc6cc\ud06c \uc124\uacc4\ub97c \uc5b4\ub5bb\uac8c \ubc14\uafb8\ub294\uc9c0 \uc9da\ub294\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "6f1b87ea5b9b",
+      "headline": "Urban Data Centers: Who Needs Them and Where to Find Them",
+      "summary": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\ub3c4\uc2dc\ud615 data center: \ub204\uac00 \ud544\uc694\ub85c \ud558\uba70 \uc5b4\ub514\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc788\ub098",
+      "summary_ko": "\ub3c4\uc2dc\ud615 data center\ub294 metro \uc6cc\ud06c\ub85c\ub4dc\uc5d0 \ub0ae\uc740 \uc9c0\uc5f0\uc2dc\uac04\uacfc \ud48d\ubd80\ud55c interconnection\uc744 \uc81c\uacf5\ud558\uba70, \uc5b8\uc81c \uc801\ud569\ud55c\uc9c0, \uc8fc\uc694 trade-off\ub294 \ubb34\uc5c7\uc778\uc9c0, \uc801\ud569\ud55c \uacf5\uae09\uc790\ub97c \ucc3e\ub294 \ubc29\ubc95\uc744 \uc54c\uc544\ubcf8\ub2e4.",
       "tags_ko": [
         "Data Center"
       ]
@@ -2900,7 +2900,7 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-20T01:18:17.932831+00:00",
+    "generated_at": "2026-09-21T01:13:24.131410+00:00",
     "cached": 160,
     "translated": 0,
     "skipped": 0
