@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-09-21T01:03:04.257493+00:00",
+  "generated_at": "2026-09-22T01:35:42.048965+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "ebe3d590c5a4",
+      "headline": "Stronger North American Demand to Keep Enterprise SSD Prices on an Upward Trend in 4Q26, Says TrendForce",
+      "summary": "U.S.",
+      "url": "https://www.trendforce.com/presscenter/news/20260921-13246.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-09-21T05:46:21+00:00",
+      "tags": [
+        "SSD",
+        "Pricing"
+      ],
+      "headline_ko": "TrendForce \"\ubd81\ubbf8 \uc218\uc694 \uac15\uc138\ub85c 4Q26 \uae30\uc5c5\uc6a9 SSD \uac00\uaca9 \uc0c1\uc2b9\uc138 \uc9c0\uc18d \uc804\ub9dd\"",
+      "summary_ko": "\ubbf8\uad6d.",
+      "tags_ko": [
+        "SSD",
+        "\uac00\uaca9"
+      ]
+    },
     {
       "id": "bf3a85fb3f9f",
       "headline": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S.",
@@ -1466,35 +1485,14 @@
       "tags_ko": [
         "Memory"
       ]
-    },
-    {
-      "id": "b67b67720fe6",
-      "headline": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure",
-      "summary": "Collaboration spans memory and storage AI architecture design, supply agreement, enterprise AI adoption and a strategic investment BOISE, Idaho, June 22, 2026 (GLOBE NEWSWIRE) --...",
-      "url": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next",
-      "source": "Micron",
-      "source_id": "micron",
-      "published_at": "2026-06-22T13:00:15+00:00",
-      "tags": [
-        "SSD",
-        "Memory",
-        "Capacity"
-      ],
-      "headline_ko": "Micron\uacfc Anthropic, \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ud655\uc7a5\uc744 \uc704\ud55c \uc804\ub7b5\uc801 \uacc4\uc57d \ubc1c\ud45c",
-      "summary_ko": "Micron\uacfc Anthropic\uc774 \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ud655\uc7a5\uc744 \uc704\ud574 \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 AI \uc544\ud0a4\ud14d\ucc98 \uc124\uacc4, \uacf5\uae09 \uacc4\uc57d, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ub3c4\uc785 \ubc0f \uc804\ub7b5\uc801 \ud22c\uc790\uc5d0 \ud611\ub825\ud55c\ub2e4.",
-      "tags_ko": [
-        "SSD",
-        "Memory",
-        "Capacity"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-21T01:03:04.319131+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-09-22T01:35:46.266549+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
