@@ -7277,5 +7277,125 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "31ba4c4b836244407a971c22d6d7fd3b4a30eb7b": {
+    "headline_ko": "Data Centre West 2026: \uc568\ubc84\ud0c0, \uc6c0\uc9c1\uc774\ub2e4",
+    "summary_ko": "Data Centre West 2026: \uc568\ubc84\ud0c0\uac00 \uc6c0\uc9c1\uc774\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c4c78c7281fc965b01ff5655b64993d082859b67": {
+    "headline_ko": "Data Center \uc124\uacc4\uc758 \uc9c4\ud654: AI \uc694\uad6c \ucda9\uc871",
+    "summary_ko": "Data Center \uc124\uacc4\uac00 AI\uc758 \uc694\uad6c\ub97c \ucda9\uc871\ud558\uae30 \uc704\ud574 \uc9c4\ud654\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "09053583556c606d5464b17acec8c3e895f6d76e": {
+    "headline_ko": "AI data center \ub0c9\uac01 \ud655\uc7a5: \uc18d\ub3c4, \ud6a8\uc728\uc131, \uc2e0\ub8b0\uc131",
+    "summary_ko": "AI data center \ub0c9\uac01 \ud655\uc7a5\uc758 \ud575\uc2ec\uc740 \uc18d\ub3c4, \ud6a8\uc728\uc131, \uc2e0\ub8b0\uc131\uc774\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "24d15fe6d207c125ae44225eabc146de8c58c238": {
+    "headline_ko": "\uae30\uc5c5\ub4e4, AI \ubc0f \ud558\uc774\ube0c\ub9ac\ub4dc \ud074\ub77c\uc6b0\ub4dc \uc774\ub2c8\uc154\ud2f0\ube0c\uc5d0 colocation \ub3c4\uc785",
+    "summary_ko": "\uae30\uc5c5\ub4e4\uc740 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \ud638\uc2a4\ud305, \ud558\uc774\ube0c\ub9ac\ub4dc \ud074\ub77c\uc6b0\ub4dc \ubaa8\ub378 \uad6c\ucd95, \uc99d\ubd84 capacity \ucd94\uac00, \uc5f0\uacb0\uc131 \uac1c\uc120, \ube44\uc6a9 \uc808\uac10\uc744 \uc704\ud574 \uc804\ub7b5\uc801\uc73c\ub85c colocation data center\ub97c \uc120\ud0dd\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Colocation"
+    ]
+  },
+  "8dcf06ecc138e86e0c96067fff4a0cb36510359e": {
+    "headline_ko": "LG, AI data center\uc6a9 \uc6d0\uc2ec \uacf5\ub7ad \uc2dc\uc2a4\ud15c \ucd9c\uc2dc",
+    "summary_ko": "\ub9c8\uadf8\ub124\ud2f1 \uc2dc\uc2a4\ud15c\uc5d0\ub294 \uc624\uc77c\uc774 \ud544\uc694\ud558\uc9c0 \uc54a\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "3fe8eefcb6c193e0e9e8982832a99bedb68b2a10": {
+    "headline_ko": "Valorem, \ud540\ub780\ub4dc Savonlinna\uc640 Kankaanp\u00e4\u00e4\uc5d0\uc11c data center \uac80\ud1a0",
+    "summary_ko": "\ud504\ub791\uc2a4 \uc5d0\ub108\uc9c0 \uae30\uc5c5\uc774 pipeline\uc5d0 data center \ud504\ub85c\uc81d\ud2b8\ub97c \ub354 \ucd94\uac00\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "5de169fd3138179c5921e71030f3012b6f778e68": {
+    "headline_ko": "Kodiak Gas Services, \uc6e8\uc2a4\ud2b8\ud14d\uc0ac\uc2a4 data center\uc5d0 76MW behind-the-meter \uac00\uc2a4 \uc804\ub825 \uacf5\uae09 \uc608\uc815",
+    "summary_ko": "\ucc9c\uc5f0\uac00\uc2a4 \uc5f0\ub8cc \uc655\ubcf5\ud615 \ubc1c\uc804\uae30 40\uae30\ub97c \ubc30\uce58\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "fb732fa6f20b4392a7731588df9d8190c2f3d4c2": {
+    "headline_ko": "GlobalFoundries\uc640 Marvell, \uad11\ud559 \uae30\uc220 \ub2e4\ub144 \uac1c\ubc1c \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "\uc591\uc0ac\ub294 GF\uc758 \ubc84\ubaac\ud2b8\uc8fc \ubc8c\ub9c1\ud134 \uc2dc\uc124\uc5d0\uc11c \uc2e4\ub9ac\ucf58 \uac8c\ub974\ub9c8\ub284 capacity\ub97c \ud655\ub300\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Capacity"
+    ]
+  },
+  "434c4bda42565fa48fbbc55f8fe8fcd4e6075891": {
+    "headline_ko": "Google\uc774 \uc9c0\uc6d0\ud55c \ud14d\uc0ac\uc2a4 \ubc30\ud130\ub9ac \uc800\uc7a5 \ud30c\uc77c\ub7ff, BESS\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc2dc\uac04\ubcc4 \ubb34\ud0c4\uc18c \ub9e4\uce6d\uc744 \uac1c\uc120\ud560 \uc218 \uc788\uc74c\uc744 \uc785\uc99d",
+    "summary_ko": "Quintrace, esVolta, LevelTen Energy\uac00 \uc218\ud589\ud55c \ud30c\uc77c\ub7ff\uc774\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "fa2012f1a23ef7009c535bcbacecbbc774072cd7": {
+    "headline_ko": "Prysmian, Rio Tinto, \uc624\ud558\uc774\uc624 Amazon data center\uc5d0 \uc800\ud0c4\uc18c \uc54c\ub8e8\ubbf8\ub284 \uacf5\uae09",
+    "summary_ko": "data center\uc5d0 \uc804\uae30 \ucf00\uc774\ube14\uc744 \uacf5\uae09\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c035f644d4888c8bd40a69657a0d7ea8d93a7e2a": {
+    "headline_ko": "OData, \ube0c\ub77c\uc9c8\u00b7\uba55\uc2dc\ucf54 data center\uc5d0 Aligned\uc758 DeltaFlow liquid cooling \uc2dc\uc2a4\ud15c \ub3c4\uc785",
+    "summary_ko": "\uc774 \ud504\ub85c\uc81d\ud2b8\uc5d0\ub294 6\uc5b5 3,000\ub9cc \ub2ec\ub7ec\uac00 \uc18c\uc694\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "a1ef92f52683b1a098b7679dacca1e123fd159e7": {
+    "headline_ko": "IBM\uacfc ETH \ucde8\ub9ac\ud788, \uc2a4\uc704\uc2a4 \ub8e8\uac00\ub178\uc5d0 \ud638\uc2a4\ud305\ub420 \uc591\uc790\ucef4\ud4e8\ud130 \uacf5\ub3d9 \uac1c\ubc1c",
+    "summary_ko": "\uc2a4\uc704\uc2a4 \uad6d\ub9bd \uc288\ud37c\ucef4\ud4e8\ud305\uc13c\ud130\uc758 \uc0c8 \uc2dc\uc2a4\ud15c\uc740 \ubbfc\uac04 \uae30\uc5c5\uacfc \ub2e4\ub978 \uace0\ub4f1\uad50\uc721 \uae30\uad00\uc774 \uc774\uc6a9\ud560 \uc218 \uc788\uac8c \ub41c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "5c5875c6762ff0e89869b8e3281d4c0cb9d8bf25": {
+    "headline_ko": "Nabiax, \uc2a4\ud398\uc778 \ub9c8\ub4dc\ub9ac\ub4dc\uc5d0 100MW data center \ucc29\uacf5",
+    "summary_ko": "Nabiax\ub294 \ub9c8\ub4dc\ub9ac\ub4dc\uc640 \uce74\ud0c8\ub8e8\ub0d0\ub97c \ud3ec\ud568\ud55c \uc2a4\ud398\uc778\uc5d0\uc11c 135MW capacity\uc5d0 \ub3c4\ub2ec\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "9cecda0d56cfbf1345ac2e8c443fcf858eae890a": {
+    "headline_ko": "\uc624\ub9cc\uc758 O-Green, 2028\ub144\uae4c\uc9c0 data center capacity 200MW \ubaa9\ud45c",
+    "summary_ko": "\ud68c\uc0ac\ub294 \uc624\ub9cc\uacfc \uc720\ub7fd\uc5d0 \uc788\ub294 \uc790\uc0ac data center\uac00 \uc800\ube44\uc6a9 \uc7ac\uc0dd\uc5d0\ub108\uc9c0\ub85c \uc804\ub825\uc744 \uacf5\uae09\ubc1b\uc744 \uac83\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "ad8c372decb6d890c008223c4fb6195577384a06": {
+    "headline_ko": "\uc804\ub825\ub9dd \uc81c\uc57d\uc73c\ub85c \ub124\ub35c\ub780\ub4dc data center, \uc554\uc2a4\ud14c\ub974\ub2f4 \ubc16\uc73c\ub85c \uc774\ub3d9",
+    "summary_ko": "\uc554\uc2a4\ud14c\ub974\ub2f4\uc740 \uc5ec\uc804\ud788 \uc720\ub7fd \ucd5c\uc0c1\uc704 data center \ud5c8\ube0c\uc9c0\ub9cc, \uc804\ub825 \uc81c\uc57d\uc73c\ub85c \uc2e0\uaddc capacity\uac00 \uac00\uc6a9 \uc804\ub825\ub9dd \uc5f0\uacb0\uc744 \uac16\ucd98 \ub85c\ud14c\ub974\ub2f4\uacfc \uae30\ud0c0 \ub124\ub35c\ub780\ub4dc \uc9c0\uc5ed \uc2dc\uc7a5\uc73c\ub85c \uc774\ub3d9\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
   }
 }
