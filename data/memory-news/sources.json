@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:35:42.048965+00:00",
+  "generated_at": "2026-09-23T01:29:02.341554+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -13,7 +13,7 @@
       "name": "SK hynix Newsroom",
       "url": "https://news.skhynix.com/feed/",
       "status": "ok",
-      "article_count": 1
+      "article_count": 0
     },
     {
       "id": "micron",
@@ -28,7 +28,7 @@
       "name": "TrendForce",
       "url": "https://www.trendforce.com/feed/Semiconductors.html",
       "status": "ok",
-      "article_count": 4
+      "article_count": 5
     },
     {
       "id": "semiconductor_today",

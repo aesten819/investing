@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-22T01:35:42.048965+00:00",
+  "generated_at": "2026-09-23T01:29:02.341554+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "8486cad4d38d",
+      "headline": "DRAM Module Revenue Surges 59% YoY in 2025 as Crowding-Out Effect Constrains Chip Supply and Drives Prices Higher, Says TrendForce",
+      "summary": "According to TrendForce statistics, the global DRAM module market generated $21.2 billion in revenue in 2025, up a strong 59% YoY.",
+      "url": "https://www.trendforce.com/presscenter/news/20260922-13249.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-09-22T05:38:23+00:00",
+      "tags": [
+        "DRAM",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "TrendForce: DRAM \ubaa8\ub4c8 \ub9e4\ucd9c, 2025\ub144 \uc804\ub144 \ub300\ube44 59% \uae09\uc99d... \uad6c\ucd95 \ud6a8\uacfc\ub85c \uce69 \uacf5\uae09 \uc81c\uc57d, \uac00\uaca9 \uc0c1\uc2b9",
+      "summary_ko": "TrendForce \ud1b5\uacc4\uc5d0 \ub530\ub974\uba74, 2025\ub144 \uae00\ub85c\ubc8c DRAM \ubaa8\ub4c8 \uc2dc\uc7a5 \ub9e4\ucd9c\uc740 212\uc5b5 \ub2ec\ub7ec\ub97c \uae30\ub85d\ud558\uba70 \uc804\ub144 \ub300\ube44 59% \uac15\ud558\uac8c \uc99d\uac00\ud588\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uac00\uaca9",
+        "\uc0dd\uc0b0 \ub2a5\ub825"
+      ]
+    },
     {
       "id": "ebe3d590c5a4",
       "headline": "Stronger North American Demand to Keep Enterprise SSD Prices on an Upward Trend in 4Q26, Says TrendForce",
@@ -1468,29 +1489,12 @@
         "SSD",
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "4c6115ab4e68",
-      "headline": "Five things you need to know about SK hynix and the future of AI memory",
-      "summary": "The AI boom has reshaped the priorities of the semiconductor industry.",
-      "url": "https://news.skhynix.com/five-things-you-need-to-know-about-sk-hynix-and-the-future-of-ai-memory/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-06-23T00:00:09+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc640 AI \uba54\ubaa8\ub9ac\uc758 \ubbf8\ub798\uc5d0 \ub300\ud574 \uc54c\uc544\uc57c \ud560 5\uac00\uc9c0",
-      "summary_ko": "AI \ubd90\uc774 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \uc6b0\uc120\uc21c\uc704\ub97c \uc7ac\ud3b8\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Memory"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-22T01:35:46.266549+00:00",
+    "generated_at": "2026-09-23T01:29:15.051556+00:00",
     "cached": 79,
     "translated": 1,
     "skipped": 0
