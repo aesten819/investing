@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-09-23T01:29:02.341554+00:00",
+  "generated_at": "2026-09-24T01:22:14.598197+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "8d58d11b36b2",
+      "headline": "Samsung P9 and P7 Portable SSDs, First Unveiled at Gamescom, To Launch in September",
+      "summary": "Samsung Electronics is officially launching the P9 and P7 in September as the first products in its next-generation portable SSD lineup. The two products...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-p9-and-p7-portable-ssds-first-unveiled-at-gamescom-to-launch-in-september/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-09-23T13:21:25+00:00",
+      "tags": [
+        "SSD"
+      ],
+      "headline_ko": "Samsung P9\u00b7P7 \ud3ec\ud130\ube14 SSD, \uac8c\uc784\uc2a4\ucef4\uc11c \uccab \uacf5\uac1c\u2026 9\uc6d4 \ucd9c\uc2dc",
+      "summary_ko": "Samsung Electronics\ub294 \ucc28\uc138\ub300 \ud3ec\ud130\ube14 SSD \ub77c\uc778\uc5c5\uc758 \uccab \uc81c\ud488\uc73c\ub85c P9\uacfc P7\uc744 9\uc6d4\uc5d0 \uacf5\uc2dd \ucd9c\uc2dc\ud558\uba70, \ub450 \uc81c\ud488\uc740 \uac8c\uc784\uc2a4\ucef4\uc5d0\uc11c \ucc98\uc74c \uacf5\uac1c\ub410\ub2e4.",
+      "tags_ko": [
+        "SSD"
+      ]
+    },
     {
       "id": "8486cad4d38d",
       "headline": "DRAM Module Revenue Surges 59% YoY in 2025 as Crowding-Out Effect Constrains Chip Supply and Drives Prices Higher, Says TrendForce",
@@ -1468,33 +1485,12 @@
         "SSD",
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "ce728598d9c2",
-      "headline": "[Infographic] UFS 5.0 Memory: The Optimal Solution for On-Device AI",
-      "summary": "Samsung Electronics has announced the development of its next-generation Universal Flash Storage (UFS) 5.0 mobile memory solution, setting a new benchmark...",
-      "url": "https://news.samsungsemiconductor.com/global/infographic-ufs-5-0-memory-the-optimal-solution-for-on-device-ai/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-06-23T08:00:00+00:00",
-      "tags": [
-        "NAND",
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] UFS 5.0 \uba54\ubaa8\ub9ac: \uc628\ub514\ubc14\uc774\uc2a4 AI\ub97c \uc704\ud55c \ucd5c\uc801\uc758 \uc194\ub8e8\uc158",
-      "summary_ko": "\uc0bc\uc131\uc804\uc790\uac00 \ucc28\uc138\ub300 Universal Flash Storage (UFS) 5.0 \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uac1c\ubc1c\uc744 \ubc1c\ud45c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uae30\uc900\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-23T01:29:15.051556+00:00",
+    "generated_at": "2026-09-24T01:22:26.577991+00:00",
     "cached": 79,
     "translated": 1,
     "skipped": 0
