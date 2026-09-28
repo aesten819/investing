@@ -7822,5 +7822,12 @@
       "AI Infrastructure",
       "\uc804\ub825"
     ]
+  },
+  "8e554f6402671015032bd12358e89dd096fc7a73": {
+    "headline_ko": "\uc774\uc911\ud654\ub97c \ub118\uc5b4: AI data center\uc5d0\uc11c \ub3d9\uc801 \uc548\uc815\uc131\uc774 \uc911\uc694\ud55c \uc774\uc720",
+    "summary_ko": "data center \ubcf5\uc6d0\ub825\uc758 \ubbf8\ub798\uac00 \uc8fc\uc81c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }

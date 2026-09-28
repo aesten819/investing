@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-09-27T01:33:39.492606+00:00",
+  "generated_at": "2026-09-28T01:45:30.922734+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "0303c85959b3",
+      "headline": "Beyond redundancy: Why dynamic stability matters in AI data centers",
+      "summary": "The future of data center resilience",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-09-27T10:00:31+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc774\uc911\ud654\ub97c \ub118\uc5b4: AI data center\uc5d0\uc11c \ub3d9\uc801 \uc548\uc815\uc131\uc774 \uc911\uc694\ud55c \uc774\uc720",
+      "summary_ko": "data center \ubcf5\uc6d0\ub825\uc758 \ubbf8\ub798\uac00 \uc8fc\uc81c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
     {
       "id": "07de63acd72a",
       "headline": "AI infrastructure will define the next industrial revolution",
@@ -2912,29 +2929,12 @@
       "tags_ko": [
         "data center"
       ]
-    },
-    {
-      "id": "0899810b188f",
-      "headline": "How retrofitting can help win the AI infrastructure race",
-      "summary": "Stop building, start upgrading",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-retrofitting-can-help-win-the-ai-infrastructure-race/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-13T16:00:27+00:00",
-      "tags": [
-        "AI Infrastructure"
-      ],
-      "headline_ko": "\ub9ac\ud2b8\ub85c\ud54f\uc774 AI infrastructure \uacbd\uc7c1 \uc2b9\ub9ac\uc5d0 \uc5b4\ub5bb\uac8c \uae30\uc5ec\ud560 \uc218 \uc788\ub294\uac00",
-      "summary_ko": "\uc2e0\ucd95\uc744 \uba48\ucd94\uace0 \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \uc2dc\uc791\ud558\ub77c.",
-      "tags_ko": [
-        "AI Infrastructure"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-27T01:33:44.797800+00:00",
+    "generated_at": "2026-09-28T01:45:34.841609+00:00",
     "cached": 159,
     "translated": 1,
     "skipped": 0
