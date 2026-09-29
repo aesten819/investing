@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-09-28T01:37:57.439309+00:00",
+  "generated_at": "2026-09-29T02:34:10.839353+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "97c3d8a32865",
+      "headline": "\u201cBehind AI\u2019s Rapid Growth Lies Memory\u201d \u2014 SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "summary": "At the TSMC Open Innovation Platform(OIP) Conference, held on the 23rd(local time) in Santa Clara, California, US, SK hynix shared its next-generation memory portfolio and develop...",
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-09-28T05:23:44+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201cAI\uc758 \ube60\ub978 \uc131\uc7a5 \ub4a4\uc5d0\ub294 \uba54\ubaa8\ub9ac\uac00 \uc788\ub2e4\u201d \u2014 SK hynix, TSMC OIP \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uacf5\uc720",
+      "summary_ko": "SK hynix\ub294 \ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544\uc8fc \uc0b0\ud0c0\ud074\ub77c\ub77c\uc5d0\uc11c 23\uc77c(\ud604\uc9c0\uc2dc\uac04) \uc5f4\ub9b0 TSMC Open Innovation Platform(OIP) \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uc640 \uac1c\ubc1c...\uc744 \uacf5\uc720\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "8d58d11b36b2",
       "headline": "Samsung P9 and P7 Portable SSDs, First Unveiled at Gamescom, To Launch in September",
@@ -1466,33 +1483,14 @@
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "f11c0f00c55e",
-      "headline": "Samsung Unveils Industry\u2019s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
-      "summary": "Samsung\u2019s UFS 5.0 solution achieves industry\u2019s highest data transfer speed of 10.8GB/s, enabling faster storage and processing in mobile memory...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-industrys-most-powerful-ufs-5-0-solution-for-next-gen-on-device-ai-applications/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-06-23T08:00:00+00:00",
-      "tags": [
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 \uc628\ub514\ubc14\uc774\uc2a4 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud55c \uc5c5\uacc4 \ucd5c\uace0 \uc18d\ub3c4 UFS 5.0 \uc194\ub8e8\uc158 \uacf5\uac1c",
-      "summary_ko": "\uc0bc\uc131\uc758 UFS 5.0 \uc194\ub8e8\uc158\uc774 \uc5c5\uacc4 \ucd5c\uace0 \ub370\uc774\ud130 \uc804\uc1a1 \uc18d\ub3c4\uc778 10.8GB/s\ub97c \ub2ec\uc131\ud558\uc5ec \ubaa8\ubc14\uc77c \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub354 \ube60\ub978 \uc800\uc7a5 \ubc0f \ucc98\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-28T01:37:57.521693+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-09-29T02:34:15.968205+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
