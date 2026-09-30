@@ -7943,5 +7943,102 @@
       "Capacity",
       "\uc804\ub825"
     ]
+  },
+  "872cafbfef93b560b77810ec894f92eceb6fffc6": {
+    "headline_ko": "\uc18d\ub3c4, \uc2e0\ub8b0\uc131, \uc7a5\uae30 \uc131\ub2a5\uc744 \uc704\ud55c Data Center Campus \ucf54\ud305 \uc804\ub7b5",
+    "summary_ko": "\uc18d\ub3c4, \uc2e0\ub8b0\uc131, \uc7a5\uae30 \uc131\ub2a5\uc744 \uc704\ud55c Data Center Campus \ucf54\ud305 \uc804\ub7b5\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "699b7cccca4f0cb2bc8b9854f4370739bf437186": {
+    "headline_ko": "\uc804\ub825 \ud488\uc9c8: data center\uac00 \ubb34\uc2dc\ud560 \uc218 \uc5c6\ub294 \ub17c\uc758",
+    "summary_ko": "\uc804\ub825 \ud488\uc9c8\uc740 data center\uac00 \ubb34\uc2dc\ud560 \uc218 \uc5c6\ub294 \ub17c\uc758\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "61f0a378b869155f6df31edd6f7a7ec313c004b6": {
+    "headline_ko": "Infineon\uacfc Eaton, 800VDC \uc804\ub825 \uc544\ud0a4\ud14d\ucc98 \uc9c0\uc6d0 \uc704\ud55c \uc2e4\ub9ac\ucf58\uce74\ubc14\uc774\ub4dc \uae30\ubc18 solid-state transformer \ud611\ub825",
+    "summary_ko": "Infineon\uc758 SiC \uc804\ub825 \uc18c\uc790\uac00 Eaton\uc758 MVSST 2.0 \ud50c\ub7ab\ud3fc\uc5d0 \uc801\uc6a9\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "9d2a3f63b2049e42f5bbce9e35ff8e39acf69e1e": {
+    "headline_ko": "Global Switch, \ud30c\ub9ac data center\uc5d0\uc11c \ub300\uaddc\ubaa8 Nvidia Blackwell \ubc30\ud3ec \ud638\uc2a4\ud305",
+    "summary_ko": "\ucd5c\uc885 \uc0ac\uc6a9\uc790\ub294 \uacf5\uac1c\ub418\uc9c0 \uc54a\uc558\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "a7d41df33a06f936feb57ce6068f8331cf17fa13": {
+    "headline_ko": "Google, \uc544\uc77c\ub79c\ub4dc \ub354\ube14\ub9b0 data center \ud655\uc7a5\uc744 \uc704\ud55c \uacc4\ud68d \ud5c8\uac00 \ud68d\ub4dd",
+    "summary_ko": "An Coimisi\u00fan Plean\u00e1la\uac00 \uacc4\ud68d\uc744 \uc2b9\uc778\ud588\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center"
+    ]
+  },
+  "294e8f10ba7e0c7545a0fcdb31218f83fc4dd203": {
+    "headline_ko": "Meta, Firmus \ub3d9\ub0a8\uc544\uc2dc\uc544 data center\uc758 AI capacity \uc0ac\uc6a9 \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "\uc774\ub294 \ud638\uc8fc\uc5d0\uc11c \uccb4\uacb0\ud55c \uae30\uc874 \uacc4\uc57d\uc744 \ubc14\ud0d5\uc73c\ub85c \ud55c \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "a221e750fa39d1db1f195ee66b420b9e9b2708a6": {
+    "headline_ko": "Fortress Group, \uad11\uc12c\uc720 \uc0ac\uc5c5\uc790 \ub300\uc0c1 \uc778\ub77c\uc778 \uc99d\ud3ed\uae30 \ubaa8\ub4c8 \ucd9c\uc2dc",
+    "summary_ko": "\ud68c\uc0ac\ub294 liquid cooling\uc744 \ud1b5\ud55c \uace0\ubc00\ub3c4 ILA \uad6c\ud604\uc744 \ucd94\uc9c4 \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "11bb2db3204768f08f8601b82da5c37622b08905": {
+    "headline_ko": "Colovore, \ud14d\uc0ac\uc2a4\uc8fc Fort Worth\uc5d0 data center \uac1c\ubc1c \uc2e0\uccad",
+    "summary_ko": "Liquid cooling \ubc29\uc2dd\uc758 data center \uae30\uc5c5 Colovore\uac00 \ud14d\uc0ac\uc2a4\uc8fc\uc5d0\uc11c \ub450 \ubc88\uc9f8 \uc2dc\uc124 \uacc4\ud68d\uc744 \uad6c\uccb4\ud654\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "f05764f1bd5004b9f18fae4517bd33cd1b1d071f": {
+    "headline_ko": "\ud638\uc8fc \uba5c\ubc84\ub978 \uc678\uacfd 400MW data center \ucea0\ud37c\uc2a4 \uacc4\ud68d \uc81c\ucd9c",
+    "summary_ko": "\uc2e0\uaddc \uc0ac\uc5c5\uc790 HyperDC\uac00 Geelong \uc678\uacfd\uc5d0\uc11c \uae30\uc874 \ubcc0\uc804\uc18c\uc640 BESS \ud504\ub85c\uc81d\ud2b8 \uc778\uadfc\uc5d0 data center \ucea0\ud37c\uc2a4\ub97c \uacc4\ud68d\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "0f7c616e0cfbfb5b4625985d303874a3b55ea09e": {
+    "headline_ko": "Submer, \ubaa8\ub4c8\ud615 \ub370\uc774\ud130\uc13c\ud130 \uc778\ud504\ub77c \uc81c\uacf5\ud558\ub294 Corenix \ucd9c\ubc94",
+    "summary_ko": "\uc0c8 \uc0ac\uc5c5\ubd80\ub294 \uace0\uac1d\uc744 \uc704\ud55c \ub9de\ucda4\ud615 \ubaa8\ub4c8\uc744 \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "15704021394e9357683fc9e266d8e32772feebf3": {
+    "headline_ko": "\uc544\ub9c8\uc874, \ud64d\ucf69 data center 2\uacf3 \uc778\uc218",
+    "summary_ko": "\uc544\ub9c8\uc874\uc774 \ud64d\ucf69\uc758 data center 2\uacf3\uc744 \uc778\uc218\ud558\uba70, \ud074\ub77c\uc6b0\ub4dc \uae30\uc5c5\uc774 \uc784\ub300 \uc2dc\uc124\uc744 \uc784\ub300\uc778\uc73c\ub85c\ubd80\ud130 \ub9e4\uc785\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "9e9f2dae91e4869808f082c0c9d6f0288cd9eb80": {
+    "headline_ko": "\uc774\ud0c8\ub9ac\uc544 \u2018\ucd5c\ub300\u2019 data center \uacc4\ud68d \uacf5\uac1c",
+    "summary_ko": "\uac1c\ubc1c\uc0ac Moncalieri Logistics\uac00 \uc774\ubbf8 \uacc4\ud68d\uc744 \uc81c\ucd9c\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "ccdd1f506bc2fda9d574c7f0682338ea772c8928": {
+    "headline_ko": "200 GW\uc758 \uc21c\uac04: AI \uacbd\uc81c\ub97c \uc704\ud55c power grid \uc7ac\uad6c\uc0c1",
+    "summary_ko": "AI\uac00 rack \ubc00\ub3c4\ub97c \uc804\ub840 \uc5c6\ub294 \uc218\uc900\uc73c\ub85c \ub04c\uc5b4\uc62c\ub9ac\uba74\uc11c, \uc720\ud2f8\ub9ac\ud2f0, hyperscaler, \uac1c\ubc1c\uc790\ub4e4\uc740 \ub300\uaddc\ubaa8\ub85c \uc548\uc815\uc801\uc774\uace0 \uc800\ub834\ud55c \uc804\ub825\uc744 \uacf5\uae09\ud558\ub294 \ubc29\uc2dd\uc744 \uc7ac\uace0\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Capacity",
+      "\uc804\ub825"
+    ]
   }
 }
