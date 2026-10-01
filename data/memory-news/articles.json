@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-09-30T02:05:23.631829+00:00",
+  "generated_at": "2026-10-01T02:07:18.959958+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "ba8d7fbc90b9",
+      "headline": "AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce",
+      "summary": "TrendForce\u2019s latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the...",
+      "url": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-09-30T07:52:15+00:00",
+      "tags": [
+        "DRAM",
+        "Memory",
+        "Pricing",
+        "Capacity",
+        "AI Server"
+      ],
+      "headline_ko": "\ud2b8\ub80c\ub4dc\ud3ec\uc2a4 \"4Q26 AI server \uc218\uc694\ub85c \uba54\ubaa8\ub9ac contract price \uc0c1\uc2b9\uc138 \uc9c0\uc18d, consumer \uce21 \uc555\ub825\uc740 \uc5ec\uc804\"",
+      "summary_ko": "\ud2b8\ub80c\ub4dc\ud3ec\uc2a4\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74 4Q26\uc5d0\ub3c4 DRAM \uacf5\uae09\uc0ac\ub4e4\uc774 \uace0\uc131\ub2a5 server \uc81c\ud488\uc6a9 advanced-process capacity\ub97c \uacc4\uc18d \uc6b0\uc120 \ubc30\uc815\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9",
+        "\uc0dd\uc0b0\ub2a5\ub825",
+        "AI server"
+      ]
+    },
     {
       "id": "8ea0acb22515",
       "headline": "HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce",
@@ -1456,35 +1481,14 @@
         "NAND",
         "SSD"
       ]
-    },
-    {
-      "id": "75ca723f1c22",
-      "headline": "From HBM to eSSD: How SK hynix is charting the future of full-stack memory",
-      "summary": "The focus of AI infrastructure competition is shifting.",
-      "url": "https://news.skhynix.com/hbm-to-essd/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-08T00:00:07+00:00",
-      "tags": [
-        "HBM",
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "HBM\uc5d0\uc11c eSSD\uae4c\uc9c0: SK\ud558\uc774\ub2c9\uc2a4, \ud480\uc2a4\ud0dd \uba54\ubaa8\ub9ac\uc758 \ubbf8\ub798\ub97c \uadf8\ub9ac\ub2e4",
-      "summary_ko": "AI \uc778\ud504\ub77c \uacbd\uc7c1\uc758 \ucd08\uc810\uc774 \uc774\ub3d9\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "HBM",
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-09-30T02:05:51.128675+00:00",
-    "cached": 74,
-    "translated": 6,
+    "generated_at": "2026-10-01T02:07:23.197343+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
