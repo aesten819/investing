@@ -8159,5 +8159,97 @@
       "Data Center",
       "Capacity"
     ]
+  },
+  "f9b27a39ad696eec6da99ae14957981adf3207dd": {
+    "headline_ko": "Amazon Web Services\uc758 data center \ucea0\ud37c\uc2a4\ub294 \ud39c\uc2e4\ubca0\uc774\ub2c8\uc544\uc8fc Salem Township\uc5d0\uc11c Talen Energy\uc758 Susquehanna \uc6d0\uc790\ub825 \ubc1c\uc804\uc18c\uc5d0 \uc778\uc811\ud574 \uc788\uc73c\uba70, \uc774\uacf3\uc758 co-located \ubc1c\uc804\uc740 \ub300\uaddc\ubaa8 data center \ubd80\ud558\uac00 \uc9c0\uc5ed power grid\uc640 \uc5b4\ub5bb\uac8c \uc0c1\ud638\uc791\uc6a9\ud574\uc57c \ud558\ub294\uc9c0\uc5d0 \ub300\ud55c \uc2dc\ud5d8 \uc0ac\ub840\uac00 \ub418\uace0 \uc788\ub2e4.",
+    "summary_ko": "Amazon Web Services\uc758 data center \ucea0\ud37c\uc2a4\ub294 \ud39c\uc2e4\ubca0\uc774\ub2c8\uc544\uc8fc Salem Township\uc5d0\uc11c Talen Energy\uc758 Susquehanna \uc6d0\uc790\ub825 \ubc1c\uc804\uc18c\uc5d0 \uc778\uc811\ud574 \uc788\uc73c\uba70, \uc774\uacf3\uc758 co-located \ubc1c\uc804\uc740 \ub300\uaddc\ubaa8 data center \ubd80\ud558\uac00 \uc9c0\uc5ed power grid\uc640 \uc5b4\ub5bb\uac8c \uc0c1\ud638\uc791\uc6a9\ud574\uc57c \ud558\ub294\uc9c0\uc5d0 \ub300\ud55c \uc2dc\ud5d8 \uc0ac\ub840\uac00 \ub418\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "6f13eefd6beccd48cd66fd1fd555a2f7128a7557": {
+    "headline_ko": "\ub192\uc544\uc9c0\ub294 \uc804\ub825 \ubc00\ub3c4\uc5d0 \ub300\ube44\ud558\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uce90\ube44\ub2db",
+    "summary_ko": "\ub192\uc544\uc9c0\ub294 \uc804\ub825 \ubc00\ub3c4\uc5d0 \ub300\ube44\ud558\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uce90\ube44\ub2db.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "64d7649a318ddc5e148f81acb5e3c8aad5c58189": {
+    "headline_ko": "N+1 Data Center \ub0c9\uac01\uc758 \uc228\uaca8\uc9c4 \uc7a5\uc560 \ub3c4\uba54\uc778",
+    "summary_ko": "N+1 \uc6a9\ub7c9\uc740 \uacf5\uc720 \uc81c\uc5b4 \uc758\uc874\uc131\uc744 \uc228\uaca8 \uc5ec\ub7ec \uc720\ub2db\uc744 \ub2e8\uc77c \uc7a5\uc560 \ub3c4\uba54\uc778\uc73c\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc73c\ubbc0\ub85c, \uc131\ub2a5 \uc800\ud558 \uc6b4\uc804\uc744 \uc124\uacc4\ud558\uace0 \uc2e4\uc81c \ubcf5\uc6d0\ub825\uc744 \uac80\uc99d\ud574\uc57c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "42ed7dbf049aaf0e67161e53aedb83b53682777f": {
+    "headline_ko": "Nebius, AIB Data Centers\uc640 50MW lease \uccb4\uacb0",
+    "summary_ko": "\ubbf8\uad6d \ub0a8\ub3d9\ubd80 data center\uc5d0\uc11c capacity\ub97c lease\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Colocation"
+    ]
+  },
+  "e5710d86edd72f386a7ccffc48a532bbff3628b9": {
+    "headline_ko": "AI \ud074\ub77c\uc6b0\ub4dc \uc81c\uacf5\uc5c5\uccb4 Blackfuel, \uc2a4\ud154\uc2a4\uc5d0\uc11c \ub098\uc640 \uc2a4\ud398\uc778 \uccab \uad6c\ucd95 \uacc4\ud68d",
+    "summary_ko": "Digital Realty\uc758 BCN1 data center\uc5d0 \uc785\uc8fc\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "e6b08c9e613ba862790d4796325f972ff9890f01": {
+    "headline_ko": "Traysar\uc640 Armada, \uc9c0\ud558 AI infrastructure \uc704\ud574 \ud611\ub825",
+    "summary_ko": "Terminus\uac00 \ud575\uc2ec \uc778\ud504\ub77c\ub97c \uc9c0\ud558\ub85c \uac00\uc838\uc62c \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "58f6ec0e5bdf185cce5d622095f6b7def33c73a9": {
+    "headline_ko": "\uc6b0\ud06c\ub77c\uc774\ub098 \ud0a4\uc774\uc6b0 data center, \ub7ec\uc2dc\uc544 \ud3ed\ud0c4 \uacf5\uaca9\uc73c\ub85c '\uce58\uba85\uc801 \uc190\uc0c1' \uc785\uace0 \uc624\ud504\ub77c\uc778",
+    "summary_ko": "\ubaa8\uc2a4\ud06c\ubc14\ub294 \ub514\uc9c0\ud138 \uc778\ud504\ub77c\ub97c \uacc4\uc18d \uaca8\ub0e5\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "41d4bf7e6f3d6b8af56ee185ba7bf786432339a9": {
+    "headline_ko": "Zinc Whiskers: \ub370\uc774\ud130 \uc13c\ud130 \ubc14\ub2e5 \uc544\ub798 \uc228\uc740 \uc624\uc5fc \uc704\ud5d8",
+    "summary_ko": "AI \ubc00\ub3c4\uc640 \uae30\ub958\uac00 \ub192\uc544\uc9c0\uba74\uc11c \uae30\uc874 \uc774\uc911 \ubc14\ub2e5\uacfc \uc544\uc5f0 \ub3c4\uae08 \ubd80\ud488\uc774 \uc804\ub3c4\uc131 \ud718\uc2a4\ucee4\ub97c \ubc29\ucd9c\ud574 \uc7a5\ube44 \uc2e0\ub8b0\uc131\uc744 \uc704\ud611\ud560 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "0e6c08a77c746b39fc3cb7fa00292840bbb2c0b3": {
+    "headline_ko": "Amazon, Constellation\uacfc \uba54\ub9b4\ub79c\ub4dc \uc6d0\uc790\ub825 \ubc1c\uc804\uc18c PPA \uccb4\uacb0",
+    "summary_ko": "20\ub144 \uacc4\uc57d\uc744 \ud1b5\ud574 Calvert Cliffs \ubc1c\uc804\uc18c\uc5d0 190MW capacity\uac00 \ucd94\uac00\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "b3cb040125b6b9b74ef362ddf4fecd457aeca324": {
+    "headline_ko": "\uc720\ud0c0\uc8fc\uc5d0 9.4GW SMR \uc804\ub825 data center \ucea0\ud37c\uc2a4 \uc81c\uc548",
+    "summary_ko": "Valar Atomics\ub294 2028\ub144 \uccab \uc6d0\uc790\ub85c \uac00\ub3d9\uc744 \ubaa9\ud45c\ub85c \ud55c\ub2e4",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "8c26d3befdc521f72760fbc5c0ba33b59d59a5da": {
+    "headline_ko": "\ubc84\uc9c0\ub2c8\uc544, \uc0c8\ub85c\uc6b4 \ub514\uc9c0\ud138 \uc778\ud504\ub77c \ud504\ub808\uc784\uc6cc\ud06c\uc758 \uc77c\ud658\uc73c\ub85c data center NDA \uae08\uc9c0",
+    "summary_ko": "\uc2a4\ud32c\ubc84\uac70 \uc8fc\uc9c0\uc0ac\ub294 AI \ud0dc\uc2a4\ud06c\ud3ec\uc2a4\ub97c \ud3ec\ud568\ud55c \uc77c\ub828\uc758 \uc870\uce58\ub97c \ubc1c\ud45c\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "89508c7b021cf01fb3832c28f6d92245e55c806a": {
+    "headline_ko": "Data Center \uc124\uacc4 \uc120\ud0dd\uc774 \ub300\uc911 \uc218\uc6a9\uc131\uc744 \ubc14\uafc0 \uc218 \uc788\uc744\uae4c?",
+    "summary_ko": "\uc6b4\uc601\uc0ac\ub4e4\uc740 \uc0dd\uccb4\ubaa8\ubc29, \uc9c0\uc5ed\uc0ac\ud68c \uacf5\ub3d9\uc124\uacc4, \ube0c\ub77c\uc6b4\ud544\ub4dc \uc7ac\uac1c\ubc1c\uc744 \ud65c\uc6a9\ud574 Data Center\uc758 \uc2dc\uac01\uc801 \uc601\ud5a5\uc744 \uc904\uc774\uace0 \uc9c0\uc5ed \uc218\uc6a9\uc131\uc744 \ub192\uc778\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }
