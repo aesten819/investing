@@ -1,7 +1,66 @@
 {
-  "generated_at": "2026-10-03T02:05:54.258890+00:00",
+  "generated_at": "2026-10-04T02:44:36.981619+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "13dd2fb7b224",
+      "headline": "Hyperscale Spending Spree is Driving Dramatic Growth in Data Center Capacity",
+      "summary": "Hyperscale Spending Spree is Driving Dramatic Growth in Data Center Capacity",
+      "url": "https://www.srgresearch.com/articles/hyperscale-spending-spree-is-driving-dramatic-growth-in-data-center-capacity",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-10-04T02:44:32.000026+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Capex",
+        "Colocation"
+      ],
+      "headline_ko": "Hyperscaler \uc9c0\ucd9c \ub7ec\uc2dc, \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9 \uadf9\uc801 \uc131\uc7a5 \uc8fc\ub3c4",
+      "summary_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc758 \uc9c0\ucd9c \ub7ec\uc2dc\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 \uadf9\uc801\uc778 \uc131\uc7a5\uc744 \uc8fc\ub3c4\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "Capex",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "eb16673d4530",
+      "headline": "Justifying the Explosive Growth in Hyperscale CAPEX",
+      "summary": "Justifying the Explosive Growth in Hyperscale CAPEX",
+      "url": "https://www.srgresearch.com/articles/justifying-the-explosive-growth-in-hyperscale-capex",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-10-04T02:44:32.000026+00:00",
+      "tags": [
+        "Capex",
+        "Colocation"
+      ],
+      "headline_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c CAPEX\uc758 \ud3ed\ubc1c\uc801 \uc131\uc7a5 \uc815\ub2f9\ud654",
+      "summary_ko": "\ud558\uc774\ud37c\uc2a4\ucf00\uc77c CAPEX\uc758 \ud3ed\ubc1c\uc801 \uc131\uc7a5 \uc815\ub2f9\ud654",
+      "tags_ko": [
+        "Capex",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "a5554b92c662",
+      "headline": "Tier Two Metro Markets are Reshaping the Colocation World",
+      "summary": "Tier Two Metro Markets are Reshaping the Colocation World",
+      "url": "https://www.srgresearch.com/articles/tier-two-metro-markets-are-reshaping-the-colocation-world",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-10-04T02:44:32.000026+00:00",
+      "tags": [
+        "Colocation"
+      ],
+      "headline_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\ub2e4",
+      "summary_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
+      "tags_ko": [
+        "Colocation"
+      ]
+    },
     {
       "id": "18104b19726e",
       "headline": "Synergy Updates Its Ranking of the World\u2019s Top 20 Hyperscale Data Center Locations",
@@ -2884,71 +2943,14 @@
         "Capex",
         "Colocation"
       ]
-    },
-    {
-      "id": "ef3e94d0cb89",
-      "headline": "Hyperscale Operators to Account for 67% of all Data Center Capacity by 2031",
-      "summary": "Hyperscale Operators to Account for 67% of all Data Center Capacity by 2031",
-      "url": "https://www.srgresearch.com/articles/hyperscale-operators-to-account-for-67-of-all-data-center-capacity-by-2031",
-      "source": "Synergy Research",
-      "source_id": "synergy_research",
-      "published_at": "2026-09-20T01:18:13.608672+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Colocation"
-      ],
-      "headline_ko": "2031\ub144\uae4c\uc9c0 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uc6b4\uc601\uc790, \uc804\uccb4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 67% \ucc28\uc9c0\ud560 \uac83",
-      "summary_ko": "2031\ub144\uae4c\uc9c0 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \uc6b4\uc601\uc790\uac00 \uc804\uccb4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc758 67%\ub97c \ucc28\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub429\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130",
-        "\uc6a9\ub7c9",
-        "\ucf54\ub85c\ucf00\uc774\uc158"
-      ]
-    },
-    {
-      "id": "f438cf0d49c3",
-      "headline": "Speed-to-power: Closing the gap between AI demand and energy delivery",
-      "summary": "Speed-to-power: Closing the gap between AI demand and energy delivery",
-      "url": "https://www.datacenterfrontier.com/white-papers/whitepaper/55398019/speed-to-power-closing-the-gap-between-ai-demand-and-energy-delivery",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-09-20T01:18:13.608672+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Speed-to-power: AI \uc218\uc694\uc640 \uc5d0\ub108\uc9c0 \uacf5\uae09 \uac04\uc758 \uaca9\ucc28 \ud574\uc18c",
-      "summary_ko": "Speed-to-power: AI \uc218\uc694\uc640 \uc5d0\ub108\uc9c0 \uacf5\uae09 \uac04\uc758 \uaca9\ucc28 \ud574\uc18c",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "8ebaff8fdc25",
-      "headline": "Neocloud Market Forecast to Approach $400B by 2031, Driven by Surging AI Infrastructure Demand",
-      "summary": "Neocloud Market Forecast to Approach $400B by 2031, Driven by Surging AI Infrastructure Demand",
-      "url": "https://www.srgresearch.com/articles/neocloud-market-forecast-to-approach-400b-by-2031-driven-by-surging-ai-infrastructure-demand",
-      "source": "Synergy Research",
-      "source_id": "synergy_research",
-      "published_at": "2026-09-19T01:17:02.908528+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Neocloud"
-      ],
-      "headline_ko": "\ub124\uc624\ud074\ub77c\uc6b0\ub4dc \uc2dc\uc7a5, AI \uc778\ud504\ub77c \uc218\uc694 \uae09\uc99d\uc73c\ub85c 2031\ub144 4000\uc5b5 \ub2ec\ub7ec \uc721\ubc15 \uc804\ub9dd",
-      "summary_ko": "\ub124\uc624\ud074\ub77c\uc6b0\ub4dc \uc2dc\uc7a5, AI \uc778\ud504\ub77c \uc218\uc694 \uae09\uc99d\uc73c\ub85c 2031\ub144 4000\uc5b5 \ub2ec\ub7ec \uc721\ubc15 \uc804\ub9dd",
-      "tags_ko": [
-        "AI Infrastructure",
-        "Neocloud"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-03T02:07:01.538664+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-10-04T02:44:37.064393+00:00",
+    "cached": 160,
+    "translated": 0,
     "skipped": 0
   }
 }
