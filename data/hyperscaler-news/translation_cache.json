@@ -8387,5 +8387,108 @@
     "tags_ko": [
       "data center"
     ]
+  },
+  "e6baa033baa04a1b1b7e7fba650781c3e789a952": {
+    "headline_ko": "\ud14d\uc0ac\uc2a4\uc8fc \uc554\uc2a4\ud2b8\ub871 \uce74\uc6b4\ud2f0\uc5d0\uc11c \uac74\uc124 \uc911\uc778 Crusoe\uc758 Google data center campus, \uc778\uc811 \ud48d\ub825 \ubc1c\uc804\uacfc \uc9c1\uc811 \uc5f0\uacb0 (\uc774\ubbf8\uc9c0: Crusoe)",
+    "summary_ko": "\ud14d\uc0ac\uc2a4\uc8fc \uc554\uc2a4\ud2b8\ub871 \uce74\uc6b4\ud2f0\uc5d0\uc11c \uac74\uc124 \uc911\uc778 Crusoe\uc758 Google data center campus\ub294 \uc778\uc811\ud55c \ud48d\ub825 \ubc1c\uc804\uacfc \uc9c1\uc811 \uc5f0\uacb0\ub3fc AI infrastructure \uac1c\ubc1c\uc744 \ub458\ub7ec\uc2fc \uc5d0\ub108\uc9c0 \uc6b0\uc120 \ubaa8\ub378\uc774 \uc810\uc810 \ubd80\uc0c1\ud558\uace0 \uc788\uc74c\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "AI Infrastructure",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "1463cd7990514070853617b8ec947b81fef4405a": {
+    "headline_ko": "AI Energy Parks: \uc18d\ub3c4\uc5d0\uc11c \uc804\ub825\uc73c\ub85c, \uadf8\ub9ac\uace0 \uc9c0\uc18d\ub418\ub294 \uc804\ub825\uc73c\ub85c",
+    "summary_ko": "AI Energy Parks: \uc18d\ub3c4\uc5d0\uc11c \uc804\ub825\uc73c\ub85c, \uadf8\ub9ac\uace0 \uc9c0\uc18d\ub418\ub294 \uc804\ub825\uc73c\ub85c.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "9dc9ac3cb08b84b6ceb47e4b75d27fa26c3c1383": {
+    "headline_ko": "Ares, Sabey Data Centers \ud22c\uc790 \ud655\ub300",
+    "summary_ko": "\uc18c\uc218 \uc9c0\ubd84 \ud22c\uc790\uc790\uac00 \ucd1d \ud22c\uc790\uc561\uc744 5\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc73c\ub85c \ub04c\uc5b4\uc62c\ub838\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capex"
+    ]
+  },
+  "6e9589f71ad2aee3cf287e70621a43a4789cf7bf": {
+    "headline_ko": "\uce90\ub098\ub2e4 \ub178\ubc14\uc2a4\ucf54\uc0e4 \uadf8\ub9b0 \uc5f0\ub8cc \ud50c\ub79c\ud2b8, data center \uc720\uce58 \uac00\ub2a5\uc131",
+    "summary_ko": "EverWind Fuels\uac00 data center \ub3d9\uc2dc \uc785\uc9c0 \uac1c\ubc1c \uac00\ub2a5\uc131\uc744 \uac80\ud1a0\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "04864f1a00fec667df295c68ea0a3473702f7891": {
+    "headline_ko": "Applied Digital, North Dakota Ellendale data center campus\uc5d0 75MW capacity \ucd94\uac00",
+    "summary_ko": "\ub450 \ubc88\uc9f8 \uac74\ubb3c\uc774 \uc644\uacf5\ub418\uc5b4 campus \ucd1d capacity\ub294 250MW\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "45ecc04a601c30267068a28a424c8256b701478c": {
+    "headline_ko": "\uc2e4\ub9ac\ucf58\ubc38\ub9ac \uc804 IBM \uc5f0\uad6c \ub2e8\uc9c0, data center \uae30\uc5c5\uc5d0 \uc778\uc218 \uc608\uc815",
+    "summary_ko": "Blackstart Digital\uc774 San Jose\uc758 IBM Almaden Research Center\ub97c \uc778\uc218 \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "3548eb29eebd5cb444761b1ea9b0860ba3c4328c": {
+    "headline_ko": "\ub300\uaddc\ubaa8 data center\uc758 \uc804\ub825 \uc544\ud0a4\ud14d\ucc98 \uc7ac\uac80\ud1a0",
+    "summary_ko": "\ube14\ub85d \uc774\uc911\ud654(Catcher) \uc544\ud0a4\ud14d\ucc98\uac00 \ub192\uc740 \uac00\uc6a9\uc131\uc744 \uc720\uc9c0\ud558\uba74\uc11c \uc804\ub825 \uc778\ud504\ub77c\ub97c \ucd5c\uc801\ud654\ud558\ub294 \ubc29\ubc95\uc744 \ub2e4\ub8ec\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "aab2d42ffa3037cb46091093786d7c1cc7e3c20f": {
+    "headline_ko": "Jera, Dell Technologies, Rhaelm, \uc77c\ubcf8 behind-the-meter AI infrastructure \ud611\ub825",
+    "summary_ko": "\uccab \ud504\ub85c\uc81d\ud2b8\ub294 Chiba\uc758 \ubc1c\uc804\uc18c\ub97c \ub300\uc0c1\uc73c\ub85c \uacc4\ud68d\ub418\uc5b4 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "\uc804\ub825"
+    ]
+  },
+  "6ea9148952284ff47b7dcbfc1f7d0d9445c2622c": {
+    "headline_ko": "\uba54\uac00\uc640\ud2b8\ub97c \ub118\uc5b4\uc11c: Data Center \ubd80\uc9c0 \uc120\uc815\uc774 \uc774\uc81c 3\uac1c \uc804\uc120\uc758 \uc804\ud22c\uc778 \uc774\uc720",
+    "summary_ko": "Data Center \uac1c\ubc1c\uc740 \uc774\uc81c \uc804\ub825\ub9dd \ube44\uc6a9, \ubb3c \uc0ac\uc6a9, \uc9c0\uc5ed \uc0ac\ud68c \ud61c\ud0dd\uc744 \ud574\uacb0\ud574\uc57c \ud558\uba70, \uc804\ub825 \ud655\ubcf4\ub9cc\uc73c\ub85c\ub294 \uc2b9\uc778\uc744 \ubc1b\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "769b804451f8b81a33b0ac67d4922088685b8531": {
+    "headline_ko": "\uc601\uad6d \uc61b \ubc1c\uc804\uc18c \ubd80\uc9c0, data center \ucea0\ud37c\uc2a4\ub85c \uc804\ud658\ub420 \uc218 \uc788\uc5b4",
+    "summary_ko": "\uc0ac\uc6b0\uc0d8\ud504\ud134 \uc678\uacfd\uc758 \uc61b Fawley \ubc1c\uc804\uc18c \ubd80\uc9c0\uac00 data centers\ub97c \uc720\uce58\ud560 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "647de2ad54392167a48471d5377a773220a1713d": {
+    "headline_ko": "Google\uc758 data center \uae00\ub85c\ubc8c \uc124\uacc4\u00b7\uac74\uc124 \ucd1d\uad04, Anthropic \ud569\ub958",
+    "summary_ko": "John M. Wilson\uc774 Anthropic\uc5d0 \ud569\ub958\ud574 EMEA capacity delivery\ub97c \ucd1d\uad04\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "8cbba54b38e3c2728126494e29ad7c08be1184f5": {
+    "headline_ko": "\ub370\uc774\ud130\uc13c\ud130 \uc7a5\uc560 \ud6c4 \uc774\ud0c8\ub9ac\uc544 \ub0a8\ubd80 IT \uc2dc\uc2a4\ud15c \ubcf5\uad6c",
+    "summary_ko": "\uc9c0\uc5ed \uc815\ubd80\ub294 \uc0ac\uc774\ubc84 \uacf5\uaca9 \uac00\ub2a5\uc131\uc744 \ubc30\uc81c\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "d4f04ffc5be341f21c66ef005c5517c56776dcf0": {
+    "headline_ko": "\uc218\uc9c1\ud615 data center, \ube44\uc6a9-\uadfc\uc811\uc131 \uc0c1\ucda9\uad00\uacc4\uc5d0 \uc9c1\uba74",
+    "summary_ko": "\uc81c\uc548\ub41c 20\uce35 \uaddc\ubaa8\uc758 \uce94\uc790\uc2a4\uc2dc\ud2f0 data center\ub294 \uad50\uc678 \ud655\uc7a5 \ub300\uc2e0 \ub3c4\uc2ec \ubc00\uc9d1\uc744 \ud0dd\ud574 \uadfc\uc811\uc131\uacfc \ub124\ud2b8\uc6cc\ud06c \ub2e4\uc591\uc131\uc744 \uc81c\uacf5\ud558\uc9c0\ub9cc, \uac74\uc124 \ube44\uc6a9\uc774 \ub354 \ub192\uc544 \ud2b9\uc815 \uc6cc\ud06c\ub85c\ub4dc\uc5d0\ub9cc \uc801\ud569\ud560 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }
