@@ -1,7 +1,231 @@
 {
-  "generated_at": "2026-10-06T03:07:13.203993+00:00",
+  "generated_at": "2026-10-07T02:28:22.818321+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "916276baad66",
+      "headline": "Musashi Energy Solutions\u2019 ESS400 energy storage system uses hybrid supercapacitors to provide high-power, fast-response energy storage for data centers and AI computing environments, including short-duration backup and dynamic peak-load support.",
+      "summary": "Musashi Energy Solutions\u2019 ESS400 energy storage system uses hybrid supercapacitors to provide high-power, fast-response energy storage for data centers and AI computing environments, including short-duration backup and dynamic peak-load support.",
+      "url": "https://www.datacenterfrontier.com/energy/podcast/55410029/ai-is-turning-energy-storage-into-active-power-infrastructure",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-10-07T02:28:17.523353+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Musashi Energy Solutions\uc758 ESS400 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc2dc\uc2a4\ud15c\uc740 \ud558\uc774\ube0c\ub9ac\ub4dc \uc288\ud37c\ucee4\ud328\uc2dc\ud130\ub97c \uc0ac\uc6a9\ud574 data center\uc640 AI \ucef4\ud4e8\ud305 \ud658\uacbd\uc5d0 \uace0\ucd9c\ub825\u00b7\uace0\uc18d \uc751\ub2f5 \uc5d0\ub108\uc9c0 \uc800\uc7a5\uc744 \uc81c\uacf5\ud558\uba70, \ub2e8\uc2dc\uac04 \ubc31\uc5c5\uacfc \ub3d9\uc801 \ud53c\ud06c \ubd80\ud558 \uc9c0\uc6d0\uc744 \ud3ec\ud568\ud55c\ub2e4.",
+      "summary_ko": "Musashi Energy Solutions\uc758 ESS400 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc2dc\uc2a4\ud15c\uc740 \ud558\uc774\ube0c\ub9ac\ub4dc \uc288\ud37c\ucee4\ud328\uc2dc\ud130\ub97c \uc0ac\uc6a9\ud574 data center\uc640 AI \ucef4\ud4e8\ud305 \ud658\uacbd\uc5d0 \uace0\ucd9c\ub825\u00b7\uace0\uc18d \uc751\ub2f5 \uc5d0\ub108\uc9c0 \uc800\uc7a5\uc744 \uc81c\uacf5\ud558\uba70, \ub2e8\uc2dc\uac04 \ubc31\uc5c5\uacfc \ub3d9\uc801 \ud53c\ud06c \ubd80\ud558 \uc9c0\uc6d0\uc744 \ud3ec\ud568\ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "222fc210628d",
+      "headline": "AI Power Spikes Demand Chip-to-Grid Design Changes",
+      "summary": "AI data centers\u2019 rapid power swings threaten grid stability, requiring coordinated chip-to-grid strategies across chip makers, operators, utilities, and infrastructure providers.",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-power-spikes-demand-chip-to-grid-design-changes",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-10-06T16:25:29+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "AI \uc804\ub825 \uc2a4\ud30c\uc774\ud06c, \uce69-\uadf8\ub9ac\ub4dc \uc124\uacc4 \ubcc0\uacbd \uc694\uad6c",
+      "summary_ko": "AI data center\uc758 \uae09\uaca9\ud55c \uc804\ub825 \ubcc0\ub3d9\uc774 power grid \uc548\uc815\uc131\uc744 \uc704\ud611\ud558\uba74\uc11c, \uce69 \uc81c\uc870\uc0ac\u00b7\uc6b4\uc601\uc0ac\u00b7\uc720\ud2f8\ub9ac\ud2f0\u00b7\uc778\ud504\ub77c \uc81c\uacf5\uc0ac \uc804\ubc18\uc758 \ud611\ub825\ub41c \uce69-\uadf8\ub9ac\ub4dc \uc804\ub7b5\uc774 \ud544\uc694\ud574\uc9c0\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "715c9471c262",
+      "headline": "Google signs 3.6GW deal with Constellation to secure power in PJM service area",
+      "summary": "Nuclear and natural gas deal covers major data center markets",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-36gw-deal-with-constellation-to-secure-power-in-pjm-service-area/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T16:19:09+00:00",
+      "tags": [
+        "Google Cloud",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Google, PJM \uc11c\ube44\uc2a4 \uc9c0\uc5ed \uc804\ub825 \ud655\ubcf4 \uc704\ud574 Constellation\uacfc 3.6GW \uacc4\uc57d \uccb4\uacb0",
+      "summary_ko": "\uc6d0\uc790\ub825 \ubc0f \ucc9c\uc5f0\uac00\uc2a4 \uacc4\uc57d\uc774 \uc8fc\uc694 data center \uc2dc\uc7a5\uc744 \ud3ec\uad04\ud55c\ub2e4.",
+      "tags_ko": [
+        "Google Cloud",
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "58ac868b983a",
+      "headline": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
+      "summary": "Set for Homer City Energy Campus",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T16:04:17+00:00",
+      "tags": [
+        "AWS",
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "AWS, \ud39c\uc2e4\ubca0\uc774\ub2c8\uc544\uc8fc \uc778\ub514\uc560\ub098 \uce74\uc6b4\ud2f0\uc5d0 36\uac1c \ub3d9 data center campus \uc870\uc131 \uacc4\ud68d",
+      "summary_ko": "Homer City Energy Campus\uc5d0 \ub4e4\uc5b4\uc124 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "AWS",
+        "data center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "11b8d389a0f2",
+      "headline": "Orbital data centers? Or just distributed LEO compute?",
+      "summary": "As the marketing pageantry around new space innovation pervades, strategic priorities may be cementing demand",
+      "url": "https://www.datacenterdynamics.com/en/analysis/orbital-data-centers-or-just-distributed-leo-compute/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T16:00:46+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uada4\ub3c4 \ub370\uc774\ud130\uc13c\ud130? \uc544\ub2c8\uba74 \ubd84\uc0b0\ud615 LEO \ucef4\ud4e8\ud305\uc77c \ubfd0\uc778\uac00?",
+      "summary_ko": "\uc2e0\uc6b0\uc8fc \ud601\uc2e0\uc744 \ub458\ub7ec\uc2fc \ub9c8\ucf00\ud305 \uacfc\uc2dc\uac00 \ub9cc\uc5f0\ud55c \uac00\uc6b4\ub370, \uc804\ub7b5\uc801 \uc6b0\uc120\uc21c\uc704\uac00 \uc218\uc694\ub97c \uacf5\uace0\ud788 \ud558\uace0 \uc788\uc744 \uc218 \uc788\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130\uc13c\ud130"
+      ]
+    },
+    {
+      "id": "7f637d6afb6c",
+      "headline": "DayOne IPO: Data center firm targets 2.3GW capacity by 2028",
+      "summary": "Revenue is ramping up, but so are losses",
+      "url": "https://www.datacenterdynamics.com/en/news/dayone-ipo-data-center-firm-targets-23gw-capacity-by-2028/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T15:19:55+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "DayOne IPO: Data center \uae30\uc5c5, 2028\ub144\uae4c\uc9c0 2.3GW capacity \ubaa9\ud45c",
+      "summary_ko": "\ub9e4\ucd9c\uc740 \ub298\uace0 \uc788\uc9c0\ub9cc \uc190\uc2e4\ub3c4 \ud568\uaed8 \ucee4\uc9c0\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "c483464eef11",
+      "headline": "Applied Digital to develop 1GW data center campus in Finland",
+      "summary": "Company expands into Europe, but few details provided on project",
+      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-to-develop-1gw-data-center-campus-in-finland/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T14:30:56+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Applied Digital, \ud540\ub780\ub4dc\uc5d0 1GW data center \ucea0\ud37c\uc2a4 \uac1c\ubc1c \uc608\uc815",
+      "summary_ko": "\ud68c\uc0ac\ub294 \uc720\ub7fd\uc73c\ub85c \ud655\uc7a5\ud558\uc9c0\ub9cc, \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub300\ud55c \uc138\ubd80 \uc815\ubcf4\ub294 \uac70\uc758 \uc81c\uacf5\ub418\uc9c0 \uc54a\uc558\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "f2bfc7952f42",
+      "headline": "ABB launches range of DC power products",
+      "summary": "Vendors looking to be ready for 1MW racks and 800vDC architectures",
+      "url": "https://www.datacenterdynamics.com/en/news/abb-launches-range-of-dc-power-products/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T11:48:32+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "ABB, DC \uc804\ub825 \uc81c\ud488\uad70 \ucd9c\uc2dc",
+      "summary_ko": "\ubca4\ub354\ub4e4\uc774 1MW \ub799\uacfc 800vDC \uc544\ud0a4\ud14d\ucc98\uc5d0 \ub300\uc751\ud560 \uc900\ube44\ub97c \ud558\ub294 \uac00\uc6b4\ub370 \ub098\uc654\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "e3b11cfe1aaa",
+      "headline": "ByteDance takes up one-fifth of China's data center capacity",
+      "summary": "Majority of capacity is leased from third-party providers",
+      "url": "https://www.datacenterdynamics.com/en/news/bytedance-takes-up-one-fifth-of-chinas-data-center-capacity/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T11:43:14+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ],
+      "headline_ko": "ByteDance, \uc911\uad6d data center capacity\uc758 5\ubd84\uc758 1 \ucc28\uc9c0",
+      "summary_ko": "capacity \ub300\ubd80\ubd84\uc740 third-party provider\ub85c\ubd80\ud130 \uc784\ucc28\ub41c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "33b5940e205a",
+      "headline": "HF Sinclair launches cooling fluid for direct-to-chip environments",
+      "summary": "Oil company follows on from launch of immersion fluid in 2024",
+      "url": "https://www.datacenterdynamics.com/en/news/hf-sinclair-launches-cooling-fluid-for-direct-to-chip-environments/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T11:41:44+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "HF Sinclair, direct-to-chip \ud658\uacbd\uc6a9 cooling fluid \ucd9c\uc2dc",
+      "summary_ko": "\uc11d\uc720\ud68c\uc0ac HF Sinclair\uac00 2024\ub144 immersion fluid \ucd9c\uc2dc\uc5d0 \uc774\uc5b4 direct-to-chip \ud658\uacbd\uc6a9 cooling fluid\ub97c \uc120\ubcf4\uc600\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "df6377d1bc29",
+      "headline": "TeraWulf's Kentucky campus to reach 1GW in 2029",
+      "summary": "Company adding second 500MW phase a year sooner",
+      "url": "https://www.datacenterdynamics.com/en/news/terawulfs-kentucky-campus-to-reach-1gw-in-2029/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-06T10:10:39+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "TeraWulf Kentucky \ucea0\ud37c\uc2a4, 2029\ub144 1GW \ub3c4\ub2ec \uc804\ub9dd",
+      "summary_ko": "\ud68c\uc0ac\ub294 \ub450 \ubc88\uc9f8 500MW \ub2e8\uacc4\ub97c 1\ub144 \uc55e\ub2f9\uaca8 \ucd94\uac00\ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "be1c3270fa70",
+      "headline": "The UPS Is Uninterruptible by Design. Its Future Is Not.",
+      "summary": "From rack-level batteries to BESS and solid-state transformers, new power architectures are reshaping where and whether the UPS belongs in the data center.",
+      "url": "https://www.datacenterknowledge.com/uptime/the-ups-is-uninterruptible-by-design-its-future-is-not-",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "UPS\ub294 \uc124\uacc4\uc0c1 \ubb34\uc815\uc804\uc774\ub2e4. \uadf8\ub7ec\ub098 \uadf8 \ubbf8\ub798\ub294 \uadf8\ub807\uc9c0 \uc54a\ub2e4.",
+      "summary_ko": "\ub799 \ub808\ubca8 \ubc30\ud130\ub9ac\ubd80\ud130 BESS, solid-state transformer\uae4c\uc9c0, \uc0c8\ub85c\uc6b4 \uc804\ub825 \uc544\ud0a4\ud14d\ucc98\uac00 data center\uc5d0\uc11c UPS\uc758 \uc704\uce58\uc640 \ud544\uc694\uc131\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
     {
       "id": "d88dcc91fd5b",
       "headline": "US Rises Again as Synergy Updates Its Ranking of Hyperscale Data Center Locations",
@@ -2725,232 +2949,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "b168d2868ea9",
-      "headline": "BDx breaks ground on AI Campus 2 in Jatiluhur, Indonesia",
-      "summary": "The first 120MW building is set to go live in early 2027",
-      "url": "https://www.datacenterdynamics.com/en/news/bdx-breaks-ground-on-ai-campus-2-in-jatiluhur-indonesia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T16:33:27+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "BDx, \uc778\ub3c4\ub124\uc2dc\uc544 Jatiluhur\uc5d0\uc11c AI Campus 2 \ucc29\uacf5",
-      "summary_ko": "\uccab \ubc88\uc9f8 120MW \uac74\ubb3c\uc740 2027\ub144 \ucd08 \uac00\ub3d9\ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "42a4e525d35e",
-      "headline": "Alibaba unveils Zhenwu V900, says cloud capacity will hit 20GW by 2032",
-      "summary": "New AI chip slated for release in Q1 2027",
-      "url": "https://www.datacenterdynamics.com/en/news/alibaba-unveils-zhenwu-v900-says-cloud-capacity-will-hit-20gw-by-2032/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T16:25:37+00:00",
-      "tags": [
-        "Capacity"
-      ],
-      "headline_ko": "Alibaba, Zhenwu V900 \uacf5\uac1c\u2026 2032\ub144\uae4c\uc9c0 cloud capacity 20GW \uc804\ub9dd",
-      "summary_ko": "\uc2e0\ud615 AI \uce69\uc740 2027\ub144 1\ubd84\uae30 \ucd9c\uc2dc \uc608\uc815\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4.",
-      "tags_ko": [
-        "Capacity"
-      ]
-    },
-    {
-      "id": "f0854f7cd1ca",
-      "headline": "AT&T seeks to lease more 3.45GHz spectrum",
-      "summary": "The carrier is after more midband spectrum, this time from N Squared",
-      "url": "https://www.datacenterdynamics.com/en/news/att-seeks-to-lease-more-345ghz-spectrum/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T14:30:53+00:00",
-      "tags": [
-        "Colocation"
-      ],
-      "headline_ko": "AT&T, 3.45GHz \uc2a4\ud399\ud2b8\ub7fc \ucd94\uac00 \uc784\ub300 \ucd94\uc9c4",
-      "summary_ko": "\uc774 \ud1b5\uc2e0\uc0ac\ub294 \uc774\ubc88\uc5d0\ub294 N Squared\ub85c\ubd80\ud130 \uc911\ub300\uc5ed \uc2a4\ud399\ud2b8\ub7fc\uc744 \ucd94\uac00\ub85c \ud655\ubcf4\ud558\ub824 \ud55c\ub2e4.",
-      "tags_ko": [
-        "Colocation"
-      ]
-    },
-    {
-      "id": "baed40d2203c",
-      "headline": "Plans progress for 200MW data center in Schladen-Werla, Germany",
-      "summary": "The project is being spearheaded by Green Datacenter Development",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-progress-for-200mw-data-center-in-schladen-werla-germany/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T13:59:39+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub3c5\uc77c Schladen-Werla\uc758 200MW data center \uacc4\ud68d \uc9c4\uc804",
-      "summary_ko": "\uc774 \ud504\ub85c\uc81d\ud2b8\ub294 Green Datacenter Development\uac00 \uc8fc\ub3c4\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "68dee24b605a",
-      "headline": "Polcom to build 40MW data center in Skawina, Poland",
-      "summary": "The facility will be the cloud services firm\u2019s second in the town",
-      "url": "https://www.datacenterdynamics.com/en/news/polcom-to-build-40mw-data-center-in-skawina-poland/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T13:58:35+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Polcom, \ud3f4\ub780\ub4dc Skawina\uc5d0 40MW data center \uad6c\ucd95",
-      "summary_ko": "\uc774 \uc2dc\uc124\uc740 \uc774 \ud074\ub77c\uc6b0\ub4dc \uc11c\ube44\uc2a4 \uae30\uc5c5\uc774 \ud574\ub2f9 \ub3c4\uc2dc\uc5d0 \uc9d3\ub294 \ub450 \ubc88\uc9f8 \uc2dc\uc124\uc774 \ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "f27e0d1c014c",
-      "headline": "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW data center in Ector County, Texas",
-      "summary": "Powered via an adjacent natural gas plant in Odessa, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T13:08:11+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "New Era, Vistra \uc790\ud68c\uc0ac\uc640 20\ub144 \uac00\uc2a4 PPA \uccb4\uacb0\u2026\ud14d\uc0ac\uc2a4 Ector County 250MW data center \uc804\ub825 \uacf5\uae09",
-      "summary_ko": "\ud14d\uc0ac\uc2a4 \uc624\ub370\uc0ac \uc778\uadfc\uc758 \ucc9c\uc5f0\uac00\uc2a4 \ubc1c\uc804\uc18c\ub97c \ud1b5\ud574 \uc804\ub825\uc774 \uacf5\uae09\ub41c\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "c93931a78ae3",
-      "headline": "Kairos Power selects Samsung C&T to help build 50MW SMR for Google in Tennessee",
-      "summary": "Slated for completion by 2030",
-      "url": "https://www.datacenterdynamics.com/en/news/kairos-power-selects-samsung-ct-to-help-build-50mw-smr-for-google-in-tennessee/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T13:04:07+00:00",
-      "tags": [
-        "Google Cloud",
-        "Power"
-      ],
-      "headline_ko": "Kairos Power, Google\uc758 Tennessee 50MW SMR \uac74\uc124 \uc9c0\uc6d0\uc5d0 Samsung C&T \uc120\uc815",
-      "summary_ko": "2030\ub144\uae4c\uc9c0 \uc644\uacf5\ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Google Cloud",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "248688817f45",
-      "headline": "Lithography firm Morphotonics targets data center optical component market after raising \u20ac40m",
-      "summary": "Company\u2019s technology currently used to manufacture displays for AR glasses",
-      "url": "https://www.datacenterdynamics.com/en/news/lithography-firm-morphotonics-targets-data-center-optical-component-market-after-raising-40m/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T12:59:56+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub9ac\uc18c\uadf8\ub798\ud53c \uae30\uc5c5 Morphotonics, \u20ac40m \uc870\ub2ec \ud6c4 data center \uad11\ud559 \ubd80\ud488 \uc2dc\uc7a5 \uaca8\ub0e5",
-      "summary_ko": "\uc774 \ud68c\uc0ac\uc758 \uae30\uc220\uc740 \ud604\uc7ac AR \uc548\uacbd\uc6a9 \ub514\uc2a4\ud50c\ub808\uc774 \uc81c\uc870\uc5d0 \uc0ac\uc6a9\ub418\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "6e3876d7a92b",
-      "headline": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants",
-      "summary": "Will add 96MW of additional capacity across the two plants",
-      "url": "https://www.datacenterdynamics.com/en/news/google-inks-deal-to-support-nuclear-uprates-at-georgia-powers-vogtle-and-hatch-plants/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T10:50:38+00:00",
-      "tags": [
-        "Google Cloud",
-        "Capacity",
-        "Power"
-      ],
-      "headline_ko": "Google, Georgia Power\uc758 Vogtle\u00b7Hatch \uc6d0\uc804 \ucd9c\ub825 \uc99d\uac15 \uc9c0\uc6d0 \uacc4\uc57d \uccb4\uacb0",
-      "summary_ko": "\ub450 \ubc1c\uc804\uc18c\uc5d0 \uac78\uccd0 96MW\uc758 \ucd94\uac00 capacity\ub97c \ub354\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Google Cloud",
-        "Capacity",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "f9d268a33265",
-      "headline": "2026 guide to navigating data center supply chain complexity",
-      "summary": "Hidden costs",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T10:48:30+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "data center \uacf5\uae09\ub9dd \ubcf5\uc7a1\uc131 \ub300\uc751\uc744 \uc704\ud55c 2026 \uac00\uc774\ub4dc",
-      "summary_ko": "data center \uacf5\uae09\ub9dd\uc758 \uc228\uaca8\uc9c4 \ube44\uc6a9\uc744 \ub2e4\ub8ec 2026 \uac00\uc774\ub4dc.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "896767c75985",
-      "headline": "Microsoft hires new director of global energy and sustainability policy",
-      "summary": "Ray Fakhoury III joins from AWS",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-hires-new-director-of-global-energy-and-sustainability-policy/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T10:20:34+00:00",
-      "tags": [
-        "AWS",
-        "Azure",
-        "Power"
-      ],
-      "headline_ko": "Microsoft, \uae00\ub85c\ubc8c \uc5d0\ub108\uc9c0\u00b7\uc9c0\uc18d\uac00\ub2a5\uc131 \uc815\ucc45 \uc2e0\uc784 \ub514\ub809\ud130 \uc601\uc785",
-      "summary_ko": "Ray Fakhoury III\uac00 AWS\uc5d0\uc11c \ud569\ub958\ud588\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "Azure",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "2b5eac5f2918",
-      "headline": "European Commission proposes energy and water efficiency disclosure rules for data centers",
-      "summary": "Proposal is now subject to a two-month scrutiny period",
-      "url": "https://www.datacenterdynamics.com/en/news/european-commission-proposes-energy-and-water-efficiency-disclosure-rules-for-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-22T10:10:39+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\uc720\ub7fd\uc5f0\ud569 \uc9d1\ud589\uc704\uc6d0\ud68c, data center \uc5d0\ub108\uc9c0\u00b7\ubb3c \ud6a8\uc728 \uacf5\uc2dc \uaddc\uce59 \uc81c\uc548",
-      "summary_ko": "\uc774 \uc81c\uc548\uc740 \uc774\uc81c \ub450 \ub2ec\uac04\uc758 \uc2ec\uc758 \uae30\uac04\uc744 \uac70\uce58\uac8c \ub410\ub2e4.",
-      "tags_ko": [
-        "data center",
-        "\uc804\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-06T03:08:23.923266+00:00",
-    "cached": 147,
-    "translated": 13,
+    "generated_at": "2026-10-07T02:29:21.234032+00:00",
+    "cached": 148,
+    "translated": 12,
     "skipped": 0
   }
 }
