@@ -8725,5 +8725,100 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "81ddca8d5a14389ef6c3093e2a0751b743b25994": {
+    "headline_ko": "NVIDIA\uc758 DSX Ready \ud504\ub85c\uadf8\ub7a8\uc774 AI factory \ub808\ud37c\ub7f0\uc2a4 \ub514\uc790\uc778\uc744 \uc9c0\uc6d0\ud558\ub294 \ubc30\ud130\ub9ac \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc2dc\uc2a4\ud15c\uacfc coolant distribution unit\uc5d0 \ub300\ud55c \uc790\uaca9 \uc694\uac74\uc744 \uc218\ub9bd\ud588\ub2e4. \uccab \ucc38\uc5ec \uadf8\ub8f9\uc5d0\ub294 6\uac1c \uc804\ub825\u00b7\ub0c9\uac01 \uacf5\uae09\uc5c5\uccb4\uac00 \ud3ec\ud568\ub410\ub2e4. (\uc774\ubbf8\uc9c0: NVIDIA)",
+    "summary_ko": "NVIDIA\uc758 DSX Ready \ud504\ub85c\uadf8\ub7a8\uc774 AI factory \ub808\ud37c\ub7f0\uc2a4 \ub514\uc790\uc778\uc744 \uc9c0\uc6d0\ud558\ub294 \ubc30\ud130\ub9ac \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc2dc\uc2a4\ud15c\uacfc coolant distribution unit\uc5d0 \ub300\ud55c \uc790\uaca9 \uc694\uac74\uc744 \ub9c8\ub828\ud588\uc73c\uba70, \uccab \ucc38\uc5ec \uadf8\ub8f9\uc5d0\ub294 6\uac1c \uc804\ub825\u00b7\ub0c9\uac01 \uacf5\uae09\uc5c5\uccb4\uac00 \ud3ec\ud568\ub410\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "\uc804\ub825"
+    ]
+  },
+  "e70ede20b732e97661f0671dbb9f3fa0516ca8d2": {
+    "headline_ko": "\uc804\ub825\uc774 \uc544\ub2cc \uc778\ud5c8\uac00, \uad6c\uae00 \ud540\ub780\ub4dc data center \uc911\ub2e8\uc2dc\ucf1c",
+    "summary_ko": "Google\uc740 \ud540\ub780\ub4dc \ubd81\ubd80 \uc804\ub825\ub9dd \uc811\uadfc\uad8c\uc744 \ud655\ubcf4\ud588\uc73c\ub098, \ud658\uacbd \uaddc\uc81c\uac00 \u20ac13 billion \uaddc\ubaa8 data center \ud655\uc7a5 \uacc4\ud68d\uc758 \ub450 \uc2dc\uc124 \ubd80\uc9c0 \uacf5\uc0ac\ub97c \ub9c9\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "ef272ec0a3b8b28235bdf8c8f5afdd01f1173a66": {
+    "headline_ko": "\uac00\uc7a5 \ud070 Data Center \uc624\ud574 \ubc14\ub85c\uc7a1\uae30",
+    "summary_ko": "\uac1c\ubc1c\uc790\uc774\uc790 \ucf58\ud150\uce20 \ud06c\ub9ac\uc5d0\uc774\ud130\uc778 Tom Shaw\uac00 Data Center\uc5d0 \uad00\ud55c \uc138 \uac00\uc9c0 \ud070 \uc624\ud574\ub97c \uc9da\uc740 \uc774 \uae00\uc740 Meta Newsroom\uc5d0 \ucc98\uc74c \uac8c\uc7ac\ub410\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "Data Center"
+    ]
+  },
+  "55920ffeb2915872fe64cefdc56c466495b2c5de": {
+    "headline_ko": "KT Cloud, \uc778\ucc9c\uc5d0\uc11c 50MW data center \ud504\ub85c\uc81d\ud2b8 \ucd94\uc9c4 \uacc4\ud68d",
+    "summary_ko": "KT Cloud\uac00 \uc124\uacc4\u00b7\uad6c\ucd95\u00b7\uc6b4\uc601 \ud30c\ud2b8\ub108\ub97c \ub9e1\uc744 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "85e28b06db646c2b5a393b0606cb70b6c10b9987": {
+    "headline_ko": "\uad11\ud559\uc801 \ucc29\uc2dc: co-packaged optics\ub294 data center \uc5c5\uacc4\uac00 \uae30\ub2e4\ub824\uc628 \uad6c\uc6d0\uc77c\uae4c?",
+    "summary_ko": "data center \ub124\ud2b8\uc6cc\ud06c\uc5d0 \ub300\ud55c \uc694\uad6c\uac00 \ucee4\uc9c0\ub294 \uac00\uc6b4\ub370, co-packaged optics\uac00 \ub9c8\uce68\ub0b4 \uc911\uc2ec\uc5d0 \uc124 \uc900\ube44\uac00 \ub418\uc5c8\uc744\uae4c?",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "16b7432ad1bffdbd10f27acdf7f4a30bdb0122df": {
+    "headline_ko": "\ub3c5\uc77c \ud504\ub791\ud06c\ud478\ub974\ud2b8 Goodman \ub370\uc774\ud130\uc13c\ud130 \ud3d0\uc5f4, \uc9c0\uc5ed\ub09c\ubc29 \uc2dc\uc2a4\ud15c\uc5d0 \uacf5\uae09",
+    "summary_ko": "\ud574\ub2f9 \uae30\uc5c5\uc740 50MW\ub97c \ud68c\uc218\ud574 \uac74\ubb3c\uacfc \uc218\uc601\uc7a5 \ub09c\ubc29\uc5d0 \uacf5\uae09\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130\uc13c\ud130",
+      "\uc804\ub825"
+    ]
+  },
+  "93c08939d38a9a8e117015a421101d80fec8d4d1": {
+    "headline_ko": "Google\uc758 \ud540\ub780\ub4dc 130\uc5b5 \uc720\ub85c data center \uad6c\ucd95, 300\ud5e5\ud0c0\ub974 \uc0b0\ub9bc \uc81c\uac70\ub85c \uc870\uc0ac \uc911",
+    "summary_ko": "\ud540\ub780\ub4dc \ud5c8\uac00\u00b7\uac10\ub3c5 \ub2f9\uad6d\uc774 \uc9c0\uc5ed \uc9c0\uc790\uccb4\ub4e4\uc5d0 \ubcf4\uace0\uc11c \uc81c\ucd9c\uc744 \uc694\uccad\ud588\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center"
+    ]
+  },
+  "19f08d356b54ecb345bc0cf690468e65cc6d543d": {
+    "headline_ko": "\uc9c0\uc18d\uac00\ub2a5\uc131 \ubc0f \ube44\uc6a9 \uc808\uac10\uc744 \uc704\ud55c data center \uc5ed\ub7c9 \uac15\ud654",
+    "summary_ko": "Ablecom AbleCool\uc740 data center\uac00 \uc9c0\uc18d\uac00\ub2a5\uc131\uacfc \ube44\uc6a9 \uc808\uac10\uc744 \ub2ec\uc131\ud558\ub3c4\ub85d \uc9c0\uc6d0\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "b652649f51d8c1c19975939a6c063ecdebcbcf99": {
+    "headline_ko": "Sesterce, \ud540\ub780\ub4dc J\u00e4ms\u00e4\uc758 600MW AI data center campus\uc5d0 100\uc5b5 \ub2ec\ub7ec \ud22c\uc790",
+    "summary_ko": "\uac1c\ubc1c\uc5c5\uccb4\ub294 \ud574\ub2f9 \ubd80\uc9c0\uc758 \uc575\ucee4 \uace0\uac1d\uc744 \uc774\ubbf8 \ud655\ubcf4\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
+  },
+  "375d8e7b36895618ff64fbacaeb60dd0f33dcef8": {
+    "headline_ko": "\ub7ec\uc2dc\uc544\uc5d0\uc11c Yandex data center, \ub4dc\ub860 \uacf5\uaca9 \ud53c\uaca9",
+    "summary_ko": "Ryazan Oblast\uc5d0 \uc788\ub294 data center\uac00 \ub4dc\ub860 \uacf5\uaca9\uc744 \ubc1b\uc558\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "a8e57d9335f689c30536e5c6cbf26154ffebf204": {
+    "headline_ko": "Carbon-Aware Scheduling\uc73c\ub85c \ub370\uc774\ud130 \uc13c\ud130 \ubc30\ucd9c\ub7c9\uc744 \uc904\uc774\ub294 \ubc29\ubc95",
+    "summary_ko": "\uc720\uc5f0\ud55c \uc6cc\ud06c\ub85c\ub4dc\ub97c \ub354 \uccad\uc815\ud55c \uc2dc\uac04\ub300\uc640 \uc704\uce58\uc5d0 \ub9de\ucd94\uba74 \ubcc0\ub3d9\uc131\uc774 \uce21\uc815 \uac00\ub2a5\ud55c Scope 2 \uac10\ucd95\uc73c\ub85c \uc774\uc5b4\uc9c4\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "a0c2a43c144a8394fe330a5bef0459ff0631fc61": {
+    "headline_ko": "\ub300\uaddc\ubaa8 data center\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud558\ub3c4\ub85d \uc124\uacc4",
+    "summary_ko": "hyperscale data center \uc6b4\uc601\uc790\uac00 1 GW \uaddc\ubaa8 \uad6c\ucd95\uc5d0\uc11c \uc548\uc815\uc801\uc778 \uc804\ub825, advanced cooling, \ubc18\ubcf5 \uac00\ub2a5\ud55c \uc544\ud0a4\ud14d\ucc98\ub85c AI infrastructure\ub97c \ud655\uc7a5\ud558\ub294 \ubc29\ubc95\uc744 \uc124\uba85\ud55c\ub2e4.",
+    "tags_ko": [
+      "AI infrastructure",
+      "data center",
+      "capacity",
+      "\uc804\ub825",
+      "colocation"
+    ]
   }
 }
