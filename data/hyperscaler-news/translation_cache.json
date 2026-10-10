@@ -8820,5 +8820,109 @@
       "\uc804\ub825",
       "colocation"
     ]
+  },
+  "87e2b675d5f750eaef18ab866fb75980b8fa7d66": {
+    "headline_ko": "AI Infrastructure \uc9c0\ub3c4\ub97c \ub2e4\uc2dc \uadf8\ub9ac\ub294 5\uac1c \uc2dc\uc7a5",
+    "summary_ko": "AI Infrastructure \uc9c0\ub3c4\ub97c \ub2e4\uc2dc \uadf8\ub9ac\ub294 5\uac1c \uc2dc\uc7a5.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "7da03a7851e3a1ed94fb8845bb97a449880c0ecc": {
+    "headline_ko": "\uac78\ub9bc\ub3cc\uc5d0 \uc544\uc2dc\uc544\u00b7\ud0dc\ud3c9\uc591 data center \uace8\ub4dc\ub7ec\uc2dc \ub454\ud654",
+    "summary_ko": "Firmus\uc640 PLDT\uac00 \uc774\ubc88 \uc8fc data center IPO\ub97c \ucca0\ud68c\ud588\uace0, \uac01\uad6d \uc815\ubd80\uac00 \uac1c\ubc1c\uc744 \uc77c\uc2dc \uc911\ub2e8\ud558\uba74\uc11c \uc544\uc2dc\uc544\uc758 data center \ubd90\uc5d0 \ub610 \ub2e4\ub978 \uac78\ub9bc\ub3cc\uc774 \ub098\ud0c0\ub0ac\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "ba8fbcc0c601bd7f834524f2fd1fa0b8b8a476e9": {
+    "headline_ko": "Google \uae00\ub85c\ubc8c \uc778\ud504\ub77c\u00b7capacity \ub2f4\ub2f9 VP Bikash Koley, TPU neocloud Crux AI\ub85c \uc774\ub3d9",
+    "summary_ko": "Google\ub97c \ub5a0\ub098\uc9c0\ub9cc \uac19\uc740 \uacc4\uc5f4\uc5d0\ub294 \ub0a8\ub294\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Capacity",
+      "Neocloud"
+    ]
+  },
+  "cba66bd00cbe6443d85ed6ee7332a2db0dca7e80": {
+    "headline_ko": "\uc774\ud0c8\ub9ac\uc544 \ubd81\ubd80 \uc2dc\uc758\ud68c, 80MW data center \uac74\uc124 \uacc4\ud68d \uac70\ubd80",
+    "summary_ko": "\uc9c0\uc790\uccb4\ub294 \ud574\ub2f9 \uacc4\ud68d\uc774 \uc790\uccb4 \ud658\uacbd \uc815\ucc45\uc5d0 \uc5b4\uae0b\ub09c\ub2e4\uace0 \uc8fc\uc7a5\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c09725d409a6ff614e585b801afda7b2487e0128": {
+    "headline_ko": "Digital Realty, \uc77c\ubcf8 KIX15 data center \ucc29\uacf5",
+    "summary_ko": "\uc624\uc0ac\uce74 \ucea0\ud37c\uc2a4\uc758 \uc2e0\uaddc \uac74\ubb3c\ub85c 24MW\uac00 \ucd94\uac00\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c1262efb084b7c905771e935bc8fc0feb8a27232": {
+    "headline_ko": "\ud3f4\ub780\ub4dc \ud2b8\uc170\ube0c\ub2c8\ucc28 data center \uac1c\ubc1c\uc5d0 \ubd88\ud655\uc2e4\uc131",
+    "summary_ko": "\ud55c \uc9c0\uc5ed \uc758\uc6d0\uc774 \uc2e0\uccad\uc11c\ub97c \ucc3e\uc544\ub0c8\uc73c\uba70, \uc138\ubd80 \ub0b4\uc6a9\uc774 \uc2ec\uc758\uc5d0\uc11c \uc228\uaca8\uc84c\ub2e4\uace0 \uc8fc\uc7a5\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "50eeaa801a3a0296f5afa0cca110efe0cb0cbf7d": {
+    "headline_ko": "colocation \uc0ac\uc5c5\uc790\uac00 \uc720\ud734 \uc804\ub825 capacity\ub97c \ucc3e\uc544 \ub418\ucc3e\ub294 \ubc29\ubc95",
+    "summary_ko": "\uba40\ud2f0\uc0ac\uc774\ud2b8 data center \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc804\ubc18\uc5d0\uc11c \uc228\uc740 \uc218\ubc31\ub9cc \uaddc\ubaa8\uc758 \uc218\uc775\uc744 \ub04c\uc5b4\ub0bc \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825",
+      "Colocation"
+    ]
+  },
+  "f77c8e7994c6f23888f0f051405d3018952b9094": {
+    "headline_ko": "Anthropic \uc5f0\uacc4 $366m data center \ud504\ub85c\uc81d\ud2b8, \ud14d\uc0ac\uc2a4 Cedar Creek\uc5d0 \uc2e0\uccad\uc11c \uc81c\ucd9c",
+    "summary_ko": "\uccab \ubc88\uc9f8 \uac74\ubb3c\uc740 Earl Callahan Road\uc5d0 \uc704\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c1c9aaaa84781a6a636dca0f59cc8d99f1600a67": {
+    "headline_ko": "\uc18c\uc74c \uaddc\uc81c\uac00 data center\ub97c \ub530\ub77c\uc7a1\uc9c0 \ubabb\ud560 \ub54c",
+    "summary_ko": "\uc18c\uc74c \ubb38\uc81c\ub97c \ubb34\uc2dc\ud574\uc11c\ub294 \uc548 \ub418\ub294 \uc774\uc720\ub3c4 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "beb1802117fdbca67b361ab4b8bf8ae7a84a7937": {
+    "headline_ko": "\uc774\ub77c\ud06c \uc815\ubd80, data center 5\uac1c \uac74\uc124 \uacc4\ud68d \uacf5\uac1c",
+    "summary_ko": "\uc2e0\uaddc \uc2dc\uc124\uc740 \ubc14\uadf8\ub2e4\ub4dc, \ubc14\uc2a4\ub77c, \ubaa8\uc220\uc5d0 \uc704\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "8d761680aaa2ea80c51095cd47e302b6864ac51f": {
+    "headline_ko": "ThisWay Global, \ud14d\uc0ac\uc2a4 Bryan\uc5d0 73MW AI\u00b7HPC data center \uacc4\ud68d",
+    "summary_ko": "\uc5f0\uad6c\uc790, \uacf5\uacf5 \ubd80\ubb38, \uc0b0\uc5c5\uacc4 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ucef4\ud4e8\ud305 \uc790\uc6d0\uc744 \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "e71853242afcfce9368c597fcf320e3dfa759c12": {
+    "headline_ko": "Bitdeer AI, \ub9d0\ub808\uc774\uc2dc\uc544\uc5d0\uc11c 67MW AI \ud074\ub77c\uc6b0\ub4dc \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "10\ub144 \uc784\ub300\ucc28 \uacc4\uc57d\uc740 GB300 NVL72 \ubc30\uce58\ub97c \uc704\ud574 \uc124\uacc4\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Colocation"
+    ]
+  },
+  "29ed8dbbba08d8ee6407085a8ef1ba3ee20fc6d4": {
+    "headline_ko": "IT \uc11c\ube44\uc2a4 \uc81c\uacf5\uc5c5\uccb4 Infomaniak, \uc2a4\uc704\uc2a4 \uc99d\uad8c\uac70\ub798\uc18c \uc0c1\uc7a5",
+    "summary_ko": "\uc774 \ud68c\uc0ac\ub294 \ud604\uc7ac 30\ub9cc \uba85 \uc774\uc0c1\uc758 \uc720\ub7fd \uace0\uac1d\uc744 \ub300\uc0c1\uc73c\ub85c \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud558\uba70 \uc2a4\uc704\uc2a4\uc5d0\uc11c 3\uac1c\uc758 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc6b4\uc601\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c0171c6403e58e85c2b242a4d470dc99175fafb4": {
+    "headline_ko": "ThisWay Global, \ud30c\uc0b0\ud55c RELLIS \ubd80\uc9c0\ub97c 73 MW AI \ud5c8\ube0c\ub85c \uc804\ud658",
+    "summary_ko": "ThisWay Global\uc740 Texas A&M\uc758 RELLIS \ucea0\ud37c\uc2a4\uc5d0 \uc788\ub294 \ud30c\uc0b0\ud55c data center \ud504\ub85c\uc81d\ud2b8\ub97c 73 MW AI \ubc0f \uc5f0\uad6c \uc13c\ud130\ub85c \uc7ac\uc815\ube44\ud558\uc5ec \uc790\uc0ac\uc758 Sovereign AI Blueprint\ub97c \uc2dc\uc5f0\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
   }
 }

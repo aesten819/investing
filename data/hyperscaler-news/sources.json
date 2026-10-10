@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:58:47.104079+00:00",
+  "generated_at": "2026-10-10T02:25:46.316383+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -63,7 +63,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 8
+      "article_count": 11
     },
     {
       "id": "data_center_knowledge",
