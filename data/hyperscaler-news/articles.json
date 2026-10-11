@@ -1,7 +1,104 @@
 {
-  "generated_at": "2026-10-10T02:25:46.316383+00:00",
+  "generated_at": "2026-10-11T01:59:02.371523+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "9a6c4e4cbd3c",
+      "headline": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "summary": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "url": "https://www.oracle.com/news/announcement/oracle-issues-rfp-for-2gw-of-renewable-energy-2026-09-08/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-11T01:58:57.599697+00:00",
+      "tags": [
+        "Oracle",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Oracle, \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0 RFP \ubc1c\ud589",
+      "summary_ko": "Oracle\uc774 \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0\uc5d0 \ub300\ud55c RFP\ub97c \ubc1c\ud589\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Capacity",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "bdb95147cdf2",
+      "headline": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "summary": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "url": "https://www.oracle.com/news/announcement/oracle-and-bloom-energy-announce-support-for-roadrunner-food-bank-2026-09-03/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-11T01:58:57.599697+00:00",
+      "tags": [
+        "Oracle",
+        "Power"
+      ],
+      "headline_ko": "Oracle\uc640 Bloom Energy, Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0 \ubc1c\ud45c\u2026 Santa Teresa\uc640 Sunland Park \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300",
+      "summary_ko": "Oracle\uc640 Bloom Energy\uac00 Santa Teresa\uc640 Sunland Park\uc758 \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300\ub97c \uc704\ud574 Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0\uc744 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "2df5773f1ef8",
+      "headline": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "summary": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "url": "https://www.oracle.com/news/announcement/blog/the-work-came-home-2026-09-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-11T01:58:57.599697+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "\uc77c\uac10\uc774 \uace0\ud5a5\uc73c\ub85c \ub3cc\uc544\uc624\ub2e4: \uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \ub3d5\ub294 \ubc29\ubc95",
+      "summary_ko": "\uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \uc5b4\ub5bb\uac8c \uc9c0\uc6d0\ud558\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "418138e7c07b",
+      "headline": "Port Washington\u2019s Historic 1860 Light Station Restoration Receives $60,000 Community Investment from Vantage Data Centers, Oracle and OpenAI",
+      "summary": "Port Washington\u2019s Historic 1860 Light Station Restoration Receives $60,000 Community Investment from Vantage Data Centers, Oracle and OpenAI",
+      "url": "https://www.oracle.com/news/announcement/vantage-data-centers-oracle-and-openai-announce-contribution-for-restoration-work-2026-08-11/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-11T01:58:57.599697+00:00",
+      "tags": [
+        "Oracle",
+        "Data Center",
+        "Capex"
+      ],
+      "headline_ko": "\ud3ec\ud2b8\uc6cc\uc2f1\ud134\uc758 \uc5ed\uc0ac\uc801\uc778 1860\ub144 \ub4f1\ub300 \uc2dc\uc124 \ubcf5\uc6d0, Vantage Data Centers\u00b7Oracle\u00b7OpenAI\ub85c\ubd80\ud130 6\ub9cc \ub2ec\ub7ec \uc9c0\uc5ed \ud22c\uc790 \uc720\uce58",
+      "summary_ko": "\ud3ec\ud2b8\uc6cc\uc2f1\ud134\uc758 \uc5ed\uc0ac\uc801\uc778 1860\ub144 \ub4f1\ub300 \uc2dc\uc124 \ubcf5\uc6d0 \uc0ac\uc5c5\uc774 Vantage Data Centers, Oracle, OpenAI\ub85c\ubd80\ud130 6\ub9cc \ub2ec\ub7ec\uc758 \uc9c0\uc5ed \uc0ac\ud68c \ud22c\uc790\ub97c \ubc1b\uc558\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Data Center",
+        "Capex"
+      ]
+    },
+    {
+      "id": "da419e06060a",
+      "headline": "Cipher extends Barber Lake data center lease commitments to 20 years",
+      "summary": "Fluidstack and unnamed AI lab agree lengthy leases",
+      "url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-10T11:00:34+00:00",
+      "tags": [
+        "Data Center",
+        "Colocation"
+      ],
+      "headline_ko": "Cipher, Barber Lake data center \uc784\ub300 \uc57d\uc815\uc744 20\ub144\uc73c\ub85c \uc5f0\uc7a5",
+      "summary_ko": "Fluidstack\uacfc \uc774\ub984\uc744 \ubc1d\ud788\uc9c0 \uc54a\uc740 AI lab\uc774 \uc7a5\uae30 \uc784\ub300\uc5d0 \ud569\uc758\ud588\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Colocation"
+      ]
+    },
     {
       "id": "6cc43406ada6",
       "headline": "5 Markets Redrawing the AI Infrastructure Map",
@@ -2834,107 +2931,14 @@
         "Colocation",
         "Neocloud"
       ]
-    },
-    {
-      "id": "ef48c716d5ed",
-      "headline": "Akamai signs $11.6bn compute deal with Anthropic",
-      "summary": "AI firm to lease capacity from cloud and Edge company to support CPU workloads",
-      "url": "https://www.datacenterdynamics.com/en/news/akamai-signs-116bn-compute-deal-with-anthropic/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-28T11:16:27+00:00",
-      "tags": [
-        "Capacity",
-        "Colocation"
-      ],
-      "headline_ko": "Akamai, Anthropic\uacfc 116\uc5b5 \ub2ec\ub7ec \ucef4\ud4e8\ud2b8 \uacc4\uc57d \uccb4\uacb0",
-      "summary_ko": "AI \uae30\uc5c5\uc774 CPU \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ud074\ub77c\uc6b0\ub4dc \ubc0f \uc5e3\uc9c0 \uae30\uc5c5\uc73c\ub85c\ubd80\ud130 capacity\ub97c \uc784\ucc28\ud55c\ub2e4.",
-      "tags_ko": [
-        "Capacity",
-        "Colocation"
-      ]
-    },
-    {
-      "id": "411114cc8641",
-      "headline": "Russian drones strike Ukrainian telcos and data center operators as part of targeted attacks",
-      "summary": "Kyivstar's HQ in Kyiv was struck in latest attack on capital",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-drones-hit-kyivstar-hq-vodafone-data-center-in-ukraine/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-28T10:45:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub7ec\uc2dc\uc544 \ub4dc\ub860, \ud45c\uc801 \uacf5\uaca9\uc758 \uc77c\ud658\uc73c\ub85c \uc6b0\ud06c\ub77c\uc774\ub098 \ud1b5\uc2e0\uc0ac\uc640 data center \uc6b4\uc601\uc0ac \ud0c0\uaca9",
-      "summary_ko": "Kyivstar\uc758 \ud0a4\uc774\uc6b0 \ubcf8\uc0ac\uac00 \uc218\ub3c4\uc5d0 \ub300\ud55c \ucd5c\uc2e0 \uacf5\uaca9\uc5d0\uc11c \ud0c0\uaca9\uc744 \uc785\uc5c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "aa80424852d0",
-      "headline": "Energy storage strategies for the data center power chain",
-      "summary": "Tailoring for scale, speed and flexibility",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-28T09:27:42+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "data center \uc804\ub825 \uccb4\uc778\uc744 \uc704\ud55c \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc804\ub7b5",
-      "summary_ko": "\uaddc\ubaa8, \uc18d\ub3c4, \uc720\uc5f0\uc131\uc5d0 \ub9de\ucd98 \ub9de\ucda4\ud615 \uc804\ub7b5\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "46e2d6efce42",
-      "headline": "Vertiv expands data center kit manufacturing capacity in Slovakia",
-      "summary": "Will add 22,000 sqm to power and cooling factory",
-      "url": "https://www.datacenterdynamics.com/en/news/vertiv-expands-data-center-kit-manufacturing-capacity-in-slovakia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-28T08:00:00+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Power"
-      ],
-      "headline_ko": "Vertiv, \uc2ac\ub85c\ubc14\ud0a4\uc544\uc5d0\uc11c data center \uc7a5\ube44 \uc81c\uc870 capacity \ud655\uc7a5",
-      "summary_ko": "\uc804\ub825 \ubc0f \ub0c9\uac01 \uacf5\uc7a5\uc5d0 22,000 sqm\ub97c \ucd94\uac00\ud560 \uc608\uc815",
-      "tags_ko": [
-        "Data Center",
-        "Capacity",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "0303c85959b3",
-      "headline": "Beyond redundancy: Why dynamic stability matters in AI data centers",
-      "summary": "The future of data center resilience",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-27T10:00:31+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc774\uc911\ud654\ub97c \ub118\uc5b4: AI data center\uc5d0\uc11c \ub3d9\uc801 \uc548\uc815\uc131\uc774 \uc911\uc694\ud55c \uc774\uc720",
-      "summary_ko": "data center \ubcf5\uc6d0\ub825\uc758 \ubbf8\ub798\uac00 \uc8fc\uc81c\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-10T02:26:44.655470+00:00",
-    "cached": 146,
-    "translated": 14,
+    "generated_at": "2026-10-11T01:59:07.179811+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }

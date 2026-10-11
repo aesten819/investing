@@ -8924,5 +8924,13 @@
       "Data Center",
       "Capacity"
     ]
+  },
+  "d9800fb7d96038187252aaba0f00a8fd1b1bd4ad": {
+    "headline_ko": "Cipher, Barber Lake data center \uc784\ub300 \uc57d\uc815\uc744 20\ub144\uc73c\ub85c \uc5f0\uc7a5",
+    "summary_ko": "Fluidstack\uacfc \uc774\ub984\uc744 \ubc1d\ud788\uc9c0 \uc54a\uc740 AI lab\uc774 \uc7a5\uae30 \uc784\ub300\uc5d0 \ud569\uc758\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
   }
 }
