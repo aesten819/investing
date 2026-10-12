@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-10-11T01:59:02.371523+00:00",
+  "generated_at": "2026-10-12T02:29:37.251160+00:00",
   "article_count": 160,
   "articles": [
+    {
+      "id": "32e936fcb573",
+      "headline": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+      "summary": "Will transfer Montana data center to new company",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-11T11:00:49+00:00",
+      "tags": [
+        "Data Center",
+        "Colocation"
+      ],
+      "headline_ko": "Hyperscale Data, \ube44\ud2b8\ucf54\uc778 \ucc44\uad74 \uc0ac\uc5c5\uc744 \uc704\ud55c Patriot BTC \uc790\ud68c\uc0ac \uacc4\ud68d",
+      "summary_ko": "\ubaac\ud0dc\ub098 data center\ub97c \uc0c8 \ud68c\uc0ac\ub85c \uc774\uc804\ud560 \uc608\uc815",
+      "tags_ko": [
+        "Data Center",
+        "Colocation"
+      ]
+    },
     {
       "id": "9a6c4e4cbd3c",
       "headline": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
@@ -2910,33 +2929,12 @@
         "Data Center",
         "\uc790\uae08 \uc870\ub2ec"
       ]
-    },
-    {
-      "id": "06ad5786c896",
-      "headline": "Sharon AI to lease capacity from Australia\u2019s GreenSquareDC",
-      "summary": "Former IBM site to become host for Aussie neocloud",
-      "url": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-09-28T11:19:27+00:00",
-      "tags": [
-        "Capacity",
-        "Colocation",
-        "Neocloud"
-      ],
-      "headline_ko": "Sharon AI, \ud638\uc8fc GreenSquareDC\ub85c\ubd80\ud130 capacity \uc784\ucc28",
-      "summary_ko": "\uc804 IBM \ubd80\uc9c0\uac00 \ud638\uc8fc neocloud\ub97c \uc704\ud55c \ud638\uc2a4\ud305 \uac70\uc810\uc774 \ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Capacity",
-        "Colocation",
-        "Neocloud"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-11T01:59:07.179811+00:00",
+    "generated_at": "2026-10-12T02:29:43.856419+00:00",
     "cached": 159,
     "translated": 1,
     "skipped": 0
