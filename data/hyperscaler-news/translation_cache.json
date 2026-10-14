@@ -9061,5 +9061,125 @@
       "Data Center",
       "Power"
     ]
+  },
+  "77a5df6c4606f42cb9096781bc485611fc12a556": {
+    "headline_ko": "OCP 2026 \uc0cc\ud638\uc138 \uae30\uc870\uc5f0\uc124\uc7a5\uc740 Meta\uc758 \uc624\ud558\uc774\uc624 Prometheus AI \ucea0\ud37c\uc2a4\uc5d0 \ub300\ud615 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \uc778\ud074\ub85c\uc800\ub97c \uacf5\uae09\ud558\ub294 Sprung Structures\uac00 \uc9c0\uc740 \ud328\ube0c\ub9ad \uc9c0\ubd95 \uad6c\uc870\ubb3c\uc774\ub2e4. Meta\uc758 Santosh Janardhan\uc740 \uc774 \ubc29\uc2dd\uc774 \uae30\uc874 \uac74\uc124\ucc98\ub7fc \uc218\ub144\uc774 \uac78\ub9ac\ub294 \ub300\uc2e0 data center capacity\ub97c \ub2e8 3~5\uac1c\uc6d4 \ub9cc\uc5d0 \uac00\ub3d9\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub420 \uc218 \uc788\ub2e4\uace0 \uc5b8\uae09\ud588\ub2e4.",
+    "summary_ko": "OCP 2026 \uc0cc\ud638\uc138 \uae30\uc870\uc5f0\uc124\uc7a5\uc744 \uc9c0\uc740 Sprung Structures\uac00 Meta\uc758 \uc624\ud558\uc774\uc624 Prometheus AI \ucea0\ud37c\uc2a4\uc5d0\ub3c4 \ub300\ud615 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \uc778\ud074\ub85c\uc800\ub97c \uacf5\uae09\ud558\ub294 \uac00\uc6b4\ub370, Meta\uc758 Santosh Janardhan\uc740 \uc774 \ubc29\uc2dd\uc774 \uae30\uc874 \uac74\uc124\uc758 \uc218\ub144 \ub300\uc2e0 \ub2e8 3~5\uac1c\uc6d4 \ub9cc\uc5d0 data center capacity\ub97c \uac00\ub3d9\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub420 \uc218 \uc788\ub2e4\uace0 \uc5b8\uae09\ud588\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "25bc4cc4a986f5a6e1982dc68043fe53aa9fb593": {
+    "headline_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub2e4: Data Center \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0\ub294 \ub354 \uc5f0\uacb0\ub41c \uc2a4\ucf54\uc5b4\uce74\ub4dc\uac00 \ud544\uc694\ud558\ub2e4",
+    "summary_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub2e4: Data Center \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0\ub294 \ub354 \uc5f0\uacb0\ub41c \uc2a4\ucf54\uc5b4\uce74\ub4dc\uac00 \ud544\uc694\ud558\ub2e4\ub294 \ub0b4\uc6a9\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "fc48f6e3604ea99d3c0bf5cc9bf188000c0f5b1b": {
+    "headline_ko": "Google data center \uc804\ub7b5 \uc18c\uc2f1 \uc784\uc6d0, OpenAI\ub85c \uc774\uc9c1",
+    "summary_ko": "Allyson Fealtman\uc740 \uace0\uc18d \uc778\ud130\ucee4\ub125\ud2b8\uc640 rack \uc804\ub825\uc5d0 \uc9d1\uc911\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "78a5cddcabfbc8423e87097cc49f43be8226071c": {
+    "headline_ko": "It's all good, man: Goodman Group CEO, \uae00\ub85c\ubc8c \uc57c\uc2ec\uc744 \ub9d0\ud558\ub2e4",
+    "summary_ko": "Greg Goodman\uc774 \uac00\uc871 \uae30\uc5c5\uc5d0\uc11c data center\uc758 \uc911\uc694\uc131\uc774 \ucee4\uc9c0\uace0 \uc788\ub2e4\uace0 \uc5b8\uae09\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "1518c41166bfe099b1b1f5f59fd3c53b6acbd1df": {
+    "headline_ko": "\uccad\uc815\uc5d0\ub108\uc9c0 \ud22c\uc790\ub85c \uc778\ub514\uc560\ub098 \uc9c0\uc5ed\uc0ac\ud68c\uc758 \ube44\uc6a9 \uc808\uac10\uc744 \uc9c0\uc6d0",
+    "summary_ko": "\uccad\uc815\uc5d0\ub108\uc9c0 \ud22c\uc790\ub97c \ud1b5\ud574 \uc778\ub514\uc560\ub098 \uc9c0\uc5ed\uc0ac\ud68c\uc758 \ube44\uc6a9 \uc808\uac10\uc744 \uc9c0\uc6d0\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "837683b6689bb1a11deeda86f9cf8ed2aed850d6": {
+    "headline_ko": "Scaleway, \uc2a4\uc6e8\ub374\uacfc \ucf54\ud39c\ud558\uac90\uc5d0 GPU \ud074\ub7ec\uc2a4\ud130 \uad6c\ucd95 \uacc4\ud68d",
+    "summary_ko": "\ud074\ub77c\uc6b0\ub4dc \uae30\uc5c5\uc758 AI-Pulse 2026 \ud589\uc0ac\uc5d0\uc11c \ubc1c\ud45c\ub410\ub2e4.",
+    "tags_ko": [
+      "AI infrastructure"
+    ]
+  },
+  "c1b45ba0bf942db9799e839571fab4d036d38f06": {
+    "headline_ko": "Microchip Technology, AI \ubc0f HPC \uc6cc\ud06c\ub85c\ub4dc \uc9c0\uc6d0 \uac15\ud654 \uc704\ud574 \ub124\ud2b8\uc6cc\ud0b9\u00b7\uc2a4\ud1a0\ub9ac\uc9c0 \uc81c\ud488 \uc5c5\ub370\uc774\ud2b8",
+    "summary_ko": "\ud655\ub300\ub41c data center \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uac00 \uace0\uac1d\uc758 \uc5ec\ub7ec \uc778\ud504\ub77c \uacfc\uc81c \ud574\uacb0\uc5d0 \ub3c4\uc6c0\uc774 \ub420 \uac83\uc774\ub77c\uace0 \ud68c\uc0ac\ub294 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "04c15f76b0786f1c2eae6c86a4670bff5c957da7": {
+    "headline_ko": "data center \uac74\uc124\uc5d0\uc11c\uc758 \ud654\uc7ac \ubc29\ud638",
+    "summary_ko": "\ucd08\uae30 \uc124\uacc4 \ub2e8\uacc4\uc5d0\uc11c passive fire protection\uc774 \uac16\ub294 \uc804\ub7b5\uc801 \uac00\uce58",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c1840b223d45268087b9f4489fdd7758c0b2d97f": {
+    "headline_ko": "FERC, PJM\uc758 data center \ub370\uc774\ud130\ubca0\uc774\uc2a4 \uad6c\ucd95 \uc694\uccad \uc2b9\uc778",
+    "summary_ko": "power grid \uc2a4\ud2b8\ub808\uc2a4 \uc2dc data center \uc804\ub825 \uacf5\uae09\uc744 \uc81c\ud55c\ud558\ub77c\ub294 \ubcc4\ub3c4 \uc694\uccad\uc740 \uac70\ubd80\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "d9e327fdab31af8047087cf6d8db3ba538957583": {
+    "headline_ko": "Legrand, Karman AI \ud50c\ub7ab\ud3fc\uc744 data center PDUs\uc640 power shelves\uc5d0 \ud1b5\ud569",
+    "summary_ko": "Karman \ub9ac\ube0c\ub79c\ub529 \uc774\ud6c4 \uccab \uacc4\uc57d\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Power"
+    ]
+  },
+  "6235f7fc5d3be2f66a08607d40fd53ecba3ba4cc": {
+    "headline_ko": "Naver Cloud, FPT\uc640 \uc544\uc2dc\uc544\ud0dc\ud3c9\uc591 AI \uad6c\ucd95 \ud611\ub825",
+    "summary_ko": "AI data center \uac1c\ubc1c\uacfc \ubc30\ud3ec\ub97c \uac00\uc18d\ud654\ud558\ub294 \uac83\uc744 \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "4ac8a47f200775e79243ddfdc8225ff4e30944ee": {
+    "headline_ko": "Chiplet\uc774 \uc11c\ubc84 \uc124\uacc4\uc640 data center\ub97c \uc5b4\ub5bb\uac8c \ubc14\uafc0 \uc218 \uc788\uc744\uae4c",
+    "summary_ko": "Chiplet\uc740 CPU \uc124\uacc4\ub97c \uc7ac\ud3b8\ud574 data center\uac00 \uacf5\uac04\uc774\ub098 \uc804\ub825 \uc18c\ube44\ub97c \ub298\ub9ac\uc9c0 \uc54a\uace0 \ub354 \ub9ce\uc740 \uc77c\uc744 \ucc98\ub9ac\ud560 \uc218 \uc788\uac8c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "fa7f0c50fefd982e9b334f6d1d924ddc01440382": {
+    "headline_ko": "Amazon Ring \uc784\uc6d0, Blue Origin\uc73c\ub85c \uc774\ub3d9\ud574 TeraWave \ub124\ud2b8\uc6cc\ud06c \ucd1d\uad04",
+    "summary_ko": "Bezos\uc758 \ub85c\ucf13 \ud68c\uc0ac\uac00 \uace0\uc18d \uc6b0\uc8fc \ub9c1\ud06c\ub85c data center\ub97c \uc5f0\uacb0\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "260c56abb0d10402829fccee61d173b13456f23d": {
+    "headline_ko": "\ub0c9\uac01 | \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1\ub41c \uc720\uc5f0\uc131\uc73c\ub85c \ubbf8\ub798 \ub300\ube44",
+    "summary_ko": "\uc815\uc801\uc778 \uc811\uadfc\uc5d0\uc11c \uc804\ub7b5\uc801 \uc811\uadfc\uc73c\ub85c, AI \uc2dc\ub300\ub97c \uc704\ud55c \uc5f4 \uc778\ud504\ub77c\ub97c \ud0d0\uad6c\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "2526f20559b55db21cadf2889a5c14826ad5640e": {
+    "headline_ko": "NTT, \uc77c\ubcf8\uc5d0\uc11c Anthropic\uc6a9 63\uc5b5 \ub2ec\ub7ec data center \uac74\uc124 - \ubcf4\ub3c4",
+    "summary_ko": "\uc18c\uc2dd\ud1b5\ub4e4\uc740 \ud611\uc0c1\uc774 \"\ucd5c\uc885 \ub2e8\uacc4\"\uc5d0 \uc788\ub2e4\uace0 \uc804\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "8ee5864d6e6663f80918a047517dd1a7ecf9ca8b": {
+    "headline_ko": "VivoPower, \ub178\ub974\uc6e8\uc774 Mo i Rana 42MW data center \ucc29\uacf5",
+    "summary_ko": "VivoPower\ub294 2.2GW \uaddc\ubaa8\uc758 \ube44\ubd81\uc720\ub7fd AI data center \ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \uc2e0\uaddc \uc0c1\uc7a5\uc0ac\ub85c \ubd84\ud560\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
   }
 }
