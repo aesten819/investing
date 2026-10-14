@@ -1,7 +1,146 @@
 {
-  "generated_at": "2026-10-13T03:31:27.021770+00:00",
+  "generated_at": "2026-10-14T01:53:05.940375+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "847b7280cddb",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-6/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T01:27:53+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[Inside the Research] AI \uc2dc\ub300, NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \ucef4\ud4e8\ud305\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \ucef4\ud4e8\ud305\uc73c\ub85c \ud655\uc7a5\ub418\ub294 \uac00\uc6b4\ub370, IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654\uac00 \ub2e4\ub904\uc9c4\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "e1923631d661",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-5/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T01:26:05+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[\uc5f0\uad6c\uc2e4 \ud0d0\ubc29] AI \uc2dc\ub300, NAND\ub294 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0 \uc601\uc5ed\uc73c\ub85c \ud655\uc7a5\ub418\ub294 \uac00\uc6b4\ub370, IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654\uac00 \ub17c\uc758\ub410\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "9a063c114df9",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-4/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T01:24:28+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[\uc5f0\uad6c\uc18c \ud0d0\ubc29] AI \uc2dc\ub300, NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0 \uc601\uc5ed\uc73c\ub85c \ud655\uc7a5\ub418\ub294 \uac00\uc6b4\ub370, IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654\uac00 \ubc1c\ud45c\ub410\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "1ee1510ada1b",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-3/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T01:21:53+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[Inside the Research] AI \uc2dc\ub300, NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \ucef4\ud4e8\ud305\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \ucef4\ud4e8\ud305\uc73c\ub85c \ud655\uc7a5\ub418\ub294 \uac00\uc6b4\ub370, IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654\uac00 \ub2e4\ub904\uc9c4\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "bdba7fb67231",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T01:19:48+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[Inside the Research] AI \uc2dc\ub300, NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0\uc73c\ub85c \ud655\uc7a5\ud558\ub294 \uac00\uc6b4\ub370, IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654\uac00 \ub2e4\ub904\uc84c\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "5c79da940754",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-1/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T01:18:35+00:00",
+      "tags": [
+        "NAND",
+        "SSD"
+      ],
+      "headline_ko": "[Inside the Research] AI \uc2dc\ub300, NAND\ub294 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "AI \uc2dc\ub300\uc5d0 NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \uc5f0\uc0b0 \uc601\uc5ed\uc73c\ub85c \ud655\uc7a5\ub418\ub294 \uac00\uc6b4\ub370, IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654 \uc5f0\uad6c\uac00 \uc18c\uac1c\ub410\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "SSD"
+      ]
+    },
+    {
+      "id": "c6ec767a4029",
+      "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
+      "summary": "SK hynix offers a full-stack portfolio of AI memory solutions optimized for AI systems across all major memory categories, including High Bandwidth Memory(HBM), DRAM, and NAND fla...",
+      "url": "https://news.skhynix.com/en/research-inside-ep2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-14T00:00:04+00:00",
+      "tags": [
+        "HBM",
+        "DRAM",
+        "NAND",
+        "SSD",
+        "Memory"
+      ],
+      "headline_ko": "[Inside the Research] AI \uc2dc\ub300, NAND\uac00 \uc800\uc7a5\uc744 \ub118\uc5b4 \ucef4\ud4e8\ud305\uc73c\ub85c\u2026 IEEE\uc5d0\uc11c 3D FeNAND \uacf5\ub3d9 \ucd5c\uc801\ud654",
+      "summary_ko": "SK hynix\ub294 HBM, DRAM, NAND flash \ub4f1 \ubaa8\ub4e0 \uc8fc\uc694 \uba54\ubaa8\ub9ac \uce74\ud14c\uace0\ub9ac\uc5d0\uc11c AI \uc2dc\uc2a4\ud15c\uc5d0 \ucd5c\uc801\ud654\ub41c AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158\uc758 \ud480\uc2a4\ud0dd \ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \uc81c\uacf5\ud55c\ub2e4.",
+      "tags_ko": [
+        "HBM",
+        "DRAM",
+        "NAND",
+        "SSD",
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "ba8d7fbc90b9",
       "headline": "AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce",
@@ -1356,139 +1495,14 @@
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "ecadcff03262",
-      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "summary": "\u25aa Times Square roadblock campaign amplifies SK hynix\u2019s Nasdaq ADR trading debut\u25aa Brand film connects the dual meaning of \u201cmemory\u201d with meaningful moments in everyday life\u25aa Anamorp...",
-      "url": "https://news.skhynix.com/celebrating-adr-trading/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-10T16:36:22+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK hynix, \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ube0c\ub79c\ub4dc\ub85c \ubc1d\ud788\uba70 \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220 \uac15\uc870",
-      "summary_ko": "\u25aa \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub85c\ub4dc\ube14\ub85d \ucea0\ud398\uc778\uc774 SK hynix\uc758 \ub098\uc2a4\ub2e5 ADR \uac70\ub798 \ub370\ubdd4\ub97c \uc54c\ub9ac\uace0, \ube0c\ub79c\ub4dc \ud544\ub984\uc740 '\uba54\ubaa8\ub9ac'\uc758 \uc774\uc911\uc801 \uc758\ubbf8\ub97c \uc77c\uc0c1\uc758 \uc758\ubbf8 \uc788\ub294 \uc21c\uac04\ub4e4\uacfc \uc5f0\uacb0\ud569\ub2c8\ub2e4. \u25aa \uc544\ub098\ubaa8\ub974...",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "5112de596b28",
-      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "summary": "SK hynix\u2019s HBM was brought to life through anamorphic 3D visuals on a Times Square digital screen.",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading-4/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-10T06:59:42+00:00",
-      "tags": [
-        "HBM"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220\uc744 \uac15\uc870\ud558\uba70 \ube0c\ub79c\ub4dc\ub85c \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ubc1d\ud788\ub2e4",
-      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc758 HBM\uc774 \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub514\uc9c0\ud138 \uc2a4\ud06c\ub9b0\uc5d0\uc11c \uc544\ub098\ubaa8\ud53d 3D \uc2dc\uac01 \ud6a8\uacfc\ub85c \uad6c\ud604\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "HBM"
-      ]
-    },
-    {
-      "id": "f967befb3d86",
-      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "summary": "\u25b2The brand film visually expressed the dual meaning of \u201cmemory\u201das both a semiconductor technology and a human experience.",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading-2/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-10T06:57:41+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220\uc744 \uac15\uc870\ud558\uba70 \ube0c\ub79c\ub4dc\ub85c \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ubc1d\ud788\ub2e4",
-      "summary_ko": "\u25b2\ube0c\ub79c\ub4dc \ud544\ub984\uc740 '\uba54\ubaa8\ub9ac'\uac00 \ubc18\ub3c4\uccb4 \uae30\uc220\uacfc \uc778\uac04 \uacbd\ud5d8\uc758 \uc774\uc911 \uc758\ubbf8\ub97c \uc2dc\uac01\uc801\uc73c\ub85c \ud45c\ud604\ud588\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "2ca07ac75378",
-      "headline": "Nasdaq ADR Listing Ceremony (Fri, July 10. 09:15 AM)",
-      "summary": "SK hynix\u2019s Next Chapter Begins in NY ADR Listing Ceremony at the Global Financial Hub Join us on the historic journey markinga new memory milestone!",
-      "url": "https://news.skhynix.com/nasdaq-adr-listing-ceremony/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-10T01:00:00+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "Nasdaq ADR \uc0c1\uc7a5\uc2dd (\uae08, 7\uc6d4 10\uc77c \uc624\uc804 9\uc2dc 15\ubd84)",
-      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 \uae00\ub85c\ubc8c \uae08\uc735 \ud5c8\ube0c \ub274\uc695\uc5d0\uc11c ADR \uc0c1\uc7a5\uc2dd\uc744 \uac1c\ucd5c\ud558\uba70 \uc0c8\ub85c\uc6b4 \uba54\ubaa8\ub9ac \uc774\uc815\ud45c\ub97c \uc138\uc6b0\ub294 \uc5ed\uc0ac\uc801\uc778 \uc5ec\uc815\uc744 \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "5783d4369b62",
-      "headline": "Long-Term Agreements Cap Price Increases; Server DRAM Contract Prices Expected to Rise 13-18% QoQ in 3Q26, Says TrendForce",
-      "summary": "TrendForce\u2019s latest memory pricing survey indicates that multiple memory suppliers have already factored in expected price hikes into their prices for the second quarter of 2026.",
-      "url": "https://www.trendforce.com/presscenter/news/20260709-13140.html",
-      "source": "TrendForce",
-      "source_id": "trendforce",
-      "published_at": "2026-07-09T05:52:53+00:00",
-      "tags": [
-        "DRAM",
-        "Memory",
-        "Pricing"
-      ],
-      "headline_ko": "\uc7a5\uae30 \uacc4\uc57d\uc774 \uac00\uaca9 \uc778\uc0c1 \uc81c\ud55c; TrendForce, \uc11c\ubc84 DRAM contract prices 3Q26 \ubd84\uae30 \ub300\ube44 13~18% \uc0c1\uc2b9 \uc608\uc0c1",
-      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uac00\uaca9 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uc5ec\ub7ec \uba54\ubaa8\ub9ac \uacf5\uae09\uc5c5\uccb4\uac00 2026\ub144 2\ubd84\uae30 \uc608\uc0c1 \uac00\uaca9 \uc778\uc0c1\uc744 \uc774\ubbf8 \uac00\uaca9\uc5d0 \ubc18\uc601\ud55c \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "DRAM",
-        "\uba54\ubaa8\ub9ac",
-        "\uac00\uaca9"
-      ]
-    },
-    {
-      "id": "f2e594208785",
-      "headline": "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
-      "summary": "When Solid State Drives (SSDs) first gained widespread adoption in the 2000s, they quickly replaced Hard Disk Drives (HDDs) as the standard storage solution...",
-      "url": "https://news.samsungsemiconductor.com/global/infographic-samsung-pm1763-ssd-a-core-storage-solution-for-next-generation-ai-platforms/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-07-08T08:00:00+00:00",
-      "tags": [
-        "SSD"
-      ],
-      "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] Samsung PM1763 SSD: \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158",
-      "summary_ko": "\uc0bc\uc131 PM1763 SSD\ub294 \ucc28\uc138\ub300 AI \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c \ud575\uc2ec \uc2a4\ud1a0\ub9ac\uc9c0 \uc194\ub8e8\uc158\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "SSD"
-      ]
-    },
-    {
-      "id": "8164f34cc5d7",
-      "headline": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
-      "summary": "PCIe 6.0-based enterprise SSD delivers outstanding performance and enhanced power efficiencyfor AI and HPC servers 9th-generation V-NAND, 4nm controller and...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-07-08T08:00:00+00:00",
-      "tags": [
-        "NAND",
-        "SSD"
-      ],
-      "headline_ko": "\uc0bc\uc131, \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ucd5c\uc801\ud654 SSD PM1763 \uc591\uc0b0 \uc2dc\uc791",
-      "summary_ko": "PCIe 6.0 \uae30\ubc18 \uc5d4\ud130\ud504\ub77c\uc774\uc988 SSD\ub85c AI \ubc0f HPC \uc11c\ubc84\uc5d0 \ub6f0\uc5b4\ub09c \uc131\ub2a5\uacfc \ud5a5\uc0c1\ub41c \uc804\ub825 \ud6a8\uc728\uc744 \uc81c\uacf5\ud558\uba70, 9\uc138\ub300 V-NAND, 4nm \ucee8\ud2b8\ub864\ub7ec \ub4f1\uc744 \uc801\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "SSD"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-13T03:31:27.090524+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-10-14T01:53:47.070822+00:00",
+    "cached": 73,
+    "translated": 7,
     "skipped": 0
   }
 }
