@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-10-15T01:26:39.729815+00:00",
+  "generated_at": "2026-10-16T01:18:47.240949+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "fe46e9003884",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "As the volume of data handled by AI grows explosively, data bottlenecks have emerged as a new challenge.",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:00:16+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201c\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\u201d: SK hynix, OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \ubc1c\ud45c",
+      "summary_ko": "AI\uac00 \ucc98\ub9ac\ud558\ub294 \ub370\uc774\ud130 \uc591\uc774 \ud3ed\ubc1c\uc801\uc73c\ub85c \uc99d\uac00\ud558\uba74\uc11c \ub370\uc774\ud130 \ubcd1\ubaa9\uc774 \uc0c8\ub85c\uc6b4 \uacfc\uc81c\ub85c \ub5a0\uc62c\ub790\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "847b7280cddb",
       "headline": "[Inside the Research] In the AI era, NAND moves beyond storage to computing\u2026 3D FeNAND co-optimization at IEEE",
@@ -1478,31 +1495,14 @@
         "Pricing",
         "Capacity"
       ]
-    },
-    {
-      "id": "a6f6bb3bbb60",
-      "headline": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "summary": "\u25aa Times Square roadblock campaign amplifies SK hynix\u2019s Nasdaq ADR trading debut \u25aa Brand film connects the dual meaning of \u201cmemory\u201d with meaningful moments in everyday life \u25aa Anamo...",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-10T23:58:29+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK hynix, \ube0c\ub79c\ub4dc\ub85c \ub274\uc695\uc758 \uc2ec\uc7a5\uc744 \ubc1d\ud788\ub2e4, \uc544\ub984\ub2e4\uc6b4 \ucd94\uc5b5\uc744 \ubcf4\uc874\ud558\ub294 \uae30\uc220 \uc870\uba85",
-      "summary_ko": "\u25aa \ud0c0\uc784\uc2a4\ud018\uc5b4 \ub85c\ub4dc\ube14\ub85d \ucea0\ud398\uc778\uc774 SK hynix\uc758 Nasdaq ADR \uc0c1\uc7a5 \ub370\ubdd4\ub97c \uac15\ud654 \u25aa \ube0c\ub79c\ub4dc \ud544\ub984\uc774 'memory'\uc758 \uc774\uc911\uc801 \uc758\ubbf8\ub97c \uc77c\uc0c1\uc758 \uc758\ubbf8 \uc788\ub294 \uc21c\uac04\ub4e4\uacfc \uc5f0\uacb0 \u25aa Anamo...",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-15T01:26:39.777867+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-10-16T01:18:51.266940+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
