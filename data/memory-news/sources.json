@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:18:47.240949+00:00",
+  "generated_at": "2026-10-17T01:17:13.250420+00:00",
   "sources": [
     {
       "id": "samsung_semiconductor",
@@ -35,7 +35,7 @@
       "name": "Semiconductor Today",
       "url": "https://www.semiconductor-today.com/rss/news.xml",
       "status": "ok",
-      "article_count": 7
+      "article_count": 8
     }
   ]
 }

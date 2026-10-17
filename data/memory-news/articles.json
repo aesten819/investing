@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-10-16T01:18:47.240949+00:00",
+  "generated_at": "2026-10-17T01:17:13.250420+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "b4aef63d7205",
+      "headline": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
+      "summary": "According to market research firm Omdia\u2019s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline...",
+      "url": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
+      "source": "Semiconductor Today",
+      "source_id": "semiconductor_today",
+      "published_at": "2026-10-16T13:52:30+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uba54\ubaa8\ub9ac \uc704\uae30\uac00 \uacbd\uc7c1 \uad6c\ub3c4 \uc7ac\ud3b8\u2026 2026\ub144 3\ubd84\uae30 \uc2a4\ub9c8\ud2b8\ud3f0 \ucd9c\ud558\ub7c9 20% \uac10\uc18c",
+      "summary_ko": "\uc2dc\uc7a5\uc870\uc0ac\uae30\uad00 Omdia\uc758 \uc7a0\uc815 \ucd94\uc815\uc5d0 \ub530\ub974\uba74 2026\ub144 3\ubd84\uae30 \uae00\ub85c\ubc8c \uc2a4\ub9c8\ud2b8\ud3f0 \ucd9c\ud558\ub7c9\uc740 \uc804\ub144 \ub3d9\uae30 \ub300\ube44 20% \uac10\uc18c\ud558\uba70 6% \uac10\uc18c\uc5d0\uc11c \ub099\ud3ed\uc774 \ud06c\uac8c \ud655\ub300\ub410\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "fe46e9003884",
       "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
@@ -1472,35 +1489,12 @@
         "\uba54\ubaa8\ub9ac",
         "\uc6a9\ub7c9"
       ]
-    },
-    {
-      "id": "82e344b20312",
-      "headline": "Niche Demand and MLC Migration to Drive SLC NAND Prices up 120\u2013170% in 2H26, Says TrendForce",
-      "summary": "TrendForce's recent memory pricing survey shows that more mature NAND process capacity is being shifted toward higher-value products like high-layer-count 3D NAND, leading to a si...",
-      "url": "https://www.trendforce.com/presscenter/news/20260713-13142.html",
-      "source": "TrendForce",
-      "source_id": "trendforce",
-      "published_at": "2026-07-13T06:55:24+00:00",
-      "tags": [
-        "NAND",
-        "Memory",
-        "Pricing",
-        "Capacity"
-      ],
-      "headline_ko": "TrendForce, \ud2c8\uc0c8 \uc218\uc694\uc640 MLC \uc804\ud658\uc73c\ub85c 2026\ub144 \ud558\ubc18\uae30 SLC NAND \uac00\uaca9 120~170% \uc0c1\uc2b9 \uc804\ub9dd",
-      "summary_ko": "TrendForce\ub294 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uac00\uaca9 \uc870\uc0ac\uc5d0\uc11c \uc131\uc219\ub41c NAND \uacf5\uc815 \uc6a9\ub7c9\uc774 \uace0\uce35\uc218 3D NAND \ub4f1 \uace0\ubd80\uac00\uac00\uce58 \uc81c\ud488\uc73c\ub85c \uc804\ud658\ub418\uba74\uc11c SLC NAND \uac00\uaca9\uc774 2026\ub144 \ud558\ubc18\uae30\uc5d0 120~170% \uc0c1\uc2b9\ud560 \uac83\uc73c\ub85c \uc608\uce21\ud588\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "Memory",
-        "Pricing",
-        "Capacity"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-16T01:18:51.266940+00:00",
+    "generated_at": "2026-10-17T01:17:16.307894+00:00",
     "cached": 79,
     "translated": 1,
     "skipped": 0
