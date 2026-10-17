@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:29:22.260509+00:00",
+  "generated_at": "2026-10-17T01:21:36.731912+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -71,7 +71,7 @@
       "url": "https://www.datacenterknowledge.com/rss.xml",
       "type": "rss",
       "status": "ok",
-      "article_count": 43
+      "article_count": 44
     },
     {
       "id": "synergy_research",

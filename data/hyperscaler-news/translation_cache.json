@@ -9347,5 +9347,128 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "0c66d87afb34f9a9d9b2be996c9263cc2a167e77": {
+    "headline_ko": "[\uc0b0\uc5c5 \ud589\uc0ac] 2026 \ub3d9\ubd80 data center \uac74\uc124 \ucd09\uc9c4",
+    "summary_ko": "2026\ub144 \ub3d9\ubd80 \uc9c0\uc5ed\uc758 data center \uac74\uc124\uc744 \ucd09\uc9c4\ud558\ub294 \uc0b0\uc5c5 \ud589\uc0ac\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "63bb0b015675135954538a8e88e1e9e9cab7b664": {
+    "headline_ko": "\uc544\uc774\uc2ac\ub780\ub4dc \ub808\uc774\uceac\ub124\uc2a4\ubca0\ub974\uc758 atNorth ICE02 data center\u2026CPP Investments\u00b7Equinix\uc758 40\uc5b5 \ub2ec\ub7ec \uc778\uc218\ub85c \ubd81\uc720\ub7fd AI-ready infrastructure \uae30\uad00 \ud22c\uc790 \ubd80\uac01",
+    "summary_ko": "CPP Investments\uc640 Equinix\uc758 40\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 atNorth \uc778\uc218\ub294 \ubd81\uc720\ub7fd \uc9c0\uc5ed\uc758 AI-ready infrastructure\uc5d0 \ub300\ud55c \uae30\uad00 \ud22c\uc790 \uc99d\uac00\ub97c \ubcf4\uc5ec\uc8fc\uba70, \uc0ac\uc9c4\uc740 \uc544\uc774\uc2ac\ub780\ub4dc \ub808\uc774\uceac\ub124\uc2a4\ubca0\ub974\uc758 atNorth ICE02 data center\ub2e4. (\uc0ac\uc9c4: atNorth)",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Capex"
+    ]
+  },
+  "020a39a949100c1f3e65bf5370e222e0f233e311": {
+    "headline_ko": "Data Center \uc2dc\uc124 \uad00\ub9ac\uc758 \uc219\ub828 \uc778\ub825 \uaca9\ucc28 \ud574\uc18c",
+    "summary_ko": "Data center\ub294 \uc219\ub828\ub41c \uc804\ubb38 \uc778\ub825\uc744 \ud544\uc694\ub85c \ud558\uba70, IT\uc640 \uc2dc\uc124 \ubd80\uc11c\uc758 \ud611\uc5c5, \uc608\ubc29 \uc815\ube44, \uc6d0\uaca9 \ubaa8\ub2c8\ud130\ub9c1\uc774 \uc778\ub825 \ubd80\uc871 \ubb38\uc81c \ud574\uacb0\uc5d0 \ub3c4\uc6c0\uc774 \ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "a6617c8353e84780165cda74eb336fd4f216c0f3": {
+    "headline_ko": "DCN Warsaw 2026: \ud3f4\ub780\ub4dc\ub294 \uae00\ub85c\ubc8c data center capacity\uc758 \ub354 \ud070 \ubaab\uc744 \ucc28\uc9c0\ud560 \ub9cc\ud558\ub2e4",
+    "summary_ko": "\ud3f4\ub780\ub4dc\uc758 \ubcc0\ud654\ud558\ub294 \uc5d0\ub108\uc9c0 \uc0c1\ud669\uc740 \ud3f4\ub780\ub4dc\uac00 \uae00\ub85c\ubc8c data center \ubd90\uc758 \uc218\ud61c\ub97c \ubc1b\uc744 \uc720\ub9ac\ud55c \uc704\uce58\uc5d0 \uc788\uc74c\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "Power"
+    ]
+  },
+  "4f717ababbae04395ceb3cc991506b1249f535b9": {
+    "headline_ko": "Stranded \ucc9c\uc5f0\uac00\uc2a4, \ud574\uc0c1 data center \uc804\ub825 \uacf5\uae09 \uac00\ub2a5",
+    "summary_ko": "\ud14d\uc0ac\uc2a4\uc8fc \ud734\uc2a4\ud134 \uae30\uc5c5\ub4e4\uc774 \ud574\uc0c1\uc5d0 \ucef4\ud4e8\ud2b8\ub97c \ubc30\uce58\ud558\uae30 \uc704\ud55c \uc0c8 \ud30c\ud2b8\ub108\uc2ed\uc744 \uacb0\uc131\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "1ef95efce473c431a09eb07f9d6d6666ce830eb1": {
+    "headline_ko": "Meeza\uc640 Microsoft, \uce74\ud0c0\ub974\uc5d0\uc11c \uc18c\ubc84\ub9b0 \ud504\ub77c\uc774\ube57 \ud074\ub77c\uc6b0\ub4dc \ucd9c\uc2dc",
+    "summary_ko": "Meeza\uc758 data center\uc5d0\uc11c \ud638\uc2a4\ud305\ub418\ub294 Azure Local\uc744 \ud65c\uc6a9\ud55c\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "data center"
+    ]
+  },
+  "74988b1c5f03591f8a4ad08ee5ab8782e80071f5": {
+    "headline_ko": "LightEdge, \uc544\uc774\uc624\uc640\uc8fc \ub514\ubaa8\uc778 \uc678\uacfd data center \ud504\ub85c\uc81d\ud2b8 \uac80\ud1a0",
+    "summary_ko": "LightEdge\ub294 \ubcf8\uac70\uc9c0\uc778 \uc544\uc774\uc624\uc640\uc8fc Boone\uc5d0\uc11c \ud504\ub85c\uc81d\ud2b8\ub97c \uc704\ud574 10\uc5d0\uc774\ucee4 \ub9e4\uc785\uc744 \ucd94\uc9c4 \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "0dcd9dc601665a011fb7cbe0d4e4dc85199c198e": {
+    "headline_ko": "\uc778\ub3c4 \uc624\ub514\uc0e4 \uc8fc\uc815\ubd80, 1,862\ub9cc \ub2ec\ub7ec data center \ud504\ub85c\uc81d\ud2b8 \uc2b9\uc778",
+    "summary_ko": "\uc774 \ud504\ub85c\uc81d\ud2b8\ub294 \uc7ac\ud574 \ubcf5\uad6c\uc6a9 data center\ub85c \ud65c\uc6a9\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "67cc9655544841eae5679502a7904368a9ab38aa": {
+    "headline_ko": "\uc601\uad6d \uc9c0\ubc29\uc758\ud68c, \uc625\uc2a4\ud37c\ub4dc\uc154 Didcot Power Station \uc778\uadfc \uc81c\uc548 data center\ub97c \uc704\ud55c \uc5f4\ub124\ud2b8\uc6cc\ud06c \ud0c0\ub2f9\uc131 \uc870\uc0ac \ucc29\uc218",
+    "summary_ko": "\uc870\uc0ac\ub294 Nordic Energy\uac00 \uc218\ud589\ud558\uba70 \uacb0\uacfc\ub294 \ub0b4\ub144 3\uc6d4 \ubc1c\ud45c\ub420 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "70c1548f900e21a7cd0e176dae3f136fe612d9d7": {
+    "headline_ko": "Nscale\uc758 Glomfjord data center, \ub0c9\uac01 \uc2dc\uc2a4\ud15c \ub204\uc218\uc640 \ud654\uc7ac\ub85c \uc9c0\uc5f0",
+    "summary_ko": "\ud68c\uc0ac\ub294 \uace7 IPO\ub97c \uacc4\ud68d\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "32001608bdada9170ed40f276d0a3b0650fa0043": {
+    "headline_ko": "\ubca0\ud2b8\ub0a8 CMC\uc640 \ud55c\uad6d Lotte, data center \uac1c\ubc1c \ud611\ub825",
+    "summary_ko": "\uc591\uc0ac\ub294 data center \ud504\ub85c\uc81d\ud2b8 \ud611\ub825\uc744 \uc704\ud55c MoU\ub97c \uccb4\uacb0\ud588\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "cfdcbdbc51a90f1a8fde27485f9d8d4a7a001490": {
+    "headline_ko": "Carrier Connect, \uc870\uc9c0\uc544\uc8fc Alpharetta\uc758 4MW data center \uc784\ucc28",
+    "summary_ko": "Colocation \uae30\uc5c5\uc774 Mapletree\ub85c\ubd80\ud130 GE\uc758 \uc774\uc804 \uc2dc\uc124\uc744 \uc784\ucc28\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "447bc0e6d9da8f8a656bdaba7bbf381ba52084fb": {
+    "headline_ko": "Digital Realty, \uc778\ub514\uc560\ub098\uc8fc \uc778\ub514\uc560\ub098\ud3f4\ub9ac\uc2a4 \uc678\uacfd\uc5d0\uc11c GW\uae09 data center \ubd80\uc9c0 \uac80\ud1a0",
+    "summary_ko": "Digital Realty\ub294 Kokomo\uc5d0\uc11c\uc758 \uac1c\ubc1c\uc744 \uac80\ud1a0 \uc911\uc774\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "capacity"
+    ]
+  },
+  "37ca6eed2f8899212902d0433e003752a1cf5711": {
+    "headline_ko": "Rostelecom: \ub7ec\uc2dc\uc544, \uc6b0\ud06c\ub77c\uc774\ub098 \uacf5\uaca9 \ub300\uc751 \uc704\ud574 \u2018doomsday\u2019 data center \ud544\uc694",
+    "summary_ko": "Rostelecom \ubd80\uc0ac\uc7a5\uc758 \ubc1c\uc5b8\uc740 \uc911\uc559\ud654 \ubb38\uc81c\ub97c \ub4dc\ub7ec\ub0b8\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "b1b9c8bfedda03ecd5cefda3c3924c9e5dd9ee11": {
+    "headline_ko": "Jake Humphrey\uc640 data center\uc5d0 \ub300\ud55c \ub9e4\uc6b0 \uc601\uad6d\uc801\uc778 \ud0dc\ub3c4",
+    "summary_ko": "\uc815\ub2f9\ud55c \uc6b0\ub824\uc778\uac00, \uc544\ub2c8\uba74 Norfolk\uc758 NIMBY\uc8fc\uc758\uc778\uac00?",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "d309a51ab33fd6afe22ce9f7ebbe6a2be9f68bba": {
+    "headline_ko": "\uc6cc\ud06c\ub85c\ub4dc\uc758 \uc0ac\ud68c\uc801 \uac00\uce58\uac00 data center \uc815\ucc45\uc744 \ud615\uc131\ud560 \uc218 \uc788\uc744\uae4c?",
+    "summary_ko": "data center \ud655\uc7a5\uc5d0 \ub300\ud55c \ubc18\ub300\uac00 \ucee4\uc9c0\uba74\uc11c, \uc815\ucc45\uc785\uc548\uc790\ub4e4\uc740 \uc804\ub825\u00b7\uc6a9\uc218 \uc18c\ube44\ub97c \ub118\uc5b4 \ud574\ub2f9 \uc2dc\uc124\uc774 \uc9c0\uc6d0\ud558\ub294 \ub514\uc9c0\ud138 \uc11c\ube44\uc2a4\uac00 \uadf8 \uc815\ub2f9\uc131\uc744 \ub4b7\ubc1b\uce68\ud558\ub294\uc9c0\ub97c \ub530\uc9c8 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
   }
 }
