@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:11:45.466490+00:00",
+  "generated_at": "2026-10-19T01:22:58.327974+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -17,6 +17,46 @@
       "summary_ko": "2026\ub144 \ub3d9\ubd80 \uc9c0\uc5ed\uc758 data center \uac74\uc124\uc744 \ucd09\uc9c4\ud558\ub294 \uc0b0\uc5c5 \ud589\uc0ac\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "Data Center"
+      ]
+    },
+    {
+      "id": "99607e6f8e75",
+      "headline": "The World's Total Data Center Capacity is Shifting Rapidly to Hyperscale Operators",
+      "summary": "The World's Total Data Center Capacity is Shifting Rapidly to Hyperscale Operators",
+      "url": "https://www.srgresearch.com/articles/the-worlds-total-data-center-capacity-is-shifting-rapidly-to-hyperscale-operators",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-10-19T01:22:53.435769+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ],
+      "headline_ko": "\uc138\uacc4 Data Center \ucd1d \uc6a9\ub7c9\uc774 Hyperscale Operators\ub85c \uae09\uc18d\ud788 \uc774\ub3d9 \uc911",
+      "summary_ko": "\uc138\uacc4 Data Center \ucd1d \uc6a9\ub7c9\uc774 Hyperscale Operators\ub85c \uae09\uc18d\ud788 \uc774\ub3d9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "ee28f08aafab",
+      "headline": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
+      "summary": "Idle accelerators represent stranded capital, wasted energy, and lower returns on some of the most expensive infrastructure investments in the data center",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-18T14:00:43+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\ub3c5\ub9bd \uc778\ud504\ub77c \ub85c\ub4dc\ub9f5\uc758 \uc885\ub9d0: AI\uac00 data center \uacf5\ub3d9 \uc124\uacc4\ub97c \ubd88\uac00\ud53c\ud558\uac8c \ub9cc\ub4dc\ub294 \ubc29\ubc95",
+      "summary_ko": "\uc720\ud734 \uac00\uc18d\uae30\ub294 data center\uc5d0\uc11c \uac00\uc7a5 \ube44\uc2fc infrastructure \ud22c\uc790 \uc77c\ubd80\uc5d0 \ub300\ud55c \uc88c\ucd08 \uc790\ubcf8\uacfc \uc5d0\ub108\uc9c0 \ub0ad\ube44, \ub0ae\uc740 \uc218\uc775\uc744 \ub73b\ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
       ]
     },
     {
@@ -2917,50 +2957,14 @@
         "Capex",
         "Colocation"
       ]
-    },
-    {
-      "id": "a5554b92c662",
-      "headline": "Tier Two Metro Markets are Reshaping the Colocation World",
-      "summary": "Tier Two Metro Markets are Reshaping the Colocation World",
-      "url": "https://www.srgresearch.com/articles/tier-two-metro-markets-are-reshaping-the-colocation-world",
-      "source": "Synergy Research",
-      "source_id": "synergy_research",
-      "published_at": "2026-10-04T02:44:32.000026+00:00",
-      "tags": [
-        "Colocation"
-      ],
-      "headline_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\ub2e4",
-      "summary_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
-      "tags_ko": [
-        "Colocation"
-      ]
-    },
-    {
-      "id": "18104b19726e",
-      "headline": "Synergy Updates Its Ranking of the World\u2019s Top 20 Hyperscale Data Center Locations",
-      "summary": "Synergy Updates Its Ranking of the World\u2019s Top 20 Hyperscale Data Center Locations",
-      "url": "https://www.srgresearch.com/articles/synergy-updates-its-ranking-of-the-worlds-top-20-hyperscale-data-center-locations",
-      "source": "Synergy Research",
-      "source_id": "synergy_research",
-      "published_at": "2026-10-03T02:05:48.910514+00:00",
-      "tags": [
-        "Data Center",
-        "Colocation"
-      ],
-      "headline_ko": "Synergy, \uc138\uacc4 \uc0c1\uc704 20\uac1c Hyperscale \ub370\uc774\ud130 \uc13c\ud130 \uc704\uce58 \uc21c\uc704 \uc5c5\ub370\uc774\ud2b8",
-      "summary_ko": "Synergy\uac00 \uc138\uacc4 \uc0c1\uc704 20\uac1c Hyperscale \ub370\uc774\ud130 \uc13c\ud130 \uc704\uce58 \uc21c\uc704\ub97c \uc5c5\ub370\uc774\ud2b8\ud588\uc2b5\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130 \uc13c\ud130",
-        "\ucf5c\ub85c\ucf00\uc774\uc158"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-18T01:11:51.376328+00:00",
-    "cached": 158,
-    "translated": 2,
+    "generated_at": "2026-10-19T01:23:03.561447+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
