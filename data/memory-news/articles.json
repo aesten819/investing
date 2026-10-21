@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-10-20T01:48:02.851652+00:00",
+  "generated_at": "2026-10-21T01:32:24.635367+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "41de9ef906d9",
+      "headline": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-21T00:30:50+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[AI \uc0dd\ud0dc\uacc4] \ubc18\ub3c4\uccb4 \ud328\ub7ec\ub2e4\uc784, \uba54\ubaa8\ub9ac \uc911\uc2ec\uc73c\ub85c \uc804\ud658",
+      "summary_ko": "AI \uc0dd\ud0dc\uacc4\uc5d0\uc11c \ubc18\ub3c4\uccb4 \ud328\ub7ec\ub2e4\uc784\uc774 \uba54\ubaa8\ub9ac \uc911\uc2ec\uc73c\ub85c \uc804\ud658\ub418\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "b73ab033f0e0",
+      "headline": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+      "summary": "",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-21T00:28:36+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[AI \uc0dd\ud0dc\uacc4] \ubc18\ub3c4\uccb4 \ud328\ub7ec\ub2e4\uc784, \uba54\ubaa8\ub9ac \uc911\uc2ec\uc73c\ub85c \uc804\ud658",
+      "summary_ko": "\ubc18\ub3c4\uccb4 \ud328\ub7ec\ub2e4\uc784\uc774 \uba54\ubaa8\ub9ac \uc911\uc2ec\uc73c\ub85c \uc804\ud658\ub418\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "c470f0740312",
+      "headline": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing.",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-20T23:59:57+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[AI Ecosystem] \ubc18\ub3c4\uccb4 \ud328\ub7ec\ub2e4\uc784\uc774 \uba54\ubaa8\ub9ac \uc911\uc2ec\uc73c\ub85c \uc804\ud658",
+      "summary_ko": "AI \uc6cc\ud06c\ub85c\ub4dc\uac00 \ucd94\ub860 \ubc0f \uc5d0\uc774\uc804\ud2f1 AI\ub85c \uc9c4\ud654\ud558\uba74\uc11c \uc2dc\uc2a4\ud15c \uc131\ub2a5\uc758 \uae30\uc900\ub3c4 \ubcc0\ud654\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "57b2b43afd96",
       "headline": "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
@@ -33,6 +84,110 @@
       "headline_ko": "\uba54\ubaa8\ub9ac \uc704\uae30\uac00 \uacbd\uc7c1 \uad6c\ub3c4 \uc7ac\ud3b8\u2026 2026\ub144 3\ubd84\uae30 \uc2a4\ub9c8\ud2b8\ud3f0 \ucd9c\ud558\ub7c9 20% \uac10\uc18c",
       "summary_ko": "\uc2dc\uc7a5\uc870\uc0ac\uae30\uad00 Omdia\uc758 \uc7a0\uc815 \ucd94\uc815\uc5d0 \ub530\ub974\uba74 2026\ub144 3\ubd84\uae30 \uae00\ub85c\ubc8c \uc2a4\ub9c8\ud2b8\ud3f0 \ucd9c\ud558\ub7c9\uc740 \uc804\ub144 \ub3d9\uae30 \ub300\ube44 20% \uac10\uc18c\ud558\uba70 6% \uac10\uc18c\uc5d0\uc11c \ub099\ud3ed\uc774 \ud06c\uac8c \ud655\ub300\ub410\ub2e4.",
       "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "3282ecdd2957",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "\u25b2 Vice President Youngpyo Joo, head of the System Architecture department, taking part in the panel discussion",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-9/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:09:01+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201c\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\u201d\u2026 SK hynix, OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "SK hynix \uc2dc\uc2a4\ud15c \uc544\ud0a4\ud14d\ucc98 \ubd80\ubb38\uc7a5 Youngpyo Joo \ubd80\uc0ac\uc7a5\uc774 \ud328\ub110 \ud1a0\ub860\uc5d0 \ucc38\uc5ec\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "c6d764752835",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "\u25b2 Vice President Hosik Kim, head of the Memory Systems Research department, during his presentation",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-8/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:08:56+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201c\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\u201d\u2026SK\ud558\uc774\ub2c9\uc2a4, OCP \uae00\ub85c\ubc8c \uc11c\ubc0b 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "\uba54\ubaa8\ub9ac \uc2dc\uc2a4\ud15c \uc5f0\uad6c \ubd80\ubb38\uc744 \uc774\ub044\ub294 \uae40\ud638\uc2dd \ubd80\uc0ac\uc7a5\uc774 \ubc1c\ud45c\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "c7cc4647a0b0",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "\u25b2 A graphic conveying SK hynix\u2019s vision, located on the outer wall of the booth",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-7/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:07:47+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201c\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\u201d: SK\ud558\uc774\ub2c9\uc2a4, OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "\u25b2 \ubd80\uc2a4 \uc678\ubcbd\uc5d0 \uc124\uce58\ub41c SK\ud558\uc774\ub2c9\uc2a4\uc758 \ube44\uc804\uc744 \uc804\ub2ec\ud558\ub294 \uadf8\ub798\ud53d.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "00d94b3bf6f7",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "\u25b2 A model showing the structure of HBF",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-6/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:06:21+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201c\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\u201d\u2026 SK hynix, OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "\u25b2 HBF \uad6c\uc870\ub97c \ubcf4\uc5ec\uc8fc\ub294 \ubaa8\ub378\uc774\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "6556d669fa66",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "\u25b2 A touchscreen where visitors can check product information",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-5/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:05:51+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\"\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\"\u2026 SK\ud558\uc774\ub2c9\uc2a4, OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "\ubc29\ubb38\uac1d\uc774 \uc81c\ud488 \uc815\ubcf4\ub97c \ud655\uc778\ud560 \uc218 \uc788\ub294 \ud130\uce58\uc2a4\ud06c\ub9b0\uc774 \ub9c8\ub828\ub410\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "e4937c12dd66",
+      "headline": "\u201cMemory-Centric Server Systems Are the Future\u201d: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "summary": "\u25b2 SK hynix\u2019s main server DRAM products",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-4/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-16T00:04:48+00:00",
+      "tags": [
+        "DRAM",
+        "Memory"
+      ],
+      "headline_ko": "\"\uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\"\u2026SK\ud558\uc774\ub2c9\uc2a4, OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 OCP Global Summit 2026\uc5d0\uc11c \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \ube44\uc804\uc744 \uc81c\uc2dc\ud558\uba70 \uba54\ubaa8\ub9ac \uc911\uc2ec \uc11c\ubc84 \uc2dc\uc2a4\ud15c\uc774 \ubbf8\ub798\ub77c\ub294 \uad00\uc810\uc744 \ub0b4\ub1a8\ub2e4.",
+      "tags_ko": [
+        "DRAM",
         "\uba54\ubaa8\ub9ac"
       ]
     },
@@ -1322,179 +1477,14 @@
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "ea8ae89e7874",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "\u25b2 [Figure 1] The NAND Flash Cell-formation Process",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-01/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:57+00:00",
-      "tags": [
-        "NAND"
-      ],
-      "headline_ko": "[\uc5f0\uad6c\uc18c \ub0b4\ubd80] SK hynix\uc758 CTI \ud601\uc2e0, 176\ub808\uc774\uc5b4 3D NAND \uc591\uc0b0\uc744 \ud5a5\ud574 \ub098\uc544\uac00\ub2e4",
-      "summary_ko": "\u25b2 [\uadf8\ub9bc 1] NAND Flash \uc140 \ud615\uc131 \uacf5\uc815",
-      "tags_ko": [
-        "NAND"
-      ]
-    },
-    {
-      "id": "e97df98576eb",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "\u25b2 [Figure 2] The Conventional CTI Implementation Process",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-02/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:51+00:00",
-      "tags": [
-        "NAND"
-      ],
-      "headline_ko": "SK hynix\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc9c4\uc804\uc2dc\ud0a4\ub2e4",
-      "summary_ko": "SK hynix\uc758 CTI \ud601\uc2e0\uc73c\ub85c 176\ub2e8 3D NAND \uc591\uc0b0\uc774 \uc9c4\uc804\ub418\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "NAND"
-      ]
-    },
-    {
-      "id": "a98026706ce2",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "As a full-stack AI memory creator, SK hynix offers a portfolio of AI memory solutions optimized for AI systems \u2014 including High Bandwidth Memory (HBM), AI-DRAM, and AI-NAND flash...",
-      "url": "https://news.skhynix.com/en/research-inside-ep1/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:49+00:00",
-      "tags": [
-        "HBM",
-        "DRAM",
-        "NAND",
-        "Memory"
-      ],
-      "headline_ko": "[\ub9ac\uc11c\uce58 \ub0b4\ubd80] SK\ud558\uc774\ub2c9\uc2a4, CTI \ud601\uc2e0\uc73c\ub85c 176\ub2e8 3D NAND \uc591\uc0b0 \uc9c4\uc804",
-      "summary_ko": "\ud480\uc2a4\ud0dd AI \uba54\ubaa8\ub9ac \ud06c\ub9ac\uc5d0\uc774\ud130\ub85c\uc11c SK\ud558\uc774\ub2c9\uc2a4\ub294 HBM, AI-DRAM, AI-NAND \ud50c\ub798\uc2dc \ub4f1 AI \uc2dc\uc2a4\ud15c\uc5d0 \ucd5c\uc801\ud654\ub41c AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "HBM",
-        "DRAM",
-        "NAND",
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "cd88fcbb7395",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "\u25b2 [Figure 3] Differences in Channel-Hole Count due to Channel-Hole Diameter",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:46+00:00",
-      "tags": [
-        "NAND"
-      ],
-      "headline_ko": "[Inside the Research] SK hynix\uc758 CTI \ud601\uc2e0\uc774 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\ub2e4",
-      "summary_ko": "\u25b2 [Figure 3] \ucc44\ub110\ud640 \uc9c1\uacbd\uc5d0 \ub530\ub978 \ucc44\ub110\ud640 \uac1c\uc218 \ucc28\uc774",
-      "tags_ko": [
-        "NAND"
-      ]
-    },
-    {
-      "id": "fab0c2efcc3b",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "\u25b2 [Figure 4] The New CTI Implementation Process",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-04/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:37+00:00",
-      "tags": [
-        "NAND"
-      ],
-      "headline_ko": "[\uc5f0\uad6c \ub0b4\ubd80] SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc5d0 \ubc15\ucc28",
-      "summary_ko": "\u25b2 [\uadf8\ub9bc 4] \uc0c8\ub85c\uc6b4 CTI \uad6c\ud604 \ud504\ub85c\uc138\uc2a4",
-      "tags_ko": [
-        "NAND"
-      ]
-    },
-    {
-      "id": "26691aa38070",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "\u25b2 CTI explained",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:20+00:00",
-      "tags": [
-        "NAND"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\ub2e4",
-      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \uae30\uc220 \ud601\uc2e0\uc774 176\ub2e8 3D NAND\uc758 \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "NAND"
-      ]
-    },
-    {
-      "id": "ce36269b80db",
-      "headline": "[Inside the Research] SK hynix\u2019s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "summary": "\u25b2 [Figure 5] A Comparison of Conventional CTI with SK hynix\u2019s New CTI Process",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-05/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-22T05:00:02+00:00",
-      "tags": [
-        "NAND"
-      ],
-      "headline_ko": "[\uc5f0\uad6c \ub0b4\ubd80] SK\ud558\uc774\ub2c9\uc2a4\uc758 CTI \ud601\uc2e0, 176\ub2e8 3D NAND \uc591\uc0b0\uc744 \uc55e\ub2f9\uae30\ub2e4",
-      "summary_ko": "\u25b2 [\uadf8\ub9bc 5] \uae30\uc874 CTI\uc640 SK\ud558\uc774\ub2c9\uc2a4\uc758 \uc0c8\ub85c\uc6b4 CTI \uacf5\uc815 \ube44\uad50",
-      "tags_ko": [
-        "NAND"
-      ]
-    },
-    {
-      "id": "9e4681fa94c9",
-      "headline": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce",
-      "summary": "TrendForce\u2019s monthly July NAND Flash update reveals that the NAND Flash market has remained undersupplied throughout 2026, driven by surging AI-related demand and limited capacity...",
-      "url": "https://www.trendforce.com/presscenter/news/20260721-13148.html",
-      "source": "TrendForce",
-      "source_id": "trendforce",
-      "published_at": "2026-07-21T07:09:47+00:00",
-      "tags": [
-        "NAND",
-        "Capacity"
-      ],
-      "headline_ko": "\ud2b8\ub80c\ub4dc\ud3ec\uc2a4, 2027\ub144 NAND Flash \uacf5\uae09 \uc99d\uac00\uac00 \uc218\uc694\ub97c \uc55e\uc9c8\ub7ec 2H27\uc5d0 \uacf5\uae09 \uc81c\uc57d \uc644\ud654 \uc804\ub9dd",
-      "summary_ko": "\ud2b8\ub80c\ub4dc\ud3ec\uc2a4\uc758 7\uc6d4 NAND Flash \uc5c5\ub370\uc774\ud2b8\uc5d0 \ub530\ub974\uba74, AI \uad00\ub828 \uc218\uc694 \uae09\uc99d\uacfc \uc81c\ud55c\ub41c \uc6a9\ub7c9\uc73c\ub85c \uc778\ud574 NAND Flash \uc2dc\uc7a5\uc740 2026\ub144 \ub0b4\ub0b4 \uacf5\uae09 \ubd80\uc871 \uc0c1\ud0dc\ub97c \uc720\uc9c0\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub41c\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "\uc6a9\ub7c9"
-      ]
-    },
-    {
-      "id": "5de851c91b08",
-      "headline": "Micron Strengthens Automotive Ecosystem Supply Through Strategic Customer Agreements",
-      "summary": "Collaboration helps support the growing memory and storage demands of connected, smart vehicles BOISE, Idaho, July 16, 2026 (GLOBE NEWSWIRE) -- Micron Technology, Inc.",
-      "url": "https://investors.micron.com/news-releases/news-release-details/micron-strengthens-automotive-ecosystem-supply-through-strategic",
-      "source": "Micron",
-      "source_id": "micron",
-      "published_at": "2026-07-16T13:00:26+00:00",
-      "tags": [
-        "SSD",
-        "Memory",
-        "Capacity"
-      ],
-      "headline_ko": "Micron, \uc804\ub7b5\uc801 \uace0\uac1d \uacc4\uc57d\uc744 \ud1b5\ud574 \uc790\ub3d9\ucc28 \uc5d0\ucf54\uc2dc\uc2a4\ud15c \uacf5\uae09 \uac15\ud654",
-      "summary_ko": "\ud611\ub825\uc740 \ucee4\ub125\ud2f0\ub4dc \uc2a4\ub9c8\ud2b8 \ucc28\ub7c9\uc758 \uc99d\uac00\ud558\ub294 \uba54\ubaa8\ub9ac \ubc0f \uc2a4\ud1a0\ub9ac\uc9c0 \uc218\uc694\ub97c \uc9c0\uc6d0\ud569\ub2c8\ub2e4.",
-      "tags_ko": [
-        "SSD",
-        "Memory",
-        "Capacity"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-20T01:48:02.897133+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-10-21T01:32:44.643293+00:00",
+    "cached": 71,
+    "translated": 9,
     "skipped": 0
   }
 }
