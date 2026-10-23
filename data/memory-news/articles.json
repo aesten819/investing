@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:28:52.726777+00:00",
+  "generated_at": "2026-10-23T01:27:57.064996+00:00",
   "article_count": 80,
   "articles": [
     {
@@ -1482,7 +1482,7 @@
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-22T01:28:52.808393+00:00",
+    "generated_at": "2026-10-23T01:27:57.136868+00:00",
     "cached": 80,
     "translated": 0,
     "skipped": 0
