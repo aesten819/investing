@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:36:55.508025+00:00",
+  "generated_at": "2026-10-23T01:37:55.924031+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -17,6 +17,294 @@
       "summary_ko": "2026\ub144 \ub3d9\ubd80 \uc9c0\uc5ed\uc758 data center \uac74\uc124\uc744 \ucd09\uc9c4\ud558\ub294 \uc0b0\uc5c5 \ud589\uc0ac\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "Data Center"
+      ]
+    },
+    {
+      "id": "d56472eb0fb0",
+      "headline": "Oracle Announces Commitment to Absorb $300 Million in Rising Point Beach Energy Costs for Wisconsin Residents",
+      "summary": "Oracle Announces Commitment to Absorb $300 Million in Rising Point Beach Energy Costs for Wisconsin Residents",
+      "url": "https://www.oracle.com/news/announcement/oracle-announces-commitment-to-absorb-rising-point-beach-energy-costs-2026-10-02/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-23T01:37:52.626042+00:00",
+      "tags": [
+        "Oracle",
+        "Power"
+      ],
+      "headline_ko": "Oracle, \uc704\uc2a4\ucf58\uc2e0 \uc8fc\ubbfc\uc744 \uc704\ud55c Point Beach \uc5d0\ub108\uc9c0 \ube44\uc6a9 \uc0c1\uc2b9\ubd84 3\uc5b5 \ub2ec\ub7ec \ubd80\ub2f4\ud558\uaca0\ub2e4\uace0 \ubc1c\ud45c",
+      "summary_ko": "Oracle\uc774 \uc704\uc2a4\ucf58\uc2e0 \uc8fc\ubbfc\uc744 \uc704\ud55c Point Beach \uc5d0\ub108\uc9c0 \ube44\uc6a9 \uc0c1\uc2b9\ubd84 3\uc5b5 \ub2ec\ub7ec\ub97c \ubd80\ub2f4\ud558\uaca0\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "c981ca26d4fd",
+      "headline": "Union Workers Power Project Jupiter\u2014and New Mexico\u2019s Future",
+      "summary": "Union Workers Power Project Jupiter\u2014and New Mexico\u2019s Future",
+      "url": "https://www.oracle.com/news/announcement/blog/union-workers-power-project-jupiter-and-new-mexicos-future-2026-09-29/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-23T01:37:52.626042+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "\ub178\uc870 \uadfc\ub85c\uc790\ub4e4\uc774 Project Jupiter\uc640 \ub274\uba55\uc2dc\ucf54\uc758 \ubbf8\ub798\ub97c \ub4b7\ubc1b\uce68\ud55c\ub2e4",
+      "summary_ko": "\ub178\uc870 \uadfc\ub85c\uc790\ub4e4\uc774 Project Jupiter\uc640 \ub274\uba55\uc2dc\ucf54\uc758 \ubbf8\ub798\ub97c \ub4b7\ubc1b\uce68\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "dbcc656246be",
+      "headline": "AMD's Helion open rack-scale architecture supports configurable CPU and GPU resources for agentic AI, with designs targeting hyperscale agent execution and enterprise inference. (Image courtesy of AMD)",
+      "summary": "AMD's Helion open rack-scale architecture supports configurable CPU and GPU resources for agentic AI, with designs targeting hyperscale agent execution and enterprise inference. (Image courtesy of AMD)",
+      "url": "https://www.datacenterfrontier.com/machine-learning/article/55412783/amd-helion-puts-cpu-density-at-the-center-of-agentic-ai-infrastructure",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-10-23T01:37:52.626042+00:00",
+      "tags": [
+        "Colocation"
+      ],
+      "headline_ko": "AMD Helion \uc624\ud508 rack-scale \uc544\ud0a4\ud14d\ucc98, agentic AI\uc6a9 \uad6c\uc131 \uac00\ub2a5\ud55c CPU\u00b7GPU \ub9ac\uc18c\uc2a4 \uc9c0\uc6d0\u2026 hyperscale \uc5d0\uc774\uc804\ud2b8 \uc2e4\ud589 \ubc0f \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ucd94\ub860 \uaca8\ub0e5\ud55c \uc124\uacc4 (\uc774\ubbf8\uc9c0: AMD \uc81c\uacf5)",
+      "summary_ko": "AMD\uc758 Helion \uc624\ud508 rack-scale \uc544\ud0a4\ud14d\ucc98\ub294 agentic AI\ub97c \uc704\ud55c \uad6c\uc131 \uac00\ub2a5\ud55c CPU \ubc0f GPU \ub9ac\uc18c\uc2a4\ub97c \uc9c0\uc6d0\ud558\uba70, hyperscale \uc5d0\uc774\uc804\ud2b8 \uc2e4\ud589\uacfc \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ucd94\ub860\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 \uc124\uacc4\ub97c \uac16\ucdc4\ub2e4. (\uc774\ubbf8\uc9c0: AMD \uc81c\uacf5)",
+      "tags_ko": [
+        "Colocation"
+      ]
+    },
+    {
+      "id": "307046b1f37e",
+      "headline": "Microsoft files for data center campus in Floyd County, Georgia",
+      "summary": "Will feature three data center buildings",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T16:30:25+00:00",
+      "tags": [
+        "Azure",
+        "Data Center"
+      ],
+      "headline_ko": "Microsoft, \uc870\uc9c0\uc544\uc8fc Floyd County\uc5d0 data center campus \uc2e0\uccad\uc11c \uc81c\ucd9c",
+      "summary_ko": "3\uac1c\uc758 data center \uac74\ubb3c\uc774 \ub4e4\uc5b4\uc124 \uc608\uc815\uc774\ub2e4.",
+      "tags_ko": [
+        "Azure",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "4f3d2e97fb49",
+      "headline": "Nvidia Unveils DSX POD Amid Greenpeace Protest",
+      "summary": "Nvidia says its DSX POD can slash AI data center deployment times, but its Berlin launch also underscored growing backlash over the industry\u2019s rapid expansion.",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-amid-greenpeace-protest",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-10-22T16:05:01+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center"
+      ],
+      "headline_ko": "Nvidia, Greenpeace \uc2dc\uc704 \uc18d DSX POD \uacf5\uac1c",
+      "summary_ko": "Nvidia\ub294 DSX POD\uac00 AI data center \uad6c\ucd95 \uc2dc\uac04\uc744 \ud06c\uac8c \ub2e8\ucd95\ud560 \uc218 \uc788\ub2e4\uace0 \ubc1d\ud614\uc9c0\ub9cc, \ubca0\ub97c\ub9b0 \ucd9c\uc2dc\ub294 \uc5c5\uacc4\uc758 \ube60\ub978 \ud655\uc7a5\uc5d0 \ub300\ud55c \ubc18\ubc1c\uc774 \ucee4\uc9c0\uace0 \uc788\uc74c\uc744 \ubcf4\uc5ec\uc92c\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "3db03f8602b7",
+      "headline": "A new neocloud for the agentic Edge",
+      "summary": "Vector Core Compute tries to find an edge with SambaNova",
+      "url": "https://www.datacenterdynamics.com/en/analysis/a-new-neocloud-for-the-agentic-edge/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T16:00:36+00:00",
+      "tags": [
+        "Neocloud"
+      ],
+      "headline_ko": "\uc5d0\uc774\uc804\ud2f1 \uc5e3\uc9c0\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 neocloud",
+      "summary_ko": "Vector Core Compute\uc740 SambaNova\uc640 \ud568\uaed8 \ucc28\ubcc4\ud654\ub41c \uc5e3\uc9c0\ub97c \ubaa8\uc0c9\ud55c\ub2e4.",
+      "tags_ko": [
+        "neocloud"
+      ]
+    },
+    {
+      "id": "4268b26f67ad",
+      "headline": "Arbol launches moratorium risk insurance coverage",
+      "summary": "First-of-its-kind cover will pay out on suspension of data center construction",
+      "url": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T15:54:03+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "Arbol, \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \ub9ac\uc2a4\ud06c \ubcf4\ud5d8 \uc0c1\ud488 \ucd9c\uc2dc",
+      "summary_ko": "data center \uac74\uc124 \uc911\ub2e8 \uc2dc \ubcf4\uc0c1\ud558\ub294 \uc5c5\uacc4 \ucd5c\ucd08\uc758 \ubcf4\ud5d8 \uc0c1\ud488\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "bbd328778ff2",
+      "headline": "Google signs 1GW virtual power plant deal with Voltus",
+      "summary": "Biggest VPP deal signed by a hyperscaler to date",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-1gw-virtual-power-plant-deal-with-voltus/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T15:48:31+00:00",
+      "tags": [
+        "Google Cloud",
+        "Power"
+      ],
+      "headline_ko": "Google, Voltus\uc640 1GW \uac00\uc0c1 \ubc1c\uc804\uc18c \uacc4\uc57d \uccb4\uacb0",
+      "summary_ko": "hyperscaler\uac00 \uc9c0\uae08\uae4c\uc9c0 \uccb4\uacb0\ud55c VPP \uacc4\uc57d \uc911 \ucd5c\ub300 \uaddc\ubaa8\ub2e4.",
+      "tags_ko": [
+        "Google Cloud",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "42a8f4d4fd05",
+      "headline": "Canada's Uniserve to launch 1MW data center in Vancouver",
+      "summary": "Company developing facility next door to existing data center",
+      "url": "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T15:15:22+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uce90\ub098\ub2e4 Uniserve, \ubc34\ucfe0\ubc84\uc5d0 1MW data center \ucd9c\uc2dc \uc608\uc815",
+      "summary_ko": "Uniserve\ub294 \uae30\uc874 data center \ubc14\ub85c \uc606\uc5d0 \uc2dc\uc124\uc744 \uac1c\ubc1c \uc911\uc774\ub2e4.",
+      "tags_ko": [
+        "data center"
+      ]
+    },
+    {
+      "id": "e6c0d0d5fce8",
+      "headline": "Former OpenAI head of data centers joins Nvidia to help lead DSX Platform team",
+      "summary": "Chris Malone announced new role two months after OpenAI departure was reported",
+      "url": "https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T15:13:25+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc804 OpenAI data center \ucd1d\uad04, Nvidia \ud569\ub958\ud574 DSX Platform \ud300 \ub9ac\ub4dc \uc9c0\uc6d0",
+      "summary_ko": "Chris Malone\uc740 OpenAI \ud1f4\uc0ac\uac00 \ubcf4\ub3c4\ub41c \uc9c0 \ub450 \ub2ec \ud6c4 \uc0c8 \uc5ed\ud560\uc744 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "884fed328e58",
+      "headline": "AVAR and the pursuit of operational resilience",
+      "summary": "Connecting people, power, cooling, and intelligence to protect digital continuity",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/avar-and-the-pursuit-of-operational-resilience/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T15:13:00+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "AVAR\uc640 \uc6b4\uc601 \ubcf5\uc6d0\ub825 \ucd94\uad6c",
+      "summary_ko": "\uc0ac\ub78c, \uc804\ub825, \ub0c9\uac01, \uc9c0\ub2a5\uc744 \uc5f0\uacb0\ud574 \ub514\uc9c0\ud138 \uc5f0\uc18d\uc131\uc744 \ubcf4\ud638\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "95bc0f038639",
+      "headline": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
+      "summary": "Latest agreement in support of the move to 800VDC",
+      "url": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T12:30:55+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Infineon\uacfc Nvidia, 800VDC data center \ub799\uc6a9 gallium nitride \uc804\ub825 \ubcc0\ud658 \uae30\uc220 \uac1c\ubc1c",
+      "summary_ko": "800VDC \uc804\ud658\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud55c \ucd5c\uc2e0 \ud611\uc57d\uc785\ub2c8\ub2e4.",
+      "tags_ko": [
+        "data center",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "b57042134dae",
+      "headline": "Nvidia in talks to invest in Firmus after failed IPO - report",
+      "summary": "Could invest hundreds of millions of dollars in neocloud",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T11:58:08+00:00",
+      "tags": [
+        "Neocloud"
+      ],
+      "headline_ko": "Nvidia, IPO \uc2e4\ud328\ud55c Firmus \ud22c\uc790 \ub17c\uc758 \uc911 - \ubcf4\ub3c4",
+      "summary_ko": "neocloud\uc5d0 \uc218\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud560 \uac00\ub2a5\uc131\uc774 \uc788\ub2e4.",
+      "tags_ko": [
+        "neocloud"
+      ]
+    },
+    {
+      "id": "7d352402c2dd",
+      "headline": "US considering 35 data center-related developments on public land, land records say",
+      "summary": "17 relate to campuses, 13 to broader AI infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-22T11:49:43+00:00",
+      "tags": [
+        "AI Infrastructure",
+        "Data Center"
+      ],
+      "headline_ko": "\ud1a0\uc9c0 \uae30\ub85d\uc5d0 \ub530\ub974\uba74 \ubbf8\uad6d\uc740 \uacf5\uc720\uc9c0\uc5d0\uc11c data center \uad00\ub828 \uac1c\ubc1c 35\uac74\uc744 \uac80\ud1a0 \uc911",
+      "summary_ko": "\uc774 \uc911 17\uac74\uc740 \ucea0\ud37c\uc2a4, 13\uac74\uc740 \uad11\ubc94\uc704\ud55c AI infrastructure\uc640 \uad00\ub828\ub41c \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4.",
+      "tags_ko": [
+        "AI infrastructure",
+        "data center"
+      ]
+    },
+    {
+      "id": "a603ecb08655",
+      "headline": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+      "summary": "",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
+      "source": "Google Infrastructure & Cloud",
+      "source_id": "google_infrastructure_cloud",
+      "published_at": "2026-10-22T11:30:00+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Google, Voltus\uc640 1GW \uac00\uc0c1 \ubc1c\uc804\uc18c \uad6c\ucd95 \ud611\ub825",
+      "summary_ko": "Google\uc774 Voltus\uc640 \ud611\ub825\ud574 1GW \uaddc\ubaa8\uc758 \uac00\uc0c1 \ubc1c\uc804\uc18c \uad6c\ucd95\uc744 \ucd94\uc9c4\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "54633cf0439a",
+      "headline": "Data Centers Can Delay, Not Dodge, the Power Crunch",
+      "summary": "Efficiency gains and flexible workloads may create near-term capacity for AI, but utilities will need proof that those reductions can be delivered when the grid needs them.",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/data-centers-can-delay-not-dodge-the-power-crunch",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Data Center\ub294 \uc804\ub825\ub09c\uc744 \ud53c\ud558\uc9c0 \ubabb\ud558\uace0 \uc9c0\uc5f0\uc2dc\ud0ac \uc218\ub9cc \uc788\ub2e4",
+      "summary_ko": "\ud6a8\uc728 \uac1c\uc120\uacfc \uc720\uc5f0\ud55c \uc6cc\ud06c\ub85c\ub4dc\ub294 AI\ub97c \uc704\ud55c \ub2e8\uae30 capacity\ub97c \ub9cc\ub4e4 \uc218 \uc788\uc9c0\ub9cc, \uc804\ub825\ud68c\uc0ac\ub294 power grid\uac00 \ud544\uc694\ub85c \ud560 \ub54c \uc774\ub7ec\ud55c \uac10\ucd95\uc744 \uc2e4\uc81c\ub85c \uc81c\uacf5\ud560 \uc218 \uc788\ub2e4\ub294 \uc99d\uac70\ub97c \uc694\uad6c\ud560 \uac83\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "\uc804\ub825"
       ]
     },
     {
@@ -1872,6 +2160,23 @@
       ]
     },
     {
+      "id": "5d0593c452df",
+      "headline": "ASK THE EXPERT: Data Center Sustainability Requires a More Connected Scorecard",
+      "summary": "ASK THE EXPERT: Data Center Sustainability Requires a More Connected Scorecard",
+      "url": "https://www.datacenterfrontier.com/sponsored/whitepaper/55411155/ask-the-expert-data-center-sustainability-requires-a-more-connected-scorecard",
+      "source": "Data Center Frontier",
+      "source_id": "data_center_frontier",
+      "published_at": "2026-10-14T01:59:06.822272+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub2e4: Data Center \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0\ub294 \ub354 \uc5f0\uacb0\ub41c \uc2a4\ucf54\uc5b4\uce74\ub4dc\uac00 \ud544\uc694\ud558\ub2e4",
+      "summary_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub2e4: Data Center \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0\ub294 \ub354 \uc5f0\uacb0\ub41c \uc2a4\ucf54\uc5b4\uce74\ub4dc\uac00 \ud544\uc694\ud558\ub2e4\ub294 \ub0b4\uc6a9\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
       "id": "abc71d947df5",
       "headline": "The fabric-roofed keynote hall at OCP 2026 in San Jose was built by Sprung Structures, the same company supplying massive engineered enclosures for Meta\u2019s Prometheus AI campus in Ohio. Meta\u2019s Santosh Janardhan noted that the approach can help bring data center capacity online in just three to five months, versus years for conventional construction.",
       "summary": "The fabric-roofed keynote hall at OCP 2026 in San Jose was built by Sprung Structures, the same company supplying massive engineered enclosures for Meta\u2019s Prometheus AI campus in Ohio. Meta\u2019s Santosh Janardhan noted that the approach can help bring data center capacity online in just three to five months, versus years for conventional construction.",
@@ -1890,23 +2195,6 @@
         "Meta",
         "Data Center",
         "Capacity"
-      ]
-    },
-    {
-      "id": "5d0593c452df",
-      "headline": "ASK THE EXPERT: Data Center Sustainability Requires a More Connected Scorecard",
-      "summary": "ASK THE EXPERT: Data Center Sustainability Requires a More Connected Scorecard",
-      "url": "https://www.datacenterfrontier.com/sponsored/whitepaper/55411155/ask-the-expert-data-center-sustainability-requires-a-more-connected-scorecard",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-10-14T01:59:06.822272+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub2e4: Data Center \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0\ub294 \ub354 \uc5f0\uacb0\ub41c \uc2a4\ucf54\uc5b4\uce74\ub4dc\uac00 \ud544\uc694\ud558\ub2e4",
-      "summary_ko": "\uc804\ubb38\uac00\uc5d0\uac8c \ubb3b\ub2e4: Data Center \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0\ub294 \ub354 \uc5f0\uacb0\ub41c \uc2a4\ucf54\uc5b4\uce74\ub4dc\uac00 \ud544\uc694\ud558\ub2e4\ub294 \ub0b4\uc6a9\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
       ]
     },
     {
@@ -2653,308 +2941,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "38c6e1d8a025",
-      "headline": "Digital Realty begins work on KIX15 data center in Japan",
-      "summary": "New building on Osaka campus adds 24MW",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T15:30:34+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Digital Realty, \uc77c\ubcf8 KIX15 data center \ucc29\uacf5",
-      "summary_ko": "\uc624\uc0ac\uce74 \ucea0\ud37c\uc2a4\uc758 \uc2e0\uaddc \uac74\ubb3c\ub85c 24MW\uac00 \ucd94\uac00\ub41c\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "091918f56c0c",
-      "headline": "Uncertainty over data center development in Trzebnica, Poland",
-      "summary": "Application unearthed by a local councilor who claimed details were hidden from scrutiny",
-      "url": "https://www.datacenterdynamics.com/en/news/uncertainty-over-data-center-development-in-trzebnica-poland/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T15:12:27+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ud3f4\ub780\ub4dc \ud2b8\uc170\ube0c\ub2c8\ucc28 data center \uac1c\ubc1c\uc5d0 \ubd88\ud655\uc2e4\uc131",
-      "summary_ko": "\ud55c \uc9c0\uc5ed \uc758\uc6d0\uc774 \uc2e0\uccad\uc11c\ub97c \ucc3e\uc544\ub0c8\uc73c\uba70, \uc138\ubd80 \ub0b4\uc6a9\uc774 \uc2ec\uc758\uc5d0\uc11c \uc228\uaca8\uc84c\ub2e4\uace0 \uc8fc\uc7a5\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "f584c0c0f16d",
-      "headline": "How colocation providers find and reclaim stranded power capacity",
-      "summary": "Unlocking millions in hidden revenue across multi-site data center portfolios",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/how-colocation-providers-find-and-reclaim-stranded-power-capacity/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T14:50:13+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Power",
-        "Colocation"
-      ],
-      "headline_ko": "colocation \uc0ac\uc5c5\uc790\uac00 \uc720\ud734 \uc804\ub825 capacity\ub97c \ucc3e\uc544 \ub418\ucc3e\ub294 \ubc29\ubc95",
-      "summary_ko": "\uba40\ud2f0\uc0ac\uc774\ud2b8 data center \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc804\ubc18\uc5d0\uc11c \uc228\uc740 \uc218\ubc31\ub9cc \uaddc\ubaa8\uc758 \uc218\uc775\uc744 \ub04c\uc5b4\ub0bc \uc218 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity",
-        "\uc804\ub825",
-        "Colocation"
-      ]
-    },
-    {
-      "id": "84e0c7557817",
-      "headline": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
-      "summary": "First building will be located on Earl Callahan Road",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T14:27:53+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Anthropic \uc5f0\uacc4 $366m data center \ud504\ub85c\uc81d\ud2b8, \ud14d\uc0ac\uc2a4 Cedar Creek\uc5d0 \uc2e0\uccad\uc11c \uc81c\ucd9c",
-      "summary_ko": "\uccab \ubc88\uc9f8 \uac74\ubb3c\uc740 Earl Callahan Road\uc5d0 \uc704\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "1516cec89d37",
-      "headline": "When noise ordinances can't keep up with data centers",
-      "summary": "And why the issue around noise shouldn't be ignored",
-      "url": "https://www.datacenterdynamics.com/en/opinions/when-noise-ordinances-cant-keep-up-with-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T13:48:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc18c\uc74c \uaddc\uc81c\uac00 data center\ub97c \ub530\ub77c\uc7a1\uc9c0 \ubabb\ud560 \ub54c",
-      "summary_ko": "\uc18c\uc74c \ubb38\uc81c\ub97c \ubb34\uc2dc\ud574\uc11c\ub294 \uc548 \ub418\ub294 \uc774\uc720\ub3c4 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "16baf208ffd4",
-      "headline": "Iraqi gov't reveals plans for five data centers",
-      "summary": "New facilities to be located in Baghdad, Basra, and Mosul",
-      "url": "https://www.datacenterdynamics.com/en/news/iraqi-govt-reveals-plans-for-five-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T11:30:40+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc774\ub77c\ud06c \uc815\ubd80, data center 5\uac1c \uac74\uc124 \uacc4\ud68d \uacf5\uac1c",
-      "summary_ko": "\uc2e0\uaddc \uc2dc\uc124\uc740 \ubc14\uadf8\ub2e4\ub4dc, \ubc14\uc2a4\ub77c, \ubaa8\uc220\uc5d0 \uc704\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "data center"
-      ]
-    },
-    {
-      "id": "6c3fb732cada",
-      "headline": "ThisWay Global plans 73MW AI and HPC data center in Bryan, Texas",
-      "summary": "Will offer compute to researchers, public sector, and industry users",
-      "url": "https://www.datacenterdynamics.com/en/news/thisway-global-plans-73mw-ai-and-hpc-data-center-in-bryan-texas/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T11:14:37+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "ThisWay Global, \ud14d\uc0ac\uc2a4 Bryan\uc5d0 73MW AI\u00b7HPC data center \uacc4\ud68d",
-      "summary_ko": "\uc5f0\uad6c\uc790, \uacf5\uacf5 \ubd80\ubb38, \uc0b0\uc5c5\uacc4 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ucef4\ud4e8\ud305 \uc790\uc6d0\uc744 \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "a297d77b9a49",
-      "headline": "Bitdeer AI signs 67MW AI cloud agreement in Malaysia",
-      "summary": "10-year lease will be engineered for GB300 NVL72 deployments",
-      "url": "https://www.datacenterdynamics.com/en/news/bitdeer-ai-signs-67mw-ai-cloud-agreement-in-malaysia/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T10:58:37+00:00",
-      "tags": [
-        "Colocation"
-      ],
-      "headline_ko": "Bitdeer AI, \ub9d0\ub808\uc774\uc2dc\uc544\uc5d0\uc11c 67MW AI \ud074\ub77c\uc6b0\ub4dc \uacc4\uc57d \uccb4\uacb0",
-      "summary_ko": "10\ub144 \uc784\ub300\ucc28 \uacc4\uc57d\uc740 GB300 NVL72 \ubc30\uce58\ub97c \uc704\ud574 \uc124\uacc4\ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Colocation"
-      ]
-    },
-    {
-      "id": "ab419b617517",
-      "headline": "IT service provider Infomaniak lists on Swiss stock exchange",
-      "summary": "The firm currently serves more than 300,000 European customers and operates three data centers in Switzerland",
-      "url": "https://www.datacenterdynamics.com/en/news/it-service-provider-infomaniak-lists-on-swiss-stock-exchange/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-09T10:30:38+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "IT \uc11c\ube44\uc2a4 \uc81c\uacf5\uc5c5\uccb4 Infomaniak, \uc2a4\uc704\uc2a4 \uc99d\uad8c\uac70\ub798\uc18c \uc0c1\uc7a5",
-      "summary_ko": "\uc774 \ud68c\uc0ac\ub294 \ud604\uc7ac 30\ub9cc \uba85 \uc774\uc0c1\uc758 \uc720\ub7fd \uace0\uac1d\uc744 \ub300\uc0c1\uc73c\ub85c \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud558\uba70 \uc2a4\uc704\uc2a4\uc5d0\uc11c 3\uac1c\uc758 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc6b4\uc601\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "1af365579267",
-      "headline": "ThisWay Global to Convert Bankrupt RELLIS Site into 73 MW AI Hub",
-      "summary": "ThisWay Global will revamp a bankrupt data center project at Texas A&M\u2019s RELLIS Campus into a 73 MW AI and research center to demonstrate its Sovereign AI Blueprint.",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/thisway-global-to-convert-bankrupt-rellis-site-into-73-mw-ai-hub",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity"
-      ],
-      "headline_ko": "ThisWay Global, \ud30c\uc0b0\ud55c RELLIS \ubd80\uc9c0\ub97c 73 MW AI \ud5c8\ube0c\ub85c \uc804\ud658",
-      "summary_ko": "ThisWay Global\uc740 Texas A&M\uc758 RELLIS \ucea0\ud37c\uc2a4\uc5d0 \uc788\ub294 \ud30c\uc0b0\ud55c data center \ud504\ub85c\uc81d\ud2b8\ub97c 73 MW AI \ubc0f \uc5f0\uad6c \uc13c\ud130\ub85c \uc7ac\uc815\ube44\ud558\uc5ec \uc790\uc0ac\uc758 Sovereign AI Blueprint\ub97c \uc2dc\uc5f0\ud560 \uacc4\ud68d\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capacity"
-      ]
-    },
-    {
-      "id": "dd1528bc6a8f",
-      "headline": "Oracle Commits $100,000 for Abilene Educators and Expands Data Center Career Pathways",
-      "summary": "Oracle Commits $100,000 for Abilene Educators and Expands Data Center Career Pathways",
-      "url": "https://www.oracle.com/news/announcement/oracle-supports-abilene-educators-and-expands-data-center-career-pathways-2026-09-17/",
-      "source": "Oracle AI Data Centers",
-      "source_id": "oracle_ai_data_centers",
-      "published_at": "2026-10-09T02:58:43.633584+00:00",
-      "tags": [
-        "Oracle",
-        "Data Center"
-      ],
-      "headline_ko": "Oracle, Abilene \uad50\uc721\uc790 \uc9c0\uc6d0\uc5d0 10\ub9cc \ub2ec\ub7ec \uc57d\uc815\ud558\uace0 data center \ucee4\ub9ac\uc5b4 \uacbd\ub85c \ud655\ub300",
-      "summary_ko": "Oracle\uc774 Abilene \uad50\uc721\uc790\ub4e4\uc744 \uc704\ud574 10\ub9cc \ub2ec\ub7ec\ub97c \uc9c0\uc6d0\ud558\uace0 data center \ucee4\ub9ac\uc5b4 \uacbd\ub85c\ub97c \ud655\ub300\ud55c\ub2e4.",
-      "tags_ko": [
-        "Oracle",
-        "Data Center"
-      ]
-    },
-    {
-      "id": "62c39b5d6f6a",
-      "headline": "Oracle Invests in More Than 1.7 GW of Carbon-Free Electricity to Support AI Growth and Strengthen the Texas Grid",
-      "summary": "Oracle Invests in More Than 1.7 GW of Carbon-Free Electricity to Support AI Growth and Strengthen the Texas Grid",
-      "url": "https://www.oracle.com/news/announcement/oracle-invests-in-more-than-1.7-gw-of-carbon-free-electricity-to-support-ai-growth-and-strengthen-the-texas-grid-2026-08-15/",
-      "source": "Oracle AI Data Centers",
-      "source_id": "oracle_ai_data_centers",
-      "published_at": "2026-10-09T02:58:43.633584+00:00",
-      "tags": [
-        "Oracle",
-        "Capacity",
-        "Power"
-      ],
-      "headline_ko": "Oracle, AI \uc131\uc7a5 \uc9c0\uc6d0\uacfc \ud14d\uc0ac\uc2a4 \uc804\ub825\ub9dd \uac15\ud654 \uc704\ud574 1.7 GW \uc774\uc0c1 \ubb34\ud0c4\uc18c \uc804\ub825\uc5d0 \ud22c\uc790",
-      "summary_ko": "Oracle\uc774 AI \uc131\uc7a5\uc744 \uc9c0\uc6d0\ud558\uace0 \ud14d\uc0ac\uc2a4 \uc804\ub825\ub9dd\uc744 \uac15\ud654\ud558\uae30 \uc704\ud574 1.7 GW \uc774\uc0c1\uc758 \ubb34\ud0c4\uc18c \uc804\ub825\uc5d0 \ud22c\uc790\ud55c\ub2e4.",
-      "tags_ko": [
-        "Oracle",
-        "Capacity",
-        "Power"
-      ]
-    },
-    {
-      "id": "96f731fc6670",
-      "headline": "NVIDIA's DSX Ready program establishes qualification requirements for battery energy storage systems and coolant distribution units supporting its AI factory reference designs. The inaugural group includes six power and cooling suppliers. (Image: NVIDIA)",
-      "summary": "NVIDIA's DSX Ready program establishes qualification requirements for battery energy storage systems and coolant distribution units supporting its AI factory reference designs. The inaugural group includes six power and cooling suppliers. (Image: NVIDIA)",
-      "url": "https://www.datacenterfrontier.com/design/article/55410513/nvidias-dsx-ready-brings-power-and-cooling-into-the-ai-factory-blueprint",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-10-09T02:58:43.633584+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Power"
-      ],
-      "headline_ko": "NVIDIA\uc758 DSX Ready \ud504\ub85c\uadf8\ub7a8\uc774 AI factory \ub808\ud37c\ub7f0\uc2a4 \ub514\uc790\uc778\uc744 \uc9c0\uc6d0\ud558\ub294 \ubc30\ud130\ub9ac \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc2dc\uc2a4\ud15c\uacfc coolant distribution unit\uc5d0 \ub300\ud55c \uc790\uaca9 \uc694\uac74\uc744 \uc218\ub9bd\ud588\ub2e4. \uccab \ucc38\uc5ec \uadf8\ub8f9\uc5d0\ub294 6\uac1c \uc804\ub825\u00b7\ub0c9\uac01 \uacf5\uae09\uc5c5\uccb4\uac00 \ud3ec\ud568\ub410\ub2e4. (\uc774\ubbf8\uc9c0: NVIDIA)",
-      "summary_ko": "NVIDIA\uc758 DSX Ready \ud504\ub85c\uadf8\ub7a8\uc774 AI factory \ub808\ud37c\ub7f0\uc2a4 \ub514\uc790\uc778\uc744 \uc9c0\uc6d0\ud558\ub294 \ubc30\ud130\ub9ac \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc2dc\uc2a4\ud15c\uacfc coolant distribution unit\uc5d0 \ub300\ud55c \uc790\uaca9 \uc694\uac74\uc744 \ub9c8\ub828\ud588\uc73c\uba70, \uccab \ucc38\uc5ec \uadf8\ub8f9\uc5d0\ub294 6\uac1c \uc804\ub825\u00b7\ub0c9\uac01 \uacf5\uae09\uc5c5\uccb4\uac00 \ud3ec\ud568\ub410\ub2e4.",
-      "tags_ko": [
-        "AI Infrastructure",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "146db0104419",
-      "headline": "Permits, Not Power, Halt Google\u2019s Finland Data Centers",
-      "summary": "Google had secured access to Finland\u2019s northern grid, but environmental rules are blocking site work at two facilities in its \u20ac13 billion data center expansion.",
-      "url": "https://www.datacenterknowledge.com/regulations/permits-not-power-halt-google-s-finland-data-centers",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-10-08T17:33:01+00:00",
-      "tags": [
-        "Google Cloud",
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\uc804\ub825\uc774 \uc544\ub2cc \uc778\ud5c8\uac00, \uad6c\uae00 \ud540\ub780\ub4dc data center \uc911\ub2e8\uc2dc\ucf1c",
-      "summary_ko": "Google\uc740 \ud540\ub780\ub4dc \ubd81\ubd80 \uc804\ub825\ub9dd \uc811\uadfc\uad8c\uc744 \ud655\ubcf4\ud588\uc73c\ub098, \ud658\uacbd \uaddc\uc81c\uac00 \u20ac13 billion \uaddc\ubaa8 data center \ud655\uc7a5 \uacc4\ud68d\uc758 \ub450 \uc2dc\uc124 \ubd80\uc9c0 \uacf5\uc0ac\ub97c \ub9c9\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Google Cloud",
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "b6898643467f",
-      "headline": "Debunking the Biggest Data Center Myths",
-      "summary": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers. The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
-      "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
-      "source": "Meta Data Centers",
-      "source_id": "meta_data_centers",
-      "published_at": "2026-10-08T16:53:24+00:00",
-      "tags": [
-        "Meta",
-        "Data Center"
-      ],
-      "headline_ko": "\uac00\uc7a5 \ud070 Data Center \uc624\ud574 \ubc14\ub85c\uc7a1\uae30",
-      "summary_ko": "\uac1c\ubc1c\uc790\uc774\uc790 \ucf58\ud150\uce20 \ud06c\ub9ac\uc5d0\uc774\ud130\uc778 Tom Shaw\uac00 Data Center\uc5d0 \uad00\ud55c \uc138 \uac00\uc9c0 \ud070 \uc624\ud574\ub97c \uc9da\uc740 \uc774 \uae00\uc740 Meta Newsroom\uc5d0 \ucc98\uc74c \uac8c\uc7ac\ub410\ub2e4.",
-      "tags_ko": [
-        "Meta",
-        "Data Center"
-      ]
-    },
-    {
-      "id": "859c8684bd56",
-      "headline": "KT Cloud plans 50MW data center project in Incheon, South Korea",
-      "summary": "KT Cloud will serve as the design, build, and operate partner",
-      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-08T16:33:23+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "KT Cloud, \uc778\ucc9c\uc5d0\uc11c 50MW data center \ud504\ub85c\uc81d\ud2b8 \ucd94\uc9c4 \uacc4\ud68d",
-      "summary_ko": "KT Cloud\uac00 \uc124\uacc4\u00b7\uad6c\ucd95\u00b7\uc6b4\uc601 \ud30c\ud2b8\ub108\ub97c \ub9e1\uc744 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-22T01:37:45.562867+00:00",
-    "cached": 141,
-    "translated": 19,
+    "generated_at": "2026-10-23T01:38:48.623780+00:00",
+    "cached": 146,
+    "translated": 14,
     "skipped": 0
   }
 }
