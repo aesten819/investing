@@ -10094,5 +10094,19 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "368527992b14c31aaf8e583ce827d55cc84fc957": {
+    "headline_ko": "\uc870\uc9c0\uc544\uc758 Silk Cloud, Nvidia Blackwell Ultra GPU \ubc30\ud3ec",
+    "summary_ko": "\uc601\uad6d \uae30\ubc18 Fuse Energy\ub3c4 \uace0\uac1d \ub300\uc0c1 GPU \ucef4\ud4e8\ud305\uc744 \uac00\ub3d9\ud588\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "256a955f9f153cdf4c9ea6562b7e22e110d4d539": {
+    "headline_ko": "SpaceXAI, \ubbf8\uc2dc\uc2dc\ud53c\uc8fc\uc5d0\uc11c \uc62c\ubc14\ub978 \ud5c8\uac00 \uc5c6\uc774 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uac74\uc124\ud574 610\ub9cc \ub2ec\ub7ec \ubc8c\uae08 \uc704\uae30",
+    "summary_ko": "\uc77c\ub860 \uba38\uc2a4\ud06c\uc758 \ud68c\uc0ac\ub294 \ubb38\uc81c\uac00 \ub41c \uac00\uc2a4 \ud130\ube48\uacfc \uad00\ub828\ud574\uc11c\ub3c4 \ub2e4\uc2dc \ubc95\uc815\uc5d0 \uc11c\uac8c \ub41c\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130 \uc13c\ud130"
+    ]
   }
 }

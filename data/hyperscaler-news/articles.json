@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:41:52.991062+00:00",
+  "generated_at": "2026-10-25T01:17:43.922049+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -34,6 +34,97 @@
       "summary_ko": "Data Center Knowledge\uac00 \uc804\ud55c Data Center World Middle East \uad00\ub828 \uce74\ub4dc\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "data center"
+      ]
+    },
+    {
+      "id": "9a6c4e4cbd3c",
+      "headline": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "summary": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "url": "https://www.oracle.com/news/announcement/oracle-issues-rfp-for-2gw-of-renewable-energy-2026-09-08/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-25T01:17:40.200979+00:00",
+      "tags": [
+        "Oracle",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Oracle, \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0 RFP \ubc1c\ud589",
+      "summary_ko": "Oracle\uc774 \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0\uc5d0 \ub300\ud55c RFP\ub97c \ubc1c\ud589\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Capacity",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "bdb95147cdf2",
+      "headline": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "summary": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "url": "https://www.oracle.com/news/announcement/oracle-and-bloom-energy-announce-support-for-roadrunner-food-bank-2026-09-03/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-25T01:17:40.200979+00:00",
+      "tags": [
+        "Oracle",
+        "Power"
+      ],
+      "headline_ko": "Oracle\uc640 Bloom Energy, Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0 \ubc1c\ud45c\u2026 Santa Teresa\uc640 Sunland Park \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300",
+      "summary_ko": "Oracle\uc640 Bloom Energy\uac00 Santa Teresa\uc640 Sunland Park\uc758 \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300\ub97c \uc704\ud574 Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0\uc744 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "2df5773f1ef8",
+      "headline": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "summary": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "url": "https://www.oracle.com/news/announcement/blog/the-work-came-home-2026-09-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-10-25T01:17:40.200979+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "\uc77c\uac10\uc774 \uace0\ud5a5\uc73c\ub85c \ub3cc\uc544\uc624\ub2e4: \uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \ub3d5\ub294 \ubc29\ubc95",
+      "summary_ko": "\uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \uc5b4\ub5bb\uac8c \uc9c0\uc6d0\ud558\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "b8867cc9e99d",
+      "headline": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
+      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
+      "url": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-24T13:00:21+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "\uc870\uc9c0\uc544\uc758 Silk Cloud, Nvidia Blackwell Ultra GPU \ubc30\ud3ec",
+      "summary_ko": "\uc601\uad6d \uae30\ubc18 Fuse Energy\ub3c4 \uace0\uac1d \ub300\uc0c1 GPU \ucef4\ud4e8\ud305\uc744 \uac00\ub3d9\ud588\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "856bb854a552",
+      "headline": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+      "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-24T10:00:21+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "SpaceXAI, \ubbf8\uc2dc\uc2dc\ud53c\uc8fc\uc5d0\uc11c \uc62c\ubc14\ub978 \ud5c8\uac00 \uc5c6\uc774 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uac74\uc124\ud574 610\ub9cc \ub2ec\ub7ec \ubc8c\uae08 \uc704\uae30",
+      "summary_ko": "\uc77c\ub860 \uba38\uc2a4\ud06c\uc758 \ud68c\uc0ac\ub294 \ubb38\uc81c\uac00 \ub41c \uac00\uc2a4 \ud130\ube48\uacfc \uad00\ub828\ud574\uc11c\ub3c4 \ub2e4\uc2dc \ubc95\uc815\uc5d0 \uc11c\uac8c \ub41c\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130"
       ]
     },
     {
@@ -2785,6 +2876,23 @@
       ]
     },
     {
+      "id": "73281c0c3e58",
+      "headline": "How to Secure Data Centers During the Construction Phase",
+      "summary": "Before operations begin, layered defenses at the site and in the supply chain help prevent theft, vandalism, counterfeit gear, and covert endpoints.",
+      "url": "https://www.datacenterknowledge.com/physical-security/how-to-secure-data-centers-during-the-construction-phase",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uac74\uc124 \ub2e8\uacc4\uc5d0\uc11c data center\ub97c \uc548\uc804\ud558\uac8c \uc9c0\ud0a4\ub294 \ubc29\ubc95",
+      "summary_ko": "\uc6b4\uc601 \uac1c\uc2dc \uc804, \ud604\uc7a5\uacfc \uacf5\uae09\ub9dd\uc758 \ub2e4\uce35 \ubc29\uc5b4\ub294 \ub3c4\ub09c, \uae30\ubb3c \ud30c\uc190, \uc704\uc870 \uc7a5\ube44, \uc740\ub2c9 \uc5d4\ub4dc\ud3ec\uc778\ud2b8\ub97c \ubc29\uc9c0\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub41c\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
       "id": "d888983831e4",
       "headline": "North America's AI Data Center Pipeline Widens",
       "summary": "North America's AI Data Center Pipeline Widens",
@@ -2821,118 +2929,14 @@
         "Data Center",
         "\uc804\ub825"
       ]
-    },
-    {
-      "id": "f303f9672584",
-      "headline": "Intelligent Flow Measurement Has Become Essential for Next-Generation Data Center Cooling",
-      "summary": "Intelligent Flow Measurement Has Become Essential for Next-Generation Data Center Cooling",
-      "url": "https://www.datacenterfrontier.com/white-papers/whitepaper/55402418/intelligent-flow-measurement-has-become-essential-for-next-generation-data-center-cooling",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-10-13T03:38:31.676437+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\uc9c0\ub2a5\ud615 \uc720\ub7c9 \uce21\uc815, \ucc28\uc138\ub300 \ub370\uc774\ud130\uc13c\ud130 \ub0c9\uac01\uc758 \ud544\uc218 \uc694\uc18c\ub85c \ubd80\uc0c1",
-      "summary_ko": "\uc9c0\ub2a5\ud615 \uc720\ub7c9 \uce21\uc815\uc774 \ucc28\uc138\ub300 \ub370\uc774\ud130\uc13c\ud130 \ub0c9\uac01\uc5d0 \ud544\uc218 \uc694\uc18c\uac00 \ub418\uc5c8\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "5c3dfcf98d85",
-      "headline": "SWI raises \u20ac800 million for data center expansion",
-      "summary": "Funds to support projects in the US and Europe",
-      "url": "https://www.datacenterdynamics.com/en/news/swi-raises-800-million-for-data-center-expansion/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-12T16:22:49+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "SWI, data center \ud655\uc7a5 \uc704\ud574 8\uc5b5 \uc720\ub85c \uc870\ub2ec",
-      "summary_ko": "\uc790\uae08\uc740 \ubbf8\uad6d\uacfc \uc720\ub7fd\uc758 \ud504\ub85c\uc81d\ud2b8\ub97c \uc9c0\uc6d0\ud558\ub294 \ub370 \uc0ac\uc6a9\ub41c\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "b3920f3021e7",
-      "headline": "FiveNines Group and Nexus Core Systems partner on 20MW data center in Morocco",
-      "summary": "Data center will be located outside of Casablanca",
-      "url": "https://www.datacenterdynamics.com/en/news/fivenines-group-and-nexus-core-systems-partner-on-20mw-data-center-in-morocco/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-12T16:20:40+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "FiveNines Group\uacfc Nexus Core Systems, \ubaa8\ub85c\ucf54 20MW \ub370\uc774\ud130\uc13c\ud130 \ud611\ub825",
-      "summary_ko": "\ud574\ub2f9 \ub370\uc774\ud130\uc13c\ud130\ub294 \uce74\uc0ac\ube14\ub791\uce74 \uc678\uacfd\uc5d0 \uc704\uce58\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "da31176d8dff",
-      "headline": "Russian military takes out more Ukrainian data centers",
-      "summary": "Military takes down ISP in Odessa, claims facility was serving Ukrainian armed forces",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-military-takes-out-more-ukrainian-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-12T16:02:20+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub7ec\uc2dc\uc544\uad70, \uc6b0\ud06c\ub77c\uc774\ub098 data center \ucd94\uac00 \ud0c0\uaca9",
-      "summary_ko": "\ub7ec\uc2dc\uc544\uad70\uc774 \uc624\ub370\uc0ac\uc758 ISP\ub97c \ud0c0\uaca9\ud588\uc73c\uba70, \ud574\ub2f9 \uc2dc\uc124\uc774 \uc6b0\ud06c\ub77c\uc774\ub098 \uad70\uc744 \uc9c0\uc6d0\ud588\ub2e4\uace0 \uc8fc\uc7a5\ud588\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "12a99ae8e394",
-      "headline": "Memphis council delays decision on year-long data center moratorium despite protests",
-      "summary": "Home of Musk's xAI data centers could ban new developments for 12 months",
-      "url": "https://www.datacenterdynamics.com/en/news/memphis-council-delays-decision-on-year-long-data-center-moratorium-despite-protests/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-12T15:58:16+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uba64\ud53c\uc2a4 \uc2dc\uc758\ud68c, \uc2dc\uc704\uc5d0\ub3c4 1\ub144\uac04 data center \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \uacb0\uc815 \uc5f0\uae30",
-      "summary_ko": "\uba38\uc2a4\ud06c\uc758 xAI data center\uac00 \uc704\uce58\ud55c \uba64\ud53c\uc2a4\ub294 12\uac1c\uc6d4\uac04 \uc2e0\uaddc \uac1c\ubc1c\uc744 \uae08\uc9c0\ud560 \uc218 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "89424db9a46d",
-      "headline": "Nvidia opens up Vera Rubin rack and tray designs to OCP",
-      "summary": "MGX 1.2 spec doubles down on liquid cooling",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-opens-up-vera-rubin-rack-and-tray-designs-to-ocp/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-12T15:11:10+00:00",
-      "tags": [
-        "Power"
-      ],
-      "headline_ko": "Nvidia, OCP\uc5d0 Vera Rubin rack\u00b7tray \uc124\uacc4 \uac1c\ubc29",
-      "summary_ko": "MGX 1.2 \uaddc\uaca9\uc740 liquid cooling\uc744 \ud55c\uce35 \uac15\ud654\ud55c\ub2e4.",
-      "tags_ko": [
-        "\uc804\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-24T01:42:42.096926+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-10-25T01:17:49.633087+00:00",
+    "cached": 158,
+    "translated": 2,
     "skipped": 0
   }
 }
