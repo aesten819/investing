@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:17:43.922049+00:00",
+  "generated_at": "2026-10-26T01:20:22.806012+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -34,6 +34,25 @@
       "summary_ko": "Data Center Knowledge\uac00 \uc804\ud55c Data Center World Middle East \uad00\ub828 \uce74\ub4dc\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "data center"
+      ]
+    },
+    {
+      "id": "f123102aeba5",
+      "headline": "The power behind AI: Data centers drive the demand for qualified electricians",
+      "summary": "An insatiable demand for electricians",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-10-25T11:00:30+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "AI\ub97c \ub4b7\ubc1b\uce68\ud558\ub294 \uc804\ub825: data center\uac00 \uc219\ub828 \uc804\uae30\uae30\uc0ac \uc218\uc694\ub97c \uacac\uc778\ud55c\ub2e4",
+      "summary_ko": "\uc804\uae30\uae30\uc0ac\uc5d0 \ub300\ud55c \uc218\uc694\uac00 \ub05d\uc5c6\uc774 \ub192\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
       ]
     },
     {
@@ -2910,33 +2929,14 @@
         "AI Infrastructure",
         "Data Center"
       ]
-    },
-    {
-      "id": "9cfd2b0de24f",
-      "headline": "AI Is Reshaping Data Center Cooling",
-      "summary": "AI Is Reshaping Data Center Cooling",
-      "url": "https://www.datacenterfrontier.com/white-papers/whitepaper/55408818/ai-is-reshaping-data-center-cooling",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-10-13T03:38:31.676437+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "AI\uac00 Data Center \ub0c9\uac01\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
-      "summary_ko": "AI\uac00 Data Center \ub0c9\uac01 \ubc29\uc2dd\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-25T01:17:49.633087+00:00",
-    "cached": 158,
-    "translated": 2,
+    "generated_at": "2026-10-26T01:20:26.144318+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
