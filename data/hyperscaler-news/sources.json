@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:09:32.146939+00:00",
+  "generated_at": "2026-10-28T02:23:53.123059+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -47,7 +47,7 @@
       "url": "https://blogs.microsoft.com/feed/",
       "type": "rss",
       "status": "ok",
-      "article_count": 1
+      "article_count": 0
     },
     {
       "id": "meta_data_centers",
@@ -63,7 +63,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 14
+      "article_count": 10
     },
     {
       "id": "data_center_knowledge",
@@ -71,7 +71,7 @@
       "url": "https://www.datacenterknowledge.com/rss.xml",
       "type": "rss",
       "status": "ok",
-      "article_count": 45
+      "article_count": 44
     },
     {
       "id": "synergy_research",

@@ -10253,5 +10253,96 @@
     "tags_ko": [
       "data center"
     ]
+  },
+  "0b9197288bac54809392555b529b6a5a1db847b5": {
+    "headline_ko": "7x24 Fall 2026: AI Infrastructure, \ud604\uc2e4\uacfc \ub9cc\ub098\ub2e4",
+    "summary_ko": "7x24 Fall 2026\uc5d0\uc11c AI Infrastructure\uac00 \ud604\uc2e4\uacfc \ub9cc\ub098\ub294 \uad6d\uba74\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "73e60893bbeb4e7861534751103224e96574c276": {
+    "headline_ko": "Oracle, OCI\ub85c Google TPU AI \uce69 \uc81c\uacf5 \uc608\uc815",
+    "summary_ko": "Google \uc678\ubd80\uc5d0\uc11c Google TPU\ub97c \uc81c\uacf5\ud558\ub294 \uccab hyperscaler\uac00 \ub420 \uc804\ub9dd\uc774\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Oracle"
+    ]
+  },
+  "9eea55dd704afdb39786e58235c8d585d7e130aa": {
+    "headline_ko": "\uc544\ub9c8\uc874, data center \uac70\ub798 \ub9ac\ubca0\uc774\ud2b8 \ud610\uc758\ub97c \ubc1b\uc740 AWS \uad00\ub9ac\uc790\ub4e4\uacfc \ubc95\uc801 \ubd84\uc7c1 \ud569\uc758",
+    "summary_ko": "\uc7a5\uae30\uac04 \uc774\uc5b4\uc9c4 \uc18c\uc1a1\uc740 Northstar Commercial Partners\ub97c \ud53c\uace0\ub85c \uacc4\uc18d\ub41c\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "data center"
+    ]
+  },
+  "35c42faaa53d205bd562ddbd605f44ac7e7bee01": {
+    "headline_ko": "Ferveret\uc758 in-rack immersion cooling, MIT HPC infrastructure\uc5d0 \ubc30\uce58",
+    "summary_ko": "\ud68c\uc0ac \uce21\uc740 \ucd5c\ub300 35%\uc758 \ucd94\uac00 compute capacity\ub97c \ud655\ubcf4\ud560 \uc218 \uc788\ub2e4\uace0 \uc8fc\uc7a5\ud588\ub2e4.",
+    "tags_ko": [
+      "Capacity",
+      "Power"
+    ]
+  },
+  "828dc980652245d2b4287565626817cb462c7ab4": {
+    "headline_ko": "\ubbf8\ub124\uc18c\ud0c0 \ud5c8\uba3c\ud0c0\uc6b4 Google data center \uccad\ubb38\ud68c, \uc2dc\uc704\ub85c \uc911\ub2e8",
+    "summary_ko": "\uccad\ubb38\ud68c\ub294 \ud558\ub8e8 \uc5f0\uae30\ub410\uc9c0\ub9cc, \ud574\ub2f9 \ud504\ub85c\uc81d\ud2b8\ub294 \uc18c\uc1a1\uacfc \uae30\ud0c0 \ub09c\uad00\uc5d0 \uc9c1\uba74\ud574 \uc788\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "data center"
+    ]
+  },
+  "eda5b8decbccb3da3ac6994709b16dcececb5f5e": {
+    "headline_ko": "BitFuFu, 80MW \uc5d0\ud2f0\uc624\ud53c\uc544 \ube44\ud2b8\ucf54\uc778 \ucc44\uad74\uc7a5 \uc778\uc218 \ud3ec\uae30 \uac80\ud1a0",
+    "summary_ko": "\ud604\uc7ac \uc6b4\uc601\uc0ac\uc640 \ud604\uc9c0 \uc804\ub825 \uacf5\uae09\uc5c5\uccb4 \uc0ac\uc774\uc758 \ubd84\uc7c1\uc73c\ub85c \uc774\ubc88 \uac70\ub798\uac00 \ubb34\uc0b0\ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "4cf2446bdf230cf32aef125501d2c2eecc152119": {
+    "headline_ko": "SoleCrypt, \ud280\ub2c8\uc9c0 Bizerte\uc758 \uacc4\ud68d\ub41c data center \ucea0\ud37c\uc2a4 \uaddc\ubaa8 \ud655\ub300",
+    "summary_ko": "\uccab 7MW \ub2e8\uacc4\ub294 2028\ub144 \ucd08 \uac00\ub3d9\ub418\uc5b4 Vera Rubin GPUs\ub97c \ud638\uc2a4\ud305\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "d6e0ac7c04cd81aa9b0f1aaa5111962505a505b2": {
+    "headline_ko": "STTGDC, \ub3c4\ucfc4 data center\uc6a9 5\uc5b5 9\ucc9c\ub9cc \ub2ec\ub7ec \uadf8\ub9b0\ub860 \ud655\ubcf4",
+    "summary_ko": "\uc774 \uc790\uae08\uc740 70MW \ucea0\ud37c\uc2a4\uc758 fit-out\uacfc \uc6b4\uc601\uc744 \uc9c0\uc6d0\ud558\ub294 \ub370 \uc0ac\uc6a9\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "9e048c4b5f13e6989ad06c5987712dc65c09c5fe": {
+    "headline_ko": "\ub274\uba55\uc2dc\ucf54 Project Jupiter data center \ucea0\ud37c\uc2a4, \uccab \uac74\ubb3c \uc0c1\ub7c9 \uc644\ub8cc",
+    "summary_ko": "\uccab \uac74\ubb3c\uc758 \uad6c\uc870 \uacf5\uc0ac\uac00 \uc644\ub8cc\ub410\uc73c\uba70, \ucd94\uac00\ub85c 3\uac1c \uac74\ubb3c\uc774 \ub0a8\uc544 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "efc9cf036d13dad7c37bf49824913ea8ed58280d": {
+    "headline_ko": "AirTrunk, \uc2dc\ub4dc\ub2c8 data center \ucea0\ud37c\uc2a4 \uc704\ud574 AU$42.5\uc5b5 \uadf8\ub9b0\ub860 \ud655\ubcf4",
+    "summary_ko": "SYD3 \uc0ac\uc774\ud2b8\uc758 \ud604\uc7ac \ud655\uc7a5 \ub2e8\uacc4\ub294 2028\ub144 \uac00\ub3d9 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "5a77ad5721a0ede215ea8a6731cccf3fd5c21cbb": {
+    "headline_ko": "\uc554\ud638\ud654\ud3d0 \uac70\ub798\uc18c Binance, \ub2e4\uc74c \ub2ec Bitcoin mining pool \ud3d0\uc1c4",
+    "summary_ko": "Binance\ub294 \uace0\uac1d\ub4e4\uc5d0\uac8c mining capacity\ub97c \ub2e4\ub978 \uacf3\uc5d0\uc11c pooling\ud558\ub77c\uace0 \uc548\ub0b4\ud588\ub2e4.",
+    "tags_ko": [
+      "Capacity"
+    ]
+  },
+  "d5a980bcf8fb98801894d30933ed6c2274ba20e1": {
+    "headline_ko": "Hyperscale AI \ud655\uc7a5 \uc774\uba74\uc758 \uc804\ub825 \uacfc\uc81c",
+    "summary_ko": "\ubc1c\ud45c\ub418\ub294 \uc2e0\uaddc AI data center \ud504\ub85c\uc81d\ud2b8 \uc218\ub294 \uc9c0\uc5ed \ubc18\ub300\ub85c \uc9c0\uc5f0\ub418\ub294 \ud504\ub85c\uc81d\ud2b8 \uc218\ub97c \uacc4\uc18d \ud06c\uac8c \uc6c3\ub3cc\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "\uc804\ub825",
+      "Colocation"
+    ]
   }
 }
