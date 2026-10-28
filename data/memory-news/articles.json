@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-10-27T02:02:28.847264+00:00",
+  "generated_at": "2026-10-28T02:12:12.015729+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "c725f0c4d72f",
+      "headline": "Part 1. The Evolution of AI and AI Chips \u2013 and the HBM That Powers Them",
+      "summary": "As AI becomes capable of understanding long documents, answering complex questions, and performing multiple tasks, the demands on the semiconductors behind...",
+      "url": "https://news.samsungsemiconductor.com/global/part-1-the-evolution-of-ai-and-ai-chips-and-the-hbm-that-powers-them/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "tags": [
+        "HBM"
+      ],
+      "headline_ko": "Part 1. AI\uc640 AI \uce69\uc758 \uc9c4\ud654 \u2013 \uadf8\ub9ac\uace0 \uc774\ub97c \ub4b7\ubc1b\uce68\ud558\ub294 HBM",
+      "summary_ko": "AI\uac00 \uae34 \ubb38\uc11c\ub97c \uc774\ud574\ud558\uace0 \ubcf5\uc7a1\ud55c \uc9c8\ubb38\uc5d0 \ub2f5\ud558\uba70 \uc5ec\ub7ec \uc791\uc5c5\uc744 \uc218\ud589\ud560 \uc218 \uc788\uac8c \ub418\uba74\uc11c, \uadf8 \uc774\uba74\uc758 \ubc18\ub3c4\uccb4\uc5d0 \ub300\ud55c \uc694\uad6c\ub3c4...",
+      "tags_ko": [
+        "HBM"
+      ]
+    },
     {
       "id": "41de9ef906d9",
       "headline": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
@@ -1310,23 +1327,6 @@
       ]
     },
     {
-      "id": "89ce18eb3ec0",
-      "headline": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
-      "summary": "Samsung introduces industry-first concept models of zHBM and zNAND-O,highlighting leadership in next-generation memory architecture for HPC and AI...",
-      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/?utm_source=rss&utm_medium=direct",
-      "source": "Samsung Semiconductor",
-      "source_id": "samsung_semiconductor",
-      "published_at": "2026-08-05T04:30:00+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "\uc0bc\uc131, FMS 2026\uc5d0\uc11c \ucc28\uc138\ub300 3D \uba54\ubaa8\ub9ac \ube44\uc804 \uacf5\uac1c, AI \uc778\ud504\ub77c\uc758 \ubbf8\ub798 \uc81c\uc2dc",
-      "summary_ko": "\uc0bc\uc131\uc740 \uc5c5\uacc4 \ucd5c\ucd08\uc758 zHBM \ubc0f zNAND-O \uac1c\ub150 \ubaa8\ub378\uc744 \uc18c\uac1c\ud558\uba70, HPC \ubc0f AI\ub97c \uc704\ud55c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc5d0\uc11c\uc758 \ub9ac\ub354\uc2ed\uc744 \uac15\uc870\ud55c\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
       "id": "0c376d2723a9",
       "headline": "[Infographic] The Evolution of AI-Era Memory: Faster, Denser Computing",
       "summary": "Samsung Electronics Showcases Its Vision for Next-Generation 3D Memory at FMS 2026 AI is rapidly advancing from generative AI that simply answers questions...",
@@ -1339,6 +1339,23 @@
       ],
       "headline_ko": "[\uc778\ud3ec\uadf8\ub798\ud53d] AI \uc2dc\ub300 \uba54\ubaa8\ub9ac\uc758 \uc9c4\ud654: \ub354 \ube60\ub974\uace0, \ub354 \uace0\ubc00\ub3c4 \ucef4\ud4e8\ud305",
       "summary_ko": "\uc0bc\uc131\uc804\uc790\ub294 FMS 2026\uc5d0\uc11c \ucc28\uc138\ub300 3D \uba54\ubaa8\ub9ac\uc5d0 \ub300\ud55c \ube44\uc804\uc744 \uc120\ubcf4\uc774\uba70, AI\ub294 \ub2e8\uc21c\ud788 \uc9c8\ubb38\uc5d0 \ub2f5\ud558\ub294 \uc0dd\uc131\ud615 AI\uc5d0\uc11c \ube60\ub974\uac8c \uc9c4\ud654\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "89ce18eb3ec0",
+      "headline": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
+      "summary": "Samsung introduces industry-first concept models of zHBM and zNAND-O,highlighting leadership in next-generation memory architecture for HPC and AI...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-08-05T04:30:00+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131, FMS 2026\uc5d0\uc11c \ucc28\uc138\ub300 3D \uba54\ubaa8\ub9ac \ube44\uc804 \uacf5\uac1c, AI \uc778\ud504\ub77c\uc758 \ubbf8\ub798 \uc81c\uc2dc",
+      "summary_ko": "\uc0bc\uc131\uc740 \uc5c5\uacc4 \ucd5c\ucd08\uc758 zHBM \ubc0f zNAND-O \uac1c\ub150 \ubaa8\ub378\uc744 \uc18c\uac1c\ud558\uba70, HPC \ubc0f AI\ub97c \uc704\ud55c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc5d0\uc11c\uc758 \ub9ac\ub354\uc2ed\uc744 \uac15\uc870\ud55c\ub2e4.",
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
@@ -1460,31 +1477,14 @@
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "1de1cfcf209c",
-      "headline": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
-      "summary": "\u25aa SK Group and NVIDIA expand strategic collaboration with a $500 billion plus initiative spanning AI factories and next-generation memory.",
-      "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-07-25T04:39:50+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\uadf8\ub8f9\uacfc NVIDIA, AI \uacf5\uc7a5 \ubc0f \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uad00\ub828 \uc804\ub7b5\uc801 \ud30c\ud2b8\ub108\uc2ed \ud655\ub300",
-      "summary_ko": "SK\uadf8\ub8f9\uacfc NVIDIA\uac00 5000\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uaddc\ubaa8\ub85c AI \uacf5\uc7a5\uacfc \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac\ub97c \ud3ec\ud568\ud55c \uc804\ub7b5\uc801 \ud611\ub825\uc744 \ud655\ub300\ud55c\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-27T02:02:28.921790+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-10-28T02:12:14.173490+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
