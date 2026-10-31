@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-10-30T02:34:20.702644+00:00",
+  "generated_at": "2026-10-31T02:19:40.010136+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "680952df40a8",
+      "headline": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
+      "summary": "As advances in AI technology drive rapid growth in memory demand, global collaboration is becoming increasingly important to securing stable supply chains.",
+      "url": "https://news.skhynix.com/en/2026-partners-day-japan/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-10-30T04:50:32+00:00",
+      "tags": [
+        "Memory",
+        "Capacity"
+      ],
+      "headline_ko": "SK hynix, \uc77c\ubcf8\uc5d0\uc11c \uccab \ud30c\ud2b8\ub108\uc2a4 \ub370\uc774 \uac1c\ucd5c\u2026 \uc8fc\uc694 \ud604\uc9c0 \ud30c\ud2b8\ub108\uc640 \uc0ac\uc5c5 \ubc29\ud5a5 \uacf5\uc720",
+      "summary_ko": "AI \uae30\uc220 \ubc1c\uc804\uc73c\ub85c \uba54\ubaa8\ub9ac \uc218\uc694\uac00 \ube60\ub974\uac8c \uc99d\uac00\ud558\ub294 \uac00\uc6b4\ub370, \uc548\uc815\uc801\uc778 \uacf5\uae09\ub9dd \ud655\ubcf4\ub97c \uc704\ud55c \uae00\ub85c\ubc8c \ud611\ub825\uc774 \ub354\uc6b1 \uc911\uc694\ud574\uc9c0\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uc0dd\uc0b0\ub2a5\ub825"
+      ]
+    },
     {
       "id": "65e89e3514f0",
       "headline": "Part 2. zHBM: Next-Generation Memory for the Data Movement Era",
@@ -1458,31 +1477,14 @@
         "SSD",
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "9e1def513777",
-      "headline": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at \u2018FMS 2026\u2019",
-      "summary": "\u25b2 Rendering of SK hynix\u2019s exhibition booth at FMS 2026.",
-      "url": "https://news.skhynix.com/en/hbf-at-fms-2026-02/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-03T23:30:45+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, \uc0cc\ub514\uc2a4\ud06c\uc640 \ud568\uaed8 \uccab HBF \ud45c\uc900 \uaddc\uaca9 \uacf5\uac1c, 'FMS 2026'\uc5d0\uc11c AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uc120\ubcf4\uc5ec",
-      "summary_ko": "\u25b2 SK\ud558\uc774\ub2c9\uc2a4\uc758 FMS 2026 \uc804\uc2dc \ubd80\uc2a4 \ub80c\ub354\ub9c1.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-10-30T02:34:27.099326+00:00",
-    "cached": 78,
-    "translated": 2,
+    "generated_at": "2026-10-31T02:19:42.304825+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
