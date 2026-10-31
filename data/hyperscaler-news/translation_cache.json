@@ -10597,5 +10597,114 @@
       "AI infrastructure",
       "Capex"
     ]
+  },
+  "28b7ee2ddbd015f0828d02385804514141f54ab5": {
+    "headline_ko": "7x24: AI \ud504\ub7f0\ud2f0\uc5b4 \ubbf8\ub798\ud559\uc790, data center OG\uc640 \ub9cc\ub098\ub2e4",
+    "summary_ko": "7x24: AI \ud504\ub7f0\ud2f0\uc5b4 \ubbf8\ub798\ud559\uc790\uac00 data center OG\ub97c \ub9cc\ub09c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "bd36522de7d64ce7e554d4d1bfc198b880993f72": {
+    "headline_ko": "\uc131\uc7a5 \ub3d9\ub825 \ud655\ubcf4: \uc720\ud2f8\ub9ac\ud2f0\uc640 data center, AI \uc804\ub825 \uacfc\uc81c \ub300\uc751 \ubc29\uc2dd",
+    "summary_ko": "\uc720\ud2f8\ub9ac\ud2f0\uc640 data center\uac00 AI \uc804\ub825 \uacfc\uc81c\ub97c \uc5b4\ub5bb\uac8c \ud5e4\uccd0\ub098\uac00\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "d5fead7b513d2b8888b9105ccd1442c720977835": {
+    "headline_ko": "\uc2a4\ucf54\ud2c0\ub79c\ub4dc \uc790\ub3d9\ucc28 \uae30\uc5c5, \uae00\ub798\uc2a4\uace0 data center \uac80\ud1a0",
+    "summary_ko": "\ud55c \ud604\uc9c0 \uc790\ub3d9\ucc28 \uae30\uc5c5\uc774 Cowlairs Park \uc778\uadfc \ud504\ub85c\uc81d\ud2b8\uc640 \uad00\ub828\ud574 \uc9c0\uc5ed \uc758\ud68c\uc758 \uc758\uacac\uc744 \ud0c0\uc9c4\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "cd8293103d0db5a32012df14d346c772494cf738": {
+    "headline_ko": "\uadf8\ub9ac\ub4dc \ub108\uba38",
+    "summary_ko": "\uc544\uba54\ub9ac\uce74 \uc9c0\uc5ed\uc5d0\uc11c AI\ub97c \uc704\ud55c \uc804\ub825 \uc2dc\uc2a4\ud15c\uc744 \uad6c\ucd95\ud55c\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "a867dc75a5866ffb0ffff3d352c7c4a38cc6953d": {
+    "headline_ko": "\ubaa8\ub4c8\ud615 data center \uc81c\uacf5\uc5c5\uccb4 DXN, neocloud \uace0\uac1d \uacc4\uc57d \ud574\uc9c0",
+    "summary_ko": "\uace0\uac1d\uc774 \uc0ac\uc5c5 \ubc29\ud5a5 \ubcc0\uacbd\uc73c\ub85c \uacc4\uc57d\uc744 \ucde8\uc18c\ud588\uc9c0\ub9cc, DXN\uc740 \uc644\ub8cc\ub41c \uc791\uc5c5\uc5d0 \ub300\ud55c \ub300\uae08\uc740 \uc9c0\uae09\ubc1b\uc558\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "neocloud"
+    ]
+  },
+  "c32e0ac6aa05630eb787ae8da3b84093c6c43473": {
+    "headline_ko": "DayOne, Sembcorp\uc640 MoU \uccb4\uacb0\u2026 APAC data center \uc804\ubc18\uc5d0 \uc804\ub825\u00b7\uc5d0\ub108\uc9c0 \uc194\ub8e8\uc158 \ud1b5\ud569",
+    "summary_ko": "\uc774\ub294 \ud68c\uc0ac\uc758 Bring Your Own Power \uc774\ub2c8\uc154\ud2f0\ube0c\uc758 \uc77c\ud658\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "68ad13e840902a58b9e10da22a540681b00234d8": {
+    "headline_ko": "Virgin Media O2, BT \uad11\ub300\uc5ed \ub124\ud2b8\uc6cc\ud06c \uc0ac\uc6a9 \ud569\uc758 \uc784\ubc15 - \ubcf4\ub3c4",
+    "summary_ko": "FT\ub294 Virgin Media O2\uac00 \uc790\uccb4 fiber \uc778\ud504\ub77c \uad6c\ucd95\uc744 \uc77c\uc2dc \uc911\ub2e8\ud560 \uc218 \uc788\ub2e4\uace0 \ubcf4\ub3c4\ud588\ub2e4.",
+    "tags_ko": []
+  },
+  "3b90cf91166c18daaee1c0898ece6c5e3109df8f": {
+    "headline_ko": "Sabey DC, \ud14d\uc0ac\uc2a4 \uc624\uc2a4\ud2f4 data center\uc5d0\uc11c \ub514\uc824 \ub300\uccb4\uc6a9 HVO \uc5f0\ub8cc \uc2dc\ubc94 \uc6b4\uc601 \uc608\uc815",
+    "summary_ko": "\uc131\uacf5\ud560 \uacbd\uc6b0 \ud68c\uc0ac\ub294 \ucd94\uac00 \uc0ac\uc774\ud2b8\ub85c \ud655\ub300\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "cc3f9c82653fc3cfc87368638e4d1375669f2ebe": {
+    "headline_ko": "\ubbf8\uad6d data center \ubc18\ub300\uc758 \ubd84\ub958: \uc815\uce58, \uc798\ubabb\ub41c \uc815\ubcf4, \uc74c\ubaa8\ub860",
+    "summary_ko": "\uc5c5\uacc4\ub294 \uc18c\uc15c \ubbf8\ub514\uc5b4\ub97c \ud1b5\ud574 \ud655\uc0b0\ub418\ub294 \uc804\ub840 \uc5c6\ub294 \uc798\ubabb\ub41c \uc815\ubcf4\uc758 \ubb3c\uacb0\uc5d0 \uc9c1\uba74\ud574 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "379b6ce84bb34a785d161f4b53a12014bc711350": {
+    "headline_ko": "Synergy: 3\ubd84\uae30 \uc5d4\ud130\ud504\ub77c\uc774\uc988 cloud infrastructure \uc9c0\ucd9c, \uc804\ub144 \ub300\ube44 55% \uae09\uc99d",
+    "summary_ko": "12\ubd84\uae30 \uc5f0\uc18d \uc131\uc7a5\uc138\ub97c \uc774\uc5b4\uac14\ub2e4.",
+    "tags_ko": [
+      "Capex"
+    ]
+  },
+  "68424341bad53b0c2df7196f34e063bad1862d82": {
+    "headline_ko": "PowerBank, \uce90\ub098\ub2e4 \uc628\ud0c0\ub9ac\uc624\uc5d0 2MW \ubaa8\ub4c8\ud615 data center \uacc4\ud68d",
+    "summary_ko": "AI \ud074\ub77c\uc6b0\ub4dc \ud30c\ud2b8\ub108\uc640 \uccab \ub9ac\uc2a4 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "5792fa7e0a1047ba0ccab21cb80a52533cbb955e": {
+    "headline_ko": "Google, \ud540\ub780\ub4dc Hamina\uc5d0 56\ud5e5\ud0c0\ub974 \ub9e4\uc785\u2026Muhos \ubc8c\ubaa9 \ubb38\uc81c \uc9c0\uc18d",
+    "summary_ko": "\ud540\ub780\ub4dc \uae30\uc5c5 Tekova\ub294 Perho\uc5d0 50MW data center\ub97c \uacc4\ud68d \uc911\uc774\uba70, SRV\ub294 Eura\uc758 40MW \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \ucca0\uc218\ud55c\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "data center"
+    ]
+  },
+  "b54ac91e1b60282038aac6b1638a5772f26844d5": {
+    "headline_ko": "\ub124\ud2b8\uc6cc\ud06c \uc7a5\ubcbd: AI data center\uc6a9 switch\uac00 \ucda9\ubd84\ud788 \ube60\ub974\uac8c \ud655\uc7a5\ub418\uc9c0 \ubabb\ud558\ub294 \uc774\uc720",
+    "summary_ko": "\ud655\uc7a5\uc5d0 \uc2e4\ud328\ud560 \uacbd\uc6b0 data center \uc6b4\uc601\uc790\ub4e4\uc774 \ud0c0\uaca9\uc744 \ubc1b\uc744 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "26ef45bfc23f5082be6dcb98d2319c634b5fb5d8": {
+    "headline_ko": "CAISO, California power grid \uc5f0\uacb0\uc744 \uc6d0\ud558\ub294 \ub300\uaddc\ubaa8 \ubd80\ud558 \uc704\ud55c \uc0c8 \uaddc\uce59 \uc81c\uc548",
+    "summary_ko": "CAISO\ub294 \uc774\uc81c FERC\uc5d0 \uc81c\uc548\uc11c\ub97c \uc81c\ucd9c\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "b73d980905920556d22477823a56c777955e4f00": {
+    "headline_ko": "DayOne, Blue Whale Energy\uc640 \uc2f1\uac00\ud3ec\ub974 \ubd84\uc0b0\ud615 \uac00\uc0c1\ubc1c\uc804\uc18c \ud0c0\ub2f9\uc131 \uac80\ud1a0 MoU \uccb4\uacb0",
+    "summary_ko": "\uc774\ub294 DayOne\uc758 SG1 data center\ub97c \uc9c0\uc6d0\ud558\uac8c \ub420 \uc804\ub9dd\uc774\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
   }
 }
