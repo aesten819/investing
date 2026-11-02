@@ -10714,5 +10714,20 @@
       "Data Center",
       "\uc804\ub825"
     ]
+  },
+  "74e256f09f9b9eace04337628df4bfc8ac314769": {
+    "headline_ko": "1,000\ubc30 \ub354 \uc548\uc815\uc801\uc778 \uc591\uc790 \uc5f0\uc0b0\uc740 \ubb34\uc5c7\uc744 \uac00\ub2a5\ud558\uac8c \ud560\uae4c?",
+    "summary_ko": "\ub354 \ub113\uc740 data center ecosystem\uc758 \uc694\uc18c\ub85c \uc591\uc790 \ucef4\ud4e8\ud305\uc744 \uc0dd\uac01\ud558\uae30 \uc2dc\uc791\ud574\uc57c \ud558\ub294 \uc774\uc720\ub97c \ub2e4\ub8ec\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "b90c5aafa2f1bb95a96d9ae4900693296238acf5": {
+    "headline_ko": "\uc804\ub825\ub9dd\uc744 \ub118\uc5b4: data center \ud638\ud669\uc744 \uc704\ud611\ud558\ub294 \uc720\uc9c0\ubcf4\uc218 \uacfc\uc81c",
+    "summary_ko": "\uac74\ubb3c \uc720\uc9c0\ubcf4\uc218\uc5d0 \ub354 \ub9ce\uc740 \uad00\uc2ec\uc774 \ud544\uc694\ud558\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
   }
 }
