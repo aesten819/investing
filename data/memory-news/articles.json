@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-06T03:24:25.836674+00:00",
+  "generated_at": "2026-11-07T02:46:03.355938+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "5f198ec28a51",
+      "headline": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7\u20139% in 2027, Says TrendForce",
+      "summary": "TrendForce's latest memory industry research indicates that the sustained rise in mobile DRAM contract prices is driving smartphone brands to increasingly embrace lower-cost rebal...",
+      "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-11-06T05:45:07+00:00",
+      "tags": [
+        "DRAM",
+        "Memory",
+        "Pricing"
+      ],
+      "headline_ko": "TrendForce, DRAM \uac00\uaca9 \uace0\uacf5\ud589\uc9c4\uc5d0 \ub9ac\ubcfc\ub4dc \uba54\ubaa8\ub9ac \ucc44\ud0dd \ud655\ub300\u20262027\ub144 \uc2a4\ub9c8\ud2b8\ud3f0 \uce68\ud22c\uc728 7~9% \uc804\ub9dd",
+      "summary_ko": "TrendForce\uc758 \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 \ubaa8\ubc14\uc77c DRAM contract price\uc758 \uc9c0\uc18d\uc801\uc778 \uc0c1\uc2b9\uc73c\ub85c \uc2a4\ub9c8\ud2b8\ud3f0 \ube0c\ub79c\ub4dc\ub4e4\uc774 \uc800\ube44\uc6a9 \ub9ac\ubcfc\ub4dc \uba54\ubaa8\ub9ac \ucc44\ud0dd\uc744 \ub298\ub9ac\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "DRAM",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9"
+      ]
+    },
     {
       "id": "680952df40a8",
       "headline": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
@@ -1456,35 +1477,14 @@
         "\uba54\ubaa8\ub9ac",
         "\uacf5\uae09"
       ]
-    },
-    {
-      "id": "ddf4d0a7d9f8",
-      "headline": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at \u2018FMS 2026\u2019",
-      "summary": "\u25b2 SK hynix announced on August 4 that it has unveiled the first standard specification for High Bandwidth Flash (HBF), a next-generation storage technology, in collaboration with...",
-      "url": "https://news.skhynix.com/en/hbf-at-fms-2026-01/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-03T23:30:50+00:00",
-      "tags": [
-        "NAND",
-        "SSD",
-        "Memory"
-      ],
-      "headline_ko": "SK\ud558\uc774\ub2c9\uc2a4, Sandisk\uc640 \ud568\uaed8 \uccab HBF \ud45c\uc900 \uaddc\uaca9 \uacf5\uac1c\u2026\u2018FMS 2026\u2019\uc5d0\uc11c AI \uba54\ubaa8\ub9ac \uc194\ub8e8\uc158 \uc120\ubcf4\uc5ec",
-      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 8\uc6d4 4\uc77c \ucc28\uc138\ub300 \uc2a4\ud1a0\ub9ac\uc9c0 \uae30\uc220\uc778 High Bandwidth Flash(HBF)\uc758 \uccab \ud45c\uc900 \uaddc\uaca9\uc744 \uacf5\uac1c\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
-      "tags_ko": [
-        "NAND",
-        "SSD",
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-06T03:24:25.913172+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-11-07T02:46:07.245934+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
