@@ -11149,5 +11149,137 @@
       "Data Center",
       "Power"
     ]
+  },
+  "cb42ad596de49202ad289437bc2af7ba34076bf8": {
+    "headline_ko": "North Yorkshire\uc758 Drax Power Station\uc5d0\uc11c Drax, Brookfield, Radiant, Qai\uac00 \ucd5c\ub300 1 GW\ub97c \ub118\uc744 \uc218 \uc788\ub294 \ub2e8\uacc4\uc801 AI data center \uac1c\ubc1c\uc744 \ucd94\uc9c4 \uc911\uc774\ub2e4. \ucd08\uae30 100 MW \ub2e8\uacc4\ub294 \uc2b9\uc778\uacfc \uc0c1\uc5c5\uc801 \uc57d\uc815\uc744 \uc870\uac74\uc73c\ub85c 2028\ub144\uc744 \ubaa9\ud45c\ub85c \ud55c\ub2e4. (\uc0ac\uc9c4: Drax Group)",
+    "summary_ko": "North Yorkshire\uc758 Drax Power Station\uc5d0\uc11c Drax, Brookfield, Radiant, Qai\uac00 \ucd5c\ub300 1 GW\ub97c \ub118\uc744 \uc218 \uc788\ub294 \ub2e8\uacc4\uc801 AI data center \uac1c\ubc1c\uc744 \ucd94\uc9c4 \uc911\uc774\uba70, \ucd08\uae30 100 MW \ub2e8\uacc4\ub294 \uc2b9\uc778\uacfc \uc0c1\uc5c5\uc801 \uc57d\uc815\uc744 \uc870\uac74\uc73c\ub85c 2028\ub144\uc744 \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "f1a29146e6b50dd60255b6d57d7b51f6fba0281d": {
+    "headline_ko": "SpaceXAI, \uc560\ub9ac\uc870\ub098\uc5d0 data center \uacc4\ud68d\u2026 \uba38\uc2a4\ud06c \ud68c\uc0ac\ub294 6GW capacity \uc8fc\uc7a5",
+    "summary_ko": "\uac74\uc124 \uacf5\uc0ac\ub294 2027\ub144 3\uc6d4\uc5d0 \uc2dc\uc791\ub420 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "capacity"
+    ]
+  },
+  "b7b51fefd10412e6d063c126443a912604d13dfb": {
+    "headline_ko": "\uad11\ud559 AI, data center \ucd94\ub860 \uc804\ub825 \uc0ac\uc6a9 \uc904\uc77c \uc218 \uc788\ub098?",
+    "summary_ko": "Lumai\ub294 \uc601\uad6d \uc2e4\ud5d8\uc2e4\uc5d0\uc11c \uad11\ud559 AI \uc11c\ubc84\ub97c \ud14c\uc2a4\ud2b8\ud558\uba70, \ucd94\ub860 prefill\uc744 GPU\uc5d0\uc11c \ubd84\ub9ac\ud558\ub294 \uac83\uc774 data center \uc804\ub825 \uc81c\uc57d\uc744 \uc644\ud654\ud560 \uc218 \uc788\ub294\uc9c0 \ud655\uc778\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "af4de33b0a340863523c7da00f0fa360247e1ebc": {
+    "headline_ko": "\uc720\ub7fd \uc804\uc5ed\uc5d0\uc11c \uc774\ud2c0\uac04 data center \ubc18\ub300 \uc2dc\uc704 \uc608\uc815",
+    "summary_ko": "Stop Dirty Data Centres\uc758 'days of action'\uc740 \ubbf8\uad6d\uc758 data center \ubc18\ub300 \uc911\uac04\uc120\uac70\uc5d0 \ub4a4\uc774\uc5b4 \uc5f4\ub9b0\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "a4b19ab298ae1e4d9f20f418125f24a04ed846a1": {
+    "headline_ko": "ING Bank, Stargate \ubd80\uc9c0 \ud3ec\ud568 data center \ub300\ucd9c 5\uc5b5 \ub2ec\ub7ec \uc77c\uad04 \ub9e4\uac01 \ucd94\uc9c4",
+    "summary_ko": "\ubd88\uc548\uc815\ud55c \uc2dc\uc7a5\uc5d0\uc11c \ud22c\uc790\uc790\ub4e4\uc758 \ubd88\uc548\uc744 \ub354\uc6b1 \ud0a4\uc6b0\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "72cda390f108faaf78e662a2dae87d72f15cf029": {
+    "headline_ko": "\uc544\uc77c\ub79c\ub4dc data center\ub294 \uc65c \uc5d0\ub108\uc9c0 \ud68c\ubcf5\ud0c4\ub825\uc131\uc5d0 \uc0c8\ub85c\uc6b4 \uc811\uadfc\uc774 \ud544\uc694\ud560\uae4c",
+    "summary_ko": "\uc544\uc77c\ub79c\ub4dc data center\uc758 \uc5d0\ub108\uc9c0 \ud68c\ubcf5\ud0c4\ub825\uc131\uc5d0 \uc0c8\ub85c\uc6b4 \uc811\uadfc\uc774 \ud544\uc694\ud55c \uc774\uc720\uc640 \ubcf5\uad6c\uac00 \ud574\uacb0\ud574\uc57c \ud560 \ud575\uc2ec \uacfc\uc81c\uc778 \uc774\uc720\ub97c \uc124\uba85\ud55c\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "e00cc44fc2b18983f68b87817d288f4c9ba86959": {
+    "headline_ko": "\uc554\uc2a4\ud14c\ub974\ub2f4 Microsoft data center \uac74\uc124 \ud604\uc7a5\uc5d0 100\uba85 \ub118\ub294 \uc2dc\uc704\ub300 \uce68\uc785",
+    "summary_ko": "\uc2dc\uc704\ub300\ub294 \ubb3c \uc0ac\uc6a9\uacfc AI, \uc774\uc2a4\ub77c\uc5d8\uacfc\uc758 \uc5f0\uacc4\uc5d0 \ud56d\uc758\ud588\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "6d4e121cd0a68e332f7835017713c65054e10e8d": {
+    "headline_ko": "NASK, \ud3f4\ub780\ub4dc \uad6d\uac00 \ub370\uc774\ud130 \ucc98\ub9ac \uc13c\ud130 \uacc4\ud68d \uad6c\uccb4\ud654",
+    "summary_ko": "\uc774 \uc5f0\uad6c\uac1c\ubc1c \uae30\uad00\uc740 \uc2dc\uc124 1\ub2e8\uacc4\uc5d0 \ucd5c\ub300 15MW\uc758 \uc804\ub825\uc774 \ud544\uc694\ud560 \uac83\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "14794be86a723ef22d3d60ba746382e2fc01ba73": {
+    "headline_ko": "DTE Energy, data center \uc218\uc694 \uc5b8\uae09\ud558\uba70 5\uac1c\ub144 \uc720\ud2f8\ub9ac\ud2f0 \ud22c\uc790 \uacc4\ud68d 440\uc5b5 \ub2ec\ub7ec\ub85c \ud655\ub300",
+    "summary_ko": "\uc774\ub294 \uc57d 100\uc5b5 \ub2ec\ub7ec\uac00 \uc99d\uac00\ud55c \uaddc\ubaa8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capex",
+      "\uc804\ub825"
+    ]
+  },
+  "0eaa0ba35b35ab9c36a4a3dab0877c4474fd3492": {
+    "headline_ko": "NTT Data, Bloom Energy\uc640 900MW \uc5f0\ub8cc\uc804\uc9c0 \uacf5\uae09 \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "\uccab \ubc30\uc1a1\uc740 \ub0b4\ub144\uc73c\ub85c \uc608\uc0c1\ub41c\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "42d21002c2105fa7daf79fc7e5acf97731888dd2": {
+    "headline_ko": "Google, \uc640\uc774\uc624\ubc0d\uc8fc Cheyenne\uc5d0 170\uc5b5 \ub2ec\ub7ec data center campus \ubc1c\ud45c",
+    "summary_ko": "fuel cells\uc640 gas generation\uc5d0 CCS\ub97c \uacb0\ud569\ud574 \uc804\ub825\uc744 \uacf5\uae09\ubc1b\uc744 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "Data Center"
+    ]
+  },
+  "cf124f775a379e378992791a88b71c5cda9ca558": {
+    "headline_ko": "Playmobil \uc18c\uc720\uc8fc, \ub3c5\uc77c Dietenhofen \uc2e0\uaddc \uc2dc\uc124\ub85c data center \uc2dc\uc7a5 \uc9c4\ucd9c",
+    "summary_ko": "\uc81c\uc548\ub41c \uc2dc\uc124\uc740 \ucd5c\ub300 100MW\uc758 \uc804\ub825 \uc694\uad6c\ub7c9\uc744 \uac16\ucd9c \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "9b80f5c956a27c93963d086cdc9ee4f82f0b5493": {
+    "headline_ko": "Secure I.T. Environments, \uc6e8\uc77c\uc2a4 \ubcd1\uc6d0\uc5d0 \ubaa8\ub4c8\ud615 data center \uacf5\uae09 \uc608\uc815",
+    "summary_ko": "Secure I.T. Environments\uac00 \uc6e8\uc77c\uc2a4\uc758 Bagnor \ubc0f Wrexham Maelor \ubcd1\uc6d0\uc5d0 \ubaa8\ub4c8\ud615 data center\ub97c \uacf5\uae09\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "2bc20a3c4d55d17d518ad9f1ecc3838c10455fa3": {
+    "headline_ko": "Microsoft \uc124\uacc4 \ubcc0\uacbd\uc73c\ub85c Iren\uc758 \ud14d\uc0ac\uc2a4 data center \uc778\ub3c4 \uc9c0\uc5f0",
+    "summary_ko": "ARR 40\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\ub85c, \ud604\uc7ac 1\uc6d4 \uc628\ub77c\uc778 \uac1c\uc2dc\ub97c \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "Data Center"
+    ]
+  },
+  "ee979cddce2577107f193ce633d9b55ccf5277ad": {
+    "headline_ko": "Nokia: 2035\ub144\uae4c\uc9c0 AI\uac00 \uc804\uccb4 \ub124\ud2b8\uc6cc\ud06c \ud2b8\ub798\ud53d\uc758 \uc808\ubc18 \ucc28\uc9c0\ud560 \uc804\ub9dd",
+    "summary_ko": "\ubcf4\uace0\uc11c\ub294 AI \uc5d0\uc774\uc804\ud2b8\uc640 \ud734\uba38\ub178\uc774\ub4dc \ub4f1\uc774 capacity\uc5d0 \ubbf8\uce60 \uc601\ud5a5\uc744 \uc804\ub9dd\ud588\ub2e4.",
+    "tags_ko": [
+      "Capacity"
+    ]
+  },
+  "1669e9d2bc4da2db18578ffd7322f0ee5c5cbe77": {
+    "headline_ko": "AI \uae30\ubc18 data center: \ud0c8\ud0c4\uc18c\ud654 \uc804\ub7b5\uc758 \ud601\uc2e0",
+    "summary_ko": "data center\uac00 \uae00\ub85c\ubc8c \ud0c8\ud0c4\uc18c\ud654\uc5d0 \ud544\uc218\uc801\uc778 \uc774\uc720\ub97c \uc9da\ub294\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "4766bec62a8d802cc58c60c0e2a320f6638857f0": {
+    "headline_ko": "DCD Talk: Tong Xu(CSB)\uc640 \ud568\uaed8 data center \ubc30\ud130\ub9ac \uac80\uc99d \uc7ac\uac80\ud1a0",
+    "summary_ko": "CSB\uc758 Tong Xu\uac00 DCD\uc758 Emma Strutton\uacfc \ub9c8\ucf00\ud305 \ub77c\ubca8\uacfc \uae30\uc874 runtime \uc0ac\uace0\ub97c \ub118\uc5b4 \ub3d9\uc801 \ubc30\ud130\ub9ac \uc131\ub2a5\uc758 \uc7ac\ud604 \uac00\ub2a5\ud55c \uc2e4\uc81c \ud658\uacbd \uac80\uc99d\uc73c\ub85c \ub098\uc544\uac00\uc57c \ud560 \ud544\uc694\uc131\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }
