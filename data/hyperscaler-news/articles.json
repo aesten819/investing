@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:55:01.055792+00:00",
+  "generated_at": "2026-11-08T02:33:08.998396+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -34,6 +34,99 @@
       "summary_ko": "Data Center Knowledge\uac00 \uc804\ud55c Data Center World Middle East \uad00\ub828 \uce74\ub4dc\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "data center"
+      ]
+    },
+    {
+      "id": "4b6567616a21",
+      "headline": "How Project Jupiter\u2019s Self-Supplied Power Plan Can Benefit New Mexico Utility Customers",
+      "summary": "How Project Jupiter\u2019s Self-Supplied Power Plan Can Benefit New Mexico Utility Customers",
+      "url": "https://www.oracle.com/news/announcement/blog/how-project-jupiters-self-supplied-power-plan-can-benefit-new-mexico-utility-customers-2026-10-22/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-08T02:33:03.579695+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Project Jupiter\uc758 \uc790\uccb4 \uc804\ub825 \uacf5\uae09 \uacc4\ud68d\uc774 \ub274\uba55\uc2dc\ucf54 \uc720\ud2f8\ub9ac\ud2f0 \uace0\uac1d\uc5d0\uac8c \ub3c4\uc6c0\uc774 \ub420 \uc218 \uc788\ub294 \ubc29\ubc95",
+      "summary_ko": "Project Jupiter\uc758 \uc790\uccb4 \uc804\ub825 \uacf5\uae09 \uacc4\ud68d\uc774 \ub274\uba55\uc2dc\ucf54 \uc720\ud2f8\ub9ac\ud2f0 \uace0\uac1d\uc5d0\uac8c \uc5b4\ub5a4 \uc774\uc810\uc744 \uc904 \uc218 \uc788\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "dd1528bc6a8f",
+      "headline": "Oracle Commits $100,000 for Abilene Educators and Expands Data Center Career Pathways",
+      "summary": "Oracle Commits $100,000 for Abilene Educators and Expands Data Center Career Pathways",
+      "url": "https://www.oracle.com/news/announcement/oracle-supports-abilene-educators-and-expands-data-center-career-pathways-2026-09-17/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-08T02:33:03.579695+00:00",
+      "tags": [
+        "Oracle",
+        "Data Center"
+      ],
+      "headline_ko": "Oracle, Abilene \uad50\uc721\uc790 \uc9c0\uc6d0\uc5d0 10\ub9cc \ub2ec\ub7ec \uc57d\uc815\ud558\uace0 data center \ucee4\ub9ac\uc5b4 \uacbd\ub85c \ud655\ub300",
+      "summary_ko": "Oracle\uc774 Abilene \uad50\uc721\uc790\ub4e4\uc744 \uc704\ud574 10\ub9cc \ub2ec\ub7ec\ub97c \uc9c0\uc6d0\ud558\uace0 data center \ucee4\ub9ac\uc5b4 \uacbd\ub85c\ub97c \ud655\ub300\ud55c\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "9a6c4e4cbd3c",
+      "headline": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "summary": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "url": "https://www.oracle.com/news/announcement/oracle-issues-rfp-for-2gw-of-renewable-energy-2026-09-08/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-08T02:33:03.579695+00:00",
+      "tags": [
+        "Oracle",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Oracle, \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0 RFP \ubc1c\ud589",
+      "summary_ko": "Oracle\uc774 \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0\uc5d0 \ub300\ud55c RFP\ub97c \ubc1c\ud589\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Capacity",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "bdb95147cdf2",
+      "headline": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "summary": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "url": "https://www.oracle.com/news/announcement/oracle-and-bloom-energy-announce-support-for-roadrunner-food-bank-2026-09-03/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-08T02:33:03.579695+00:00",
+      "tags": [
+        "Oracle",
+        "Power"
+      ],
+      "headline_ko": "Oracle\uc640 Bloom Energy, Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0 \ubc1c\ud45c\u2026 Santa Teresa\uc640 Sunland Park \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300",
+      "summary_ko": "Oracle\uc640 Bloom Energy\uac00 Santa Teresa\uc640 Sunland Park\uc758 \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300\ub97c \uc704\ud574 Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0\uc744 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "2df5773f1ef8",
+      "headline": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "summary": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "url": "https://www.oracle.com/news/announcement/blog/the-work-came-home-2026-09-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-08T02:33:03.579695+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "\uc77c\uac10\uc774 \uace0\ud5a5\uc73c\ub85c \ub3cc\uc544\uc624\ub2e4: \uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \ub3d5\ub294 \ubc29\ubc95",
+      "summary_ko": "\uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \uc5b4\ub5bb\uac8c \uc9c0\uc6d0\ud558\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure"
       ]
     },
     {
@@ -2836,105 +2929,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "65bf2f38b612",
-      "headline": "Ecoblox partners with Rimac on modular data center solution",
-      "summary": "First deployment slated for Rimac's campus in Kerestinec, Croatia",
-      "url": "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-26T17:30:24+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Ecoblox, Rimac\uacfc \ubaa8\ub4c8\ud615 data center \uc194\ub8e8\uc158 \ud611\ub825",
-      "summary_ko": "\uccab \uad6c\ucd95\uc740 \ud06c\ub85c\uc544\ud2f0\uc544 \ucf00\ub808\uc2a4\ud2f0\ub124\uce20\uc5d0 \uc788\ub294 Rimac \ucea0\ud37c\uc2a4\uc5d0\uc11c \uc9c4\ud589\ub420 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "data center"
-      ]
-    },
-    {
-      "id": "c11f7a7a0d8d",
-      "headline": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
-      "summary": "Facility will support electronic design automation (EDA), simulation, and offer sovereign AI cloud services",
-      "url": "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-26T17:17:15+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Data Center"
-      ],
-      "headline_ko": "Cadence, \ub3c5\uc77c \ubb8c\ud5e8\uc5d0 Nvidia \uae30\ubc18 AI data center \uacf5\uac1c",
-      "summary_ko": "\uc774 \uc2dc\uc124\uc740 EDA\uc640 \uc2dc\ubbac\ub808\uc774\uc158\uc744 \uc9c0\uc6d0\ud558\uace0 \uc18c\ubc84\ub9b0 AI cloud \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "AI Infrastructure",
-        "Data Center"
-      ]
-    },
-    {
-      "id": "7aa0e89e2e4a",
-      "headline": "Verizon signs $2bn AWS AI infrastructure deal",
-      "summary": "As carrier posts strong Q3 earnings",
-      "url": "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-26T17:10:55+00:00",
-      "tags": [
-        "AWS",
-        "AI Infrastructure"
-      ],
-      "headline_ko": "Verizon, 20\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 AWS AI infrastructure \uacc4\uc57d \uccb4\uacb0",
-      "summary_ko": "\ud1b5\uc2e0\uc0ac\uac00 \uacac\uc870\ud55c 3\ubd84\uae30 \uc2e4\uc801\uc744 \ubc1c\ud45c\ud55c \uac00\uc6b4\ub370, Verizon\uc774 20\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 AWS AI infrastructure \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\ub2e4.",
-      "tags_ko": [
-        "AWS",
-        "AI Infrastructure"
-      ]
-    },
-    {
-      "id": "fed244d44d03",
-      "headline": "Data Centers Bring Boom Times, But Will Gains Last?",
-      "summary": "Data center projects can bring major capital investment to smaller markets, but lasting economic returns depend on realistic job expectations and protection against public cost exposure.",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/data-centers-bring-boom-times-but-will-gains-last-",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-10-26T16:47:16+00:00",
-      "tags": [
-        "Data Center",
-        "Capex"
-      ],
-      "headline_ko": "Data Center, \ud638\ud669\uc744 \uac00\uc838\uc624\uc9c0\ub9cc \uc774\ub4dd\uc740 \uc9c0\uc18d\ub420\uae4c?",
-      "summary_ko": "Data center \ud504\ub85c\uc81d\ud2b8\ub294 \uc911\uc18c \uc2dc\uc7a5\uc5d0 \ub300\uaddc\ubaa8 capex\ub97c \uac00\uc838\uc62c \uc218 \uc788\uc9c0\ub9cc, \uc9c0\uc18d\uc801\uc778 \uacbd\uc81c\uc801 \uc218\uc775\uc740 \ud604\uc2e4\uc801\uc778 \uc77c\uc790\ub9ac \uae30\ub300\uc640 \uacf5\uacf5 \ube44\uc6a9 \ub178\ucd9c \ubc29\uc9c0\uc5d0 \ub2ec\ub824 \uc788\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "Capex"
-      ]
-    },
-    {
-      "id": "367e947ec2ad",
-      "headline": "Anthropic files S-1 for IPO, with $417bn in compute commitments",
-      "summary": "Data center costs spread over the next 20 years",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-10-26T16:45:52+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Anthropic, 4,170\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 \ucef4\ud4e8\ud2b8 \uc57d\uc815\uacfc \ud568\uaed8 IPO\ub97c \uc704\ud55c S-1 \uc81c\ucd9c",
-      "summary_ko": "data center \ube44\uc6a9\uc774 \ud5a5\ud6c4 20\ub144\uc5d0 \uac78\uccd0 \ubd84\uc0b0\ub41c\ub2e4.",
-      "tags_ko": [
-        "data center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-07T02:56:10.036215+00:00",
-    "cached": 143,
-    "translated": 17,
+    "generated_at": "2026-11-08T02:33:09.064670+00:00",
+    "cached": 160,
+    "translated": 0,
     "skipped": 0
   }
 }
