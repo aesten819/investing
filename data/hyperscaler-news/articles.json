@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:33:08.998396+00:00",
+  "generated_at": "2026-11-09T02:44:52.511958+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -34,6 +34,25 @@
       "summary_ko": "Data Center Knowledge\uac00 \uc804\ud55c Data Center World Middle East \uad00\ub828 \uce74\ub4dc\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "data center"
+      ]
+    },
+    {
+      "id": "73f644da9ef3",
+      "headline": "What data centers need to consider when storing produced water",
+      "summary": "A possible alternative to portable supplies",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-08T11:00:48+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "data center\uac00 \uc0dd\uc0b0\uc218(produced water)\ub97c \uc800\uc7a5\ud560 \ub54c \uace0\ub824\ud574\uc57c \ud560 \uc0ac\ud56d",
+      "summary_ko": "\uc774\ub3d9\uc2dd \uacf5\uae09\uc6d0\uc5d0 \ub300\ud55c \uac00\ub2a5\ud55c \ub300\uc548\uc774\ub2e4.",
+      "tags_ko": [
+        "data center",
+        "\uc804\ub825"
       ]
     },
     {
@@ -2912,31 +2931,14 @@
       "tags_ko": [
         "\uc804\ub825"
       ]
-    },
-    {
-      "id": "b8726cac0631",
-      "headline": "Data Center MEP Engineer",
-      "summary": "Data Center MEP Engineer",
-      "url": "https://jobs.crelate.com/portal/pkaza/job/nfdwa8q8y34xekxaiisdbrjs3e",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-10-27T02:09:27.107556+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Data Center MEP \uc5d4\uc9c0\ub2c8\uc5b4",
-      "summary_ko": "Data Center MEP \uc5d4\uc9c0\ub2c8\uc5b4\uc5d0 \uad00\ud55c \ub0b4\uc6a9\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-08T02:33:09.064670+00:00",
-    "cached": 160,
-    "translated": 0,
+    "generated_at": "2026-11-09T02:44:58.538984+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
