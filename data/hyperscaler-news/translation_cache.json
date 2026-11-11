@@ -11369,5 +11369,116 @@
     "tags_ko": [
       "Data Center"
     ]
+  },
+  "26d72c9cbe35c80a695224aee9cc16cd948f2173": {
+    "headline_ko": "Data Centre West: \uc568\ubc84\ud0c0\uc758 GW\uae09 \uc804\ub7b5",
+    "summary_ko": "Data Centre West\ub294 \uc568\ubc84\ud0c0\uc758 GW\uae09 \ub370\uc774\ud130 \uc13c\ud130 capacity \uc804\ub7b5\uc744 \uac00\ub9ac\ud0a8\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "capacity"
+    ]
+  },
+  "adc083949c0f9de13f008a0b9570209b7ecd03ba": {
+    "headline_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\ub2c8\uc5b4 \uc804\uae30 \uc5d4\uc9c0\ub2c8\uc5b4",
+    "summary_ko": "\ub370\uc774\ud130 \uc13c\ud130 \uc2dc\ub2c8\uc5b4 \uc804\uae30 \uc5d4\uc9c0\ub2c8\uc5b4 \uc9c1\ubb34\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "0cefed00b636661468aa85db87b750aad0de1cd0": {
+    "headline_ko": "AMD, AI \ub799 \uc218\uc694 \uc99d\uac00 \uc18d Epyc SP7\u00b7Helion \ucd9c\uc2dc",
+    "summary_ko": "AMD\uac00 6\uc138\ub300 Epyc \uc11c\ubc84 \ucd9c\ud558\ub97c \uc2dc\uc791\ud558\uace0 Helion AI \ub799\uc744 \ucd9c\uc2dc\ud558\uba70 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubc0f \uc5d0\uc774\uc804\ud2f1 AI infrastructure\ub85c\uc758 \ub354 \ud070 \ud655\uc7a5\uc744 \uc2dc\uc0ac\ud588\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "ca64c8ed22989837ce9eece9d3bf7fca1bfb68c6": {
+    "headline_ko": "data center \uc785\ucc30 \uc218\uc8fc\ub294 Investment Tax Credit\uc5d0\uc11c \uc2dc\uc791\ub41c\ub2e4",
+    "summary_ko": "\uc2dc\uacf5\uc0ac\ub294 Investment Tax Credit(\ud22c\uc790\uc138\uc561\uacf5\uc81c)\uc744 \uc870\uae30\uc5d0 \uacc4\ud68d\ud558\uace0 \ubc1c\uc8fc\uc790\uac00 \ub354 \ub9ce\uc740 \uac00\uce58\ub97c \ud655\ubcf4\ud558\ub3c4\ub85d \uc9c0\uc6d0\ud568\uc73c\ub85c\uc368 data center \uc785\ucc30\uc5d0\uc11c \ub354 \ub9ce\uc740 \uc218\uc8fc\ub97c \uc5bb\uc744 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "Capex"
+    ]
+  },
+  "30bdf06f6b40c74d64871079be28bd4ae76e1a39": {
+    "headline_ko": "Applied Digital, data center \uc720\uce58\ub97c \uc2b9\uc778\ud55c \ubbf8\uad6d \uc720\uc77c \ub9c8\uc744\uc5d0\uc11c \uac74\uc124 \uc911",
+    "summary_ko": "CEO\ub294 \uc720\ub7fd \ud655\uc7a5\uc744 \uacc4\ud68d\ud558\ub294 \uac00\uc6b4\ub370 \uae30\uc5c5\uc774 \uc0c8 \ud504\ub85c\uc81d\ud2b8\ub97c \ucd94\uc9c4\ud560 \uad8c\ub9ac\ub97c \uc5bb\uc5b4\uc57c \ud55c\ub2e4\uace0 \ub9d0\ud588\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "f52f70a58da6b45f0aec7c93fc0028b526d290eb": {
+    "headline_ko": "\ud14d\uc0ac\uc2a4 Quanah\uc5d0 80\uc5b5 \ub2ec\ub7ec data center \ud504\ub85c\uc81d\ud2b8 \uc2e0\uccad\uc11c \uc81c\ucd9c",
+    "summary_ko": "Integra\ub294 Childress \uc778\uadfc\uc5d0 756MW \uaddc\ubaa8 \ud504\ub85c\uc81d\ud2b8 \uac74\uc124\uc744 \ucd94\uc9c4\ud55c\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "e372af4d74d96de075dd428de2094d5feac1fd63": {
+    "headline_ko": "Principal Asset Management, \ub124\ub35c\ub780\ub4dc \uc554\uc2a4\ud14c\ub974\ub2f4 \uc678\uacfd data center \uc778\uc218",
+    "summary_ko": "Switch\uc758 AMS2\uc5d0 \uc0c8 \uc784\ub300\uc778\uc774 \uc0dd\uacbc\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "085d9c635c2ed4c7e95969482d1d3ce85a86cae1": {
+    "headline_ko": "SoftBank, Petros, Grab, \ub9d0\ub808\uc774\uc2dc\uc544 data center \uad6c\ucd95 \uacc4\ud68d\u2026 '\uc7a5\uae30 \ubaa9\ud45c' 5GW",
+    "summary_ko": "\ucd08\uae30 10\uc5b5 \ub2ec\ub7ec \ud22c\uc790\ub97c \uc2dc\uc791\uc73c\ub85c \ucd94\uc9c4\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capex"
+    ]
+  },
+  "d722211021e7d5b4f47993b4b66b8d72eb8aa944": {
+    "headline_ko": "\uc774\ud0c8\ub9ac\uc544\uc11c \uc218\ucc9c \uba85, data center \ud655\uc7a5 \ubc18\ub300\ud558\uba70 \ubc00\ub77c\ub178\uc5d0 \ubaa8\uc5ec \uc2dc\uc704",
+    "summary_ko": "\uc2dc\uc704\uc790\ub4e4\uc740 \ub86c\ubc14\ub974\ub514\uc544\uc8fc\uac00 \ucd5c\uadfc \ud1b5\uacfc\uc2dc\ud0a8 data center \uad00\ub828 \ubc95\ub960\uc758 \uc7ac\uac80\ud1a0\ub97c \ucd09\uad6c\ud588\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "2cc03286c9effdb4549afc73af1beef2fa2e650d": {
+    "headline_ko": "Fluidstack, \ubc84\uc9c0\ub2c8\uc544\uc8fc Wythe County\uc5d0 99\uc5d0\uc774\ucee4 data center \ucea0\ud37c\uc2a4 \ucc29\uacf5",
+    "summary_ko": "Progress Park \ubd80\uc9c0\uc5d0 \ub4e4\uc5b4\uc124 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "e7db0b96db9a6060a48e899b5c02202797fbe1b5": {
+    "headline_ko": "Colt, \ub3c5\uc77c \ubca0\ub97c\ub9b0\uc5d0\uc11c data center \ucc29\uacf5",
+    "summary_ko": "Berlin 1\uc740 2028\ub144 \uac00\ub3d9 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "5fbc0b604b6fa0efda0ba8cd07d13b5f43327ed6": {
+    "headline_ko": "Boosteroid\u00b7Gaw Capital\u00b7Firebird AI, \uce74\uc790\ud750\uc2a4\ud0c4\uc5d0 480MW data center \uacc4\ud68d",
+    "summary_ko": "\uce74\uc790\ud750\uc2a4\ud0c4 \u201cData Center Valley\u201d \ud504\ub85c\uc81d\ud2b8 2\ub2e8\uacc4\uc758 \uc77c\ubd80\ub85c, 2029\ub144\uae4c\uc9c0 1GW\ub97c \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "f259777c7f3b8543ac8b333d0e8f1acb304bc77d": {
+    "headline_ko": "\uc601\uad6d Met Office, \uad00\ub9ac\ud615 \ud074\ub77c\uc6b0\ub4dc \uc288\ud37c\ucef4\ud4e8\ud305 \uc11c\ube44\uc2a4 \uad6c\ucd95 \uc644\ub8cc",
+    "summary_ko": "\uae30\uc0c1 \ubc0f \uae30\ud6c4 \uacfc\ud559\uc744 \uc704\ud55c \ud074\ub77c\uc6b0\ub4dc \uc288\ud37c\ucef4\ud4e8\ud130\uac00 \uc774\uc81c \uc644\uc804\ud788 \uac00\ub3d9 \ub2e8\uacc4\uc5d0 \ub4e4\uc5b4\uc130\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "66cd2354b592d7748b909329e69770a4415c2fb6": {
+    "headline_ko": "Netcompany, Danish Centre for AI Innovation \uc9c0\ubd84 \uc778\uc218\u2026 7,500\ub9cc \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d",
+    "summary_ko": "\ucd94\uac00 \uc790\uae08\uc740 \ub374\ub9c8\ud06c\uc758 AI infrastructure \ud655\ub300 \ubaa9\ud45c\uc5d0 \ud798\uc744 \ubcf4\ud0e4 \uc804\ub9dd\uc774\ub2e4.",
+    "tags_ko": [
+      "AI infrastructure",
+      "Capex"
+    ]
+  },
+  "bca238f3d1fcb36b517abd9a864d2a132be3e66f": {
+    "headline_ko": "\ub3c5\uc77c Deutsche Telekom, \ubb8c\ud5e8 AI data center 20MW \ud655\uc7a5",
+    "summary_ko": "Deutsche Telekom\uc740 2\uc6d4\uc5d0 \uae30\uc874 \ud074\ub7ec\uc2a4\ud130\ub97c \ucd9c\uc2dc\ud55c \ub4a4 B300 capacity\ub97c \ucd94\uac00\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center",
+      "Capacity"
+    ]
   }
 }
