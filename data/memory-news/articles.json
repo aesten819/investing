@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-11-11T02:45:13.239104+00:00",
+  "generated_at": "2026-11-12T03:47:27.851949+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "4fd28c2d1c3a",
+      "headline": "Mounting Finished-Goods Inventories Prompt Some PC OEMs to Adjust Memory Procurement Plans for 2027, Says TrendForce",
+      "summary": "More than a year of rising memory prices has placed mounting cost pressure on the consumer electronics industry, according to TrendForce's latest memory industry research.",
+      "url": "https://www.trendforce.com/presscenter/news/20261111-13303.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-11-11T07:20:31+00:00",
+      "tags": [
+        "Memory",
+        "Pricing"
+      ],
+      "headline_ko": "TrendForce, \uc644\uc81c\ud488 \uc7ac\uace0 \uc99d\uac00\ub85c \uc77c\ubd80 PC OEM\uc774 2027\ub144 \uba54\ubaa8\ub9ac \uc870\ub2ec \uacc4\ud68d \uc870\uc815 \uc911\uc774\ub77c\uace0 \ubc1d\ud600",
+      "summary_ko": "TrendForce \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74 1\ub144 \ub118\uac8c \uc774\uc5b4\uc9c4 \uba54\ubaa8\ub9ac \uac00\uaca9 \uc0c1\uc2b9\uc73c\ub85c \uc18c\ube44\uc790 \uc804\uc790 \uc5c5\uacc4\uc758 \ube44\uc6a9 \ubd80\ub2f4\uc774 \ucee4\uc9c0\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9"
+      ]
+    },
     {
       "id": "d546bb89898a",
       "headline": "\u2018Safeguarding against system failures and cyber threats\u2019: SK hynix builds trust in physical AI memory",
@@ -1446,33 +1465,14 @@
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "8ab49c5a4f85",
-      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
-      "summary": "\u25b2 SK hynix\u2019s LPDDR and UFS lineup",
-      "url": "https://news.skhynix.com/en/fms-2026-9/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-07T05:00:57+00:00",
-      "tags": [
-        "DRAM",
-        "Memory"
-      ],
-      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4\uac00 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5\uc131\uc744 \uc81c\uc2dc\ud558\ub2e4",
-      "summary_ko": "\u25b2 SK\ud558\uc774\ub2c9\uc2a4\uc758 LPDDR \ubc0f UFS \ub77c\uc778\uc5c5",
-      "tags_ko": [
-        "DRAM",
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-11T02:45:42.399883+00:00",
-    "cached": 74,
-    "translated": 6,
+    "generated_at": "2026-11-12T03:47:30.799800+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
