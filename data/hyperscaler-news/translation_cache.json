@@ -11567,5 +11567,112 @@
       "data center",
       "\uc804\ub825"
     ]
+  },
+  "0404f1e2e0f8d1072e93936918935ccbff4aac76": {
+    "headline_ko": "liquid cooling AI \uc778\ud504\ub77c \ud655\uc7a5: \uc131\ub2a5\u00b7\ubb3c \ud6a8\uc728\uc131\u00b7\uc6b4\uc601 \ubcf5\uc6d0\ub825\uc744 \uc704\ud55c \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1",
+    "summary_ko": "\uc131\ub2a5, \ubb3c \ud6a8\uc728\uc131, \uc6b4\uc601 \ubcf5\uc6d0\ub825\uc744 \uc704\ud574 liquid cooling AI \uc778\ud504\ub77c\ub97c \ud655\uc7a5\ud558\ub294 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1\uc744 \ub2e4\ub8ec\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "\uc804\ub825"
+    ]
+  },
+  "0c7866bb20c7f5589b4992ffca621f39d6613a49": {
+    "headline_ko": "\uc804\ub825 \ud655\ubcf4 \uc18d\ub3c4, \uc81c\ub300\ub85c \uc2e4\ud589",
+    "summary_ko": "\uc804\ub825 \ud655\ubcf4 \uc18d\ub3c4\ub97c \uc81c\ub300\ub85c \uc2e4\ud589\ud55c\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "efb2693393549c98b7d948f90dab709b8d986cce": {
+    "headline_ko": "\uc820\uc2a8 \ud669 \uc0ac\uc784: Nvidia\uc758 AI Infrastructure \ub85c\ub4dc\ub9f5\uc5d0 \uc758\ubb38",
+    "summary_ko": "\ubd84\uc11d\uac00\ub4e4\uc740 \uba85\ud655\ud55c \uc7a5\uae30 \ud6c4\uacc4\uc790 \uc5c6\uc774 \uc820\uc2a8 \ud669\uc774 \uc0ac\uc784\ud560 \uacbd\uc6b0 data center \uacbd\uc81c\uc758 \ubc14\ub85c\ubbf8\ud130\uc778 Nvidia\uc5d0 \ud63c\ub780\uc774 \uc0dd\uae38 \uc218 \uc788\ub2e4\uace0 \ub9d0\ud55c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
+  },
+  "2e5b0c1752ae648c6d3ff51fae0db3e0bb62b1fc": {
+    "headline_ko": "Forest County Potawatomi Community, Milwaukee data center \ud655\uc7a5 \ucd94\uc9c4",
+    "summary_ko": "Forest County Potawatomi Community\uac00 Milwaukee data center \ud655\uc7a5\uc744 \ucd94\uc9c4\ud558\uba70 Milwaukee\uc758 data center \ubaa8\ub77c\ud1a0\ub9ac\uc5c4\uc5d0 \ub3c4\uc804\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "6d292f5bd0d268909a30b3a188ba92f204667fec": {
+    "headline_ko": "\uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544\uc5d0\uc11c 1,000\ub9cc \ub2ec\ub7ec \uaddc\ubaa8\uc758 Energy Impact Program\uc744 \ucd9c\ubc94\ud569\ub2c8\ub2e4.",
+    "summary_ko": "\uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544\uc5d0\uc11c 1,000\ub9cc \ub2ec\ub7ec \uaddc\ubaa8\uc758 Energy Impact Program\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "a1505a4cdfbd6ab70a9c068f5cea53dd0b4426ac": {
+    "headline_ko": "CDC, \ud638\uc8fc Kemps Creek\uc5d0 1.4GW \ub370\uc774\ud130\uc13c\ud130 \ucea0\ud37c\uc2a4 \uac1c\ubc1c \uacc4\ud68d \uc81c\ucd9c",
+    "summary_ko": "CDC\uac00 \uc2dc\ub4dc\ub2c8 \ucd5c\uc2e0 \uac1c\ubc1c \uc0ac\uc5c5\uc758 \uacc4\ud68d\uc744 \ub2e4\uc2dc \uc81c\ucd9c\ud588\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130\uc13c\ud130"
+    ]
+  },
+  "052ddb4bd80639014b6a61887fa50393c0970887": {
+    "headline_ko": "Nebius, 3\ubd84\uae30 120\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 \uacc4\uc57d \uccb4\uacb0\u2026 \ubaa8\ub4e0 \uacc4\uc57d\uc774 capex\ub97c \ucda9\ub2f9\ud55c\ub2e4\uace0 \uc54c\ub824\uc838",
+    "summary_ko": "\ud68c\uc0ac\ub294 Microsoft data center \ud504\ub85c\uc81d\ud2b8 \uc9c0\uc5f0\ub3c4 \uc5b8\uae09\ud588\ub2e4.",
+    "tags_ko": [
+      "Azure",
+      "Data Center",
+      "Capex"
+    ]
+  },
+  "03de56536dc75f93ebcf4cfbb425a61e4fa0e03f": {
+    "headline_ko": "AI \uc2dc\ub300\ub97c \uc704\ud55c \uc5f4 \uad00\ub9ac \uace0\ub3c4\ud654",
+    "summary_ko": "\uace0\ubc00\ub3c4 data center\uc5d0\uc11c liquid cooling\uc744 \uc9c1\uc811\uc801\uc73c\ub85c \ub2e4\ub8e8\ub294 \uc811\uadfc \ubc29\uc2dd\uc744 \ucde8\ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "1d5757b628b5cc9e50227cb560ff9eef1ad31505": {
+    "headline_ko": "SpaceX, \uc790\uc0ac \uada4\ub3c4 data center\uc6a9\uc73c\ub85c 'Kessel'\uc774\ub77c \ubd88\ub9ac\ub294 \ub9de\ucda4\ud615 Nvidia Vera Rubin rack \uac1c\ubc1c \uc911 \u2013 \ubcf4\ub3c4",
+    "summary_ko": "\uc5f0\uad6c \uae30\uad00\ub4e4\uc5d0 \ub530\ub974\uba74 \uae30\ubcf8 \uad6c\uc131\uc740 \ub3d9\uc77c\ud558\uac8c \uc720\uc9c0\ub418\uc9c0\ub9cc AI \uae30\uc5c5\uc774 PCB\ub97c \ubc14\uafb8\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "7fa57585c5a669a55f80cc4cdb688a577db412fa": {
+    "headline_ko": "OpenAI, \uc870\uc9c0\uc544\uc8fc \uc5d0\ud551\uc5c4 \uce74\uc6b4\ud2f0\uc5d0 \uacc4\ud68d\ub41c 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 data center \uad00\ub828 \ubbfc\uc0ac \uc870\uc9c1\ubc94\uc8c4 \ud610\uc758 \uc9c1\uba74",
+    "summary_ko": "\uc8fc\ubbfc\ub4e4\uc740 \uc815\ubcf4\uac00 \uacf5\uc720\ub418\uc9c0 \uc54a\uc740 \ub370 \ubd88\ub9cc\uc744 \ud488\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "7dd1b94a45132a11cb35d485825ae40780135a59": {
+    "headline_ko": "Data Center \uc804\ub825 \uc870\ub2ec\uc758 \uc0c8\ub85c\uc6b4 \uc811\uadfc\ubc95",
+    "summary_ko": "power grid \ud55c\uacc4\uac00 \uc2ec\ud654\ub428\uc5d0 \ub530\ub77c data center\ub294 \uc548\uc815\uc801\uc778 capacity \ud655\ubcf4, \ube44\uc6a9 \ud1b5\uc81c, \ub354 \ube60\ub978 \uc131\uc7a5\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uc804\ub825 \uc804\ub7b5\uc744 \ub2e4\uac01\ud654\ud574\uc57c \ud560 \uc218 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity",
+      "\uc804\ub825"
+    ]
+  },
+  "bbe68d50cf65f3b5101a0170538becd2199f1709": {
+    "headline_ko": "\ubbf8\uad6d \uc5d0\ub108\uc9c0\ubd80 \uc81c\ud37c\uc2a8 \uc5f0\uad6c\uc18c, SciPhi-XVI \uc288\ud37c\ucef4\ud4e8\ud130 \ud1f4\uc5ed",
+    "summary_ko": "\uc778\ud154 \uae30\ubc18 \uc2dc\uc2a4\ud15c\uc740 \uc57d 10\ub144\uac04 \uc6b4\uc601\ub41c \ub4a4 \uc5ec\ub984\uc5d0 \uac00\ub3d9 \uc911\ub2e8\ub410\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "db938ffa418e5edc83c0a5573f59bde454675fe8": {
+    "headline_ko": "Meta, \uc0c8 \uacc4\uc57d\uc73c\ub85c data center \uacf5\uae09\ub9dd\uc5d0 \uce5c\ud658\uacbd \uc81c\uc870 \ub3c4\uc785",
+    "summary_ko": "Meta\ub294 data center\uc5d0 \uce5c\ud658\uacbd \uc81c\uc870\ub97c \ub3c4\uc785\ud558\uace0, \uacf5\uae09\ub9dd \uc804\ubc18\uc758 \uc800\ud0c4\uc18c \uc0dd\uc0b0\uc790\uc640 \uc7a5\uae30 \uad6c\ub9e4 \uacc4\uc57d\uc744 \uccb4\uacb0\ud574 \uc5c5\uacc4 \ud45c\uc900\uc744 \uc138\uc6b0\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Meta",
+      "Data Center"
+    ]
+  },
+  "5185ff9850a40a0cfcc258103cd7a349978c0f91": {
+    "headline_ko": "AWS, '\uc120\ubcc4 \uace0\uac1d' \ub300\uc0c1 \uce60\ub808 cloud region \ucd9c\uc2dc",
+    "summary_ko": "\uc815\uc2dd \uc77c\ubc18 \uacf5\uae09\uc740 \ucd94\ud6c4 \uc774\ub904\uc9c8 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "AWS",
+      "Capacity"
+    ]
   }
 }
