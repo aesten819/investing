@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:22:56.380161+00:00",
+  "generated_at": "2026-11-15T02:49:26.022491+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -34,6 +34,131 @@
       "summary_ko": "Data Center Knowledge\uac00 \uc804\ud55c Data Center World Middle East \uad00\ub828 \uce74\ub4dc\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "data center"
+      ]
+    },
+    {
+      "id": "18104b19726e",
+      "headline": "Synergy Updates Its Ranking of the World\u2019s Top 20 Hyperscale Data Center Locations",
+      "summary": "Synergy Updates Its Ranking of the World\u2019s Top 20 Hyperscale Data Center Locations",
+      "url": "https://www.srgresearch.com/articles/synergy-updates-its-ranking-of-the-worlds-top-20-hyperscale-data-center-locations",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-11-15T02:49:19.999972+00:00",
+      "tags": [
+        "Data Center",
+        "Colocation"
+      ],
+      "headline_ko": "Synergy, \uc138\uacc4 \uc0c1\uc704 20\uac1c Hyperscale \ub370\uc774\ud130 \uc13c\ud130 \uc704\uce58 \uc21c\uc704 \uc5c5\ub370\uc774\ud2b8",
+      "summary_ko": "Synergy\uac00 \uc138\uacc4 \uc0c1\uc704 20\uac1c Hyperscale \ub370\uc774\ud130 \uc13c\ud130 \uc704\uce58 \uc21c\uc704\ub97c \uc5c5\ub370\uc774\ud2b8\ud588\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "\ub370\uc774\ud130 \uc13c\ud130",
+        "\ucf5c\ub85c\ucf00\uc774\uc158"
+      ]
+    },
+    {
+      "id": "99607e6f8e75",
+      "headline": "The World's Total Data Center Capacity is Shifting Rapidly to Hyperscale Operators",
+      "summary": "The World's Total Data Center Capacity is Shifting Rapidly to Hyperscale Operators",
+      "url": "https://www.srgresearch.com/articles/the-worlds-total-data-center-capacity-is-shifting-rapidly-to-hyperscale-operators",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-11-15T02:49:19.999972+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ],
+      "headline_ko": "\uc138\uacc4 Data Center \ucd1d \uc6a9\ub7c9\uc774 Hyperscale Operators\ub85c \uae09\uc18d\ud788 \uc774\ub3d9 \uc911",
+      "summary_ko": "\uc138\uacc4 Data Center \ucd1d \uc6a9\ub7c9\uc774 Hyperscale Operators\ub85c \uae09\uc18d\ud788 \uc774\ub3d9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity",
+        "Colocation"
+      ]
+    },
+    {
+      "id": "812c659a5e47",
+      "headline": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "summary": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-14T14:00:47+00:00",
+      "tags": [
+        "Data Center",
+        "Financing"
+      ],
+      "headline_ko": "\uac1c\ubc1c\uc0ac Westend Real Assets, \ud568\ubd80\ub974\ud06c data center 2\uacf3 \uc778\uc218",
+      "summary_ko": "\uc0ac\ubaa8\ud380\ub4dc Deutsche Beteiligungs\ub85c\ubd80\ud130 \ud574\ub2f9 \uc2dc\uc124\uc744 \uc778\uc218\ud588\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc790\uae08 \uc870\ub2ec"
+      ]
+    },
+    {
+      "id": "36244fe08ec2",
+      "headline": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "summary": "Company targets two projects outside Vizag",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-14T11:00:55+00:00",
+      "tags": [
+        "Data Center",
+        "Capacity"
+      ],
+      "headline_ko": "AirTrunk, \uc778\ub3c4 \uc548\ub4dc\ub77c\ud504\ub77c\ub370\uc2dc\uc5d0\uc11c 1.8GW data center capacity \uc704\ud55c MoU \uccb4\uacb0",
+      "summary_ko": "\ud68c\uc0ac\ub294 Vizag \uc678\uacfd\uc758 \ub450 \ud504\ub85c\uc81d\ud2b8\ub97c \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "Capacity"
+      ]
+    },
+    {
+      "id": "508f44d34246",
+      "headline": "European Union offers to build data center for Moldova",
+      "summary": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
+      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-14T10:00:44+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "\uc720\ub7fd\uc5f0\ud569, \ubab0\ub3c4\ubc14\uc5d0 data center \uac74\uc124 \uc81c\uc548",
+      "summary_ko": "\uc774 \uc2dc\uc124\uc740 \ubab0\ub3c4\ubc14 \uc2dc\ubbfc\uc758 \uac1c\uc778\uc815\ubcf4\ub97c \uc0ac\uc774\ubc84 \uacf5\uaca9\uc73c\ub85c\ubd80\ud130 \ubcf4\ud638\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub420 \uac83\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
+      ]
+    },
+    {
+      "id": "27f43cfea518",
+      "headline": "Humain raises $667m for AI buildout in Saudi Arabia",
+      "summary": "Funding secured alongside the National Infrastructure Fund",
+      "url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-14T07:00:48+00:00",
+      "tags": [],
+      "headline_ko": "Humain, \uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 AI \uad6c\ucd95\uc5d0 6\uc5b56,700\ub9cc \ub2ec\ub7ec \uc870\ub2ec",
+      "summary_ko": "\uad6d\uac00\uc778\ud504\ub77c\ud380\ub4dc\uc640 \ud568\uaed8 \uc790\uae08\uc744 \ud655\ubcf4\ud588\ub2e4.",
+      "tags_ko": []
+    },
+    {
+      "id": "fa9af418ed35",
+      "headline": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "summary": "Part of Tokyo city initiative to find uses for data center heat",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-14T05:00:42+00:00",
+      "tags": [
+        "Data Center"
+      ],
+      "headline_ko": "NTT Docomo, \uc77c\ubcf8 \uc721\uc0c1 \uc0c8\uc6b0 \uc591\uc2dd\uc7a5\uc5d0 data center \uc5f4 \uc7ac\uc774\uc6a9 \uc2dc\ubc94 \ucd94\uc9c4",
+      "summary_ko": "\ub3c4\ucfc4\uc2dc\uc758 data center \uc5f4 \ud65c\uc6a9 \ubc29\uc548 \ubaa8\uc0c9 \uc774\ub2c8\uc154\ud2f0\ube0c\uc758 \uc77c\ud658\uc774\ub2e4.",
+      "tags_ko": [
+        "Data Center"
       ]
     },
     {
@@ -2800,141 +2925,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "e19426737d55",
-      "headline": "Google's Project Suncatcher runs first workload on orbital TPU, but company admits space data centers cost 100x more than terrestrial",
-      "summary": "AI poetry proves the system works, but finances remain unclear",
-      "url": "https://www.datacenterdynamics.com/en/news/googles-project-suncatcher-runs-first-workload-on-orbital-tpu-but-company-admits-space-data-centers-cost-100x-more-than-terrestrial/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-02T14:21:56+00:00",
-      "tags": [
-        "Google Cloud",
-        "Data Center"
-      ],
-      "headline_ko": "Google\uc758 Project Suncatcher, \uada4\ub3c4 TPU\uc5d0\uc11c \uccab \uc6cc\ud06c\ub85c\ub4dc \uc2e4\ud589\ud588\uc9c0\ub9cc \ud68c\uc0ac\ub294 \uc6b0\uc8fc data center \ube44\uc6a9\uc774 \uc9c0\uc0c1\ubcf4\ub2e4 100\ubc30 \ub354 \ub4e0\ub2e4\uace0 \uc778\uc815",
-      "summary_ko": "AI \uc2dc\uac00 \uc2dc\uc2a4\ud15c \uc791\ub3d9\uc740 \uc785\uc99d\ud588\uc9c0\ub9cc \uc7ac\ubb34 \uce21\uba74\uc740 \uc5ec\uc804\ud788 \ubd88\uba85\ud655\ud558\ub2e4.",
-      "tags_ko": [
-        "Google Cloud",
-        "Data Center"
-      ]
-    },
-    {
-      "id": "11f7a950db8e",
-      "headline": "Digital Realty revenue hits $1.9bn, with a $2.5bn backlog",
-      "summary": "Points to strong hyperscale sales, and limited neocloud exposure",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-revenue-hits-19bn-with-a-25bn-backlog/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-02T14:15:59+00:00",
-      "tags": [
-        "Colocation",
-        "Neocloud"
-      ],
-      "headline_ko": "Digital Realty \ub9e4\ucd9c $1.9bn \uae30\ub85d, \uc218\uc8fc\uc794\uace0 $2.5bn",
-      "summary_ko": "\uac15\ud55c hyperscale \ud310\ub9e4\uc640 \uc81c\ud55c\uc801\uc778 neocloud \ub178\ucd9c\uc744 \uc2dc\uc0ac\ud55c\ub2e4.",
-      "tags_ko": [
-        "Colocation",
-        "Neocloud"
-      ]
-    },
-    {
-      "id": "2c8801a8473c",
-      "headline": "Liquid Cooling Is Changing What Data Centers Need to Measure",
-      "summary": "Liquid cooling changes data center operations by making precise, real-time measurement across both liquid and air environments essential.",
-      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-is-changing-what-data-centers-need-to-measure",
-      "source": "Data Center Knowledge",
-      "source_id": "data_center_knowledge",
-      "published_at": "2026-11-02T14:00:00+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "Liquid cooling\uc774 data center\uc758 \uce21\uc815 \ub300\uc0c1\uc744 \ubc14\uafb8\uace0 \uc788\ub2e4",
-      "summary_ko": "Liquid cooling\uc740 liquid\uc640 air \ud658\uacbd \ubaa8\ub450\uc5d0\uc11c \uc815\ubc00\ud55c \uc2e4\uc2dc\uac04 \uce21\uc815\uc744 \ud544\uc218\ud654\ud574 data center \uc6b4\uc601\uc744 \ubc14\uafbc\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "a2e614326712",
-      "headline": "GE Vernova order backlog hits $197bn as data center demand drives gas turbine sales",
-      "summary": "Expects to have 130GW of signed gas turbine agreements by end of year",
-      "url": "https://www.datacenterdynamics.com/en/news/ge-vernova-order-backlog-hits-197bn-as-data-center-demand-drives-gas-turbine-sales/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-02T13:59:58+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "GE Vernova \uc218\uc8fc\uc794\uace0 1,970\uc5b5 \ub2ec\ub7ec \uae30\ub85d\u2026 data center \uc218\uc694\uac00 \uac00\uc2a4\ud130\ube48 \ud310\ub9e4 \uacac\uc778",
-      "summary_ko": "GE Vernova\ub294 \uc5f0\ub9d0\uae4c\uc9c0 130GW \uaddc\ubaa8\uc758 \uac00\uc2a4\ud130\ube48 \uacc4\uc57d \uccb4\uacb0\uc744 \uc608\uc0c1\ud55c\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "29489daeea79",
-      "headline": "What could 1,000x more reliable quantum computation unlock?",
-      "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
-      "url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-01T15:00:31+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "1,000\ubc30 \ub354 \uc548\uc815\uc801\uc778 \uc591\uc790 \uc5f0\uc0b0\uc740 \ubb34\uc5c7\uc744 \uac00\ub2a5\ud558\uac8c \ud560\uae4c?",
-      "summary_ko": "\ub354 \ub113\uc740 data center ecosystem\uc758 \uc694\uc18c\ub85c \uc591\uc790 \ucef4\ud4e8\ud305\uc744 \uc0dd\uac01\ud558\uae30 \uc2dc\uc791\ud574\uc57c \ud558\ub294 \uc774\uc720\ub97c \ub2e4\ub8ec\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
-    },
-    {
-      "id": "a1b4dd844a1e",
-      "headline": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
-      "summary": "Building maintenance needs more attention",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-01T11:00:47+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\uc804\ub825\ub9dd\uc744 \ub118\uc5b4: data center \ud638\ud669\uc744 \uc704\ud611\ud558\ub294 \uc720\uc9c0\ubcf4\uc218 \uacfc\uc81c",
-      "summary_ko": "\uac74\ubb3c \uc720\uc9c0\ubcf4\uc218\uc5d0 \ub354 \ub9ce\uc740 \uad00\uc2ec\uc774 \ud544\uc694\ud558\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "a5554b92c662",
-      "headline": "Tier Two Metro Markets are Reshaping the Colocation World",
-      "summary": "Tier Two Metro Markets are Reshaping the Colocation World",
-      "url": "https://www.srgresearch.com/articles/tier-two-metro-markets-are-reshaping-the-colocation-world",
-      "source": "Synergy Research",
-      "source_id": "synergy_research",
-      "published_at": "2026-11-01T02:19:45.355309+00:00",
-      "tags": [
-        "Colocation"
-      ],
-      "headline_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\ub2e4",
-      "summary_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
-      "tags_ko": [
-        "Colocation"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-14T03:23:36.665393+00:00",
-    "cached": 146,
-    "translated": 14,
+    "generated_at": "2026-11-15T02:49:40.443505+00:00",
+    "cached": 155,
+    "translated": 5,
     "skipped": 0
   }
 }

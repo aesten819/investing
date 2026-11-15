@@ -11779,5 +11779,40 @@
     "tags_ko": [
       "data center"
     ]
+  },
+  "52bf0b7620225cfa9c6fe260cdb1967d6e81fa25": {
+    "headline_ko": "\uac1c\ubc1c\uc0ac Westend Real Assets, \ud568\ubd80\ub974\ud06c data center 2\uacf3 \uc778\uc218",
+    "summary_ko": "\uc0ac\ubaa8\ud380\ub4dc Deutsche Beteiligungs\ub85c\ubd80\ud130 \ud574\ub2f9 \uc2dc\uc124\uc744 \uc778\uc218\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc790\uae08 \uc870\ub2ec"
+    ]
+  },
+  "025bec0e1c272b351cd42c9d361827ccf72381ff": {
+    "headline_ko": "AirTrunk, \uc778\ub3c4 \uc548\ub4dc\ub77c\ud504\ub77c\ub370\uc2dc\uc5d0\uc11c 1.8GW data center capacity \uc704\ud55c MoU \uccb4\uacb0",
+    "summary_ko": "\ud68c\uc0ac\ub294 Vizag \uc678\uacfd\uc758 \ub450 \ud504\ub85c\uc81d\ud2b8\ub97c \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "3a6f17e9f3f7a99cd851b3c1d847dd71491f9816": {
+    "headline_ko": "\uc720\ub7fd\uc5f0\ud569, \ubab0\ub3c4\ubc14\uc5d0 data center \uac74\uc124 \uc81c\uc548",
+    "summary_ko": "\uc774 \uc2dc\uc124\uc740 \ubab0\ub3c4\ubc14 \uc2dc\ubbfc\uc758 \uac1c\uc778\uc815\ubcf4\ub97c \uc0ac\uc774\ubc84 \uacf5\uaca9\uc73c\ub85c\ubd80\ud130 \ubcf4\ud638\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub420 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "1d9df2688ccf418dfc3806a306a5806004be052c": {
+    "headline_ko": "Humain, \uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 AI \uad6c\ucd95\uc5d0 6\uc5b56,700\ub9cc \ub2ec\ub7ec \uc870\ub2ec",
+    "summary_ko": "\uad6d\uac00\uc778\ud504\ub77c\ud380\ub4dc\uc640 \ud568\uaed8 \uc790\uae08\uc744 \ud655\ubcf4\ud588\ub2e4.",
+    "tags_ko": []
+  },
+  "1f6b7ccf6328bb9f757065f3fd504a55dcb7a257": {
+    "headline_ko": "NTT Docomo, \uc77c\ubcf8 \uc721\uc0c1 \uc0c8\uc6b0 \uc591\uc2dd\uc7a5\uc5d0 data center \uc5f4 \uc7ac\uc774\uc6a9 \uc2dc\ubc94 \ucd94\uc9c4",
+    "summary_ko": "\ub3c4\ucfc4\uc2dc\uc758 data center \uc5f4 \ud65c\uc6a9 \ubc29\uc548 \ubaa8\uc0c9 \uc774\ub2c8\uc154\ud2f0\ube0c\uc758 \uc77c\ud658\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
   }
 }
