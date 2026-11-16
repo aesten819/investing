@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:49:26.022491+00:00",
+  "generated_at": "2026-11-16T02:51:29.954901+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -34,6 +34,40 @@
       "summary_ko": "Data Center Knowledge\uac00 \uc804\ud55c Data Center World Middle East \uad00\ub828 \uce74\ub4dc\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "data center"
+      ]
+    },
+    {
+      "id": "a5554b92c662",
+      "headline": "Tier Two Metro Markets are Reshaping the Colocation World",
+      "summary": "Tier Two Metro Markets are Reshaping the Colocation World",
+      "url": "https://www.srgresearch.com/articles/tier-two-metro-markets-are-reshaping-the-colocation-world",
+      "source": "Synergy Research",
+      "source_id": "synergy_research",
+      "published_at": "2026-11-16T02:51:25.689525+00:00",
+      "tags": [
+        "Colocation"
+      ],
+      "headline_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\ub2e4",
+      "summary_ko": "Tier Two \uba54\ud2b8\ub85c \uc2dc\uc7a5\uc774 Colocation \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub2e4",
+      "tags_ko": [
+        "Colocation"
+      ]
+    },
+    {
+      "id": "8edb50275b36",
+      "headline": "Airsys invests in digital boiler startup ThermAI",
+      "summary": "Cooling company providing spray-cooling technology to UK startup",
+      "url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-15T11:00:47+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Airsys, \ub514\uc9c0\ud138 \ubcf4\uc77c\ub7ec \uc2a4\ud0c0\ud2b8\uc5c5 ThermAI\uc5d0 \ud22c\uc790",
+      "summary_ko": "\ub0c9\uac01 \uae30\uc5c5 Airsys\uac00 \uc601\uad6d \uc2a4\ud0c0\ud2b8\uc5c5\uc5d0 \uc2a4\ud504\ub808\uc774 \ub0c9\uac01 \uae30\uc220\uc744 \uc81c\uacf5\ud55c\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
       ]
     },
     {
@@ -2312,6 +2346,25 @@
       ]
     },
     {
+      "id": "2c8801a8473c",
+      "headline": "Liquid Cooling Is Changing What Data Centers Need to Measure",
+      "summary": "Liquid cooling changes data center operations by making precise, real-time measurement across both liquid and air environments essential.",
+      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-is-changing-what-data-centers-need-to-measure",
+      "source": "Data Center Knowledge",
+      "source_id": "data_center_knowledge",
+      "published_at": "2026-11-04T14:00:00+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "Liquid cooling\uc774 data center\uc758 \uce21\uc815 \ub300\uc0c1\uc744 \ubc14\uafb8\uace0 \uc788\ub2e4",
+      "summary_ko": "Liquid cooling\uc740 liquid\uc640 air \ud658\uacbd \ubaa8\ub450\uc5d0\uc11c \uc815\ubc00\ud55c \uc2e4\uc2dc\uac04 \uce21\uc815\uc744 \ud544\uc218\ud654\ud574 data center \uc6b4\uc601\uc744 \ubc14\uafbc\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
+      ]
+    },
+    {
       "id": "5a78f9fce0f2",
       "headline": "Google commits to $15bn investment in Malaysian data centers",
       "summary": "Investments will occur during 2027 and 2028",
@@ -2868,71 +2921,14 @@
         "Google Cloud",
         "data center"
       ]
-    },
-    {
-      "id": "28408a3cac4a",
-      "headline": "Prometheus Hyperscale pulls out of gigawatt-scale data center project in Casper, Wyoming",
-      "summary": "News takes local officials by surprise, landowner aims to continue project without Prometheus",
-      "url": "https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-pulls-out-of-gigawatt-scale-data-center-project-in-casper-wyoming/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-02T15:11:35+00:00",
-      "tags": [
-        "Data Center",
-        "Capacity",
-        "Colocation"
-      ],
-      "headline_ko": "Prometheus Hyperscale, \uc640\uc774\uc624\ubc0d\uc8fc \uce90\uc2a4\ud37c\uc758 GW\uae09 data center \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \ucca0\uc218",
-      "summary_ko": "\uc774 \uc18c\uc2dd\uc740 \uc9c0\uc5ed \uacf5\ubb34\uc6d0\ub4e4\uc744 \ub180\ub77c\uac8c \ud588\uc73c\uba70, \ud1a0\uc9c0 \uc18c\uc720\uc790\ub294 Prometheus \uc5c6\uc774 \ud504\ub85c\uc81d\ud2b8\ub97c \uacc4\uc18d \ucd94\uc9c4\ud560 \uacc4\ud68d\uc774\ub2e4.",
-      "tags_ko": [
-        "data center",
-        "capacity",
-        "colocation"
-      ]
-    },
-    {
-      "id": "f791bd25f7bf",
-      "headline": "Aligned Data Centers launches new version of Delta Cube air cooling system",
-      "summary": "Delivers ten percent efficiency savings, company says",
-      "url": "https://www.datacenterdynamics.com/en/news/aligned-data-centers-launches-new-version-of-delta-cube-air-cooling-system/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-02T15:02:08+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "Aligned Data Centers, Delta Cube \uacf5\ub7ad\uc2dd \ub0c9\uac01 \uc2dc\uc2a4\ud15c \uc2e0\ubc84\uc804 \ucd9c\uc2dc",
-      "summary_ko": "\ud68c\uc0ac\ub294 10%\uc758 \ud6a8\uc728 \uc808\uac10 \ud6a8\uacfc\ub97c \uc81c\uacf5\ud55c\ub2e4\uace0 \ubc1d\ud614\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "2ed9ffbaefce",
-      "headline": "Nvidia in talks to backstop Nscale's Monarch Compute Campus project for Anthropic - report",
-      "summary": "Nvidia could provide billions in credit guarantees",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-backstop-nscales-monarch-compute-campus-project-for-anthropic-report/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-02T15:01:00+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Nvidia, Anthropic \uc704\ud55c Nscale\uc758 Monarch Compute Campus \ud504\ub85c\uc81d\ud2b8 \ubcf4\uc99d \uc9c0\uc6d0 \ub17c\uc758 - \ubcf4\ub3c4",
-      "summary_ko": "Nvidia\uac00 \ud574\ub2f9 \ud504\ub85c\uc81d\ud2b8\uc5d0 \uc218\uc2ed\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc2e0\uc6a9\ubcf4\uc99d\uc744 \uc81c\uacf5\ud560 \uc218 \uc788\ub2e4\ub294 \ubcf4\ub3c4\ub2e4.",
-      "tags_ko": [
-        "Data Center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-15T02:49:40.443505+00:00",
-    "cached": 155,
-    "translated": 5,
+    "generated_at": "2026-11-16T02:51:35.166000+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
