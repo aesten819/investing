@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:51:29.954901+00:00",
+  "generated_at": "2026-11-17T05:07:20.186156+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -23,7 +23,7 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 10
+      "article_count": 8
     },
     {
       "id": "google_cloud",
@@ -63,7 +63,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 11
+      "article_count": 8
     },
     {
       "id": "data_center_knowledge",
@@ -71,7 +71,7 @@
       "url": "https://www.datacenterknowledge.com/rss.xml",
       "type": "rss",
       "status": "ok",
-      "article_count": 43
+      "article_count": 42
     },
     {
       "id": "synergy_research",
