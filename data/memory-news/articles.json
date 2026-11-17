@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-16T02:42:52.066391+00:00",
+  "generated_at": "2026-11-17T05:03:29.785266+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "8079314af853",
+      "headline": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
+      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing.",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-11-16T23:58:24+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "[AI \uc0dd\ud0dc\uacc4] AI\ub97c \uc644\uc131\ud558\ub2e4: \ud53c\uc9c0\uceec \uc778\ud154\ub9ac\uc804\uc2a4\uc640 \uba54\ubaa8\ub9ac\uc758 \uc5ed\ud560",
+      "summary_ko": "AI \uc6cc\ud06c\ub85c\ub4dc\uac00 \ucd94\ub860\uacfc \uc5d0\uc774\uc804\ud2b8\ud615 AI\ub85c \uc9c4\ud654\ud558\uba74\uc11c \uc2dc\uc2a4\ud15c \uc131\ub2a5\uc758 \uae30\uc900\ub3c4 \ubcc0\ud654\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
     {
       "id": "4fd28c2d1c3a",
       "headline": "Mounting Finished-Goods Inventories Prompt Some PC OEMs to Adjust Memory Procurement Plans for 2027, Says TrendForce",
@@ -1448,31 +1465,14 @@
       "tags_ko": [
         "\uba54\ubaa8\ub9ac"
       ]
-    },
-    {
-      "id": "17942f60ce72",
-      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
-      "summary": "",
-      "url": "https://news.skhynix.com/en/fms-2026-1/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-07T05:13:50+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK hynix, \u2018FMS 2026\u2019\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
-      "summary_ko": "SK hynix\ub294 \u2018FMS 2026\u2019\uc5d0\uc11c AI \uc2dc\ub300 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc758 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud560 \uc608\uc815\uc774\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-16T02:42:52.137591+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-11-17T05:03:32.353813+00:00",
+    "cached": 79,
+    "translated": 1,
     "skipped": 0
   }
 }
