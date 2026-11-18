@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:07:20.186156+00:00",
+  "generated_at": "2026-11-18T04:32:51.182410+00:00",
   "sources": [
     {
       "id": "aws_news_blog",
@@ -39,7 +39,7 @@
       "url": "https://blogs.microsoft.com/on-the-issues/feed/",
       "type": "rss",
       "status": "ok",
-      "article_count": 0
+      "article_count": 1
     },
     {
       "id": "microsoft_blog",
@@ -63,7 +63,7 @@
       "url": "https://www.datacenterdynamics.com/rss/",
       "type": "rss",
       "status": "ok",
-      "article_count": 8
+      "article_count": 12
     },
     {
       "id": "data_center_knowledge",
