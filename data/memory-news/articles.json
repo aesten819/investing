@@ -1,7 +1,64 @@
 {
-  "generated_at": "2026-11-19T04:09:24.828708+00:00",
+  "generated_at": "2026-11-20T03:57:56.334567+00:00",
   "article_count": 80,
   "articles": [
+    {
+      "id": "cb6c6bb48672",
+      "headline": "Samsung Electronics Announces New Leadership",
+      "summary": "Sang Joon Hwang to lead the Memory Business, Won-Joon Choi to head the MX Business Young Hyun Jun and TM Roh to continue leading the DS Division and DX...",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-electronics-announces-new-leadership-3/?utm_source=rss&utm_medium=direct",
+      "source": "Samsung Semiconductor",
+      "source_id": "samsung_semiconductor",
+      "published_at": "2026-11-20T09:55:37+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\uc0bc\uc131\uc804\uc790, \uc0c8 \ub9ac\ub354\uc2ed \ubc1c\ud45c",
+      "summary_ko": "\uc0bc\uc131\uc804\uc790\ub294 \ud669\uc0c1\uc900\uc774 \uba54\ubaa8\ub9ac\uc0ac\uc5c5\ubd80\ub97c, \ucd5c\uc6d0\uc900\uc774 MX\uc0ac\uc5c5\ubd80\ub97c \uc774\ub04c\uac8c \ub418\uba70 \uc804\uc601\ud604\uacfc TM Roh\ub294 DS\ubd80\ubb38\uacfc DX\ubd80\ubb38\uc744 \uacc4\uc18d \uc774\ub04c \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "45a8ea66469d",
+      "headline": "\u201cBuilding the Future AI Ecosystem Around Memory\u201d: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+      "summary": "As the volume of data handled by AI continues to grow, memory technology for storing and processing that data efficiently is evolving ever faster.",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/",
+      "source": "SK hynix Newsroom",
+      "source_id": "sk_hynix",
+      "published_at": "2026-11-19T23:57:22+00:00",
+      "tags": [
+        "Memory"
+      ],
+      "headline_ko": "\u201c\uba54\ubaa8\ub9ac \uc911\uc2ec\uc73c\ub85c \ubbf8\ub798 AI \uc0dd\ud0dc\uacc4 \uad6c\ucd95\u201d\u2026SK hynix, Supercomputing 2026\uc5d0\uc11c \uae30\uc220 \ube44\uc804 \uc81c\uc2dc",
+      "summary_ko": "AI\uac00 \ucc98\ub9ac\ud558\ub294 \ub370\uc774\ud130 \uc591\uc774 \uacc4\uc18d \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc774\ub97c \ud6a8\uc728\uc801\uc73c\ub85c \uc800\uc7a5\u00b7\ucc98\ub9ac\ud558\uae30 \uc704\ud55c \uba54\ubaa8\ub9ac \uae30\uc220\ub3c4 \ub354\uc6b1 \ube60\ub974\uac8c \uc9c4\ud654\ud558\uace0 \uc788\ub2e4.",
+      "tags_ko": [
+        "\uba54\ubaa8\ub9ac"
+      ]
+    },
+    {
+      "id": "02441454a28e",
+      "headline": "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
+      "summary": "TrendForce\u2019s latest memory industry research indicates that the global NAND Flash market is expected to see a reversal in supply-demand dynamics in 2027.",
+      "url": "https://www.trendforce.com/presscenter/news/20261119-13314.html",
+      "source": "TrendForce",
+      "source_id": "trendforce",
+      "published_at": "2026-11-19T07:05:29+00:00",
+      "tags": [
+        "NAND",
+        "Memory",
+        "Pricing",
+        "Capacity"
+      ],
+      "headline_ko": "TrendForce, 2027\ub144 NAND Flash \uac00\uaca9 \ud558\ub77d \uc804\ub9dd\u2026 \uc911\uad6d CSP \uc8fc\ubb38 \uac10\ucd95\uc774 \ubd81\ubbf8 \uc218\uc694 \uc131\uc7a5 \uc0c1\ud68c",
+      "summary_ko": "TrendForce \ucd5c\uc2e0 \uba54\ubaa8\ub9ac \uc0b0\uc5c5 \ub9ac\uc11c\uce58\uc5d0 \ub530\ub974\uba74 \uae00\ub85c\ubc8c NAND Flash \uc2dc\uc7a5\uc740 2027\ub144 \uc218\uae09 \ub3d9\ud559\uc758 \ubc18\uc804\uc774 \uc608\uc0c1\ub41c\ub2e4.",
+      "tags_ko": [
+        "NAND",
+        "\uba54\ubaa8\ub9ac",
+        "\uac00\uaca9",
+        "\uc0dd\uc0b0\ub2a5\ub825"
+      ]
+    },
     {
       "id": "8079314af853",
       "headline": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
@@ -1414,65 +1471,14 @@
         "\uba54\ubaa8\ub9ac",
         "\uce90\ud30c"
       ]
-    },
-    {
-      "id": "9f2e6551ffe1",
-      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
-      "summary": "",
-      "url": "https://news.skhynix.com/en/fms-2026-4/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-07T05:17:26+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK hynix, 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
-      "summary_ko": "SK hynix\uac00 'FMS 2026'\uc5d0\uc11c AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud588\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "55da61a7c5f2",
-      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
-      "summary": "",
-      "url": "https://news.skhynix.com/en/fms-2026-3/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-07T05:16:49+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK\ud558\uc774\ub2c9\uc2a4, \u2018FMS 2026\u2019\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
-      "summary_ko": "SK\ud558\uc774\ub2c9\uc2a4\uac00 FMS 2026\uc5d0\uc11c AI \uc2dc\ub300\uc5d0 \ub300\ube44\ud55c \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98\uc758 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud55c\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
-    },
-    {
-      "id": "6678267ecfbe",
-      "headline": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at \u2018FMS 2026\u2019",
-      "summary": "",
-      "url": "https://news.skhynix.com/en/fms-2026-2/",
-      "source": "SK hynix Newsroom",
-      "source_id": "sk_hynix",
-      "published_at": "2026-08-07T05:15:17+00:00",
-      "tags": [
-        "Memory"
-      ],
-      "headline_ko": "AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98? SK hynix, 'FMS 2026'\uc5d0\uc11c \ubc29\ud5a5 \uc81c\uc2dc",
-      "summary_ko": "SK hynix\uac00 'FMS 2026'\uc5d0\uc11c AI \uc2dc\ub300\uc758 \ucc28\uc138\ub300 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d\ucc98 \ubc29\ud5a5\uc744 \uc81c\uc2dc\ud588\ub2e4.",
-      "tags_ko": [
-        "\uba54\ubaa8\ub9ac"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-19T04:09:24.905360+00:00",
-    "cached": 80,
-    "translated": 0,
+    "generated_at": "2026-11-20T03:58:10.255625+00:00",
+    "cached": 77,
+    "translated": 3,
     "skipped": 0
   }
 }
