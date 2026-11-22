@@ -12410,5 +12410,13 @@
       "Power",
       "Colocation"
     ]
+  },
+  "abe2cb760ec54a45313ce6fa9cb59e9ae08094a6": {
+    "headline_ko": "\ud130\ube48 \ud655\ubcf4\ub294 \uc808\ubc18\uc758 \uc2f8\uc6c0\uc77c \ubfd0: data center \uc804\ub825\uc73c\ub85c \uac00\ub294 \ubc30\ucd9c \ubaa8\ub2c8\ud130\ub9c1 \uacbd\ub85c",
+    "summary_ko": "\uaddc\uc815 \uc900\uc218\ub97c \uc785\uc99d\ud574\uc57c \ube44\ub85c\uc18c \uc804\ub825\uc73c\ub85c \uc804\ud658\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
   }
 }

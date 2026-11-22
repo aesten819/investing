@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:01:53.480923+00:00",
+  "generated_at": "2026-11-22T03:16:34.581884+00:00",
   "article_count": 160,
   "articles": [
     {
@@ -17,6 +17,139 @@
       "summary_ko": "2026\ub144 \ub3d9\ubd80 \uc9c0\uc5ed\uc758 data center \uac74\uc124\uc744 \ucd09\uc9c4\ud558\ub294 \uc0b0\uc5c5 \ud589\uc0ac\uc785\ub2c8\ub2e4.",
       "tags_ko": [
         "Data Center"
+      ]
+    },
+    {
+      "id": "4b6567616a21",
+      "headline": "How Project Jupiter\u2019s Self-Supplied Power Plan Can Benefit New Mexico Utility Customers",
+      "summary": "How Project Jupiter\u2019s Self-Supplied Power Plan Can Benefit New Mexico Utility Customers",
+      "url": "https://www.oracle.com/news/announcement/blog/how-project-jupiters-self-supplied-power-plan-can-benefit-new-mexico-utility-customers-2026-10-22/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-22T03:16:30.412389+00:00",
+      "tags": [
+        "Power"
+      ],
+      "headline_ko": "Project Jupiter\uc758 \uc790\uccb4 \uc804\ub825 \uacf5\uae09 \uacc4\ud68d\uc774 \ub274\uba55\uc2dc\ucf54 \uc720\ud2f8\ub9ac\ud2f0 \uace0\uac1d\uc5d0\uac8c \ub3c4\uc6c0\uc774 \ub420 \uc218 \uc788\ub294 \ubc29\ubc95",
+      "summary_ko": "Project Jupiter\uc758 \uc790\uccb4 \uc804\ub825 \uacf5\uae09 \uacc4\ud68d\uc774 \ub274\uba55\uc2dc\ucf54 \uc720\ud2f8\ub9ac\ud2f0 \uace0\uac1d\uc5d0\uac8c \uc5b4\ub5a4 \uc774\uc810\uc744 \uc904 \uc218 \uc788\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+      "tags_ko": [
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "dd1528bc6a8f",
+      "headline": "Oracle Commits $100,000 for Abilene Educators and Expands Data Center Career Pathways",
+      "summary": "Oracle Commits $100,000 for Abilene Educators and Expands Data Center Career Pathways",
+      "url": "https://www.oracle.com/news/announcement/oracle-supports-abilene-educators-and-expands-data-center-career-pathways-2026-09-17/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-22T03:16:30.412389+00:00",
+      "tags": [
+        "Oracle",
+        "Data Center"
+      ],
+      "headline_ko": "Oracle, Abilene \uad50\uc721\uc790 \uc9c0\uc6d0\uc5d0 10\ub9cc \ub2ec\ub7ec \uc57d\uc815\ud558\uace0 data center \ucee4\ub9ac\uc5b4 \uacbd\ub85c \ud655\ub300",
+      "summary_ko": "Oracle\uc774 Abilene \uad50\uc721\uc790\ub4e4\uc744 \uc704\ud574 10\ub9cc \ub2ec\ub7ec\ub97c \uc9c0\uc6d0\ud558\uace0 data center \ucee4\ub9ac\uc5b4 \uacbd\ub85c\ub97c \ud655\ub300\ud55c\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "62c39b5d6f6a",
+      "headline": "Oracle Invests in More Than 1.7 GW of Carbon-Free Electricity to Support AI Growth and Strengthen the Texas Grid",
+      "summary": "Oracle Invests in More Than 1.7 GW of Carbon-Free Electricity to Support AI Growth and Strengthen the Texas Grid",
+      "url": "https://www.oracle.com/news/announcement/oracle-invests-in-more-than-1.7-gw-of-carbon-free-electricity-to-support-ai-growth-and-strengthen-the-texas-grid-2026-08-15/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-22T03:16:30.412389+00:00",
+      "tags": [
+        "Oracle",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Oracle, AI \uc131\uc7a5 \uc9c0\uc6d0\uacfc \ud14d\uc0ac\uc2a4 \uc804\ub825\ub9dd \uac15\ud654 \uc704\ud574 1.7 GW \uc774\uc0c1 \ubb34\ud0c4\uc18c \uc804\ub825\uc5d0 \ud22c\uc790",
+      "summary_ko": "Oracle\uc774 AI \uc131\uc7a5\uc744 \uc9c0\uc6d0\ud558\uace0 \ud14d\uc0ac\uc2a4 \uc804\ub825\ub9dd\uc744 \uac15\ud654\ud558\uae30 \uc704\ud574 1.7 GW \uc774\uc0c1\uc758 \ubb34\ud0c4\uc18c \uc804\ub825\uc5d0 \ud22c\uc790\ud55c\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Capacity",
+        "Power"
+      ]
+    },
+    {
+      "id": "9a6c4e4cbd3c",
+      "headline": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "summary": "Oracle Issues RFP for 2 GW of Renewable Energy in New Mexico",
+      "url": "https://www.oracle.com/news/announcement/oracle-issues-rfp-for-2gw-of-renewable-energy-2026-09-08/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-22T03:16:30.412389+00:00",
+      "tags": [
+        "Oracle",
+        "Capacity",
+        "Power"
+      ],
+      "headline_ko": "Oracle, \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0 RFP \ubc1c\ud589",
+      "summary_ko": "Oracle\uc774 \ub274\uba55\uc2dc\ucf54\uc5d0\uc11c 2 GW \uc7ac\uc0dd\uc5d0\ub108\uc9c0\uc5d0 \ub300\ud55c RFP\ub97c \ubc1c\ud589\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "Capacity",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "bdb95147cdf2",
+      "headline": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "summary": "Oracle and Bloom Energy Announce $400,000 in Support for Roadrunner Food Bank to Expand Food Access in Santa Teresa and Sunland Park",
+      "url": "https://www.oracle.com/news/announcement/oracle-and-bloom-energy-announce-support-for-roadrunner-food-bank-2026-09-03/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-22T03:16:30.412389+00:00",
+      "tags": [
+        "Oracle",
+        "Power"
+      ],
+      "headline_ko": "Oracle\uc640 Bloom Energy, Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0 \ubc1c\ud45c\u2026 Santa Teresa\uc640 Sunland Park \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300",
+      "summary_ko": "Oracle\uc640 Bloom Energy\uac00 Santa Teresa\uc640 Sunland Park\uc758 \uc2dd\ud488 \uc811\uadfc\uc131 \ud655\ub300\ub97c \uc704\ud574 Roadrunner Food Bank\uc5d0 40\ub9cc \ub2ec\ub7ec \uc9c0\uc6d0\uc744 \ubc1c\ud45c\ud588\ub2e4.",
+      "tags_ko": [
+        "Oracle",
+        "\uc804\ub825"
+      ]
+    },
+    {
+      "id": "2df5773f1ef8",
+      "headline": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "summary": "The work came home: How local expertise is helping build AI infrastructure at Project Jupiter",
+      "url": "https://www.oracle.com/news/announcement/blog/the-work-came-home-2026-09-01/",
+      "source": "Oracle AI Data Centers",
+      "source_id": "oracle_ai_data_centers",
+      "published_at": "2026-11-22T03:16:30.412389+00:00",
+      "tags": [
+        "AI Infrastructure"
+      ],
+      "headline_ko": "\uc77c\uac10\uc774 \uace0\ud5a5\uc73c\ub85c \ub3cc\uc544\uc624\ub2e4: \uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \ub3d5\ub294 \ubc29\ubc95",
+      "summary_ko": "\uc9c0\uc5ed \uc804\ubb38\uc131\uc774 Project Jupiter\uc758 AI infrastructure \uad6c\ucd95\uc744 \uc5b4\ub5bb\uac8c \uc9c0\uc6d0\ud558\ub294\uc9c0 \ub2e4\ub8ec\ub2e4.",
+      "tags_ko": [
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "0b2ac81f10f3",
+      "headline": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "summary": "Demonstrating compliance is what turns it into power",
+      "url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "source": "Data Center Dynamics",
+      "source_id": "datacenter_dynamics",
+      "published_at": "2026-11-21T11:00:28+00:00",
+      "tags": [
+        "Data Center",
+        "Power"
+      ],
+      "headline_ko": "\ud130\ube48 \ud655\ubcf4\ub294 \uc808\ubc18\uc758 \uc2f8\uc6c0\uc77c \ubfd0: data center \uc804\ub825\uc73c\ub85c \uac00\ub294 \ubc30\ucd9c \ubaa8\ub2c8\ud130\ub9c1 \uacbd\ub85c",
+      "summary_ko": "\uaddc\uc815 \uc900\uc218\ub97c \uc785\uc99d\ud574\uc57c \ube44\ub85c\uc18c \uc804\ub825\uc73c\ub85c \uc804\ud658\ub41c\ub2e4.",
+      "tags_ko": [
+        "Data Center",
+        "\uc804\ub825"
       ]
     },
     {
@@ -2750,141 +2883,14 @@
       "tags_ko": [
         "Data Center"
       ]
-    },
-    {
-      "id": "27ddfb923d02",
-      "headline": "Boosteroid, Gaw Capital, and Firebird AI plan 480MW data center in Kazakhstan",
-      "summary": "Would be part of phase two of \u201cData Center Valley\u201d project in nation, targets 1GW by 2029",
-      "url": "https://www.datacenterdynamics.com/en/news/boosteroid-gaw-capital-and-firebird-ai-plan-480mw-data-center-in-kazakhstan/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-10T15:08:25+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "Boosteroid\u00b7Gaw Capital\u00b7Firebird AI, \uce74\uc790\ud750\uc2a4\ud0c4\uc5d0 480MW data center \uacc4\ud68d",
-      "summary_ko": "\uce74\uc790\ud750\uc2a4\ud0c4 \u201cData Center Valley\u201d \ud504\ub85c\uc81d\ud2b8 2\ub2e8\uacc4\uc758 \uc77c\ubd80\ub85c, 2029\ub144\uae4c\uc9c0 1GW\ub97c \ubaa9\ud45c\ub85c \ud55c\ub2e4.",
-      "tags_ko": [
-        "data center"
-      ]
-    },
-    {
-      "id": "0e7f275e3703",
-      "headline": "UK's Met Office completes managed cloud supercomputing service",
-      "summary": "Cloud supercomputer for weather and climate science is now fully ramped up",
-      "url": "https://www.datacenterdynamics.com/en/news/uks-met-office-completes-managed-cloud-supercomputing-service/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-10T15:06:55+00:00",
-      "tags": [
-        "AI Infrastructure"
-      ],
-      "headline_ko": "\uc601\uad6d Met Office, \uad00\ub9ac\ud615 \ud074\ub77c\uc6b0\ub4dc \uc288\ud37c\ucef4\ud4e8\ud305 \uc11c\ube44\uc2a4 \uad6c\ucd95 \uc644\ub8cc",
-      "summary_ko": "\uae30\uc0c1 \ubc0f \uae30\ud6c4 \uacfc\ud559\uc744 \uc704\ud55c \ud074\ub77c\uc6b0\ub4dc \uc288\ud37c\ucef4\ud4e8\ud130\uac00 \uc774\uc81c \uc644\uc804\ud788 \uac00\ub3d9 \ub2e8\uacc4\uc5d0 \ub4e4\uc5b4\uc130\ub2e4.",
-      "tags_ko": [
-        "AI Infrastructure"
-      ]
-    },
-    {
-      "id": "4923036ea774",
-      "headline": "Netcompany takes ownership stake in Danish Centre for AI Innovation, $75m investment planned",
-      "summary": "Additional funding will help boost Denmark\u2019s AI infrastructure ambitions",
-      "url": "https://www.datacenterdynamics.com/en/news/netcompany-takes-ownership-stake-in-danish-centre-for-ai-innovation-75m-investment-planned/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-10T15:01:20+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Capex"
-      ],
-      "headline_ko": "Netcompany, Danish Centre for AI Innovation \uc9c0\ubd84 \uc778\uc218\u2026 7,500\ub9cc \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d",
-      "summary_ko": "\ucd94\uac00 \uc790\uae08\uc740 \ub374\ub9c8\ud06c\uc758 AI infrastructure \ud655\ub300 \ubaa9\ud45c\uc5d0 \ud798\uc744 \ubcf4\ud0e4 \uc804\ub9dd\uc774\ub2e4.",
-      "tags_ko": [
-        "AI infrastructure",
-        "Capex"
-      ]
-    },
-    {
-      "id": "579e894025f4",
-      "headline": "Germany's Deutsche Telekom to expand Munich AI data center by 20MW",
-      "summary": "Company adding B300 capacity after launching original cluster in February",
-      "url": "https://www.datacenterdynamics.com/en/news/germanys-deutsche-telekom-to-expand-munich-ai-data-center-by-20mw/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-10T14:44:09+00:00",
-      "tags": [
-        "AI Infrastructure",
-        "Data Center",
-        "Capacity"
-      ],
-      "headline_ko": "\ub3c5\uc77c Deutsche Telekom, \ubb8c\ud5e8 AI data center 20MW \ud655\uc7a5",
-      "summary_ko": "Deutsche Telekom\uc740 2\uc6d4\uc5d0 \uae30\uc874 \ud074\ub7ec\uc2a4\ud130\ub97c \ucd9c\uc2dc\ud55c \ub4a4 B300 capacity\ub97c \ucd94\uac00\ud558\uace0 \uc788\ub2e4.",
-      "tags_ko": [
-        "AI Infrastructure",
-        "Data Center",
-        "Capacity"
-      ]
-    },
-    {
-      "id": "bcb5af10e680",
-      "headline": "Data Center MEP Engineer",
-      "summary": "Data Center MEP Engineer",
-      "url": "https://jobs.crelate.com/portal/pkaza/job/aawnyf4ui9b69eu5d6bnkpx9uo",
-      "source": "Data Center Frontier",
-      "source_id": "data_center_frontier",
-      "published_at": "2026-11-10T04:40:22.237273+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\ub370\uc774\ud130\uc13c\ud130 MEP \uc5d4\uc9c0\ub2c8\uc5b4",
-      "summary_ko": "\ub370\uc774\ud130\uc13c\ud130 MEP \uc5d4\uc9c0\ub2c8\uc5b4\uc5d0 \uad00\ud55c \ub0b4\uc6a9\uc785\ub2c8\ub2e4.",
-      "tags_ko": [
-        "\ub370\uc774\ud130\uc13c\ud130"
-      ]
-    },
-    {
-      "id": "88bd5a82b6e0",
-      "headline": "Norway halts grid connection applications for new data centers",
-      "summary": "Seeks to limit rapid buildout while regulation catches up",
-      "url": "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-09T17:48:46+00:00",
-      "tags": [
-        "Data Center",
-        "Power"
-      ],
-      "headline_ko": "\ub178\ub974\uc6e8\uc774, \uc2e0\uaddc \ub370\uc774\ud130\uc13c\ud130 \uc804\ub825\ub9dd \uc5f0\uacb0 \uc2e0\uccad \uc911\ub2e8",
-      "summary_ko": "\uaddc\uc81c\uac00 \ub530\ub77c\uc7a1\uc744 \ub54c\uae4c\uc9c0 \uae09\uc18d\ud55c \ub370\uc774\ud130\uc13c\ud130 \uad6c\ucd95\uc744 \uc81c\ud55c\ud558\ub824\ub294 \uc870\uce58\ub2e4.",
-      "tags_ko": [
-        "Data Center",
-        "\uc804\ub825"
-      ]
-    },
-    {
-      "id": "886bf80af64d",
-      "headline": "Former US DOE staffers launch modular data center firm Mavria",
-      "summary": "Raises $130m to scale factory-built data center platform",
-      "url": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
-      "source": "Data Center Dynamics",
-      "source_id": "datacenter_dynamics",
-      "published_at": "2026-11-09T16:56:57+00:00",
-      "tags": [
-        "Data Center"
-      ],
-      "headline_ko": "\uc804 \ubbf8\uad6d DOE \uc9c1\uc6d0\ub4e4, \ubaa8\ub4c8\ud615 data center \uae30\uc5c5 Mavria \uc124\ub9bd",
-      "summary_ko": "$130m\ub97c \uc870\ub2ec\ud574 \uacf5\uc7a5 \uc81c\uc791 \ubc29\uc2dd\uc758 data center \ud50c\ub7ab\ud3fc\uc744 \ud655\uc7a5\ud55c\ub2e4.",
-      "tags_ko": [
-        "data center"
-      ]
     }
   ],
   "translation": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
-    "generated_at": "2026-11-21T04:02:48.158864+00:00",
-    "cached": 142,
-    "translated": 18,
+    "generated_at": "2026-11-22T03:16:37.672850+00:00",
+    "cached": 159,
+    "translated": 1,
     "skipped": 0
   }
 }
