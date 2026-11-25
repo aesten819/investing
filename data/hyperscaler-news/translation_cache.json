@@ -12507,5 +12507,94 @@
     "tags_ko": [
       "\ub370\uc774\ud130\uc13c\ud130"
     ]
+  },
+  "d7e43f24c5d2b74b55256e7bbc551ff4c3ce0be4": {
+    "headline_ko": "AI \uc778\ud504\ub77c\uc640 \uc131\uc7a5\uc758 \ub300\uac00",
+    "summary_ko": "AI \uc778\ud504\ub77c\uc640 \uc131\uc7a5\uc758 \ub300\uac00\ub97c \uc8fc\uc81c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure"
+    ]
+  },
+  "cb519859eda96d5372da38e48f8a282cc226272a": {
+    "headline_ko": "\ucf5c\ub85c\ub77c\ub3c4 \uc624\ub85c\ub77c\uc2dc \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \ud1b5\uacfc \ud6c4 Vantage, Trident data center \uacc4\ud68d \ucca0\ud68c",
+    "summary_ko": "\ucf5c\ub85c\ub77c\ub3c4\uc5d0\uc11c \uac00\uc7a5 \ud070 data center\uac00 \ub420 \uc608\uc815\uc774\uc5c8\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "8ae4ecd1bcee2ba88d353f15ae01b84f10a6e1d4": {
+    "headline_ko": "ABB, \ub0c9\uac01 \ud32c \uae30\uc5c5 Ziehl-Abegg\ub97c 26\uc5b5 5,000\ub9cc \ub2ec\ub7ec\uc5d0 \uc778\uc218",
+    "summary_ko": "\uc774 \ud32c \uc0ac\uc5c5\uc740 data center\uc640 \uae30\ud0c0 HVAC \uc2dc\uc7a5\uc744 \ub300\uc0c1\uc73c\ub85c \ud55c\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "\uc804\ub825"
+    ]
+  },
+  "330c86d5156d32748d08be91a5372ed5b2656c32": {
+    "headline_ko": "Massed Compute, \ub178\uc2a4\uce90\ub864\ub77c\uc774\ub098\uc8fc \ub864\ub9ac American Tower data center\uc5d0 GPU \ubc30\uce58",
+    "summary_ko": "\ubc30\uce58 \uaddc\ubaa8\ub294 \uacf5\uac1c\ub418\uc9c0 \uc54a\uc558\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "886bfd2b6396561e16a54ab580667d1afbb044cd": {
+    "headline_ko": "Applied Digital, \ubbf8\uacf5\uac1c hyperscaler\uc640 54\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8 18\ub144 \ub9ac\uc2a4 \uacc4\uc57d \uccb4\uacb0",
+    "summary_ko": "\ud574\ub2f9 hyperscaler\uc5d0 150MW capacity\ub97c \uc81c\uacf5\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "Capacity",
+      "Colocation"
+    ]
+  },
+  "15735700bff3a59837a2fb4763fa6bbfc8d48a26": {
+    "headline_ko": "\ub300\ub9cc AI infrastructure \uae30\uc5c5 Nocera, \uce90\ub098\ub2e4 AI data center \uac1c\ubc1c\uc0ac BitRock\uc5d0 2,200\ub9cc \ub2ec\ub7ec \uc9c0\ubd84 \ud22c\uc790",
+    "summary_ko": "\uc774\ubc88 \uac70\ub798\ub294 10MW \uc790\uccb4 \uc804\ub825 data center \ucea0\ud37c\uc2a4 \uad6c\ucd95\uc5d0 \uc790\uae08\uc744 \uc9c0\uc6d0\ud560 \uc608\uc815\uc774\ub2e4.",
+    "tags_ko": [
+      "AI Infrastructure",
+      "Data Center"
+    ]
+  },
+  "2479e796a37fcf48942464b2ba9a86c6869b5aa0": {
+    "headline_ko": "NewYork GreenCloud, \uce98\ub9ac\ud3ec\ub2c8\uc544 Ione\uc5d0 14.4MW \ubc14\uc774\uc624\ub9e4\uc2a4 \ubc1c\uc804 data center \uac74\uc124 \uc2e0\uccad\uc11c \uc81c\ucd9c",
+    "summary_ko": "\uc774 \ud68c\uc0ac\ub294 1\uc6d4\uc5d0 \ud574\ub2f9 \ubc14\uc774\uc624\ub9e4\uc2a4 \ubd80\uc9c0\ub97c \uc778\uc218\ud588\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "c406bcab21264ea564e9795a979739d8b151398c": {
+    "headline_ko": "Google, \uc624\ub9ac\uac74\uc8fc\uc5d0 1,000\ub9cc \ub2ec\ub7ec \uc5d0\ub108\uc9c0 \uc784\ud329\ud2b8 \ud380\ub4dc \ucd9c\ubc94",
+    "summary_ko": "The Dalles \uc9c0\uc5ed \uac00\uc815\uacfc \ud559\uad50\uc758 \uc5d0\ub108\uc9c0 \ud6a8\uc728 \uac1c\uc120\uc744 \uc9c0\uc6d0\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Google Cloud",
+      "\uc804\ub825"
+    ]
+  },
+  "0fab3888548d76a3c5d4f449cb7a6e07611e16f3": {
+    "headline_ko": "LTN Compute, Chennai Data Center\uc5d0 10,000-GPU cluster \ubc30\uce58 \uc608\uc815",
+    "summary_ko": "\ud574\ub2f9 cluster\ub294 \uc774\ub984\uc774 \uacf5\uac1c\ub418\uc9c0 \uc54a\uc740 \ucd94\ub860 \uc778\ud504\ub77c \uc81c\uacf5\uc5c5\uccb4\ub97c \uc704\ud574 \ubc30\uce58\ub41c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "834c3edea9783fd38c32f4c7a99b91287f654308": {
+    "headline_ko": "Proper Voltage, data center UPS\uc6a9 sodium-ion \ubc30\ud130\ub9ac \uce90\ube44\ub2db \ucd9c\uc2dc",
+    "summary_ko": "Unigrid\uc640 \ubc30\ud130\ub9ac \uc2dc\uc2a4\ud15c\uc744 \ud611\ub825\ud55c\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "e8d9a601f775e9cfaa6b56ab7c567585d86db5da": {
+    "headline_ko": "DatacenterHawk: \uae00\ub85c\ubc8c data center \uacf5\uae09\uc774 3\ubd84\uc758 2 \uc99d\uac00\ud588\uc9c0\ub9cc \uacf5\uc2e4\ub960\uc740 \uc904\uc5c8\ub2e4",
+    "summary_ko": "\uc2e0\uaddc capacity\uac00 \uac74\uc124\ub418\ub294 \uc989\uc2dc \uc218\uc694\uac00 \uc774\ub97c \ud761\uc218\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Capacity"
+    ]
+  },
+  "bf869e7fac0b34a76fd1f779bb120113e70b851c": {
+    "headline_ko": "NTT, \ud0dc\uad6d 400MW data center \ud504\ub85c\uc81d\ud2b8 \uc704\ud574 B.Grimm\uacfc MoU \uccb4\uacb0",
+    "summary_ko": "Aether Holdings\uac00 Khon Kaen \uacf5\uc7a5 \ubd80\uc9c0\uc5d0 data center\ub97c \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
   }
 }
