@@ -12856,5 +12856,92 @@
       "Capex",
       "\uc804\ub825"
     ]
+  },
+  "fa7c8ede94d68afe41a7091846c2b9e5a9327764": {
+    "headline_ko": "\ub0a8\ub2e4\ub978 \uad6c\ucd95: TRG\uc758 \uc790\uccb4 data center \uc0ac\uc5c5 \ub4e4\uc5ec\ub2e4\ubcf4\uae30",
+    "summary_ko": "TRG\ub294 \uc560\ud2c0\ub79c\ud0c0\uc758 \uac00\uc871 \uc6b4\uc601 \ud638\uc2a4\ud305 \uc0ac\uc5c5\uc5d0\uc11c \ud734\uc2a4\ud134\uc758 \uc131\uc7a5\ud558\ub294 data center \uc6b4\uc601\uc0ac\ub85c \uc774\uc5b4\uc9c0\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "485bac292cdea23bcff6f39728a9d4768fe3eff2": {
+    "headline_ko": "Datlantis, \ud574\uc0c1\ud48d\ub825\uc73c\ub85c \uad6c\ub3d9\ub418\ub294 \uc218\uc911 data center \uc81c\uc548",
+    "summary_ko": "\ud55c\ud3b8 \ub7ec\uc2dc\uc544\ub294 \ubd80\uc720\uc2dd data center\ub97c \ub0a8\uadf9\uc73c\ub85c \ubcf4\ub0bc \uc900\ube44\ub97c \ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "a74f7ebb109e1a7b736ce8236e54b5ef45e550cc": {
+    "headline_ko": "\uc2e4\ub9ac\ucf58\uc758 \uc774\uc810: \ucc28\uc138\ub300 \ub370\uc774\ud130\uc13c\ud130\uc5d0 '\uc228 \uc26c\ub294 \ud53c\ubd80'\uac00 \ud544\uc694\ud55c \uc774\uc720",
+    "summary_ko": "\uc2e4\ub9ac\ucf58\uc774 \uacc4\uc808\uc131 \uae30\uc0c1 \ucc28\uc9c8\ub85c\ubd80\ud130 \uac74\uc124 \uc77c\uc815\uc744 \uc5b4\ub5bb\uac8c \ubcf4\ud638\ud560 \uc218 \uc788\ub294\uc9c0\ub3c4 \ub2e4\ub8ec\ub2e4.",
+    "tags_ko": [
+      "\ub370\uc774\ud130\uc13c\ud130"
+    ]
+  },
+  "ecd9fc3ca12ca9fa074f40dc6d92019b2315e459": {
+    "headline_ko": "\ud655\uc2e0\uc744 \uac16\uace0 \ub514\ucee4\ubbf8\uc154\ub2dd\ud560 \uc218 \uc788\ub294 hyperscale data center \uc194\ub8e8\uc158",
+    "summary_ko": "\uc548\uc804\ud558\uace0 \ubcf4\uc548\uc131\uc774 \ub6f0\uc5b4\ub098\uba70 \uc6d0\ud65c\ud569\ub2c8\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "Colocation"
+    ]
+  },
+  "72888425be4182d744a1188b1bf9603e0d47e8d3": {
+    "headline_ko": "Nexus DC, \ud14d\uc0ac\uc2a4 Hubbard \ubd80\uc9c0\uc5d0 data center \uac74\ubb3c 2\ub3d9 \uac74\uc124 \uc2e0\uccad\uc11c \uc81c\ucd9c",
+    "summary_ko": "\uc774\ub294 \ud574\ub2f9 \ubd80\uc9c0\uc5d0 \uac74\uc124 \uacc4\ud68d \uc911\uc778 \ub2e4\ub978 data center \uac74\ubb3c 2\ub3d9\uc5d0 \ub354\ud574\uc9c0\ub294 \uac83\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "2d81756cc81a6a0ef4fa8d0bad742dec8a3b0d8b": {
+    "headline_ko": "SpaceX, \ud14d\uc0ac\uc2a4 Starbase data center \ubd80\uc9c0\uc5d0 2\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec \uc0c1\ub2f9 Tesla Megapack \ubc30\ud130\ub9ac \uc124\uce58 - \ubcf4\ub3c4",
+    "summary_ko": "\ud68c\uc0ac\ub294 \ud574\ub2f9 \ubd80\uc9c0\uc5d0 \ucd5c\ub300 240\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 data center\uc640 \ucc9c\uc5f0\uac00\uc2a4 \ubc1c\uc804\uc18c\ub97c \uac1c\ubc1c\ud558\ub824 \ud55c\ub2e4.",
+    "tags_ko": [
+      "Data Center",
+      "\uc804\ub825"
+    ]
+  },
+  "86ef6c88cf9abc9ea465db6b66378a3d2877a1e1": {
+    "headline_ko": "Vodafone, Safaricom\uc758 data center \uaddc\ubaa8\ub97c 35MW\ub85c 3\ubc30 \ud655\ub300",
+    "summary_ko": "\ud604\uc7ac \uc774 \ud1b5\uc2e0\uc0ac\uc758 data center \uaddc\ubaa8\ub294 6\uac1c \uc2dc\uc124\uc5d0 \uac78\uccd0 \ucd1d 9.1MW\uc774\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "b6fca080994153531576b8060d208191106fa40d": {
+    "headline_ko": "Galaxy Digital, \ud14d\uc0ac\uc2a4 Helios data center \ucea0\ud37c\uc2a4 \ucc28\uae30 \uac1c\ubc1c \ub2e8\uacc4 \uc2e0\uccad",
+    "summary_ko": "\ud68c\uc0ac\ub294 CoreWeave\uac00 \uc784\ucc28\ud55c \ucea0\ud37c\uc2a4\uc5d0 \ucd94\uac00 \uac74\ubb3c\uc744 \uac74\uc124\ud560 \uacc4\ud68d\uc774\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
+  },
+  "357e0131513cf64082bd044cc620289d77bbfa9f": {
+    "headline_ko": "NeuralSat, 72\uac1c \uc704\uc131 50Gbps \ub370\uc774\ud130 \uc911\uacc4\u00b7\ucc98\ub9ac \ucee8\uc2a4\ud154\ub808\uc774\uc158\uc73c\ub85c 320\ub9cc \ub2ec\ub7ec \ud504\ub9ac\uc2dc\ub4dc \ud22c\uc790 \uc720\uce58",
+    "summary_ko": "\uc774 \uc2a4\ud0c0\ud2b8\uc5c5\uc740 \uc720\ub7fd\uc758 \ucef4\ud4e8\ud2b8 \uc9c0\uc6d0 \uada4\ub3c4 \uc811\uadfc\uacfc \ub370\uc774\ud130 \ub124\ud2b8\uc6cc\ud06c\ub97c \uc81c\uacf5\ud574 EU \ub0b4 LEO \uc804\ub825 \ud65c\uc6a9\uc744 \uac00\ub2a5\ud558\uac8c \ud55c\ub2e4.",
+    "tags_ko": [
+      "\uc804\ub825"
+    ]
+  },
+  "414499ac2069d640741f4b83049965768b2887b0": {
+    "headline_ko": "FCC, \uc6b0\uc8fc data center\uc6a9 \uc704\uc131 100\ub9cc \uae30 \ubc30\uce58\ub97c \uc704\ud55c SpaceX \uc2e0\uccad \uc2b9\uc778",
+    "summary_ko": "\uaddc\uc81c \ub2f9\uad6d\uc774 \ub300\uaddc\ubaa8 \uc704\uc131\uad70 \uad6c\ucd95\uc5d0 \uc2b9\uc778\uc744 \ub0b4\uc92c\ub2e4.",
+    "tags_ko": [
+      "Data Center"
+    ]
+  },
+  "22e29d9ecfac22725ac8fab7f270090de73948b9": {
+    "headline_ko": "UAE\uc758 BitHash, AI data center \uaca8\ub0e5\u2026 \uc624\ub9cc 250MW \ud504\ub85c\uc81d\ud2b8 \ucd94\uc9c4",
+    "summary_ko": "\ub610 \ub2e4\ub978 \uc554\ud638\ud654\ud3d0 \ucc44\uad74 \uae30\uc5c5\uc774 AI capacity \ud655\ubcf4\ub97c \uacc4\ud68d\ud558\uace0 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center",
+      "capacity"
+    ]
+  },
+  "3dd416fc49e0d3ca24448a26541617aae68c673f": {
+    "headline_ko": "Helios Solar\uc640 Galaxy Venus Data Center, \ub9d0\ub808\uc774\uc2dc\uc544 Perak\uc758 data center \ud0dc\uc591\uad11 \uacf5\uae09 \uac80\ud1a0 \uc704\ud55c MoU \uccb4\uacb0",
+    "summary_ko": "Helios\uac00 \ub9d0\ub808\uc774\uc2dc\uc544 Gua Musang\uc5d0\uc11c \ucd94\uc9c4\ud558\ub294 \ucd5c\ub300 1GW \ud0dc\uc591\uad11 \ud504\ub85c\uc81d\ud2b8\uc640 \uad00\ub828 \uc788\ub2e4.",
+    "tags_ko": [
+      "data center"
+    ]
   }
 }
